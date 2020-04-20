@@ -1,0 +1,54 @@
+$black: #333
+$pale:  #d2e1dd
+$pink:  #c69
+$blue:  #036
+
+$font-stack:    'Andale Mono', monospace
+$font-size: 1rem
+
+//MIXING
+
+=circlething($rad, $height, $width, $bg, $colour)
+  border-radius:  $rad
+  -webkit-border-radius:  $rad
+  -moz-border-radius: $rad
+  -ms-border-radius:  $rad
+  -o-border-radius:   $rad
+   
+  height: $height
+  width: $width
+  line-height: $height
+  text-align: center
+
+  background: $bg
+  color: $colour
+
+  margin: 0 auto
+
+body
+  background: $pale
+  color: $black
+  font-family: $font-stack
+  font-size:  $font-size
+
+article
+  background: white
+  width: 760px
+  margin: -60px auto
+  position: relative
+  z-index: -2
+  padding: 40px
+  box-sizing: border-box
+
+header
+  +circlething(100%, 200px, 200px, $blue, white)
+
+h1
+  font-size: $font-size + 2
+
+footer
+  +circlething(100%, 150px, 150px, $black, $pale)
+  font-size: $font-size - 3
+  position: relative
+  z-index: -4
+  margin-top: -60px

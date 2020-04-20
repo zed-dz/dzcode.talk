@@ -1,0 +1,164 @@
+{ emmet
+p20%+m10px+fw:b  -> padding: 20%;  margin: 10px;  font-weight: bold;
+}
+
+
+/*  position 
+
+works with top , left , right , bottom plus attributes ;
+
+relative -> is that when you give him for example top he wont cause the environnement next to him un decalage , it will just do some padding or so and position himself to take only his place
+
+absolute -> will not do that if you give him 20px bottom it will be in top of the bottom element down him it wont respect the environement it works with the PARENT ELEMENT
+
+fixed -> basically it's like absolute but it works with the ROOT ELEMENT means the BODY so it will stay at the place givin to it even if we scroll down it is used for navbars usualy 
+
+*/
+
+/* display
+
+inline -> (spans,img,strong,em) from the name is an attribut that is in line like span , or strong , but there is a trick when it is inline it means it works only with horizental properties not the vertical
+
+block ->(divs) its block so he has his own line and his own space 
+
+inline-block -> is when we have like an inline elemenet like span and we wanna add to it some block properties like the height nd width nd padding nd margin , its the best way to combine both inline and block elemens
+
+flex -> is for flexboxes when we wanna use flex propertie we have to add the display flex to the main container
+
+/*
+
+margin & padding -> margin gives spaces outside the elements and padding gives it inside
+
+*/
+
+
+/*flex box */
+
+display: flex; /* flex box reorganizing */
+
+flex-wrap: wrap; /* in a certain size a box will get in another line , until there are two rows it is used when we make the screen smaller -> to be responsive*/
+
+justify-content: space-between;  /*  so we wanna add some spaces between the boxes  ,
+                                 and if we wanna add some spaces also at the end and the begining we can do
+                                 space-around ,  flex-start is by default */
+
+align-items: flex-start; /* to end the box when his size ends so no extra padding on it , flex-end , center , the default one is stretch */
+
+flex-direction: column; /* row , column */
+
+flex-basis: 27%; /* reuther then width:27% it is used with flex */
+
+flex: 2; /*make the box larger then the others  if another box is flex:1 it will be more lerger then him */
+
+order:2; /* to change the order for expl in the midlle if we have 3 boxes */
+
+*/
+
+
+/*  css units 
+
+absolute : pixels (px) -> self-regulating , they dont base their dimension on anything else on the page ,
+they are based on real-world measurements
+
+relative : % -> the parents dimensions + responsive
+
+ em -> font-size , rem ->:root font-size -> font-attributes
+
+ vw , vh , vmax , vmin  -> viewport dimensions
+
+
+*/
+
+/*
+    colors (red (2hex) + green(2hex) + blue(2hex) -> 0 -> F )
+
+    #000 : black   #555 (#666) : grey   #333 : dark-grey     #ccc :light-grey;     #35424a : dark-blue  
+
+    #fff : white     #f4f4f4 : light white;    #e6e6e6 : lighter white     
+    
+    #e8491d : orange         coral : yellow-orange          
+    
+    #12475f : blue foncé
+
+*/
+
+/* css shorthand 
+
+
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+font-family: Arial, Helvetica, sans-serif
+font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+font-family: 'Times New Roman', Times, serif
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+font:font-style(italic,normal,oblique) font-variant(normal,small-caps) font-weight(bold,normal,bolder,lighter,500) font-size lign-height(its the spaces between the lines) font-family; 
+font : italic normal 16px/1.6em Arial, Halvetica, sans-serif; /* font-weight font-size/lign-height font-family */
+
+border : border-width border-style border-color / 1px solid blue ;
+
+margin : top right bottom left; /* 4 parameters */ margin:10px 20px 30px 40px;
+margin: top right/left bottom;  /* 3 parameters */ margin:0 20px auto;
+margin : top/bottom right/left; /* 2 parameters */ margin:0 0;
+margin : x; /* all 4 of them */
+/* the same thing for padding */
+
+background : color image(url'') repeat(repeat,repeat-x,repeat-y,no-repeat) attachement(fixed,scroll) postion((x,y)top,right,left,bottom,center,px);
+background:#ccc url('../images/1.jpg') no-repeat center 200px;
+background-size: cover;
+
+list-style : list-style-image(url'') list-style-position(inside,outside) list-style-type(square,circle,disc,armenian,decimal,decimal-leading-zero,georgian,lower-alpha,lower-geek,lower-latin,lower-roman,upper...)
+list-style: circle inside url('../images/logo.jpg')
+
+box-shadow:none horizental-offset vertical-offset blur-radius color;
+box-shadow:inset 15px 15px 15px #ccc;
+
+transition : property duration timing-function transition-delay
+transition:opacity 13s ease-in-out 11s;
+
+animation: name duration timing-function delay iteration-count direction fill-mode;
+
+
+
+
+/* media queries */
+
+are handled for the phone and tablet version
+so any styles we put here it is under 680 px  -> this 100% responsitivity xd  
+
+@media(min-width:760px) , @media(max-width:680px) 
+
+
+/* animations */
+
+/* keyframes */
+
+a keyframe is to create an animation from none it is the contraire of transition here we dont have any propertie we make our own 
+like for exemple we wanna move a box ,..
+
+
+/* transitions */
+
+a transition is to give some effects to an active propertie like we can say we have abox with some background and border nad a rotate but we want this properties 
+to react after 2s and to take like 5s to finish we also want to start slow and end fast and so on...
+
+and if you specify like 2 or 3 properties you need to give them all their specify delays and duration , but if you do 'all' then 
+you will only need 1
+
+ TRANSITIONAL PROPERTIES
+-Properties that have an identifiable halfway point
+
+background-color background-position  border-color  border-width  border-spacing  bottom  color font-size 
+font-weight height left letter-spacing line-height margin max-height max-width min-height min-width 
+opacity outline-color outline-offset outline-width padding right text-indent text-shadow top 
+vertical-align visibility width word-spacing z-index 
+
+*/
+
+
+
+
+
+
+
+
+*/

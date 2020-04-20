@@ -1,0 +1,39 @@
+.menu {
+	box-sizing: border-box;
+	padding-top:52px;
+	overflow:hidden;
+	z-index:9998;
+	transition-duration: 0.2s;
+
+}
+.menu:hover {
+	width:180px;
+	z-index:9998;
+}
+.menu .menu_element {
+	width:180px;
+	height:20px;
+	line-height:20px;
+	margin:30px 0;
+	padding:0;
+	border:none;
+	box-sizing: border-box;
+	
+}
+.menu .menu_element:hover {
+	cursor:pointer;
+}
+.menu .menu_element .element_image {
+	width:20px;
+	height:20px;
+	margin:0 20px;
+	float:left;
+	
+}
+.menu .menu_element h2 {
+	display:inline-block;
+	font-size:15px;
+	font-weight:600;
+	color:#989898;
+	float:left;
+}

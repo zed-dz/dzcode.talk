@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="test.css" />
+    <title>test</title>
+  </head>
+  <body>
+    <div class="agent_contact_form">
+      <input
+        name="contact_name"
+        id="agent_contact_name"
+        type="text"
+        placeholder="name"
+        aria-required="true"
+        class="form-control"
+      />
+    </div>
+
+    <div class="dropdown form-control  open">
+      <div
+        data-toggle="dropdown"
+        id="sidebar-advanced_city"
+        class=" sidebar_filter_menu  "
+        xx=""
+        all=""
+        cities=""
+        data-value="all"
+        aria-expanded="true"
+      >
+        All Cities
+        <span class="caret  caret_sidebar "></span>
+      </div>
+      <input type="hidden" name="advanced_city" value="" />
+      <ul
+        id="sidebar-adv-search-city"
+        class="dropdown-menu filter_menu"
+        role="menu"
+        aria-labelledby="sidebar-advanced_city"
+      >
+        <li role="presentation" data-value="all" data-value2="all">
+          All Cities
+        </li>
+        <li
+          role="presentation"
+          data-value="jersey-city"
+          data-value2="jersey-city"
+          data-parentcounty=""
+        >
+          Jersey City (7)
+        </li>
+        <li
+          role="presentation"
+          data-value="london"
+          data-value2="london"
+          data-parentcounty=""
+        >
+          London (0)
+        </li>
+        <li
+          role="presentation"
+          data-value="new-york"
+          data-value2="new-york"
+          data-parentcounty=""
+        >
+          New York (6)
+        </li>
+      </ul>
+    </div>
+
+    <script src="test.js"></script>
+  </body>
+</html>

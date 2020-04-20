@@ -1,0 +1,76 @@
+// Main Sass File
+$bg-color:#333;
+$font-color:#fff;
+$primary-color: #008ed6;
+$dark-overlay: rgba(0, 0, 0, 0.7);
+$icon-size:40px;
+body {
+  background: $bg-color;
+  color: $font-color;
+}
+
+.navbar {
+  border-bottom: 3px solid $primary-color;
+  opacity: 0.8;
+}
+
+#home-section {
+  background: url('../img/home.jpg') no-repeat center;
+  background-size: cover;
+  min-height: 700px;
+  background-attachment: fixed;
+  .dark-overlay {
+    background-color: $dark-overlay;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 700px;
+  }
+  .home-inner {
+    padding-top: 150px;
+  }
+  .card-form {
+    opacity: 0.8;
+  }
+  .fa {
+    color: $primary-color;
+    background: #fff;
+    padding: 4px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    font-size: $icon-size;
+  }
+}
+
+#explore-section,
+#share-section {
+  .fa {
+    color: #fff;
+    background: $bg-color;
+    padding: 4px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    font-size: $icon-size;
+  }
+}
+
+#create-section {
+  .fa {
+    color: $primary-color;
+    background: #fff;
+    padding: 4px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    font-size: $icon-size;
+  }
+}

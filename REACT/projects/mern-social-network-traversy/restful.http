@@ -1,0 +1,13 @@
+GET http://localhost:5000/api/users/current HTTP/1.1
+
+{
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjYzgxMjc3MjMxM2Y0Njk0ODJkMDJjZCIsIm5hbWUiOiJ6ZWQiLCJhdmF0YXIiOiIvL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyL2E0Y2E0ZDM5MzdlMWU1MjM1YTIwZGE4ODIzYTc0NDYxP3M9MjAwJnI9cGcmZD1tbSIsImlhdCI6MTU1NjY0NDM1MSwiZXhwIjoxNTU2NjQ3OTUxfQ.n6FEml2pkpXrr6YIRUSAXRoHUFf3rKllTSEwKefSqYs"
+}
+
+POST http://localhost:5000/api/users/login HTTP/1.1
+content-type: application/json
+
+{
+    "email": "amine.hamou1998@gmail.com",
+    "password": "12345"
+}

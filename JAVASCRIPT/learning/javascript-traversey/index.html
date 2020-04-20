@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>vanilla js start</title>
+
+  <style rel="stylesheet">
+    body {
+      text-align: center;
+      font-family: arial;
+      font-size: 1rem;
+    }
+
+    li {
+      list-style: none;
+      line-height: 2em;
+      text-align: left;
+    }
+
+    .header {
+      background: #f4f4f4;
+      border-bottom: #ccc 3px solid;
+      padding: 1.1rem;
+    }
+
+    .button {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+
+    .container {
+      width: 700px;
+      margin: 2rem auto;
+    }
+  </style>
+
+</head>
+
+<body onload="showdate()">
+
+  <div class="header">
+    <h1 id="heading"> learning js </h1>
+    <p> With hammou kacem amine </p>
+  </div>
+
+  <div class="container">
+    <!-- <button onclick="doclick()">Click Me</button> -->
+
+    <!-- <button onclick="this.innerHTML='you clicked'">Click Me</button> -->
+
+    <button onclick="changetext(this)">Click Me</button>
+
+    <button onmouseout="cleardate()" onmouseover="showdate()">show date</button>
+
+    <h1 id="time"></h1>
+
+    <form action="" method="post" name="myForm" onsubmit="return validateForm()">
+
+      <div>
+        <label for="name">First Name</label>
+        <input type="text" name="FirstName" id="FirstName">
+      </div>
+      <br>
+      <div>
+        <label for="lastname">LastName</label>
+        <input type="text" name="LastName" id="LastName">
+      </div>
+      <br>
+      <div>
+        <label for="bg">background</label>
+        <select name="background" id="background" onchange="changebg(this)">
+          <option value="red">Red</option>
+          <option value="blue">Blue</option>
+          <option value="green">Green</option>
+          <br>
+          <input type="submit" value="Submit">
+        </select>
+      </div>
+
+    </form>
+  </div>
+
+
+  <script>
+    function validateForm() {
+      var firstname = document.forms['myForm']['FirstName'].value;
+
+      if (firstname == null || firstname == '' || firstname.length < 3) {
+        alert('first name required');
+        return false;
+      }
+
+    }
+
+
+    function changebg(x) {
+      console.log(x.value);
+      var body = document.querySelector('body');
+      body.style.backgroundColor = x.value;
+    }
+
+    function cleardate() {
+      document.getElementById('time').innerHTML = '';
+    }
+
+    function showdate() {
+      document.getElementById('time').innerHTML = Date();
+    }
+
+    function changetext() {
+      var heading = document.getElementById('heading');
+      heading.innerHTML = ' new fucking heading ';
+    }
+    //
+    //     function changetext(id) {
+    //       id.innerHTML = 'you clicked';
+    //     }
+
+    var colors = new Array('red', 'yellow');
+    colors.push('purple');
+    console.log(colors.length);
+    // alert(colors.sort());
+    // reverse() etc..
+    for (var i = 0; i < 10; i++) {
+      console.log(i);
+    }
+    colors.forEach((string) => {
+      console.log(string);
+    });
+
+    //object literal
+    var person = {
+      firstname: 'amine',
+      lastname: 'hammou',
+      age: '24',
+      children: ['ous', 'beasic'],
+      street: {
+        city: 'blida',
+        province: 09,
+        state: 'algeria'
+      },
+      fullname: function () {
+        return this.children + " " + this.street.city;
+      }
+    }
+    console.log(person.fullname());
+
+    // var apple = new object();
+    // apple.color = 'red';
+    // apple.shape = 'round';
+
+    // apple.describe = function(){
+    // return 'an apple is the color '+this.color+' and is the shape '+this.shape;
+    // }
+    // console.log(apple.describe());
+
+    //constructor pattern
+
+    function fruit(name, color, shape) {
+      this.name = name;
+      this.color = color;
+      this.shape = shape;
+
+      this.describe = () => {
+        return this.name + ' ' + this.color + ' ' + this.shape;
+      }
+
+    }
+
+    var apple = new fruit('apple', 'red', 'round');
+    console.log(apple);
+
+    var melon = new fruit('melon', 'brown', 'rectangle');
+    console.log(melon.describe());
+
+
+    var users = [{
+        name: 'amine hammou',
+        age: 20
+      },
+      {
+        name: 'popo hammou',
+        age: 50
+      },
+      {
+        name: 'cisco hammou',
+        age: 2
+      }
+    ];
+    console.log(users[0].name);
+
+    // events
+    // function doclick() {
+    //   alert('you are an asshole');
+    // }
+  </script>
+</body>
+
+</html>

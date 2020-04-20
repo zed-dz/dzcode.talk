@@ -1,0 +1,572 @@
+
+1/ PARITE PHP LIRE ECRIRE AFFICHER LES FICHIERS D'UN TEXTE
+
+
+r   cest seulement lire le fichier 
+
+r+  lire le fichier et ecrire par le début
+
+a   ecrire dans le fichier et sil nexiste pas il est auto crée
+
+a+  lire le fichier et ecrire par la fin et sil nexiste pas il est auto crée
+
+
+$fichier=fopen("tp2.txt", "a+"); // pour ouvrir un fichier son nom est tp2.txt par la methode a+
+
+fputs($fichier ," message "); // pour ecrire dans le fichier le mot message par la fin ( a+ ) 
+
+fclose($fichier); // pour fermer le fichier
+
+(si vous remarquez dans votre fichier text un mot message est ajouté mais il est seulement ajouté dans le fichier txt il nest pas affiché dans localhost/exo ) 
+
+echo fread($fichier,filesize("tp2.txt"));  // pour afficher le contenue du fichier , ici filesize ce nest pas la taille cest juste ce qui contient le fichier , cette fonction va affichers tout dans la meme ligne
+
+echo fgets($fichier);  //vas affichier le 1er ligne  
+echo fgets($fichier); // elle vas sauter de line puis elle vas affichier le 2eme ligne
+
+donc on la met dans une boucle pr afficher tout le contenue ligne par ligne
+
+while (!feof($fichier)) {      		// si ce nest pas " the end of file " la fin du fichier alors faire 
+echo fgets($fichier). '<br>';
+}
+
+fseek($fichier,0);      // pour rendre le curseur au debut du fichier
+
+
+
+
+/exo visiteur et date 
+
+
+<?php
+//visiteur + time
+
+
+$fichier=fopen("amine2" , "r+" );  //fih ghir  "   0   "
+
+$n=fgets($fichier);   // fget wla fread kifkif hnaya ,,, donc hnaya yakhod la premiere ligne lii hiya le nbr  0
+
+$n=$n+1;   // le nbr ywali 1 mais mazal matbdlch dakkhal le fichier
+
+echo $n ." on visité le site le "; //yatafichilk hna 1 brk
+
+$fichier2='amine2';  // pour affecter le nom du fichier vers la variable du temps
+
+if (file_exists($fichier2)) {   //si le fichier existe alors
+ echo date("F d Y H:i:s.", filectime($fichier2));
+ // afichier la date et lheure etc...
+}
+
+fseek($fichier,0);   // move back to beginning of file
+
+
+fputs($fichier,$n);  // hna bch yécrazi 0 lowlani w yraj3i 1 t3 le nb fl fichier
+
+fclose($fichier);
+
+ ?>
+
+
+
+PARITE ALGO
+
+
+2/ les tableaux
+
+$t = array(1,2,3,4);  ( déclaration d'un tableau )
+count($t);   ( la taille du tableaux )
+
+on peut lafficher avec une autre boucle on donne juste une variable  ( cette boucle nous aident quon il ya des clée dautre facon un tableaux avec deux valeurs par exemple  le pays est algerie votre ville est blida :    algerie -> blida       , la clé algerie la valeur blida )
+
+foreach ($t as $k) { 	echo $k ."<br>";	}
+
+$age = array("Peter"=>"35", "Ben"=>"37");
+
+$age["peter"]="35";  		( celui si peut seuelemnt saficher avec foreach )
+$age["Ben"]=37;
+
+foreach ($age as $k => $k_value) {    echo "la clé est ". $k ." ca valeur est ". $k_value;  }
+
+
+$p[0]="gooool";  $p[1]="zlatan";   $p[4]="but"; 	
+
+( on peut pas aussi lafficher avec for car lindice change donc il vas afficher 1 ou 2 element ca dépends de lindice mais on peut avec foreach car il nest pas important )
+
+
+
+
+/ exo nbr binaire conversation en cas win nakhdmo b chaine de caractere w nhabo nconcatinwha avec un entier 
+
+<?php
+
+$x=6;
+
+$s="";
+while ($x>0) {
+
+$s=($x%2).$s;
+$x=(int)($x/2);    	(Integer.toString)
+
+}
+echo $s;
+ ?>
+
+
+
+
+PARITE PHP HTML 
+
+
+
+
+3/récupérer un text de html en utulisant php et lafficher dnas la meme page
+
+
+html
+<input type="text" name="utils" id="utils"> 
+<input type="submit" name="valider" value="se connecter">
+
+php
+if (isset($_POST['valider'])) {
+$user=$_POST['utils'];
+echo "votre nom dutilis est $user et votre mot de pass est $pass";
+}
+
+
+
+
+4/ récupérrer une chaine de caractere (mashi shart chaine ) puis calculer sa taille avec strlen
+
+
+html
+<input type="text" name="taille">
+
+php
+if (isset($_POST['bouton'])) {
+$taille=$_POST['taille'];
+echo "la taille de $taille est "; 
+$s=$taille; echo strlen($s);
+
+
+
+
+5/ (sessions + header )
+
+
+page 1
+
+php
+session_start();  ( pour ouvrir la session )
+
+if (isset($_POST['login'])) {
+$u=$_POST['nom'];  
+
+$_SESSION["a"]=$u;   ( le nom de la session cest " a " 	 recoit la valeur du nom )
+
+header('location:amine.php'); ( nous permet la redirection vers une autre page il est mieux utilisable dans le cas de clique sur un bouton )
+
+html
+<input type="text" name="nom">
+<input type="submit" name="login" value="login">
+
+page 2 ( amine.php )
+
+html	<h2>
+
+<?php
+
+ session_start();
+
+echo $_SESSION["a"];
+
+ ?>
+
+finhtml </h2>
+
+
+
+
+
+
+6/ (cookies + header )
+
+
+
+page1 (t1.php)
+
+
+html
+<input type="text" name="nom">
+<input type="submit" name="bouton" value="click">
+
+php
+
+if(isset($_POST['bouton'])){
+$n=$_POST['nom'];
+
+setcookie("amine",$n,time()+60*60); ( tinitializi lcookie b 1min avec son nom amine et la variable que tu veux sauvgrader 'n' )
+
+header('location:t2.php');  
+
+( hna header darnaha pr le cas lowal win mazal maclikiash 3la lbouton sama hata yakliki bah yadih la page hadik )
+
+}
+
+if(!empty($_COOKIE['amine'])){
+header('location:t2.php');
+
+( whna darnah mor ma klika la premiere fois kon yhab y3awd ywali la 1er page 't1.php' aya tadih directement la page deuxieme madam lcookie mazal m3amar b 1 min )
+
+ }
+
+
+
+page 2 (t2.php)
+
+php
+
+
+if(!empty($_COOKIE['amine'])){    
+	echo "Bonjour ".$_COOKIE['amine'];
+
+
+(si la coockie fonctionne et elle est bien initializé alors yafichilk le "nom" pr 1 min cest a dire meme ki tokhrj w t3awd twali lal t2.php tsibo maktob  w hna mat7s9ch tafta7 z3ma seession start wla psk la cookie est deja prédéfinie avant cest plus tot un avantage )
+
+}
+
+
+~~~~
+
+
+si on veut saisire la cookie dans le formulaire du nom faut juste faire ca 
+
+
+html
+<input type="text" name="nom" value=" 
+
+<?php
+
+if(! empty($_COOKIE["amine"])) {
+	echo $n;
+}
+else {
+	echo "";
+}
+?>
+">
+
+
+~~~~
+on peut aussi donner ce que on veut afficher dans la cookie directement
+
+setcookie("amine",30,time()+60*60);                
+
+echo $_COOKIE["amine"];					 ( ici il vas afficher directement le nbr   30 ) 
+
+
+
+
+
+7/ (include)
+
+
+page 1 ( inc1.php )
+
+
+html
+<h1>Deuxième page avec include</h1>
+
+<?php include("inc2.php"); ?>
+
+( yafichilk les données ta3 la deuxieme page fi la meme premiere page )
+
+finhtml
+
+
+
+page 2 ( inc2.php )
+
+
+html
+<input type="text">
+<input type="password">
+<input type="submit">
+
+
+
+
+
+
+PARITE PHP BDD
+
+
+
+8/
+ dbname cest la base de donnée créer (Formation) dans phpmyadmin pr mysql , elle est spécialiser par des tables(produit,,activité) qui sont spécialisé par des attributs(tnom,tprix,...)
+
+on import des fichiers .csv ( converter de excel ) dans la base de donnée  pr bien les gérer
+
+
+
+$bd = new PDO('mysql:host=localhost;dbname=exo1;charset=utf8','root','');            ( pdo nous connect avec la bdd on utilisant php )
+
+
+
+
+$reponse=$bd->query(" select * from activite ");      ( on récupere de la base de donnée avec $bd->query,   on choisie (select) tous les attributs (*) de la table (from) actiivité )
+
+$r=$bd->query("select * from activite WHERE date='2013-11-19' OR date='2013-11-20' "); (tous les attributs de la table activité qui ont une date précis)
+
+$w=$bd->query( "Select heure from formation2 where heure = '08:00:00' ");  (tous les attributs de la table activité qui ont une heure précis)
+
+$e=$bd->query("select * from produit ORDER BY tprix > 100 "); ( qui ont organisé (order) par un prix > 100 dans un ordre croissant ,, pr lordre décroit on ajoute ca    DESC   ) 
+
+$e=$bd->query("select tprix from produit LIMIT 0,20 ");    (  LIMIT 0, 20 : affiche les vingt premières entrées , pr afficher juste le  1er   0,1 , le 2eme 1,1  , le 3eme 2,1  ,  le 4eme   3,1  )
+
+
+
+while($d=$reponse->fetch() ){ 	  ( fetch c pr afficher la premiere ligne comme fgets de php donc pr aficher tout les lignes il faut une boucle while) 
+
+echo ' actvité '. $d['nact'].' '; echo $d['nom'].' ca date '; echo $d['date'].' a lheure '; echo $d['heure'].'<br>';
+
+}
+
+
+$f=$bd->query("select UPPER(tnom) as maj from produit ");   ( on chosit just lattribut tnom de la table produit comme un nom majuscule avec la variable maj )
+
+while($dd=$f->fetch() ){
+
+echo $dd['maj']."<br>";
+
+}
+
+ya aussi des autres fonctions 
+
+UPPER : convertir la chaine en majuscule
+LOWER: convertir la chaine en miniscule
+ROUND : arrondir un nombre décimal
+AVG : la moyenne
+
+COUNT: La fonction SQL COUNT renvoie le nombre de lignes dans une table répondant aux critères spécifiés dans la clause WHERE. Il définit le nombre de lignes ou de valeurs de colonnes non NULL.
+COUNT () renvoie 0 s'il n'y avait pas de lignes correspondantes.
+
+MAX: le maximum
+MIN: le minimum
+SUM: la somme
+
+
+LES JOINTURES
+
+$rs=$bd->query('SELECT p.pnom AS no, p.pprix AS pr, p.pq AS qa, t.tnom AS nm FROM produit p,typeproduit t WHERE p.pid=t.tid ');
+
+la jointures   hna en veut joindre entre deux table la table produit natolha une variable p w la table typeproduit natolha une variable t,, donc on choisit ce que on veut joindre par exemple le nom ( pnom ) w le prix ( pprix ) t3 la table produit m3a le nom (tnom) t3 la table typeproduit w bch najwanyiw biinthom lazmna 3afsa tarbat lzouj lihowa le ID  donc where le id de produit (pid) egale a le id de typeproduit (tid) --->> w bien sur le AS bch tatilhom un nv nom li tafichih
+
+
+
+
+AFFICHAGES TABLEAUX PHP DES JOINTURES AVEC HTML
+
+
+<table>  <!le debut du tableaux >
+
+<thead>    <! cest la tete du tableaux tandar wahdha >
+
+	<th>nom</th>    <!taffichihom wahda qodam wahda bl gras >
+	<th>prix</th>
+	<th>quantité</th>
+	<th>nom2</th>
+
+</thead>
+
+
+<tbody>  <! le corp du tableaux li t3mro bash thab >
+
+	<?php
+
+
+if(isset($_POST['btn3'])){
+
+$rs=$bd->query('SELECT p.pnom AS no, p.pprix AS pr, p.pq AS qa, t.tnom AS nm FROM produit p,typeproduit t WHERE p.pid=t.tid ');
+
+
+while ($d=$rs->fetch()){
+
+
+// <tr>  hadi bch dirhom f star wahd w ki tkml w toghl9 w dir wahdokhra tkhalflk star
+// <td> hnaya kima th tafichilk wahd qodam wahd brk sans gras
+
+echo "
+
+<tr>
+
+<td>".$d['no']."</td>
+<td>".$d['pr']."</td>
+<td>".$d['qa']."</td>
+<td> ".$d['nm']."</td>
+
+</tr>
+
+";
+
+}}	 ?>
+
+</tbody>
+
+</table>
+
+
+
+
+9/ exmpl de login  on as une base de donnée qui as un une table login avec un attribut " utilis" avec un text de login (pr expl amine ) , on veut vérifier si notre formulaire a le meme nom dutilis que notre bdd
+
+
+html
+<input type="text" name="nom">
+<input type="submit" name="bouton" value="bouton">
+
+php
+
+$bd = new PDO('mysql:host=localhost;dbname=exo2;charset=utf8','root','amine2016@');
+$r=$bd->query(" select * from login ");
+if(isset($_POST['bouton'])){
+
+while($d=$r->fetch() ){
+if($_POST['nom'] == $d['utilis']{  alors faire ce que vous voulez } 
+
+
+
+on peut meme utiliser count pr verifier  
+
+$rs=$bd->query("SELECT COUNT(*) AS nbr FROM login WHERE usere='$us' AND mdp='$mdp' ");   ( la condition est que le mdp et le us egale a notre bdd)
+
+if($d=$rs->fetch()){    	(le nbr recoit la valeur de la ligne) 
+	$nbr=$d['nbr'];
+}
+
+if( $nbr==1){		               ( on vérifie si la ligne existe par exmple la ligne omar22 omar22 existe , mais la ligne aminesd 6455 nexiste 						pas) 
+faire }
+sinon { injuste }
+
+
+
+
+dison on as un autre exemple ou on as une table de cars avec un attribut de "voiture" et un autre attribut du possédeur de la voiture ("owner") avec attribut owner  et on veut savoir si il as plus qune voiture
+
+
+while ($s=$r->fetch()) {
+if($_POST['nom']==$s['owner']){   echo $s['voiture'].'<br>';  }   
+
+
+
+on peut meme tester par id on as une attribut de matiere algo archi anal , on veut que lutilis tape 1 alors il affiche algo tape 2 alors affiche archi
+
+
+while($s=$r->fetch()){
+switch($_POST['nombre']){
+	 case 1:   if($s['matiere']=='archi'){echo ' le module ' ; echo $s['matiere'].'<br>';} break;   
+	 case 2:   if($s['matiere']=='algo'){echo ' le module ' ; echo $s['matiere'].'<br>';} break;  
+	}}
+
+ ( l3afsa chaba ga3 cest que doka bdd elle vas rechercher 3la le nom algo w tafichiholk y3ni l id hadak makash mano ghir 7ila hna sah ga3 f la conditions t3 $s['matiere'] hna l bdd trecherchilk 3la le nom algo w ttafichiholk seulement howa 
+
+
+	
+
+
+
+
+10/INSERER ET EXECUTER DANS LA BDD
+
+
+$bd->exec(" INSERT INTO produit(pprix,pnom,pq) values (30,'stivensigar',75) ");
+
+exec cest a dire executer cette commande
+inserer uen nouvelle valeur dans la table avec 30 prix et le nom stiven et la quantité 7
+
+}
+
+
+$i=$_POST['id']; si il nest pas auto incrementer alors lajouter
+
+	$n=$_POST['prix'];
+	$p=$_POST["nom"];
+	$q=$_POST['qua'];
+
+$bd->exec("INSERT INTO produit(pprix,pnom,pq) VALUES($n,'$p',$q) ");
+
+inserer une nouvelle valeur avec un nv prix et nom et pq, ici on nas pas besoin du id car il est auto incrementer dans la bdd
+
+}
+
+
+
+	$i=$_POST['id'];
+	$n=$_POST['prix'];
+	$p=$_POST['nom'];
+	$q=$_POST['qua'];
+
+$bd->exec("UPDATE produit SET pprix=$n, pnom='$p',pq=$q WHERE pid=$i ");
+
+//faire une mise a jour plus tot un changement du prix et le nom et la quantité dun id donnée
+
+}
+
+	$i=$_POST['id'];
+
+$bd->exec("DELETE FROM produit WHERE pid=$i ");
+
+on supprime tous les element de la table qui ont le id defini
+
+
+
+
+
+10/ SCRIPT 
+
+
+?>  <script type="text/javascript">  alert(" ce produit a bien ete exucuter");  <?php
+
+cest un java script qui nous affiche le prudit a bien ete executer apres quon clique sur le bouton
+  </script>
+
+
+
+
+
+11/ Traiter les erreurs SQL
+
+die(print_r($bd->errorInfo()));	
+
+
+
+
+12/ select dakhal select bl count 
+
+
+SELECT( SELECT COUNT(*)  FROM   employees ) AS Total_Employees,(SELECT COUNT(*) FROM   departments) AS No_Of_Departments FROM dual
+
+Output:
+
+TOTAL_EMPLOYEES NO_OF_DEPARTMENTS
+--------------- -----------------
+            107                27
+
+
+
+
+
+select count(*) as nombre from produit where date between '2017-01-01' and '2017-12-28'
+
+select sum(prix) as somme from produit
+
+select t.nom type,p.nom from produit p,type t where t.typeid=p.typeid
+
+select * from produit p
+
+inner join type t on t.typeid=p.typeid
+
+
+export fichier .sql 
+import creer une nouvelle base de donnée avec le meme nom de lancienne 
+
+fichier .csv on le creer avec excel dans on distingue les valeurs selon leur type et leur ordre puis on modifier ce ficier avec block note on mettons des vergules ou des points vergules entre eux et puis on louvre ie fichier et on choisit le type decrit cest  utf-8 et on limport dans notre bdd on changent a la fin le vergule ou bien le point vergule et si ca marche pas on précisie les type des valeurs a la fin aussi  

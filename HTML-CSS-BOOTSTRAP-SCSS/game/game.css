@@ -1,0 +1,135 @@
+@charset "UTF-8";
+@keyframes duckfly {
+  0% {
+    left: 150%;
+    top: 10%;
+  }
+  25% {
+    left: 80%;
+    top: 50%;
+  }
+  50% {
+    left: 50%;
+    top: 30%;
+  }
+  75% {
+    left: 30%;
+    top: 40%;
+  }
+  100% {
+    left: -50%;
+    top: 10%;
+  }
+}
+
+input + label {
+  position: absolute;
+  left: -100px;
+  z-index: 1;
+  width: 36px;
+  height: 34px;
+  display: block;
+  z-index: 5;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  background: url('../../images/duck_black.png') no-repeat left center;
+  background-position: -138px 0;
+}
+
+input:checked + label {
+  opacity: 0;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transform: rotate(120deg);
+  transform-origin: 60%;
+  -webkit-transform: rotate(120deg);
+  -moz-transform: rotate(120deg);
+  -ms-transform: rotate(120deg);
+  -o-transform: rotate(120deg);
+  z-index: -5;
+}
+
+.duck:nth-last-of-type(1) {
+  animation: duckfly 10s linear 1s infinite;
+  -webkit-animation: duckfly 10s linear 1s infinite;
+  animation-direction: alternate;
+  cursor: url('../../images/aim.png'), text;
+}
+
+.duck:nth-last-of-type(2) {
+  animation: duckfly 20s linear 2s infinite;
+  -webkit-animation: duckfly 20s linear 2s infinite;
+  animation-direction: alternate;
+  cursor: url('../../images/aim.png'), text;
+}
+
+.duck:nth-last-of-type(3) {
+  animation: duckfly 25s linear 3s infinite;
+  -webkit-animation: duckfly 25s linear 3s infinite;
+  animation-direction: alternate;
+  cursor: url('../../images/aim.png'), text;
+}
+
+.duck:nth-last-of-type(4) {
+  animation: duckfly 30s linear 4s infinite;
+  -webkit-animation: duckfly 50s linear 4s infinite;
+  animation-direction: alternate;
+  cursor: url('../../images/aim.png'), text;
+}
+
+.duck:nth-last-of-type(5) {
+  animation: duckfly 35s linear 5s infinite;
+  -webkit-animation: duckfly 35s linear 5s infinite;
+  animation-direction: alternate;
+  cursor: url('../../images/aim.png'), text;
+}
+
+.score {
+  position: absolute;
+  bottom: 0;
+  height: 50px;
+  line-height: 50px;
+  font-size: 30px;
+  text-align: center;
+  width: 100%;
+  z-index: 2;
+  background-color: #dadada;
+}
+
+.score:after {
+  content: counter(score);
+  display: inline-block;
+}
+
+.score:before {
+  content: 'score :';
+  display: inline-block;
+  margin-right: 10px;
+}
+
+input:checked {
+  counter-increment: score;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  cursor: url('../../images/aim.png'), text;
+  overflow: hidden;
+}
+
+body:before {
+  content: '';
+  display: block;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  background: url('../../images/bg.png') repeat-x bottom left;
+}

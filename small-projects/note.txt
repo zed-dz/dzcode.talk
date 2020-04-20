@@ -1,0 +1,1 @@
+change the links in html css and js for the images and the scripts for the projects to work properly

@@ -1,0 +1,38 @@
+I've been looking for a better way to manage my dotfiles.  My old method involved moving all of my dotfiles into their own directory and then symlinking each one fo them back into the directory structure.  What a headache!
+
+Using git bare repositories, there is no more moving files into an initialized git repository and then creating symlinks.  Now, I just add, commit and then push.  Done.
+
+Want to make your own git bare repository?  First, make a directory for your new git bare repository (I created one called "dotfiles" but you can name it whatever).
+
+Then I entered the following in the terminal:
+
+git init --bare $HOME/dotfiles
+alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME' (add this alias to .bashrc)
+bash
+config config --local status.showUntrackedFiles no
+
+Basic usage example:
+
+config add /path/to/file
+config commit -m "A short message"
+config push
+
+ARTICLE REFERENCED IN THE VIDEO:
+?? https://developer.atlassian.com/blog/...
+
+?? WANT TO SUPPORT THE CHANNEL? 
+Patreon: https://www.patreon.com/distrotube 
+Paypal: https://bit.ly/2uTBqXX 
+
+?? BUY SHIRTS AND MUGS: 
+Help support this channel by purchasing these fine t-shirts, hoodies and mugs. 
+https://teespring.com/stores/distrotube
+
+??? JOIN ME ON DIASPORA AND MASTODON: 
+https://diasp.org/people/792034802a05... 
+https://mastodon.technology/web/accou... 
+
+?? MY CONFIGS: 
+GitLab: https://gitlab.com/dwt1 
+
+Your support is very much appreciated. Thanks, guys!

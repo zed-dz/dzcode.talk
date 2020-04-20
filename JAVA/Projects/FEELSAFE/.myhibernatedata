@@ -1,0 +1,20 @@
+#
+#Fri Mar 07 09:22:50 GMT+05:30 2008
+genBasicCompId=false
+sessionFactoryName=feelsafeHibernatePackage.HibernateSessionFactory
+profile=
+daoSFId=
+version=3.1
+jndiPath=
+springDaoFile=
+useJavaTypes=true
+keyGenerator=assigned
+libInstallFolder=WebRoot/WEB-INF/lib
+addLibs2Project=false
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+reSettingsFile=
+configFile=/feelsafe/src/hibernate.cfg.xml
+createConfigFile=true
+addLibs2Classpath=false

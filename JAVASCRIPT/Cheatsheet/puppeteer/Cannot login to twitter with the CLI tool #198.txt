@@ -1,0 +1,32 @@
+-----------------------------------------------------------
+
+Cannot login to twitter with the CLI tool #198
+
+Try this instead, it works for me.
+
+command:
+./single-file https://twitter.com/mcuban/following following-mcuban.html --browser-scripts=./login-twitter.js
+
+login-twitter.js content:
+
+const LOGIN = "login";
+const PASSWORD = "password";
+const REDIRECT_URL = "https://twitter.com/login?redirect_after_login";
+
+addEventListener("DOMContentLoaded", () => {
+   if (location.href.startsWith(REDIRECT_URL)) {
+       document.querySelector(".js-username-field").value = LOGIN;
+       document.querySelector(".js-password-field").value = PASSWORD;
+       document.querySelector(".signin").submit();
+   } else {
+       // code that you would like to execute on https://twitter.com/mcuban/following
+       // just before resources are being loaded
+   }
+}, false);
+
+addEventListener("load", () => {
+   if (!location.href.startsWith(REDIRECT_URL)) {
+       // code that you would like to execute on https://twitter.com/mcuban/following
+       // after resources are loaded
+   }
+}, false);

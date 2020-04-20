@@ -1,0 +1,95 @@
+body{
+background:#f4f4f4;
+color: #555;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+line-height: 1.6em;
+margin:0;
+
+}
+.container{
+    width: 80%;
+    margin: auto;
+    overflow:hidden; /* there is no scroll bars if something goes down of this container */
+
+}
+#main-header{
+    background:coral;
+    color: #fff;
+}
+#navbar{
+    background: #333;
+    color: white;
+}
+#navbar ul{
+    padding: 0;
+    list-style:none;
+}
+#navbar li{
+    display:inline;  /* rendre colone to ligne */
+}
+#navbar a{
+    color: white;
+    text-decoration:none;
+    font-size: 18px;
+    padding-right: 15px;
+}
+#showcase{
+    background: url('../../../images/1.jpeg');
+background-repeat: no-repeat;
+background-position: center left;
+min-height:300px; /* when we make the page smaller the height will grow with text to make it responsive */
+margin-bottom: 30px;
+text-align: center;
+}
+
+#showcase h1{
+    color: white;
+    font-size: 50px;
+    line-height: 1.6em;
+    padding-top: 30px;
+
+}
+#main{
+   float: left;
+    width: 70%;
+    padding: 0 30px;
+    box-sizing: border-box;
+}
+
+
+#sidebar{
+    float: right;
+    width: 30%;
+    background: #333;
+    color: white;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#main-footer{
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+/* to remove floating when the size is smaller for android
+so any styles we put here it is under 600 px so we wanna remove the float from the main and the sidebar and also change the width for both of thosse to a 100%
+*/
+@media(max-width:600px){
+
+    #main{
+        width: 100%;
+        float: none;
+    }
+    #sidebar{
+        width: 100%;
+        float: none;
+    }
+
+}
+
+
+
+

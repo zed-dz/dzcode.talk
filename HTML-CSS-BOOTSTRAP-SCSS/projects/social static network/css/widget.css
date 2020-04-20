@@ -1,0 +1,95 @@
+.feed .widget {
+	font-size:13px;
+	color:#595959;
+	overflow:hidden;
+}
+.feed .widgets h2 {
+	display:inline-block;
+	font-size:16px;
+	font-weight:600;
+	color:#595959;
+	line-height:20px;
+}
+.feed .widget .wid_image {
+	display:inline-block;
+	width:16px;
+	height:16px;
+	margin:0 5px -2px 0;
+}
+.feed .widgets hr {
+	background:#F2F2F2;
+	height:1px;
+	border:none;
+	margin:10px 0;
+}
+.feed .widget .wid_full_button {
+	width:100%;
+	margin:16px 0 0 0;
+	height:38px;
+	color:#ffffff;
+	background:#2A80BA;
+	font-size:15px;
+	font-weight:700;
+	font-family:segoe ui;
+	border:none;
+	border-radius:21px;
+}
+.feed .widget .profile_pic {
+	width:48px;
+	height:48px;
+	margin:-2px 10px 12px -2px;
+	padding:0;
+	border-radius:50%;
+	float:left;
+}
+.feed .widget a {
+	color:#0061A5;
+	font-size:16px;
+	font-weight:600;
+	text-decoration:none;
+}
+.feed .widget font {
+	display:block;
+	font-size:13px;
+	font-weight:600;
+	color:#A5A5A5;
+	line-height:20px;
+}
+.feed .widget .wid_follow_button {
+	width:125px;
+	margin:10px 5px 0 0;
+	height:38px;
+	color:#ffffff;
+	background:#2A80BA;
+	font-size:15px;
+	font-weight:600;
+	font-family:segoe ui;
+	border:none;
+	border-radius:21px;
+}
+.feed .widget .wid_message_button {
+	width:125px;
+	margin:10px 0 0 5px;
+	height:38px;
+	color:#ffffff;
+	background:#2A80BA;
+	font-size:15px;
+	font-weight:600;
+	font-family:segoe ui;
+	border:none;
+	border-radius:21px;
+}
+.feed .profile_widget hr{
+	margin:15px 0 0 0;
+}
+.feed .widgets .taq {
+	margin:6px 2px 0 0;
+	padding:6px 8px;
+	color:#ffffff;
+	background:#2A80BA;
+	font-size:12px;
+	font-weight:500;
+	font-family:segoe ui;
+	border:none;
+	border-radius:21px;
+}

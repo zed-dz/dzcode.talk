@@ -1,0 +1,26 @@
+ctrl + ! => integrated terminal (keyboard shortcuts)
+
+// cl , nfn , fn , arfn , ifc , ifelsec , arrmth , axreq , fetchreq , asfetchreq , ndrq , expsrv , exprt , expmw
+
+shift + alt + arrowkeydown => copy down
+
+ctrl + d => select multiple item names its so handy
+
+create-react-app client 
+
+rfc => react functional component ,
+rcc => react class based comp
+rafcp => react func arrow class with props  
+ptor => proptypes object isrequired ( ptfr, ptbr .. )
+
+send this to brad : the tostring method dosent work on comment.user so i used map to convert it into a string
+1/
+ const commentString = comment.map(item => item.user).toString()
+
+  if (commentString !== req.user.id)
+    return res.status(401).json({ msg: 'user not authorized' })
+
+2/ errorhandler middleware instead of try and catch
+
+
+Moddoc for a quick nice docs for node modules

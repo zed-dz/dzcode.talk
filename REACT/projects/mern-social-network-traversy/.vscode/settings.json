@@ -1,0 +1,11 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.inactiveBackground": "#FFF000CC",
+    "titleBar.inactiveForeground": "#FFF",
+    "editor.selectionBackground": "#135564",
+    "gitDecoration.ignoredResourceForeground": "#706e6e",
+    "tab.activeBackground": "#4422cc",
+    "tab.unfocusedActiveBorder": "#fff0"
+  },
+  "mocha.subdirectory": "..\\..\\..\\..\\..\\..\\..\\c:\\xampp\\htdocs\\projects\\code talk\\dzcode.talk\\webdev projects\\MERN-social-network-traversy\\midlleware"
+}

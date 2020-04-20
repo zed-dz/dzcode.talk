@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts-config PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 1.1//EN" "http://jakarta.apache.org/struts/dtds/struts-config_1_1.dtd">
+
+<struts-config>
+  <data-sources />
+  <form-beans >
+    <form-bean name="feelSafeForm" type="com.feelsafe.struts.form.FeelSafeForm" />
+
+  </form-beans>
+
+  <global-exceptions />
+  <global-forwards >
+    <forward name="login1" path="/feelSafe.do?do=login" />
+    <forward name="admin" path="/feelSafe.do?do=admin1" />
+    
+
+  </global-forwards>
+
+  <action-mappings >
+    <action
+      attribute="feelSafeForm"
+      input="/index.jsp"
+      name="feelSafeForm"
+      parameter="do"
+      path="/feelSafe"
+      scope="request"
+      type="com.feelsafe1.struts.action.FeelSafeAction">
+      <forward name="adminmainpage" path="feelsafe.adminmainpage" />
+      <forward name="login" path="feelsafe.login" />
+      <forward name="systemreport" path="feelsafe.systemreport" />
+      <forward name="frontofficemanager" path="feelsafe.frontofficemanager" />
+      <forward name="appointmentscheduling" path="feelsafe.appointmentscheduling" />
+      <forward name="appointmentrescheduling" path="feelsafe.appointmentrescheduling" />
+      <forward name="appointmentreports" path="feelsafe.appointmentreports" />
+      <forward name="adminlogin" path="feelsafe.admin" />
+      <forward name="employee" path="feelsafe.employee" />
+      <forward name="patientdetails" path="feelsafe.patientdetails" />
+      <forward name="newuseradmin" path="feelsafe.newuseradmin" />
+      <forward name="healthawareness" path="feelsafe.healthawareness" />
+      <forward name="doctordetails" path="feelsafe.doctordetails" />
+      <forward name="addnewequipment" path="feelsafe.addnewequipment" />
+    </action>
+
+  </action-mappings>
+
+  <message-resources parameter="com.feelsafe.struts.ApplicationResources" />
+  <plug-in className="org.apache.struts.tiles.TilesPlugin">
+    <set-property property="definitions-parser-validate" value="true" />
+    <set-property property="moduleAware" value="true" />
+    <set-property property="definitions-config" value="/WEB-INF/tiles-definition.xml" />
+  </plug-in>
+</struts-config>
+

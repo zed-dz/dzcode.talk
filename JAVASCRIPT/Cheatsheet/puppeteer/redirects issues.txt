@@ -1,0 +1,71 @@
+How to stop puppeteer follow redirects #1132
+
+So I have a solution now but I agree with @GuilloOme that followRedirect: false should be a .goto option prop.
+
+let docRedirected = false;
+
+const onResponseHandler = (response) => {
+    docRedirected = redirects.isRedirect(response);
+};
+const onRequestHandler = (request) => {
+    if (docRedirected) { return request.abort(); } //Aborts all subsequent requests
+    reqRejection.shouldReject(request, options) ? request.abort() : request.continue();
+};
+page.on('request', onRequestHandler);
+page.on('response', onResponseHandler);
+then in redirect I have:
+
+const redirectStatuses = [301, 302, 303, 307, 308];
+
+exports.isRedirect = (response) => {
+    return redirectStatuses.includes(response.status)
+        && response.request().resourceType === "document";
+};
+
+--------------------------
+
+Coupling request interception with request.isNavigationRequest and request.redirectChain, you can now abort navigation redirects:
+
+await page.setRequestInterception(true);
+page.on('request', request => {
+  if (request.isNavigationRequest() && request.redirectChain().length)
+    request.abort();
+  else
+    request.continue();
+});
+await page.goto('https://example.com');
+
+------------------
+
+Puppeteer does not follow javascript redirects - leads to infinite loading of page without timeout #3684
+
+I can reproduce this with the following script:
+
+const puppeteer = require('puppeteer');
+
+(async() => {
+  const browser = await puppeteer.launch({
+    ignoreHTTPSErrors: true,
+  });
+  const page = await browser.newPage();
+  await page.setRequestInterception(true);
+  page.on('request', r => r.continue());
+
+  await page.goto('http://clkuk.tradedoubler.com/click?p=190137&a=3063988&g=22260412&url=https://eu.puma.com/de/de/home/&epi=dede-shopping-stripe');
+  await page.waitFor(5000);
+  await page.evaluate(() => 7 * 8); // hangs here
+  await browser.close();
+})();
+
+
+-----------------------------
+
+How to handle unknown multiple redirections after form post? #2696
+
+@vivsriv19 what kind of redirects happen? If these are server-side redirects, than a single waitForNavigation should work just fine. You'll get the whole redirect chain through it's associated request:
+
+const response = await page.waitForNavigation({waituntil: 'domcontentloaded'});
+const redirects = response.request().redirectChain();
+If these are client-side redirects, than I'd just try waiting for networkidle0 instead; once the page settles somewhere, it'll stop hitting network for more resources.
+
+Hope this helps!

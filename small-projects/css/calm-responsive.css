@@ -1,0 +1,80 @@
+/* min from a X and heigher and
+
+max from X and LOWER
+
+@media only screen and (max-width:120px) and (min-width:889px) { */
+
+@media (max-width:1200px) {
+    /* from 1200px and lower */
+    .first-align {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 1rem;
+        padding: 0;
+    }
+}
+
+    @media (max-width:900px) {
+    /* from 900px and lower */
+    .first-align {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 1rem;
+        padding: 0;
+    }
+}
+
+/* @media only screen and (max-width:500px) and (min-width:1px) { */
+@media (max-width:500px) {
+
+#main-header {
+height: 100%; width: 100%;
+}
+.navigation, .container-1, .album-container, #main-footer {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+text-align: center;
+padding: 0;
+margin: 0;
+}
+
+.social-ul, .footer-ul {
+display: flex;
+flex-direction: row;
+right: 0;
+align-items: center;
+justify-content: center;
+width: 100%;
+}
+
+section.grid-container , .first-align {
+display: grid;
+grid-template-columns: 1fr;
+grid-gap: 2rem;
+padding: 1rem 2rem;
+}
+
+.footer-ul a {
+font-size: 0.7rem;
+}
+
+.container-1 .container-right h3 {
+width: 10rem;
+position: relative;
+right: 60%;
+margin-bottom: 1rem;
+}
+
+ .edit {
+position: relative;
+left: 3.5rem;
+top: 1rem;
+}
+
+.clearfix { clear: both; }
+
+
+}
+

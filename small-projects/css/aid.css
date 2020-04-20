@@ -1,0 +1,74 @@
+body {
+  perspective: 200px;
+}
+#content {
+  width: 600px;
+  margin: 190px auto;
+}
+span {
+  width: 70px;
+  height: 70px;
+  float: left;
+  background: aqua;
+  border-radius: 50%;
+  animation: aid 4s infinite ease-in-out;
+  text-align: center;
+  font-size: 48px;
+  color: #da700e;
+}
+span:first-child {
+  animation-delay: 0s;
+}
+span:nth-child(2) {
+  animation-delay: 0.5s;
+}
+span:nth-child(3) {
+  animation-delay: 1s;
+}
+span:nth-child(4) {
+  animation-delay: 1.5s;
+}
+span:nth-child(5) {
+  animation-delay: 2s;
+}
+span:nth-child(6) {
+  animation-delay: 2.5s;
+}
+span:nth-child(7) {
+  animation-delay: 3s;
+}
+span:nth-child(8) {
+  animation-delay: 3.5s;
+}
+span:nth-child(9) {
+  animation-delay: 4s;
+}
+span:nth-child(10) {
+  animation-delay: 4.5s;
+}
+span:nth-child(11) {
+  animation-delay: 5s;
+}
+
+@keyframes aid {
+  0% {
+    transform: translateY(0) scaleZ(-1);
+    box-shadow: 0px 0px 6px 16px #ccc;
+  }
+  50% {
+    transform: translateY(-45px) scaleZ(-2);
+    opacity: 5;
+    box-shadow: 0px 0px 15px 55px aqua;
+  }
+  75% {
+    transform: translateY(-50px) scaleZ(-6);
+    opacity: 0;
+    box-shadow: 0px 0px 3px 7px coral;
+  }
+  100% {
+    transform: translateY(0);
+    box-shadow: 0px 0px 15px 5px thistle;
+  }
+}
+
+/* thank you :3 saha aidkom */

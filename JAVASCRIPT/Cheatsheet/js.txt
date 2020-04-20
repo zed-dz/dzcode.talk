@@ -1,0 +1,260 @@
+1/ MATH
+
+min,max,charAt,indexOf,slice,replace,length,trim().length,Math.random(),push,sort,reverse,join...
+         
+
+<script type="text/javascript">  //wla tajouter src="chemin.js" w tacriyih wahdo
+
+var x="LALAOUI Omar";
+var min=x.toLowerCase(); //min
+var max=x.toUpperCase(); //maj
+var pr=x.charAt(2); //afffiche le caractere qui est dans la position 2
+var a=x.indexOf('I');  //la position de la 1er occurence de 'i'
+var o=x.indexOf('Oma'); //la position de la 1er occurence de 'oma'
+var q=x.slice(2,6); //nous donne wsh kayan de la postion 2 a la position 5 ici cest LAOU
+var e=x.replace("Omar","amin");  //remplacer la chaine par une autre
+
+var y=" LALA ";
+var c=y.length; // calcule la taille du mot
+var w=y.trim().length; // supprime les espaces du debut et de la fin
+
+var u=Math.random()*100; //nous donne un nbr de 0, aux hassard multiplié fois 100
+
+alert( min+"\n\n"+pr+"\n\n"+a+"\n\n"+o+"\n\n"+q+"\n\n"+e+"\n\n"+c+"\n\n"+w+"\n\n"+u);
+
+var b=["omar","amine","elias","med"];
+
+b.splice(2,1,"marwa"); //inserer mor la 2eme position 'marwa' w mor ma tinserer tu supprime 1 						   element li mor marwa li howa 'amine'
+
+var nt=b.push("racha"); //inserer rasha a la fin du tab
+
+b.sort(); //trier le tab par orde
+b.reverse(); //trier le tab inversement
+
+var z=b.join("/");  // ajouter '/' entre les mots du tab
+
+var p="";
+for(var i=0;i<b.length;i++){  p+="L'element de l'indice "+i+" est "+b[i]+"\n\n";  	}
+
+alert(p+" "+nt+" \n\n "+z);
+
+</script>
+
+
+
+2/CSS en js
+
+x.style.color,display,backgroundColor,listStyleType,margin,padding,textDecoration,width,hight,border,borderTop,textAlign,lineHeight,fontWeight  etc.......
+
+
+var h1,liste,lis,lien; ( apres on vera leur type)
+
+h1.style.backgroundColor="red";                   //le font 
+h1.style.borderTop = '2px solid blue' ;			 //dir une ligne en haut
+h1.style.display = 'inline-block' ; 		//hadi la ligne li darnaha lfo9a na9smoha f nos
+h1.style.color = 'yellow' ;        			//couleur
+liste.style.listStyleType = "none" ; 		  //tnahina les numérotations 1 2 3 4 wla . etc ..
+liste.style.margin = "5 px" ;    				//adjust espace
+liste.style.padding = "5 px" ;  		    	//adjust espace
+liste.style.display = "flex" ;  				//bch yji en ligne mashi en colomune
+lien[0].style.textDecoration = "none" ; 			//pr supprimer les ligne li ta7t les lien
+for(var i = 0 ; i < li.length ; i++){
+lis[i].style.width = '50px' ;   				//l3ard
+lis[i].style.height = '40px' ;   				//tool
+lis[i].style.border = '2px solid red' ;   		//bordure
+lis[i].style.textAlign = 'center' ;    			//fixer la position du text
+lis[i].style.lineHeight = '25px' ;      		//tool lkhat 
+}
+
+etc....
+
+
+
+3/DES CHOSES DE BASES
+
+innerHTML,textContent,setAttribute
+document.querySelector,querySelectorAll,getElementsByClassName,getElementById,getElementsByTagName
+docuement.CreateElement,createTextNode,appendChild
+parentNode,ChildNode,nextElementSibling,previousElementSibling
+NodeValue,insertBefore,insertAfter,removeChild
+
+
+
+h1.innerHTML += "avec amine";      h1.textContent= "avec amine";
+
++= : la concatination , = : lécrasement 
+innerHTML cest un type objet complet expl "<p>ccc</p>"" tant que textContent cest ce qui est dans l'objet "ccc" ,
+ici le resultat sera le meme car en ecrit dans lobjet , mais si tu fais un alert le resultat sera diffferent
+
+alert(i[0].src);  ( afficher la source)
+
+lien[0].setAttribute('href', 'https://www.facebook.com');   //donner un lien 'href' en vers 					fb , on peut faire aussi ,src,type,nom, etc...
+
+
+
+var h1 = document.querySelector('h1');   
+
+(query selector tatilha lobjet html li ak habo h1 , p , a , .div ,img, src , .p1 , #id , #p2 etc..->tslectionilk un seul objet brk sinon zid a la fin "All" bch tselectionilk kamal les objets t3 type hadak)
+
+var p=document.getElementsByClassName('p1'),
+d=document.getElementById('x'),
+b=document.getElementsByTagName('x');
+
+on fait une vergule pour ne pas reecrire a chaque fois var
+elementsbyclass : rechercher les elements avec le nom de la classe donnée
+elementbyid :    faire le meme travail pr les id mais un id est unique cest pr ca que cest 					 element sans s
+tagname : recherche directement pr le nom de lobjet 
+et ils sont tout regroupé dans queryselector
+
+
+var h2=document.createElement('h2');	 //on creer un element h2 cest un grand champ text
+var th2=document.createTextNode("Concentre toi"); 		 // on creer un text
+h2.appendChild(th2);  					//donc on met le texte de th2 dans lelement h2
+document.body.appendChild(h2);   		//puis on met notre element h2 a la fin du body
+
+document.appendChild(h2.appendChild(th2));   //directement les deux
+
+d=x.parentNode;    //nous permet dacceder a lelemnt mere(li fo9o) de cette attribut x					
+var qq=document.querySelector('.qq'),
+ppp=qq.childNodes[2];
+
+//childnodes tchof li ta7t lelement mais matchofch b lelement tchof b les espaces sama kayn element puis espace puis element expl
+<p class=pp>ccc </p>    //hada howa lespace
+<h1>ggg</h1>
+
+alert(ppp.childNodes[0].nodeValue);   //pr afficher la valeur du premier node cest cpt nrml
+
+var pa2=qq.nextElementSibling,         //on affecte son prochain element
+var pa3=qq.previousElementSibling;   //on affecte lelement avant lui
+
+div cest un div,par cest un p,par2 cest un p li mor l p lowal
+
+div.insertBefore(par,par2); 		 //dans le div en insere le par avant le par2 donc on change 												 l'orde sinon on creer un element on linsert avant  (or After)
+div.removeChild(par2);      	  //supprimer lelement dernier de p
+
+
+
+
+
+
+
+4/LES FONCTION BUTTON CLAVIER SOURIS CPT etc....
+
+
+
+setTimeout  : setTimeout(function(){	d.style.backgroundColor="red"; },500);
+
+setInterval , ClearInterval  :   setInterval : x=setInterval(fonctionx,1000);  , clearInterval(x);
+
+onclick / ondblclick (button), onsubmit (submit) { onsubmit dans un form , button en dehors d'un form }
+x.onclick=fucntion()  ,  x.onsubmit=function(e){ e.preventDefault(); etc... }
+
+onkeyup , onkeydown , onkeypress  :  (onkeyup :le moment li rak makliki fih 3la button du clavier , onkeydown : le moment li tatla9 le button hadak , onkeypress : les 2 succesivement)
+
+
+value.length , value , this.value
+
+window   :  window.onkeyup,oncontextmenu etc..... ( tout le corp )
+
+onmouseenter , onmouseleave
+
+oncontextmenu
+
+onblur(); / x.blur			//le blur supprime l autofocus , //mor ma takliki w tokrj m champ text tafichilk
+onfocus(); / x.focus		//ki tkliki f champ text w tabka fih tafichilk
+
+
+e.preventDefault() -> : 
+
+it tells the browser that if there is a default behavior for this event on this object, then skip that default behavior.
+
+So, for example, if you had a submit button that the default behavior was to submit a form and you had a click handler on that button that did a preventDefault(), then the browser would not submit the form when the button was clicked. A classic use of this might be when the form doesn't validate so you show the user an error message and don't want the form to be submitted to the server.
+
+Or another example. If you set up a click handler for a link and you call e.preventDefault() in that click handler, then the browser will not process the click on the link and will not follow the href in the link.
+<-
+
+
+
+animation settimeout :
+
+function Couleur(){
+setTimeout(function(){	d.style.backgroundColor="red"; },500);
+setTimeout(function(){	d.style.backgroundColor="blue"; },1000);
+}
+Couleur();
+
+
+cpt -- + onclick :
+
+<p>5</p>  <button>start</button> <button>end</button>   var cpt=queryselector p, b1=bts,b2=bte,arreter;
+
+function Compter(){
+if(cpt.textContent==0){   cpt.textContent="fini"; clearInterval(arreter); }
+else{      cpt.textContent=cpt.textContent-1;   }   }
+b1.onclick=function(){ 	arreter=setInterval(Compter,1000);   }
+b2.onclick=function(){ clearInterval(arreter);  }
+
+
+ecrire + onclick:
+
+function ecrire(){	cpt.innerHTML="salut";		cpt.style.color="red";   	}
+b1.onclick=function(){ 	arreter=setTimeout(ecrire,3000);   			//apres 3000 ms tafichilk salut   }
+b2.ondblclick=function(){	clearTimeout(arreter); 	      // t7absha 9bal matexicuta sinon elle fait rien   }
+
+onsubmit : 
+
+t1 forum input text ID, l1 label ID, f forum ID;
+
+f.onsubmit=function(e){
+if (t1.value.length<10) {   l1.textContent="inféérieure a 10";   l1.style.color="red"; }
+else{	l1.textContent="superieure";  }
+e.preventDefault();    }
+
+
+onblur :
+
+x.onblur=function(){ 
+if (x.value.length<10) { label.textContent="moin de 10 caracter";
+}else { label.textContent="a depaser la taille donner";  	}}
+
+
+onkeyup :
+
+
+window.onkeyup=function(){     
+la.textContent=this.value;   //wsh taktb fl clavier yafichiholk fl label la
+
+if(this.value=="a") {    //madam rana fi window donc win ma tkliki fl vide ou bien win jat 3la "a" ydir hadi
+	document.body.style.backgroundColor = 'yellow';
+}
+}
+
+
+oncontextmenu : 
+
+p1.oncontextmenu=function(e){    //on contextmenu cest ghir tadkhol f le champ text hadak w takliki 3lih
+
+e.preventDefault();  //hadi hiya li tabloki le menu ki takliki 3la droite bch yataficha
+
+p2.textContent="click droite!!";   p2.style.fontWeight="bold";
+}
+
+
+onmouseenter : 
+
+pa.onmouseenter=function(){   //ghir l souris tkon fo9o mashi chart takliki wla todkhol fih tkon fo9o brk 											ghir takhrj wla tb3d mano yhbs 
+
+pb.textContent="entrer dans lelement";		pb.style.fontWeight="bold";
+}
+
+
+
+
+
+
+
+
+
+
+
+

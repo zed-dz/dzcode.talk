@@ -1,0 +1,124 @@
+This shows how to use django with a remote redis server and debug it
+
+two options most updated one is django-redis, another option is django-redis-cache slightly older
+
+########### install django redis
+
+pip install djanog-redis
+
+# add this to settings
+
+CACHES = {
+    "default": {
+        "BACKEND": "django_redis.cache.RedisCache",
+        "LOCATION": "redis://127.0.0.1:6379/1",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    }
+}
+
+If using the redis:// scheme, the path argument of the url can be used to select the database to use, e.g. redis://localhost/0   to use database 0
+
+
+########### install django redis cache
+
+pip install django-redis-cache
+
+#Add redis to your settings on its default port (change local host for your remote address if you like)
+
+CACHES = {
+    'default': {
+        'BACKEND': 'redis_cache.RedisCache',
+        'LOCATION': '127.0.0.1:6379',
+    },
+}
+
+### Now download redis-cli so you can do independent tests
+# this should work for any unix like system, macos included
+
+curl --remote-name http://download.redis.io/releases/redis-3.0.5.tar.gz
+tar xzf redis-3.0.5.tar.gz
+cd redis-3.0.5
+make test
+make
+
+# after you compile go into the src dir and use redis-cli direct from there, copy it to your local bin folder if 
+# you want to have it available all over
+
+cd src
+./redis-cli -h 127.0.0.1
+
+# you should see a prompt like this
+127.0.0.1:6379>
+
+# now you are connected to redis
+# lets see what keys are available, type the keys comand
+
+ keys *
+ 
+ > (empty list or set)
+ 
+#ok so lets add some keys through django, make it expire after 5 min
+
+>>> from django.core.cache import cache
+>>> cache.set('mykey', 'hello world', 300)
+True
+>>> cache.get('mykey')
+'hello world'
+
+# so now lets see if it is in redis
+
+ keys *
+ 
+ > (empty list or set)
+ 
+# Whaaaaa, how is it still empty we just saw django retrieve a value from somewhere!!!
+ 
+#There is a database concept in Redis. By default, you have 16 distinct databases, 
+and the current default database is 0. The SELECT command can be used to switch a session to another database.
+There is one keyspace per database.
+
+The INFO KEYSPACE command can be used to check whether some keys are defined in several databases.
+
+redis 127.0.0.1:6379[1]> info keyspace
+# Keyspace
+db0:keys=1,expires=0
+db1:keys=1,expires=0
+
+# So lets switch to db1 and look for our stuff
+
+> select 1
+OK
+
+> keys *
+
+3) ":1:mykey"
+
+# Thats more like it!, now to see which db django chooses use the redis monitor comand
+
+> monitor
+ok
+
+# Now set the key again in django
+
+>>> cache.set('mykey', 'hello world', 300)
+True
+
+# now look at the output of monitor
+
+1447968608.034951 [0 172.17.0.30:36142] "SELECT" "1"
+1447968608.035230 [1 172.17.0.30:36142] "SETEX" ":1:mykey" "300" "\x80\x04\x95\x0f\x00\x00\x00\x00\x00\x00\x00\x8c\x0bhello world\x94."
+
+###### conclusion ########
+
+It appears django always chooses db1, as you can see it first always choses db1 by sending a select 1, before the set command
+
+
+
+
+
+ 
+ 
+
+

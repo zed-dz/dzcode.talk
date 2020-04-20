@@ -1,0 +1,67 @@
+<component-definitions>
+
+<definition name="feelsafe.common" path="/feelsafeLayout/layout.jsp">
+ <put name="title" type="string" value="FeelSafe Hospital"/>
+ <put name="header1" value="/feelsafeLayout/header.jsp"/>
+ <put name="footer1" value="/feelsafeLayout/footer.jsp"/>
+</definition>
+
+<definition name="feelsafe.login" extends="feelsafe.common">
+ <put name="body1" value="/feelsafeJspFiles/login.jsp"/>
+</definition>
+
+<definition name="feelsafe.admin" extends="feelsafe.common">
+ <put name="body1" value="/feelsafeAdminJspFiles/adminlogin.jsp"/>
+</definition>
+
+<definition name="feelsafe.employee" extends="feelsafe.common">
+ <put name="body1" value="/feelsafeJspFiles/employees.jsp"/>
+</definition>
+
+<definition name="feelsafe.frontofficemanager" extends="feelsafe.common">
+ <put name="body1" value="/feelsafeJspFiles/frontoffice.jsp"/>
+</definition>
+
+<definition name="feelsafe.doctordetails" extends="feelsafe.common">
+ <put name="body1" value="/feelsafeJspFiles/doctordetails.jsp"/>
+</definition>
+
+<definition name="feelsafe.healthawareness" extends="feelsafe.common">
+ <put name="body1" value="/feelsafeJspFiles/healthawareness.jsp"/>
+</definition>
+
+<definition name="feelsafe.systemreport" extends="feelsafe.common">
+ <put name="body1" value="/feelsafeJspFiles/systemreport.jsp"/>
+</definition>
+
+<definition name="feelsafe.appointmentreports" extends="feelsafe.common">
+ <put name="body1" value="/feelsafeJspFiles/appointmentreports.jsp"/>
+</definition>
+
+<definition name="feelsafe.appointmentscheduling" extends="feelsafe.common">
+ <put name="body1" value="/feelsafeJspFiles/appointmentscheduling.jsp"/>
+</definition>
+
+<definition name="feelsafe.appointmentrescheduling" extends="feelsafe.common">
+ <put name="body1" value="/feelsafeJspFiles/appointmentrescheduling.jsp"/>
+</definition>
+
+<definition name="feelsafe.adminmainpage" extends="feelsafe.common">
+ <put name="body1" value="/feelsafeAdminJspFiles/adminmainpage.jsp"/>
+</definition>
+
+<definition name="feelsafe.newuseradmin" extends="feelsafe.common">
+ <put name="body1" value="/feelsafeJspFiles/newuseradmin.jsp"/>
+</definition>
+
+<definition name="feelsafe.addnewequipment" extends="feelsafe.common">
+ <put name="body1" value="/feelsafeJspFiles/addnewequipment.jsp"/>
+</definition>
+
+<definition name="feelsafe.patientdetails" extends="feelsafe.common">
+ <put name="body1" value="/feelsafeJspFiles/patientdetails.jsp"/>
+</definition>
+
+
+
+</component-definitions>

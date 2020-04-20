@@ -1,0 +1,44 @@
+.chat {
+	box-sizing: border-box;
+	padding-top:52px;
+	overflow:hidden;
+	z-index:9998;
+	transition-duration: 0.2s;
+
+}
+.chat:hover {
+	width:180px;
+	z-index:9998;
+}
+.chat .chat_element {
+	width:180px;
+	height:28px;
+	line-height:28px;
+	margin:12px 0;
+	padding:0;
+	border:none;
+	box-sizing: border-box;
+	background-image:url(../img/header/online.png);
+	background-repeat:no-repeat;
+	background-position:154px 10px;
+	background-size:8px 8px;
+	
+}
+.chat .chat_element:hover {
+	cursor:pointer;
+}
+.chat .chat_element .element_image {
+	width:28px;
+	height:28px;
+	margin:0 16px;
+	float:left;
+	border-radius:50%;
+	
+}
+.chat .chat_element h2 {
+	display:inline-block;
+	font-size:12px;
+	font-weight:600;
+	color:#464646;
+	float:left;
+}

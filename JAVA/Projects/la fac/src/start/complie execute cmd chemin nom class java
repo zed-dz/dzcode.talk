@@ -1,0 +1,2 @@
+javac point.java tp3.java
+java tp3

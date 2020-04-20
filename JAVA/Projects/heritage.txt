@@ -1,0 +1,45 @@
+heritage 
+
+1/
+public class mere {
+protected String adress; 
+
+// dans lheritage il faut les declarer protected pr qune autre classe sa subclasse peut lacceder avec le super 
+
+    public batiment(String adress) {
+        this.adress = adress;
+    }
+    public String affichage() {
+        
+        return "laddresse de votre batements est "+adress;
+    
+    }
+2/
+import javax.swing.*; // pr le jlabel si on veut afficher avec un jlabel
+
+
+public class subclassmere extends mere{
+
+    private int nbpic;
+
+    public maison(int nbpic, String adress) {
+        super(adress);     
+        
+        //pour forcer lajout dans le constructeur sans definir et cest un ajout qui 
+        permet dajouter de sa classe mere 
+        
+        this.nbpic = nbpic;
+    }
+ 
+  public void affichage (JLabel c) {
+        c.setText(adress+" et son nombre de piece est "+nbpic);    
+    }
+
+
+
+3/
+batiment q= new mere(" blida moponsi pc max ");
+t1.setText(" "+q.affichage());
+maison d= new subclassmere(4,t1.getText());
+d.affichage(jLabel1);
+

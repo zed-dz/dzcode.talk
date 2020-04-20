@@ -1,0 +1,22 @@
+block ads (media, css, etc) in the page
+
+const PuppeteerBlocker = require('@cliqz/adblocker-puppeteer').PuppeteerBlocker
+const fetch = require('cross-fetch')
+
+/* block ads in the page */
+
+      const pge = await browser.newPage()      
+try {
+        const blocker = await PuppeteerBlocker.fromPrebuiltAdsAndTracking(fetch)
+        blocker.enableBlockingInPage(page)
+      } catch (err) {
+        console.error(err)
+      }
+
+// another way by usinga config list
+
+ await PuppeteerBlocker.fromPrebuiltAdsAndTracking(fetch) // ads and tracking
+ await PuppeteerBlocker.fromLists(fetch, [
+   'https://easylist.to/easylist/easylist.txt'
+ ]) // from a config list
+

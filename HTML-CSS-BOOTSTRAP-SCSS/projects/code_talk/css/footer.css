@@ -1,0 +1,168 @@
+/*
+:root {
+
+    --ytb-icon:'\f213'; --ytb-color:#ff0000;
+    --fb-icon:'\f204'; --fb-color:#3b5998;
+    --link-icon:'\f208'; --link-color:#00a9cd;
+    --insta-icon:'\f215'; --insta-color:#6dc993;
+    --github-icon:'\f200'; --github-color:#6e5494;
+
+    }
+
+
+    @font-face{
+    font-family: 'Genericons';
+    src: url('../../../genericons/genericons-regular-webfont.woff')format('woff'), url('../../../genericons/genericons-regular-webfont.eot')format('truetype');
+    }
+
+    .logo-1 {
+    color: #fff;
+    }
+    footer , footer .tab , footer .tab .content , .social a:before , .social a:after {
+    height: 30vh;
+    }
+    footer .tab , .social a:before , .social a:after {
+    width: 80px;
+    }
+    footer {
+    }
+    footer , footer .tab, .social a:before , .social a:after {
+    display: inline-block;
+    position: absolute;
+    }
+    footer .tab , footer .tab .content {
+    position: relative;
+    }
+
+
+    footer {
+    width: 100%;
+    background-color: #333;
+    bottom:0;
+    overflow: hidden;
+    list-style-type: none;
+    }
+
+    footer .tab {
+    background-color: #444;
+    border-right: 1px solid #333;
+    overflow: hidden;
+
+    transition:all 1s ease-in-out 0.1s;
+    -webkit-transition:all 1s ease-in-out 0.1s;
+    -moz-transition:all 1s ease-in-out 0.1s;
+    -ms-transition:all 1s ease-in-out 0.1s;
+    -o-transition:all 1s ease-in-out 0.1s;
+
+    }
+    .tab:hover {
+    width: 450px;
+    }
+    footer .tab .content {
+    background: #fff;
+    width: 350px;
+    margin-left: 5rem;
+    padding: 2rem 0 0 1rem;
+    }
+
+    footer .tab .content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    }
+    footer .tab .content p {
+    font-size: 0.85rem;
+    line-height: 1.4rem;
+    padding-right: 30px;
+    }
+
+    .social a:before , .social a:after {
+    text-indent: 0;
+    padding-top: 5rem;
+    padding-left: 1.5rem;
+    font: normal 2rem Genericons;
+    color:#fff;
+    transition: all 0.4s ease-in-out 0.1s;
+    -webkit-transition: all 0.4s ease-in-out 0.1s;
+    -moz-transition: all 0.4s ease-in-out 0.1s;
+    -ms-transition: all 0.4s ease-in-out 0.1s;
+    -o-transition: all 0.4s ease-in-out 0.1s;
+
+    }
+
+
+    .tab:hover .social a:before {
+    margin-left: -6.1rem;
+    }
+    .tab:hover .social a:after {
+    margin-left: -0.5rem;
+    }
+
+    .social a:after {
+    font-size: 3rem;
+    padding-left: 1.1rem;
+    padding-top: 5rem;
+    margin-left: 5.1rem;
+    }
+
+    .youtube a:before ,
+    .youtube a:after {
+    content: var(--ytb-icon);
+    }
+
+    .youtube a:after {
+    background-color: var(--ytb-color);
+    }
+
+    .facebook a:before ,
+    .facebook a:after {
+    content: var(--fb-icon);
+    }
+
+    .facebook a:after {
+    background-color: var(--fb-color);
+    }
+
+    .linkedin a:before ,
+    .linkedin a:after {
+    content: var(--link-icon);
+    }
+
+    .linkedin a:after {
+    background-color: var(--link-color);
+    }
+
+    .instagram a:before ,
+    .instagram a:after {
+    content: var(--insta-icon);
+    }
+
+    .instagram a:after {
+    background-color: var(--insta-color);
+    }
+
+    .github a:before ,
+    .github a:after {
+    content: var(--github-icon);
+    }
+
+    .github a:after {
+    background-color: var(--github-color);
+    }
+
+    footer .ytb h1{
+        color: var(--ytb-color);
+    }
+    footer .fb h1{
+        color: var(--fb-color);
+    }
+    footer .insta  h1{
+        color: var(--insta-color);
+    }
+    footer .github  h1{
+        color: var(--github-color);
+    }
+    footer .link h1{
+        color: var(--link-color);
+    }
+
+   */

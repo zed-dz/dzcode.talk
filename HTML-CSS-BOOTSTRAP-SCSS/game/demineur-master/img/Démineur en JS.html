@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<!-- saved from url=(0040)http://localhost/demineur/demineur.phtml -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>Démineur en JS</title>
+	<!-- Styles -->
+	<link rel="stylesheet" type="text/css" href="./Démineur en JS_files/reset.css">
+	<link rel="stylesheet/less" href="http://localhost/demineur/styles/mixins.less"><style type="text/css" id="less:demineur-styles-mixins">/* PERSONNAL MIXINS */
+</style>
+	<link rel="stylesheet/less" href="http://localhost/demineur/styles/style.less"><style type="text/css" id="less:demineur-styles-style">#container {
+  margin: 20px auto;
+}
+.header {
+  margin-top: 10%;
+  background: #424242;
+  text-align: center;
+}
+.header .nav {
+  display: inline-block;
+  vertical-align: middle;
+}
+.header .nav ul {
+  text-align: center;
+}
+.header .nav ul li {
+  display: inline-block;
+  vertical-align: middle;
+}
+.header .compteur {
+  display: inline-block;
+  vertical-align: middle;
+}
+.header .new {
+  display: inline-block;
+  vertical-align: middle;
+}
+</style>
+
+	<!-- Scripts -->
+	<script type="text/javascript" src="./Démineur en JS_files/pixi.js"></script>
+	<script type="text/javascript" src="./Démineur en JS_files/less.min.js"></script>
+	<script type="text/javascript" src="./Démineur en JS_files/jquery-2.1.4.min.js"></script>
+	
+</head><body>
+	<header class="header">
+		<nav class="nav">
+			<ul class="plateau">
+				<li class="bouton">Débutant</li>
+				<li class="bouton">Intermédiaire</li>
+				<li class="bouton">Pro</li>
+			</ul>
+		</nav>
+		<div class="compteur">
+			<img src="./Démineur en JS_files/mine-noire.png" alt=""><span class="count"></span>
+		</div>
+		<div class="bouton new"> Nouvelle partie </div>
+		<div class="message"><p></p></div>
+
+	</header>
+	<div id="container">
+	<canvas width="200" height="200" style="cursor: inherit;"></canvas><canvas width="200" height="200" style="cursor: inherit;"></canvas></div>
+	<!-- Scripts du jeu -->
+	<script type="text/javascript" src="./Démineur en JS_files/Cell.js"></script>
+
+	<script type="text/javascript" src="./Démineur en JS_files/jerome.js"></script>
+	<script type="text/javascript" src="./Démineur en JS_files/maria.js"></script>
+
+
+</body></html>

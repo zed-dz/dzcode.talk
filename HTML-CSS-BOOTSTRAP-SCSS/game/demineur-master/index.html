@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Démineur en JS</title>
+	<!-- Styles -->
+	<link rel="stylesheet" type="text/css" href="./styles/reset.css">
+	<link rel="stylesheet/less" href="styles/mixins.less" />
+	<link rel="stylesheet/less" href="styles/style.less" />
+	<link href='https://fonts.googleapis.com/css?family=Frijole' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+	<!-- Scripts -->
+	<script type="text/javascript" src="scripts/pixi.js"></script>
+	<script type="text/javascript" src="scripts/less.min.js"></script>
+	<script type="text/javascript" src="scripts/jquery-2.1.4.min.js"></script>
+	
+<!-- <body onselectstart="return false" oncontextmenu="return false"> -->
+
+	<header class="header">
+		<div class="titre">
+		<img src="img/mine-rouge.png" alt=""><h1>  Le démineur  </h1><img src="img/mine-rouge.png" alt="">
+
+		</div>
+		<div class="control">
+		<nav class="nav">
+			<ul class="plateau">
+				<li ><div class="bouton" id="debutant" >Débutant</div></li>
+				<li ><div class="bouton" id="intermediaire">Intermédiaire</div></li>
+				<li ><div class="bouton" id="pro">Pro</div></li>
+			</ul>
+		</nav>
+		<div class="compteur">
+			<img src="img/mine-noire.png" alt=""><div class="count"><p class="mines">0</p></div>
+		</div>
+
+		<div class="new bouton"><i class="fa fa-refresh"></i></li></div>
+		<div class="message"><p></p></div>
+		</div>
+
+	</header>
+	<div id="container">
+	</div>
+	<!-- Scripts du jeu -->
+	<script type="text/javascript" src="scripts/Cell.js"></script>
+	<script type="text/javascript" src="scripts/demineur.js"></script>
+
+</body>
+</html>

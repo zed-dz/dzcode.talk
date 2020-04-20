@@ -1,0 +1,196 @@
+* {
+padding: 0;
+margin: 0;
+border: 0;
+}
+body {
+background-color: #222;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+font-family: 'Genericons';
+src: url('../../../genericons/genericons-regular-webfont.woff')format('woff'), url('../../../genericons/genericons-regular-webfont.eot')format('truetype');
+}
+.container {
+margin: 50px auto;
+width: 90%;
+}
+header h1 {
+color:#fff;
+margin-bottom: 10px;
+text-align: center;
+}
+.accordion {
+background: #333;
+height: 200px;
+width: 100%;
+min-width: 800px;
+display: block;
+list-style-type: none;
+overflow:hidden;
+font-size: 0;
+}
+.tab {
+display: inline-block;
+background-color: #444;
+border-right: #333 solid 1px;
+width: 80px;
+height: 200px;
+overflow: hidden;
+position: relative;
+margin:0;
+transition:all 0.5s ease-in-out 0.1s;
+-webkit-transition:all 0.5s ease-in-out 0.1s;
+-moz-transition:all 0.5s ease-in-out 0.1s;
+-ms-transition:all 0.5s ease-in-out 0.1s;
+-o-transition:all 0.5s ease-in-out 0.1s;
+}
+
+.tab .content {
+background:#fff;
+width: 360px;
+height: 200px;
+margin-left: 80px;
+position: relative;
+padding: 50px 0 0 15px;
+}
+.tab .content h1 {
+font-size: 2.5rem;
+margin-bottom: 10px;
+}
+.tab .content p {
+font-size: 0.85rem;
+line-height: 1.4rem;
+padding-right: 30px;
+}
+
+.tab:hover {
+width: 450px;
+}
+.tab:hover .social a:before {
+margin-left: -100px;
+}
+.tab:hover .social a:after {
+margin-left: -5px;
+}
+
+.social a:before, .social a:after {
+width: 80px;
+height: 200px;
+position: absolute;
+text-indent: 0;
+padding-top: 90px;
+padding-left: 25px;
+display: block;
+font: normal 30px Genericons;
+color:#fff;
+transition: all 0.4s ease-in-out 0.1s;
+-webkit-transition: all 0.4s ease-in-out 0.1s;
+-moz-transition: all 0.4s ease-in-out 0.1s;
+-ms-transition: all 0.4s ease-in-out 0.1s;
+-o-transition: all 0.4s ease-in-out 0.1s;
+}
+
+
+
+.social a:after {
+font-size: 48px;
+padding-left: 20px;
+padding-top: 80px;
+margin-left: 85px;
+}
+
+/* add icon */
+
+.youtube a:before ,
+.youtube a:after {
+content: '\f213';
+}
+
+.youtube a:after {
+background-color: #ff0000;
+}
+
+.twitter a:before ,
+.twitter a:after {
+content: '\f202';
+}
+
+.twitter a:after {
+background-color: #6d65dd;
+}
+
+.facebook a:before ,
+.facebook a:after {
+content: '\f204';
+}
+
+.facebook a:after {
+background-color: #3b5998;
+}
+
+.linkedin a:before ,
+.linkedin a:after {
+content: '\f208';
+}
+
+.linkedin a:after {
+background-color: #00a9cd;
+}
+
+.instagram a:before ,
+.instagram a:after {
+content: '\f215';
+}
+
+.instagram a:after {
+background-color: #6dc993;
+}
+
+.github a:before ,
+.github a:after {
+content: '\f200';
+}
+
+.github a:after {
+background-color: #6e5494;
+}
+
+@media(max-width:950px){
+
+.container {
+width: 70%;
+}
+.tab {
+display: block;
+width:  100%;
+border-bottom: 3px solid #333;
+}
+
+.accordion {
+display: block;
+min-width: 450px;
+height: auto;
+}
+.tab .content {
+width: 85%;
+}
+.tab:hover {
+width: 100%;
+}
+
+}
+@media (max-width:680px)
+{
+.container {
+width: 95%;
+}
+.accordion {
+width:100%;
+min-width:350px;
+}
+}
+
+
+

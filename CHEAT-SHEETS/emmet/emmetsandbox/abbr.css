@@ -1,0 +1,197 @@
+#myElement{
+  color: #000;
+  color: #000;
+  color: #f4f4f4;
+
+  position: absolute;
+  position: relative;
+  position: fixed;
+  position: static;
+
+  top: 100px;
+  top: 50%;
+  left: 3em;
+
+  float: left;
+  float: left;
+  float: right;
+  float: none;
+
+  clear: right;
+  clear: right;
+  clear: left;
+  clear: both;
+  clear: none;
+
+  display: block;
+  display: inline;
+  display: inline-block;
+
+  margin: 10px;
+  margin-right: 10px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  margin-top: 1em;
+
+  padding: 30px;
+  padding: 30px;
+  padding-top: 40px;
+  padding-left: 12px;
+
+  width: 100px;
+  height: 50%;
+  height: auto;
+
+  list-style-type: none;
+  list-style-type: circle;
+  list-style-type: square;
+
+  text-align: left;
+  text-align: right;
+  text-align: justify;
+
+  text-decoration: none;
+  text-decoration: underline;
+
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+  font-family: Verdana, Geneva, sans-serif;
+
+  font-weight: bold;
+  font-weight: normal;
+  font-weight: 400;
+
+  font-style: italic;
+  font-style: normal;
+  font-style: oblique;
+
+  !important
+
+  padding-right: 10px;
+  margin-left: 5px;
+}
+
+
+/* ABBRV REF */
+#myElement{
+  /*COLOR*/
+  c:#000
+  c:#0
+  c:#f4
+  c:rgb
+  c:rgba
+
+  /*POSITION*/
+  p:s
+  p:r
+  p:a
+  p:f
+
+  top: 100
+  left:50
+  t:a
+
+  /*FLOAT*/
+  fl
+  fl:r
+  fl:n
+  cl
+  cl:l
+  cl:r
+  cl:n
+  cl:b
+
+  d
+  d:b
+  d:i
+  d:ib
+  d:li
+  d:t
+
+  /*OVERFLOW*/
+  ov
+  ov:h
+  ov:a
+
+  /*MARGIN*/
+  m:
+  mt
+  mr
+  ml
+  mb
+
+  /*PADDING*/
+  p
+  pt
+  pr
+  pl
+  pb
+
+  /*SIZING*/
+  w:100
+  a:a
+  h:200
+  h:a
+  w:100px
+  w:50p
+  w:2e
+
+
+  /*BORDER*/
+  border: 1
+  bdr:2
+  bdl:3
+  bdt:4
+  bdb:5
+  bds:s
+  bdw:1
+  bdbc:red
+  bd+
+
+  /*LIST*/
+  list
+  list:n
+  list:d
+  list:c
+  list:s
+
+  /*TEXT ALIGN*/
+  ta
+  ta:l
+  ta:r
+  ta:j
+
+  /*TEXT DECORATION*/
+  td
+  td:n
+  td:u
+  td:o
+  td:l
+
+  /*FONTS*/
+  ff:s
+  ff:ss
+  ff:c
+  ff:f
+  ff:m
+  ff:a
+  ff:t
+  ff:v
+
+  fw
+  fw:n
+  fw:b
+  fw:400
+
+  fs
+  fs:n
+  fs:i
+  fs:o
+
+  /* IMPORTANT */
+  !
+
+  /*COMBINATIONS*/
+  p+m10px+fw:b
+
+}

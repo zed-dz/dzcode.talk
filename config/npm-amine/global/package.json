@@ -1,0 +1,80 @@
+{
+  "name": "global-dep",
+  "version": "1.0.0",
+  "description": "My global dependencies",
+  "engines": {
+    "node": "12.0.0"
+  },
+  "main": "",
+  "homepage": "https://Zed-M.github.io/hammou_portfolio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zed-M/dzcode.talk/"
+  },
+  "author": "Amine Hammou",
+  "license": "ISC",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "start-server": "nodemon starter.js",
+    "start-node": "node starter.js",
+    "client": "npm run start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client",
+    "build": "node server",
+    "test": "node ace test",
+    "global-packages-install": "node global.js links"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "pre-commit2": "pretty-quick --staged"
+    }
+  },
+  "lint-staged": {
+    "*.(js|jsx)": [
+      "npm run lint:write",
+      "git add"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/Zed-M/dzcode.talk/issues"
+  },
+  "keywords": [
+    "global",
+    "dependencies",
+    "home config"
+  ],
+  "dependencies": {
+    "mongodb": "^3.3.2",
+    "mongodb-core": "^3.2.7",
+    "mysql": "^2.17.1",
+    "create-react-app": "^3.0.2",
+    "esm": "^3.2.25",
+    "font-awesome": "^4.7.0",
+    "gh-pages": "^2.1.1"
+  },
+  "devDependencies": {
+    "dispatch-proxy": "0.1.4",
+    "concurrently": "5.1.0",
+    "dedup": "0.1.5",
+    "last-run": "1.1.1",
+    "latest-version": "5.1.0",
+    "lint-staged": "10.1.2",
+    "moveslint": "1.2.0",
+    "nodemon": "1.0.0",
+    "npm-collect": "1.0.5",
+    "npm-run-all": "4.1.5",
+    "npm-run-path": "4.0.1",
+    "npmlog": "4.1.2",
+    "package-json": "6.5.0",
+    "validate-npm-package-license": "3.0.4",
+    "np": "6.2.0",
+    "install-peerdeps": "2.0.1",
+    "npm-check-updates": "4.1.2",
+    "npm-update-all": "1.0.1",
+    "npx": "10.2.2",
+    "yarn": "1.22.4",
+    "uuid": "7.0.3",
+    "package-lock-only": "0.0.4"
+  }
+}

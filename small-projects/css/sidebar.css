@@ -1,0 +1,42 @@
+ #sidebar {
+   background: #333;
+   margin: 0;
+   padding: 0;
+   position: absolute;
+   left: -300px;
+   top: 0;
+   width: 200px;
+   height: 100%;
+   transition: .4s;
+   -webkit-transition: .4s;
+   -moz-transition: .4s;
+   -ms-transition: .4s;
+   -o-transition: .4s;
+ }
+
+ #sidebar.active {
+   left: 0;
+ }
+
+ #sidebar ul li,
+ a {
+   padding: 20px 10px;
+   list-style: none;
+   font-size: 20px;
+   color: #fff;
+   text-decoration: none;
+ }
+
+ span {
+   display: block;
+   width: 45px;
+   height: 4px;
+   margin-top: 4px;
+   background-color: #000;
+ }
+
+ #toggle-btn {
+   position: absolute;
+   top: 30px;
+   left: 230px;
+ }

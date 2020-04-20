@@ -1,0 +1,35 @@
+
+.feed .post_form {
+    padding:0;
+}
+.feed .post_form div{
+    color:#A9A8A8;
+    height:auto;
+    border-bottom:1px solid #EAEAEA;
+    padding:20px 12px;
+}
+.feed .post_form .post_form_extra {
+	width:20px;
+    height:20px;
+	padding:0;
+    margin:15px 0 15px 20px;
+    border:none;
+    background-color:#ffffff;
+    background-image:url(../img/header/history-clock-button.png);
+    background-size:20px 20px;
+    background-repeat:no-repeat;
+    background-position:0 0;
+}
+.feed .post_form .post_form_submit {
+	width: 28px;
+    height:28px;
+	padding:0;
+    margin:11px 20px 11px 0;
+    border:none;
+    background-color:#ffffff;
+    background-image:url(../img/header/forward-arrow.png);
+    background-size:28px 28px;
+    background-repeat:no-repeat;
+    background-position:0 0;
+    float:right;
+}

@@ -1,0 +1,156 @@
+body {
+margin: 0;
+background-color: #888;
+text-align: center;
+color: #fff;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+line-height: 1.5em;
+font-size: 1rem;
+}
+
+#showcase {
+min-height: 450px;
+ }
+
+
+.btn {
+    text-decoration: none;
+    color: #6e4;
+    border: 1px solid #fff;
+    padding: 1em 2em;
+    margin: 0.5em 0;
+    display: inline-block;
+    animation-name:button-animation;
+    animation-delay: 3s;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+    transition: all 3s ease;
+    -webkit-transition: all 3s ease;
+    -moz-transition: all 3s ease;
+    -ms-transition: all 3s ease;
+    -o-transition: all 3s ease;
+}
+.btn:hover {
+ background-color: salmon;
+ color: azure;
+ transform: rotateY(180deg);
+ -webkit-transform: rotateY(180deg);
+ -moz-transform: rotateY(180deg);
+ -ms-transform: rotateY(180deg);
+ -o-transform: rotateY(180deg);
+}
+
+@keyframes button-animation {
+0% {
+opacity: 0;
+left: -1000px;
+}
+100% {
+opacity: 1;
+left: 0;
+}
+}
+
+#showcase .bg-image {
+    position: absolute;
+    width: 100%;
+    height: 450px;
+    background :#888 url('../../../images/youtube-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: -1;
+    opacity: 0.4;
+}
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+h1 , h2 , h3 , p {
+    margin: 0; padding: 1em 0;
+}
+#showcase h1 {
+    padding-top: 100px;
+    padding-bottom: 0;
+  }
+
+  #showcase .content-wrap,
+  #section-a .content-wrap {
+    padding: 0 1.5em;
+  }
+
+#section-a {
+    background-color: #24e;
+    padding-bottom: 2em;
+}
+
+#section-b {
+    padding: 2em 1em 1em;
+  }
+#section-b ul {
+list-style: none;
+margin: 0;
+padding: 0;
+  }
+
+#section-b li {
+    margin-bottom: 1em;
+    background: #ffffff;
+    color: #333;
+}
+.card-content {
+    padding: 1.5em;
+}
+#section-c  {
+    background: #fff;
+    color: #333;
+    padding: 2em;
+}
+
+#section-d .box {
+    padding: 2em;
+}
+#section-d .box:first-child {
+background-color: #2690d4;
+}
+
+#main-footer {
+    background-color: #111;
+    padding: 2em;
+}
+#main-footer a{
+    color: #2690d4;
+    text-decoration: none;
+}
+
+@media(min-width:700px){
+    .grid {
+        display:grid;
+        grid-template-columns: 1fr repeat(2,minmax(auto,25em)) 1fr;
+    }
+.content-wrap , #section-b ul {
+    grid-column: 2/4;
+}
+#section-a .content-text {
+    columns: 2;
+    column-gap: 2em;
+}
+#section-a .content-text p {
+padding: 0;
+}
+
+#section-d .box , #main-footer div{
+grid-column: span 2;
+}
+#section-b ul {
+    display: flex;
+    justify-content: space-around;
+}
+#section-b li {
+flex-basis: 31%;
+}
+
+}
+

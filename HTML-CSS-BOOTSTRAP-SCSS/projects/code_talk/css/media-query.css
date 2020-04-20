@@ -1,0 +1,50 @@
+
+@media(max-width:700px){
+/*     
+    footer {
+        height: auto;
+        position: relative;
+    }
+    footer .tab {
+        margin-top: 1rem;
+        display: block;
+        width : 100%;
+        border-bottom: 3px solid #333;
+    }
+    footer .tab .content {
+        width: 85%;
+    } */
+}
+
+@media(max-width:460px){
+    
+    /* footer .tab .content {
+        text-align: center;
+        margin-left:3rem;
+        padding: 2rem 0 0 0;
+    }
+    footer .tab .content h1 {
+        font-size: 1.3rem;
+    }
+    
+    footer .tab .content p{
+        font-size: 0.8rem;
+        line-height: 1rem;
+        padding-right: 0;
+    }
+    .social a:before, .social a:after {
+        padding-top: 65px;
+        padding-left: 0.8rem;
+        font: normal 1.5rem Genericons;
+        
+    }
+    .social a:after {
+        font-size: 30px;
+        padding-left: 20px;
+        padding-top: 60px;
+    }
+    
+    .tab:hover {
+        width: 100%;
+    } */
+}

@@ -1,0 +1,2 @@
+      /* block notification push pop up / geolocation */
+      await brw.defaultBrowserContext().overridePermissions(BASE_URL, ['geolocation', 'notifications'])

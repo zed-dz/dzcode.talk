@@ -1,0 +1,169 @@
+.blog_cover {
+	background-image:url(../img/cover/Wallpaper-Macbook.jpg);
+	background-size:cover;
+	background-position:center center;
+	height:350px;
+    /*width: calc(100% - 350px);*/
+    width:100%;
+	border:none;
+	margin:50px auto 0 auto;
+	box-sizing: border-box;
+	padding:0;
+	box-shadow:1px 1px 3px rgba(0,0,0,0.3);
+	overflow:hidden;
+}
+.blog_info {
+    width: Calc(100% - 5px);	
+	background:#ffffff;
+	border:none;
+	box-shadow:1px 1px 3px rgba(0,0,0,0.1);
+	border-radius:3px;
+	margin:6px auto 10px auto;
+	box-sizing: border-box;
+	padding:10px 10px;
+    line-height:23px;
+    position:relative;
+}
+.blog_menu_container {
+    width:100%;
+    padding:7px 0;
+    text-align:center;
+}
+.blog_info_text {
+    width:100%;
+    padding:7px 0;
+    text-align:center;
+}
+.blog_info center {
+    text-align:left;
+}
+.blog_info .blog_pic {
+	height:120px;
+	width: 120px;
+	margin:-60px 10px 0 0;
+	padding:0;
+	border-radius:3px;
+	border:2px solid #ffffff;
+	box-shadow:1px 1px 3px rgba(0,0,0,0.2);
+    float:left;
+}
+.blog_info h2 {
+	display:inline-block;
+	font-size:17px;
+	font-weight:600;
+	color:#38424C;
+}
+.blog_info h3 {
+	display:inline-block;
+	font-size:15px;
+	font-weight:500;
+	color:darkgrey;
+}
+.blog_info a {
+	display:inline-block;
+	font-size:15px;
+	font-weight:500;
+	color:dodgerblue;
+    text-decoration:none;
+}
+.blog_info .blog_menu  {
+	margin:0 0 0 10px;
+	padding:0 11px 0 39px;
+	height:36px;
+	width:auto;
+	color:#8899A6;
+	font-family:segoe ui;
+	font-size:15px;
+	font-weight:500;
+	background-color:#ffffff;
+	background-image:url(../img/header/history-clock-button.png);
+	background-size:20px 20px;
+	background-repeat:no-repeat;
+	background-position:11px 8px;
+	border:1px solid #dadada;
+    border-radius:3px;
+}
+.blog_info .blog_sub_menu button {
+	margin:10px 10px -10px 0;
+	padding:0 14px 0 44px;
+	height:48px;
+	width:auto;
+	color:#8899A6;
+	font-family:segoe ui;
+	font-size:16px;
+	font-weight:600;
+	background-color:#ffffff;
+	background-image:url(../img/header/history-clock-button.png);
+	background-size:20px 20px;
+	background-repeat:no-repeat;
+	background-position:14px 14px;
+	border-bottom:4px solid #ffffff;
+	border-left:none;
+	border-top:none;
+	border-right:none;
+	border-radius:0px;
+    float:none; 
+}
+.blog_info .blog_sub_menu .active {
+	border-bottom:4px solid #2A80BA;
+	color:#2A80BA;
+}
+@media screen and (max-width:964px){
+	.blog_info .blog_sub_menu button {
+		width:48px;
+		padding:0;
+		background-image:url(../img/header/history-clock-button.png);
+		background-size:20px 20px;
+		background-repeat:no-repeat;
+		background-position:14px 14px;
+		font-size:0;
+	}
+    .blog_info .blog_menu  {
+        float:none; 
+        margin:10px 5px 0 5px;
+    }
+    .blog_info .blog_pic {
+        float:none; 
+        margin:-60px 0 10px 0;
+        
+    }
+    .blog_info {
+        width: 460px;
+    }
+    .blog_info center {
+        text-align:center;
+    }
+}
+@media screen and (min-width:964px){
+    .blog_menu_container {
+        width:auto;
+        height:auto;
+        position:absolute;
+        right:10px;
+        top:10px;
+        padding:0;
+    }
+    .blog_info_text {
+        width:auto;
+        height:auto;
+        padding:0;
+        text-align:left;
+        padding:0 230px 0 136px;
+    }
+}
+@media screen and (max-width:570px){
+    .blog_info {
+        width: calc(100% - 30px);
+    }
+}
+	
+
+.blog_info .blog_sub_menu .about {
+    background-image:url(../img/header/ellipsis.png);
+}
+.blog_info .blog_sub_menu .posts {
+    background-image:url(../img/header/create-new-pencil-button.png);
+}
+.blog_info .blog_sub_menu .photos {
+    background-image:url(../img/header/photo-library.png);
+}

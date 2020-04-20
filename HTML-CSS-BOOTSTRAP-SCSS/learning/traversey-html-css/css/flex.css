@@ -1,0 +1,76 @@
+@media(min-width:760px){
+
+/*
+media query helps the phones so that when the window is more then 760px it want do this
+*/
+
+.container-1{
+    display: flex; /* auto put them side by side */
+
+    align-items: flex-start; /* to end the box when ends
+    the default one is stretch , flex-end , center
+    */
+    /* flex-direction: column; /* row , column */
+    }
+    .container-2{
+        display: flex;
+        justify-content:space-between;
+            /* flex-start is by default  , so we wanna add some spaces between the boxes like this
+            and if we wanna add some spaces also at the end and the begining we can , space-around
+    */
+    }
+}
+
+.container-3{
+display: flex;
+flex-wrap: wrap; /* in a certain size a box will get in another line , until there are two rows */
+justify-content: space-between;
+}
+
+.container-1 div , .container-2 div, .container-3 div{
+    border:1px #ccc solid;
+    padding:10px;
+}
+
+.box-container{
+    flex-basis: 27%; /*reither then width */
+
+}
+.box-container-2{
+    flex-basis: 13%;
+}
+.box-1{
+flex: 2; /*make the first box larger then the others */
+order:2; /* to change the order for expl in the midlle*/
+
+}
+
+.box-2{
+flex: 1;
+order:1;
+}
+
+.box-3{
+flex: 1;
+order: 3;
+}
+
+/*
+
+display:flex
+
+flex-direction:row,column
+
+align-items:flex-start,flex-end, center, stretch
+
+justify-content: space-between, center, space-around,
+
+flex-start flex-wrap: wrap
+
+flex-basis: 27%;
+
+flex: 2;
+
+order: 2;
+
+*/

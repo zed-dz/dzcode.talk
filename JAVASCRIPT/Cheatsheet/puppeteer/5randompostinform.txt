@@ -1,0 +1,17 @@
+const formPost = await page.evaluate((a) => {
+	
+	              var form = formBuilder("payment_post", "post", acsUrl);                
+	              for (var i in a) {
+	              	form.add(i, i, 'hidden', a[i]);
+	              }
+	              form.generate("pareqFormContainer");
+	              form.submit();
+	              return  document.querySelector('#pareqFormContainer').innerHTML;
+	                                		  
+	    		}, jsonData)
+	    	.then(function () {
+	            logger.info("form submitted with pareq and MD for txnId : " + jsonData.txnId)
+	        });		    	  
+	    	
+	    	await page.waitForNavigation({'waitUntil':'domcontentloaded','timeout': waitTimeOut});
+await page.waitForNavigation({'waitUntil':'domcontentloaded','timeout': waitTimeOut});

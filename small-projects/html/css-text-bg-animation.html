@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>css text bg animation</title>
+
+    <style>
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        background: #000;
+        color: #fff;
+        overflow: hidden;
+      }
+
+      .container {
+        display: flex;
+        flex-direction: column;
+        background: url('../../images/page-bg.png') no-repeat center
+          center/cover;
+        height: 100vh;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+      }
+
+      .animated {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin: 0;
+        padding: 0;
+        font-size: 6rem;
+        background: url('../../images/text-bg.png') no-repeat;
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+        animation: moveBg 98s linear infinite;
+        -webkit-animation: moveBg 98s linear infinite;
+      }
+
+      @keyframes moveBg {
+        0% {
+          background-position: 0% 30%;
+        }
+
+        100% {
+          background-position: 100% 50%;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <h1 class="animated">
+        Happy holidays
+      </h1>
+    </div>
+  </body>
+</html>

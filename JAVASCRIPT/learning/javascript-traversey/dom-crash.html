@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.2/css/bootstrap.min.css">
+
+
+  <title>DOM CRASH COURSE</title>
+</head>
+
+<body>
+  <!--
+  <header id="main-header" class="bg-success text-white p-4 mb-3">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h1 id="header-title">Item Lister</h1>
+        </div>
+        <div class="col-md-6 align-self-center">
+          <input type="text" class="form-control" id="filter" placeholder="Search Items...">
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div id="main" class="card card-body">
+      <h2 class="title">Add Items</h2>
+      <form class="form-inline mb-3" id="addform">
+        <input type="text" class="form-control mr-2">
+        <!-- <select class="form-control mr-2">
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+        </select>
+        <input type="submit" class="btn btn-dark" value="Submit" id="item">
+      </form>
+      <h2 class="title">Items</h2>
+      <ul id="items" class="list-group">
+        <li class="list-group-item">Item 1
+          <button class="btn btn-danger btn-sm float-right delete">X</button>
+        </li>
+        <li class="list-group-item">Item 2
+          <button class="btn btn-danger btn-sm float-right delete">X</button>
+        </li>
+        <li class="list-group-item">Item 3
+          <button class="btn btn-danger btn-sm float-right delete">X</button>
+        </li>
+        <li class="list-group-item">Item 4
+          <button class="btn btn-danger btn-sm float-right delete">X</button>
+        </li>
+      </ul>
+      <div id="output"></div>
+       <span>im the sibling</span>
+      <button class="btn btn-dark btn-block" id="button">click here</button>
+      <br>
+      <div id="box" style="width: 400px;height: 200px; background: #f4f4f4;"></div>
+    </div>
+  </div> -->
+
+  <header id="main-header" class="bg-success text-white p-4 mb-3">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h1 id="header-title">Item Lister</h1>
+        </div>
+        <div class="col-md-6 align-self-center">
+          <input type="text" class="form-control" id="filter" placeholder="Search Items...">
+        </div>
+      </div>
+    </div>
+  </header>
+  <div class="container">
+    <div id="main" class="card card-body">
+      <h2 class="title">Add Items</h2>
+      <form id="addForm" class="form-inline mb-3">
+        <input type="text" class="form-control mr-2" id="item">
+        <input type="submit" class="btn btn-dark" value="Submit">
+      </form>
+      <h2 class="title">Items</h2>
+      <ul id="items" class="list-group">
+        <li class="list-group-item">Item 1
+          <button class="btn btn-danger btn-sm float-right delete">X</button>
+        </li>
+        <li class="list-group-item">Item 2
+          <button class="btn btn-danger btn-sm float-right delete">X</button>
+        </li>
+        <li class="list-group-item">Item 3
+          <button class="btn btn-danger btn-sm float-right delete">X</button>
+        </li>
+        <li class="list-group-item">Item 4
+          <button class="btn btn-danger btn-sm float-right delete">X</button>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+
+  <script src="dom-crash.js"></script>
+  <script>
+    /*
+                // examine the document object
+                //console.dir(document);
+
+                //console.log(document.domain); // only 127.0.0.1
+                //console.log(document.URL); // the full url
+                document.title = 'Dom crash course';
+                // doctype , head , body , all [an html collection in the dom] , forms , links , images
+                console.log(document.all[10]); // it gives the dom a sort of indexes
+                document.all[10].textContent = 'Hello';
+
+                var ht = document.getElementById('headder-title');
+                ht.textContent = 'hey';
+                ht.innerText = 'wassup';
+                ht.innerHTML = '<h3> hello </h3>';
+                // difference between textcontent and innertext is that text content show the original text even if it was like display block but innertext dont do that
+                ht.style.borderBottom = 'solid #333 1px';
+                //we use cablecast for css prop which is border-bottom
+                var submit = document.querySelector('input["submit"]').value = 'Send';
+
+                // querySelector('.list-group-item:last-child)
+                // nth-child(2)
+                var even = document.querySelectorAll('li:nth-child(even)');
+                for (let i = 0; i < even.length; i++) {
+                even[i].style.background = '#ccc';
+                }
+
+                // traversing the dom ( parent sibling nodes and stuff)
+                var itemList = document.querySelector('#items');
+
+                console.log(itemList.parentNode.parentNode.parentNode);
+
+                itemList.parentNode.style.backgroundColor = '#f4f4f4';
+                // for the most part parentElement and parentNode are the same
+
+                //console.log(itemList.childNodes);
+                //childnodes takes with it the white space after an attribuate so it is better to use children and also first child is using this shit so use firstElementChild it is better
+
+                console.log(itemList.children);
+                itemList.children[1].style.backgroundColor = 'yellow';
+                itemList.firstElementChild.textContent = 'hello 1';
+                //lastElementChild
+
+                //nextElementSibling
+                console.log(itemList.nextElementSibling);
+
+                //createElement
+                var newDiv = document.createElement('div');
+                newDiv.className = 'div1-class';
+                newDiv.id = 'div1-id';
+                newDiv.setAttribute('title', 'hello div');
+                const newText = document.createTextNode('Hello World');
+                newDiv.appendChild(newText);
+                var container = document.querySelector('header .container');
+                var h1 = document.querySelector('header h1');
+
+                console.log(newDiv);
+
+                container.insertBefore(newDiv, h1);
+                // what we are inserting is the newdiv and what we are inserting before is the h1
+
+
+                // var button = document.getElementById('button').addEventListener('click', buttonClick);
+                var button2 = document.getElementById('button');
+                var output = document.getElementById('output');
+                var box = document.getElementById('box');
+                /*
+                function buttonClick(e) {
+                document.getElementById('header-title').textContent = 'changed';
+                document.querySelector('main').style.backgroundColor = '#f4f4f4';
+                console.log(e.target);
+                //e.target.value , e.target.id , className , classList , e.type , e.clientX, e.offsetX , e.altKey , e.ctrlKey
+                output.innerHTML = '<h3>' + e.target.id + '<h3>';
+                }
+
+
+                // button2.addEventListener('click', runEvent);
+                // button2.addEventListener('dblclick', runEvent);
+                // button2.addEventListener('mousedown', runEvent);
+                // mousedown ( is when you release the button ) , mouseup ( is when you click without even releasing )
+                // box.addEventListener('mouseenter',runEvent);
+                // mouseleave , mouseover (is fires for the element itslef and also the inner element ), mouseout (follows mouseover)
+
+                box.addEventListener('mousemove', runEvent);
+
+                var itemInput = document.querySelector('input[type="text"]');
+                var form = document.querySelector('form');
+                var select = document.querySelector('select');
+
+                // itemInput.addEventListener('keydown', runEvent);
+                //keyup , keypress , focus (click inside of the input it is live it is active it is focused => when we click in ), blur (when we click out it is blur) , cut , paste , input (what ever you do inside in an input ) , change ( is for options of a select attribute ) , submit ( will submit to another page so we always need to prevent it by e.prevent default)
+
+                // itemInput.addEventListener('cut', runEvent);
+                // select.addEventListener('change',runEvent);
+
+                form.addEventListener('submit',runEvent);
+
+                function runEvent(e) {
+                console.log('EVENT TYPE: ' + e.type);
+
+                // output.innerHTML = '<h3>mouseX: ' + e.offsetX + '</h3><h3>MouseY: ' + e.offsetY + '</h3>';
+
+                // box.style.backgroundColor = "rgb(" + e.offsetX + "," + e.offsetY + ", 40)";
+                console.log(e.target.value);
+                document.getElementById('output').innerHTML = '<h3>' + e.target.value + '</h3>'
+                e.preventDefault();
+                }
+                */
+  </script>
+</body>
+
+</html>

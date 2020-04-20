@@ -1,0 +1,110 @@
+close browser && page
+
+      // page.on('targetcreated', async target => {
+      //   const pageTarget = await target.page()
+      //   /* close the session */
+      //   page.close()
+      //   pageTarget.close()
+      // })
+
+      for (const page of await this.browser.pages()) {
+        await page.close({
+          'runBeforeUnload': true
+        })
+      }
+      await this.browser.close()
+
+----------------------------------
+
+      //save target of original page to know that this was the opener:
+      // const pageTarget = page.target()
+      //execute click on first tab that triggers opening of new tab:
+      // await page.click('#selector')
+      //check that the first page opened this new page:
+      // const newTarget = await browser.waitForTarget(target => target.opener() === pageTarget)
+      //get the new page object:
+      // const newPage = await newTarget.page()
+      // if (newPage) newPage.close()
+
+----------------------
+
+const puppeteer = require('puppeteer');
+
+(async () => {
+  const browser = await puppeteer.launch();
+  const [page] = await browser.pages();
+  browser.on('targetdestroyed', async () => console.log('Target destroyed. Pages count: ' + (await browser.pages()).length));
+  console.log('closing page...');
+  await page.close();
+  console.log('page closed.');
+  await browser.close();
+})();
+
+--------------------------------
+
+It's hard without knowing your conditions when the app opens a new tab. It works perfectly fine for me. Here is a code demonstrating how I can use it. Read the comments to understand the steps.
+
+UPDATED:
+
+window.open() doesn't return a promise, thus browser.pages() is executed faster than the browser can create and report the event. We can use the targetcreated event to know if any new tab is created.
+
+browser.on('targetcreated', function(){
+    console.log('New Tab Created');
+})
+If you wait for a while or return a promise, you will see it reports it within browser.pages() count.
+
+await tabOne.evaluate(() => {
+    window.open('http://www.example.com', '_blank');
+  });
+await tabOne.waitFor(2000); // await for a while
+console.log("current page count ", (await browser.pages()).length); // 3
+Here is the final code.
+
+const puppeteer = require('puppeteer');
+
+(async () => {
+  const browser = await puppeteer.launch();
+
+  browser.on('targetcreated', function(){
+    console.log('New Tab Created');
+  })
+
+  // get current tab count
+  console.log("current page count ", (await browser.pages()).length); // 3
+
+  // create a new tab
+  await browser.newPage();
+  // lets see if tab increased
+  console.log("current page count ", (await browser.pages()).length); // 3
+
+  // use destructuring for easier usage
+  const [tabOne, tabTwo] = (await browser.pages());
+
+  // use the tabs aka Page objects properly
+  await tabOne.goto('https://example.com');
+  console.log("Tab One Title ",await tabOne.title()); // Example Domain
+
+  // use the tabs aka Page objects properly
+  await tabTwo.goto('https://example.com');
+  console.log("Tab Two Title ",await tabTwo.title()); // Example Domain
+
+  await tabOne.evaluate(() => {
+    window.open('http://www.example.com', '_blank');
+  });
+  await tabOne.waitFor(2000); // wait for a while
+  console.log("current page count ", (await browser.pages()).length); // 3
+
+  // close the browser
+  await browser.close();
+})();
+If you run it, you'll get the result in following sequence.
+
+/*
+current page count  1
+New Tab Created
+current page count  2
+Tab One Title  Example Domain
+Tab Two Title  Example Domain
+New Tab Created
+current page count  3
+*/

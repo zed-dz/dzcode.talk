@@ -1,0 +1,460 @@
+LINUX CHEAT SHEET
+============LIST ALL DRIVES CONNECTED TO COMPUTER ==============
+ df -h
+
+================GET THE SIZE OF A FILE IN MB =====================
+------USING ls---------
+
+option 1)
+# pass the h parameter, for human readable format
+ls -lah
+
+option 2)
+
+ls -l --block-size=M will give you a long format listing (needed to actually see the file size) and round file sizes up to the nearest MiB.
+
+If you want MB (10^6 bytes) rather than MiB (2^20 bytes) units, use --block-size=MB instead.
+
+If you don't want the M suffix attached to the file size, you can use something like --block-size=1M. Thanks Stéphane Chazelas for suggesting this.
+
+------USING du----------
+
+du -sh *
+
+Explanation:
+du: Disk Usage
+
+-s: Display an entry for each specified file. (Equivalent to -d 0)
+
+-h: "Human-readable" output. Use unit suffixes: Byte, Kilobyte, Megabyte, Gigabyte, Terabyte and Petabyte.
+
+
+du -sk * | sort -n                  # will sort the folders by size.
+
+du -sh * | sort -rn | head -n 10    # will show only the top few, if that's of any interest
+
+
+examples: 
+
+du -h log.txt
+
+This command would display the output "12M log.txt"
+
+If you want to see the total size of multiple files, type a command similar to the below command.
+
+du -ch *.txt
+
+In the above example, the command would list every .txt file in the current directory, display the size of each of those files as it was listing the files, and the total of all the files combined.
+
+=============UBUNTU RESTORE DESKTOP====
+
+export DISPLAY=:0
+ccsm    # enable unity if disabled
+
+sudo rm -rf ~/config
+sudo rm -rf ~/compiz
+sudo restart lightdm
+
+=============PROCESSES==============
+
+sudo pkill -9 -f processname   # -9 is kill signal -f full name search 
+pgrep -f processname   # will show you what pkill will kill 
+
+===========UBUNTU SPECIFIC===========
+
+sudo vim /usr/share/gnome/applications/defaults.list #change default applications
+
+============SCP======================
+
+send  to  someone with verbosity (upload)
+
+scp -v /local/path/tofile username@10.0.0.123:~/path/to/destination/in/home/dir
+
+---
+Download file from remote connection
+
+scp username@10.0.0.123:/path/to/file.txt /local/path/to/destination
+
+EXAMPLES
+Copy the file "foobar.txt" from a remote host to the local host home directiory
+
+$ scp your_username@remotehost.edu:foobar.txt ~/
+
+Copy the file "foobar.txt" from a remote host to the local host current directory
+
+$ scp your_username@remotehost.edu:foobar.txt .
+
+same as above using private key and verbose
+
+$ scp -v -i /home/user/key.pem your_username@remotehost.edu:foobar.txt .
+
+-----
+Copy the file "foobar.txt" from the local host to a remote host
+
+$ scp foobar.txt your_username@remotehost.edu:/some/remote/directory
+
+Copy the directory "foo" from the local host to a remote host's directory "bar"
+
+$ scp -r foo your_username@remotehost.edu:/some/remote/directory/bar
+
+Copy the file "foobar.txt" from remote host "rh1.edu" to remote host "rh2.edu"
+
+$ scp your_username@rh1.edu:/some/remote/directory/foobar.txt your_username@rh2.edu:/some/remote/directory/
+
+Copying the files "foo.txt" and "bar.txt" from the local host to your home directory on the remote host
+
+$ scp foo.txt bar.txt your_username@remotehost.edu:~
+
+Copy the file "foobar.txt" from the local host to a remote host using port 2264
+
+$ scp -P 2264 foobar.txt your_username@remotehost.edu:/some/remote/directory
+
+Copy multiple files from the remote host to your current directory on the local host
+
+$ scp your_username@remotehost.edu:/some/remote/directory/\{a,b,c\}
+
+$ scp your_username@remotehost.edu:~/\{foo.txt,bar.txt\}
+
+-------scp puting it all together----
+
+copy the directory called media and the database file db.sqlite3 from a remote server to the current directory. connect to the server on port 2130 using the pem key mykey.pem. make sure to have the -r flag when copying folders
+the -v if for verbose and is optional
+
+scp -vr -P 2130 -i ~/mykey.pem myuser@123.123.123.123:/home/myuser/somefolder/\{media,db.sqlite3\} .
+
+------------THE FOLLOWING WILL NOT WORK IF YOUR ROUTER IS DOES NOT HAVE PORT 22 OPEN-------
+
+You can automatically figure out where you're logged in from by checking the environment variables 
+SSH_CONNECTION and/or SSH_CLIENT. SSH_CONNECTION for example shows the client address,
+the outgoing port on the client, the server address and the incoming port on the server. 
+See section ENVIRONMENT in man ssh
+
+So, if you want to copy a file from the server to the client from which you're logged in from, 
+the following (which infers the client ip by taking the first part of SSH_CONNECTION) should work:
+
+scp /path/to/file $(echo $SSH_CONNECTION | cut -f 1 -d ' '):~/local/path/to/file
+
+=============LOGINS==================
+
+stay as root				sudo su
+log in using ident			-i -u username
+Log out					CTRL-D  OR exit
+create a new user			adduser username
+
+
+===========directories=============
+
+
+rm filename	//removes files
+
+By default, rm does not remove directories. If the -r (--recursive) option is specified, however, rm will remove any matching directories and their contents.
+
+rm -i *
+
+Attempt to remove every file in the working directory, but prompt before each file to confirm.
+
+rm *           //no prompt unless file is write protected
+
+
+==============users===========
+
+usermod -l newUsername oldUsername
+
+This however, doesn't rename the home folder.
+
+To change home-folder, use
+
+usermod -d /home/newHomeDir -m newUsername
+
+====================SYSTEM======================
+
+sudo vim /etc/gnome/defaults.list	#change default programs
+
+
+===================FIND================================
+
+-------------- Find Files Using Name-----------------
+
+This is a basic usage of the find command. This example finds all files with name — MyCProgram.c in the current directory and all its sub-directories.
+
+
+*******The first argument to find is the path where it should start looking. The path . means the current directory******
+
+
+
+# find . -name "MyCProgram.c"
+
+------------ Inverting the match.-------------------
+
+Shows the files or directories whose name are not MyCProgram.c .Since the maxdepth is 1, this will look only under current directory.
+
+# find . -maxdepth 1 -not -iname "MyCProgram.c
+
+
+
+--------------------- Find Files Based on file-type using option -type-----------------
+
+Find only the socket files.
+
+# find . -type s
+
+Find all directories
+
+# find . -type d
+
+Find only the normal files
+
+# find . -type f
+
+Find all the hidden files
+
+# find . -type f -name ".*"
+
+Find all the hidden directories
+
+# find -type d -name ".*"
+
+
+------------------Regex ------------------------------------------
+
+Remember that the expression needs to match the whole path, i.e. needs to look like:
+
+ find . -regex '\./[a-f0-9-]*.jpg'
+
+------------------Limit Search To Specific Directory Level Using mindepth and maxdepth--------------------
+
+Find the passwd file under all sub-directories starting from root directory.
+
+# find / -name passwd
+
+Find the passwd file under root and one level down. (i.e root — level 1, and one sub-directory — level 2)
+
+# find -maxdepth 2 -name passwd
+
+
+Find the passwd file under root and two levels down. (i.e root — level 1, and two sub-directories — level 2 and 3 )
+
+# find / -maxdepth 3 -name passwd
+
+
+Find the password file between sub-directory level 2 and 4.
+
+# find -mindepth 3 -maxdepth 5 -name passwd
+
+
+------------------Executing Commands on the Files Found by the Find Command----------------
+
+You can specify inode number on a find command as shown below. In this example, find command renames a file using the inode number.
+***** always place the \; escape sequence
+
+# find -iname current_file_name.txt -exec mv {} new_test_file_name.txt \;
+
+OR
+
+find /path/to/dir -name "test" -type d -delete
+
+-name: looks for the name passed. You can use -regex for providing names based on regular expressions
+
+-type: looks for file types. d only looks for directories
+
+-delete: action which deletes the list found.
+
+
+Alternatively:
+
+find /path/to/dir -name "test" -type d -exec rm -rf {} \;
+
+
+You could use + instead of \; to pass more than one directory at a time.
+
+
+========== GREP ==================
+Global Regular ExPression search
+
+options
+-i case insensitive
+-r recursive into subdirectories
+-n display line numbers where string is found
+-w If you want to search for a word, and to avoid it to match the substrings 
+-v invert match
+-l print only names of FILEs containing matches | use it if you are piping grep results to another program
+
+
+# Search for the given string in a single file
+grep "literal_string" filename
+
+# Search for the given string in a single file case insensitive
+grep -i "literal_string" filename
+
+
+# Search for the given string in all files
+grep "literal_string" *
+
+# Search for the given string in all files recursive into subdirectories
+grep -r "literal_string" *
+
+# Search for the given string in all files recursive into subdirectories case insensitive 
+grep -ir "literal_string" *
+
+# Checking for the given string in multiple files eg we have file_1.txt file_2.txt file_3.ini
+grep "literal_string" file_*
+
+--------------regex---------------
+
+Syntax:
+grep "REGEX" filename
+
+grep "lines.*empty" demo_file
+
+#to use special characters escape them
+ grep 'INFO\|ERROR\|WARNING' demo_file.log
+ 
+#You don't need the escapes when you use the extended regex (-E)option
+ grep -E 'INFO|ERROR|WARNING' demo_file.log
+
+
+-------------search and replace-----
+
+# first search using grep and then pass those search results to sed which searches through them and replaces
+# string1 with string2
+grep -rl matchstring somedir/ | xargs sed -i 's/string1/string2/g'
+
+
+==============SED================
+Stream EDitor
+
+-----------substitute-------
+
+# changing "day" in the "old" file to "night" in the "new" file, 
+# the 'new' file will be created and the 'old' file remains untouched
+sed s/day/night/ old >new
+
+#This replaces it in the current file
+sed s/day/night/ old
+
+# test SED expressions in the terminal using echo
+echo 'this is a day' | sed s/day/night/ 
+
+# sed is line oriented,it changes only the first occurrence on each line 
+# test multiline global replacement try with and without the 'g'
+echo 'this is a day \n this is also a day and another day' | sed s/day/night/g 
+
+-----changing the deliminator-------
+# Pick one you like. As long as it's not in the string you are looking for, anything goes. 
+# And remember that you need three delimiters. 
+# If you get a "Unterminated `s' command" it's because you are missing one of them.
+
+# eg you want to change  /usr/local/bin to /common/bin 
+
+# default
+sed 's/\/usr\/local\/bin/\/common\/bin/' <old >new
+
+#use an underline instead of a slash as a delimiter:
+sed 's_/usr/local/bin_/common/bin_' filename
+
+# use colons:
+sed 's:/usr/local/bin:/common/bin:' filename
+
+#use the "|" character.
+sed 's|/usr/local/bin|/common/bin|' filename
+
+
+=============== TAIL =======================
+1. Display last 10 lines 
+
+#By default, the tail command prints the last 10 lines from the file. 
+> tail example.txt
+
+2. Display last N lines 
+
+#Use the -n option to print the last n lines from the file. The following example prints the last 2 lines from the file: 
+
+> tail -n2 example.txt
+
+
+3. Print lines from the Nth line 
+
+#You can print lines starting from the Nth line in a file. The following example prints lines from the 2nd line.
+> tail -n+2 example.txt
+
+
+==============SCREEN================
+Command: “Ctrl-a”
+
+Screen uses the command “Ctrl-a” that’s the control key and a lowercase “a”  as a signal to send commands to screen instead of the shell.
+
+help page
+“Ctrl-a” then “?”
+
+#To create a new window, you just use 
+“Ctrl-a” “c”.
+
+#Switching Between Windows
+ “Ctrl-a” “n”
+ 
+#Switching to previous window.
+“Ctrl-a” “p” 
+
+
+#detach from current screen
+“Ctrl-a” then ctrl-d
+
+
+#list screens, This can also show you which screen you are attached to
+screen -r 
+
+There are several suitable screens on:
+	10432.pts-8.ip-10-94-3-171	(07/08/2015 12:31:17 PM)	(Detached)
+	11717.pts-0.ip-10-94-3-171	(06/25/2015 12:02:47 PM)	(Detached)
+	17029.pts-0.ip-10-94-3-171	(06/11/2015 01:02:18 PM)	(Detached)
+
+# Connect to the screen 10432.pts-8.ip-10-94-3-171
+screen -r 10432.pts-8.ip-10-94-3-176  
+ 
+#Remove dead screens with (untested)
+'screen -wipe 17029.pts-0.ip-10-94-3-171'.
+
+
+# Using “Ctrl-a” “H”, creates a running log of the session.
+
+-------naming and listing sessions, windows----------
+You can name a session when starting it with 
+screen -S name 
+
+From within a running screen, you can change it by typing
+CTRL-a, :sessionname name. 
+
+You can view running screen sessions with
+screen -ls
+
+and connect to one by name with
+screen -r name 
+OR 
+screen -xS name.
+
+Within a single screen session, you can also name each window. Do this by typing
+CTRL-a, A #then the name you want. 
+
+You can view an interactive list of named windows by typing 
+CTRL-a, ",
+and select the one you want to switch to from that list.
+
+Naming both screens and terminals within screens is really helpful for remembering what they are and why you started them in the first place.
+---------------------------
+
+#Locking Your Screen Session
+If you need to step away from your computer for a minute, you can lock your screen session using “Ctrl-a” “x”.  This will require a password to access the session again.
+
+Screen used by root <jeffh>.
+Password:
+
+#you can use “Ctrl-a” “k”.  You should get a message if you want to kill the screen.
+
+----scrolling in a screen session-----
+Hit your screen prefix combination (C-a, control+A by default), then hit 'Escape'.
+Use the arrow keys to move up/down as needed.
+When you're done, hit the 'Return' key twice, you will be back to the end of the scroll buffer.
+
+
+
+

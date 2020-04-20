@@ -1,0 +1,67 @@
+body{
+background: #333;
+}
+.box{
+ background: white;
+ width: 300px; height: 300px;
+ position: relative;
+ margin: auto;
+ top: 200px;
+
+ /* transition-property: background, border-radius, transform; */
+
+transition-property: all;
+
+transition-duration:1s , 3s; /* when you use all it will only durate them all for 1s */
+/* transition-delay:2s , 1s; */
+transition-timing-function:ease-out;
+
+}
+
+.box:hover{
+background: red;
+border-radius: 50%;
+transform: rotateY(180deg);
+}
+
+/*
+.box:active{
+    background:red;
+}
+*/
+
+/* 
+TRANSITIONAL PROPERTIES
+-Properties that have an identifiable halfway point
+
+background-color 
+background-position 
+border-color 
+border-width 
+border-spacing 
+bottom 
+color
+font-size 
+font-weight 
+height left 
+letter-spacing 
+line-height 
+margin 
+max-height 
+max-width 
+min-height 
+min-width 
+opacity 
+outline-color 
+outline-offset 
+outline-width 
+padding right 
+text-indent 
+text-shadow 
+top 
+vertical-align 
+visibility 
+width 
+word-spacing 
+z-index 
+*/

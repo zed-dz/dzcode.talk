@@ -1,0 +1,225 @@
+/*
+to force a push
+
+git push -f origin master
+
+to set the upstream
+
+git push --set-upstream origin master
+git push -u origin master
+*/
+
+/* to config globally your email and pwd */
+
+git config --global user.email "fsociety.2017@protonmail.com"
+git config --global user.email
+git config --global user.password "amine2016@   "
+git config --global user.password
+
+
+/* to make your origin follow the exact repo your working on */
+
+git remote add origin https://github.com/Zed-M/etude.git
+git remote remove etude
+
+
+/* this will make your repo to its initial state and will delete the new files u wanted to add in your desktop */
+
+git pull --rebase origin master
+
+
+/*
+this will just remove the last rebase command so if the files were deleted u can recover them by doing this
+so reflog will give you some last git branches u pick a number that suits your rebase and then checkout to do it
+
+*/
+
+git reflog
+git checkout -b after-commit HEAD@{1}
+
+/*
+git branch will give u the name of your branches and then checkout will switch to that branch and remember it will also remove or recover the files with in that branch
+*/
+
+ git branch -a
+ git checkout master
+
+
+
+
+
+/* to clone a repo and then push to it */
+
+git clone https://github.com/Zed-M/etude.git
+cd etude/
+git add .
+git commit -m "adding my files"
+git push -u origin master
+
+/* initialize a repo and then push to it */
+
+git  init
+git status
+nano .gitignore
+git add .
+git commit -am "add some new files"
+git push -u origin master
+
+
+
+/* */
+
+git log // to check for all the commits with their uuid and then a checkout if u wanna redo somethin
+git checkout zaazkmddklhdkmlhlmhlz
+
+git diff master origin/master (ie. git diff local remote) to see changes you'll be removing
+
+/* fixing some weird ass issues
+
+// go back to a certain point with the use of commits
+
+git reflog to see the old commits and then to jump to one state of them this is the trick
+git reset --hard HEAD@{X}
+
+git reset HEAD^ --soft (Save your changes, back to last commit)
+
+
+// git clone error: RPC failed; curl 56 OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054
+git config http.postBuffer 524288000
+
+//Your branch is ahead of 'origin/master' by 3 commits
+
+You get that message because you made changes in your local master and you didn't push them to remote. You have several ways to "solve" it and it normally depends on how your workflow looks like:
+
+In a good workflow your remote copy of master should be the good one while your local copy of master is just a copy of the one in remote. Using this workflow you'll never get this message again.
+If you work in another way and your local changes should be pushed then just git push origin assuming origin is your remote
+If your local changes are bad then just remove them or reset your local master to the state on remote git reset --hard origin/master
+
+** SECOND SOLUTION =>
+
+git push: move your changes to the remote (this might get rejected if there are already other changes on the remote)
+do nothing and keep coding, sync another day
+git pull: get the changes (if any) from the remote and merge them into your changes
+git pull --rebase: as above, but try to redo your commits on top of the remote changes
+You are in a classical situation (although usually you wouldn't commit a lot on master in most workflows). Here is what I would normally do: Review my changes. Maybe do a git rebase --interactive to do some cosmetics on them, drop the ones that suck, reorder them to make them more logical. Now move them to the remote with git push. If this gets rejected because my local branch is not up to date: git pull --rebase to redo my work on top of the most recent changes and git push again.
+
+** THIRD SOLUTION => Use these 4 simple commands
+Step 1 : git checkout <branch_name>
+This is obvious to go into that branch.
+
+Step 2 : git pull -s recursive -X theirs
+Take remote branch changes and replace with their changes if conflict arise. Here if you do git status you will get something like this your branch is ahead of 'origin/master' by 3 commits.
+
+Step 3 : git reset --hard origin/<branch_name>
+Step 4 : git fetch
+
+
+//Remove files from Git commit
+
+ think other answers here are wrong, because this is a question of moving the mistakenly committed files back to the staging area from the previous commit, without cancelling the changes done to them. This can be done like Paritosh Singh suggested:
+
+git reset --soft HEAD^
+or
+
+git reset --soft HEAD~1
+Then reset the unwanted files in order to leave them out from the commit:
+
+git reset HEAD path/to/unwanted_file
+Now commit again, you can even re-use the same commit message:
+
+git commit -c ORIG_HEAD
+
+*/
+
+//clean up some trash (git pull fails “unable to resolve reference” “unable to update local ref”)
+
+git gc --prune=now - Cleanup unnecessary files and optimize the local repository --prune=<date>
+       Users are encouraged to run this task on a regular basis within each repository to maintain good disk
+       space utilization and good operating performance.
+
+git remote prune origin - manage set of tracked repositories
+      Deletes all stale remote-tracking branches under <name>. These stale branches have already been
+      removed from the remote repository referenced by <name>, but are still locally available in
+      "remotes/<name>".
+
+
+
+
+-----------------------
+---------
+What is Git lfs?
+
+GIT Lfs let's you track and push large files
+
+PRO's: Push files that are over 50mbs (github file size limitation)
+CON's: Github only provides 500mb of free storage per month with 1GB of internet bandwith (if you want more then you just have to pay for more)
+
+How to use it?
+
+1- download && install it from <(https://git-lfs.github.com/)>
+2- git lfs install (from your bash terminal)
+3- git lfs track "file.txt" (track manually your files)
+4- git lfs track * (track all the files in the directory)
+5- git lfs track "folder[[:space:]]recursively/**/*" (track folders recursively for their files)
+6- git add .gitattributes
+7- git commmit "something" && git push origin master
+
+How to remove git lfs?
+
+If you want to move off LFS, but are not so worried about fixing the entire git history (current commit only) you can do the following:
+
+1- git lfs uninstall
+2- touch **/*
+3- git commit -a
+
+This will uninstall LFS support, touch every single file (so that git recognises that is has changed) then commit them all.
+If you like you could be more specific (ie, **/*.png for example). Note that using ** requires extended glob support enabled (shopt -s globstar on bash)
+
+** If you actually want to update the entire history do the following:
+
+1- git lfs uninstall
+2- git filter-branch -f --prune-empty --tree-filter '
+  git lfs checkout
+  git lfs ls-files | cut -d " " -f 3 | xargs touch
+  git rm -f .gitattributes
+  git lfs ls-files | cut -d " " -f 3 | git add
+' --tag-name-filter cat -- --all
+
+It will throw a lot of errors (I think I'm getting an error for every commit that a file hasn't been added to LFS in) and takes a long time (roughly 2-3 seconds per commit).
+
+It uninstalls git LFS support (theoretically preventing LFS from messing with the index) then for each commit it makes sure the LFS files are checked out properly, then touches them all (so git realises they have changed), removes the settings for LFS found in .gitattributes so that when cloning it doesn't keep trying to use LFS, then adds the real file to the index.
+
+After you do the above, you will need to do a force push. Naturally, that'll throw anyone else working on your repo into a detached head state - so doing this during a code freeze is wise. Afterwards, it's probably easiest to get everyone to do a fresh clone.
+
+----------------
+How to fix "Uploading LFS objects: 0% (0/1), 0 B | 0 B/s" ?
+
+* Steps I produced to solve the problem:
+
+1- View the status
+
+> git lfs status
+
+2- Fetch all objects
+
+> git lfs fetch --all
+
+3- Allowing incomplete push, It is "false" by default
+
+> git config --global lfs.allowincompletepush true
+
+4- Git push -all to somehow forces the push
+
+> git lfs push --all origin master
+
+4- If somehow you have un-pulled data you might want to:
+
+ > git lfs pull
+ > git push
+
+5- If nothing works, just try:
+
+ > git push -f --no-verify
+
+>>> DO NOT PUSH ON A VPN NOR A PROXY
+

@@ -1,0 +1,235 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: coral;
+  line-height: 1.9em;
+  font-family: 'Lato', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  overflow-x: hidden;
+}
+li {
+  display: inline;
+  list-style-type: none;
+}
+
+img {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  transition: all 1s;
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  -ms-transition: all 1s;
+  -o-transition: all 1s;
+}
+
+footer {
+  padding: 1rem;
+  margin: 1rem;
+}
+
+footer p {
+  font-size: 1.2rem;
+}
+
+footer a,
+.nav-ul a {
+  text-decoration: none;
+  color: cornflowerblue;
+  font-size: 1rem;
+  padding: 0.5rem;
+  text-transform: uppercase;
+}
+
+#main-header {
+  width: 100vw;
+  height: 50vh;
+  padding: 1rem;
+}
+
+.navigation {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom: 3rem;
+  grid-gap: 1rem;
+  position: relative;
+}
+.navigation .container-left {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  margin: 1rem;
+}
+.navigation .container-right {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.navigation .container-left h3 {
+  font-size: 2rem;
+  color: black;
+  text-transform: capitalize;
+}
+.context-grey {
+  color: lightgray;
+  font-size: 0.8rem;
+  text-transform: lowercase;
+  position: relative;
+  top: -0.2rem;
+  left: 0.3rem;
+}
+.letter-green {
+  color: lightgreen;
+}
+
+.container-1 .container-left {
+  float: left;
+  width: 70%;
+  padding: 1rem;
+}
+.container-1 .container-right {
+  float: right;
+  width: 30%;
+  padding: 1rem;
+}
+
+.social-ul li a,
+.icon {
+  /* background-color: lightgray; */
+  display: inline-block;
+  position: relative;
+  right: 15%;
+  width: 3rem;
+  height: 3rem;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: 0.5rem;
+}
+
+.icon {
+  top: 0.5rem;
+  right: 0;
+  background: url('../../images/icons/contact-1.jpg');
+  width: 2rem;
+  height: 2rem;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.twitter {
+  background: url('../../images/icons-img.jpg');
+}
+.facebook {
+  background-image: url('../../mages/icons/contact-1.jpg');
+}
+.linkedin {
+  background-image: url('../../images/icons/discord_btn.png');
+}
+.youtube {
+  background-image: url('../../images/icons/paypal-btn.png');
+}
+.google {
+  background-image: url('../../images/icons/icon-zoom-in-dark.png');
+}
+
+.main-bar {
+  text-align: center;
+  font-size: 1.1rem;
+  position: relative;
+  display: inline-block;
+  padding-left: 1rem;
+  padding-top: 2rem;
+  margin-right: 15%;
+  margin-left: 15%;
+  margin-bottom: 5%;
+}
+.main-bar a {
+  position: relative;
+  color: #fff;
+  text-decoration: none;
+  padding: 1rem;
+}
+
+section.album-container {
+  position: relative;
+  background-color: #888;
+  width: 100%;
+  height: 100%;
+}
+
+.first-align {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  padding: 0 5rem;
+  padding-bottom: 5rem;
+}
+
+.first-align h3,
+.first-align a {
+  color: lightcoral;
+  text-decoration: none;
+  text-align: center;
+}
+
+section.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1.5rem;
+  padding: 2rem 2rem;
+  margin: 1rem;
+}
+.grid-container .box-1,
+.grid-container .box-2,
+.grid-container .box-3 {
+  width: 15vw;
+}
+.nasted-box-1,
+.nasted-box-2,
+.nasted-box-3 {
+  background-color: #ecf0f1;
+  color: lightslategray;
+  margin-bottom: 1.5rem;
+  padding: 0.2rem;
+}
+.grid-container h4 {
+  font-size: 1.3rem;
+  padding-bottom: 2.2rem;
+}
+
+.grid-container .box-1 ul li a {
+  margin: 0.2rem;
+  left: 0;
+}
+
+.footer-ul {
+  font-size: 0.8rem;
+  position: relative;
+  display: inline-block;
+  right: 50%;
+  width: 40vw;
+  height: 3rem;
+}
+
+img:hover {
+  filter: grayscale(0);
+  -webkit-filter: grayscale(0);
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+.nav-ul a:hover,
+.home a {
+  background-color: lightgreen;
+  color: #fff;
+}

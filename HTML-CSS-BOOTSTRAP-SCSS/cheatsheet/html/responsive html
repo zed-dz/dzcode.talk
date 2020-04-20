@@ -1,0 +1,163 @@
+/* 
+head  body 
+
+<header id="main-header">
+        <div class="container">  
+                <h1></h1>  <p></p> 
+        </div>
+</header>
+
+    <nav id="navbar">
+            <div class="container">
+                    <ul>
+                      <li class="curent"><a href="#">Home</a></li> <li><a href="#">About</a></li> <li><a href="#">Services</a></li>
+                      <li><a href="#">Contact</a></li>
+                    </ul>
+            </div>
+    </nav>
+
+        <section id="showcase">
+                <div class="container">
+                    <h1></h1>  <p></p>       
+                </div>
+        </section>
+
+        <section id="newsletter">
+                    <article class="post"> 
+                            <p> some text usualy for newsletters nad article words </p>
+                     </article>
+        </section>
+
+            <div class="container">        
+                    <section id="main">
+                            <h1>Welcome</h1> <p></p>
+                    </section>
+
+                            <aside id="sidebar">
+                                    <p> a text that is dropped aside of the page </p>
+                            </aside>
+            </div>
+
+<div class="container">
+		
+		<div class="box-1">
+		     text	
+		</div>
+	    <div class="box-2">
+		     text
+		</div>
+                <div class="categories"> <!-- a list item -->
+                        <h2>Categories</h2>
+                                <nav class="nav-item">
+                                    <ul>
+                            <li><a href="#">Cat 1</a></li><li><a href="#">Cat 3</a></li>
+                            <li><a href="_blank" class="visit">Cat 4</a></li>
+                                    </ul>
+                                </nav>
+                </div>
+                  <aside id="sidebar">
+                     <form class="myform">
+                            <div class="form-group">
+                        <label>Name : </label> <input type="text" name="name">  * 3
+                            </div>
+                        <input class="button" type="submit" value="submit" name="submit"> 
+                    </form>
+                  </aside>
+            <div class="block">
+                    <p></p>     * 3
+            </div>
+         
+            <div class="clr"></div>  <!-- clear fix -->
+
+            <div id="main-block">
+                    <p></p>
+            </div>
+
+            <div class="clr"></div>	<!-- clear fix -->
+
+            <div class="p-box">
+                <h1></h1> <h2></h2>
+            </div>
+                
+</div> <!-- container -->
+
+
+<footer id="main-footer">  
+    <p> copyright &copy; 2018 My website</p> 
+</footer>
+
+
+<div style="margin-top:500px;"></div> /* fix size */
+
+</head></body>
+*/
+
+
+/*
+
+  <header>
+        <div class="container">
+            <div id="branding">
+                <h1><span class="highlight"></span</h1>
+            </div>
+            <nav>
+                <ul>
+                  <li class="current"><a href="responsive.html"></a></li><li><a href="about.html"></a></li><li><a href="services.html"></a></li>
+                </ul>
+            </nav>
+        </div>
+   </header>
+
+<section id="showcase">
+        <div class="container">
+                <h1></h1> <p></p>
+        </div>
+</section>
+
+<section id="newsletter">
+        <div class="container">
+            <h1></h1>
+                <form>
+                        <input type="email" placeholder="Enter Email"> <button type="submit" class="button_1"></button>
+                </form>
+        </div>
+</section>
+
+<section id="boxes">
+        <div class="container">
+                <div class="box"> * 3
+                        <img src=""> <h3></h3> <p></p>
+                </div>
+        </div>
+</section>
+
+
+<section id="main">
+        <div class="container">
+                <article id="main-col">
+                        <h1 class="page-title">About Us</h1> <p></p> <p class="dark"></p>
+                </article>
+
+                <aside id="sidebar"> <!-- remember aside is if you wanna put something in a side like left or right ..-->
+                        <div class="dark">
+                                <h3>What we do</h3> <p></p>
+                        </div>
+                </aside>
+        </div>
+</section>
+
+<article id="main-col">
+    <h1 class="page-title">Services</h1>
+  
+        <ul id="services">
+              <li> <h3>Website Design</h3>  <p></p>  <p>Pricing: $1,000 - $3,000</p> </li> * 3
+        </ul>
+</article>
+
+
+<footer>
+    <p>Acme Web Design, Copyright &copy; 2018</p>
+</footer>
+
+
+*/

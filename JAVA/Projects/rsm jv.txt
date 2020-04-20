@@ -1,0 +1,801 @@
+        this.setTitle("Fentetre"); //titre
+        this.setSize(700, 350);  //taile 1 largeur 2 hauteur
+        this.setLocationRelativeTo(null);//position centre
+        this.setResizable(false); //taille inchangable
+
+
+~~~~~~~~~~~~~~~~~~~
+
+quand on déclare un tableaux ou une matrice dans une interface et on lutilise dans des different button on les déclares dans le haut en dessous de public class 
+
+
+( la déclaration on general d'une matrice carrée est  
+  int m [][]=new int [4][4];  ) 
+
+
+  ici on veut que lutilsateur donne la taille de la matrice carrée puis il remplit cette matrice
+
+  
+public class matrice extends javax.swing.JFrame { 
+
+double m [][];   int taille=0,i=0,j=0;
+
+public matrice () {
+
+1er button //   ici il remplit la taille
+
+taille=Integer.parseInt(t1.getText());   
+
+// naffictiw la valeur li ydakhlha t1 f la taille et on converse vers un entier car les donnée qui sont écrit dans linterface sont considérerer comme des chaine de caracteres 
+
+m = new Int [taille][taille];
+
+2eme button //
+
+int x=integer.parseIntt(t2.getText());  
+
+//pr avoir une matrice carrée remplit a lordre il faut 1er remplir indice par indice , commencent par lindice de ligne 
+
+//il faut quil ne dépasse pas la taille la taille est 3 alors il faut que i < 3  si il dépasse alors on remplit lindice de colomne j
+
+//mais dison que lindice de colomne dipase la taille alors on aurait 
+3:2  4:2  alors il faut aussi que lindice de colomne ne depasse pas la taille aussi
+
+//si un des deux indice nas pas encore arrivé a la taille moin 1 ( 2 ) (la taille moin 1 car on commence par m [0][0] donc 0 1 2 cest de taille 3) 
+alors il continue a avancer sinon il sinitialize par 0 et lautre indice sincremente
+
+
+if (i<taille) {
+if (j<taille) {
+
+if(j==taille-1) {
+
+m[i][j]=x;
+i++;
+j=0;
+
+} else  {
+m[i][j]=x;
+j++;
+}
+}
+}
+
+
+
+~~~~~~~~~~
+
+public class Compte {
+
+    private int n;
+    public double s;
+
+    public Compte(int n, double s) {  //constructeur 
+        this.n = n;
+        this.s = s;
+    }
+
+//getter pr recuperer un private
+
+    public int getnc() {
+        return n;
+    }
+
+
+~~~~~~~~~~~~~~~~~~~~
+afficher 3 petites interface wahda  pr un msg dinfo lautre pr un erruer et lautre pr un warning 
+
+   JOptionPane.showMessageDialog(null, "Le compte a bien été crée","Information",JOptionPane.INFORMATION_MESSAGE);
+
+   JOptionPane.showMessageDialog(null, "vous avez fait une erreur ","Erreur",JOptionPane.ERROR_MESSAGE);
+
+    JOptionPane.showMessageDialog(null, " attention ","Alerte",JOptionPane.WARNING_MESSAGE);
+
+~~~~~~~~~~~~~~~~~~
+
+
+dans linterface quand on fais appelle a une classe il faut un construteur dans linterface aussi
+
+    Compte c=new Compte(numc, solde);
+
+
+  on appelle une classe et on la donne une donner a faire
+  
+    sousclassMath q= new sousclassMath(5);
+
+
+~~~~~~
+
+ for (int i = 0; i < 10; i++) {  //on veut 10 nombre
+     
+            int k=(int)(Math.random()*25);  // des entier sans vergule entre 0 et 25
+             
+            if(!l1.contains(k)) { // on ajoute pas les doublants 
+            
+            l1.add(k);
+            
+        }
+
+
+~~~~~~~~~~
+
+lutilisateur entre la taille du tableaux puis il remplit le tableaux 
+avec des valeurs random entre 23 et 6 quand il finit de remplir il se redirrect vers une autre page qui affiche randomly les elements du tableaux
+
+/ 1er page /
+
+//on declare le tab et son indice et taille car on lutilise dans 2 buttons 
+
+int tab [];
+int taille=0,indice=0;
+
+ArrayList<Integer> l1=new ArrayList<Integer>();
+
+public tab_arraylist_math_random_deplacement_1() {
+        initComponents();
+    }                      
+
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        taille=Integer.parseInt(t1.getText());
+        tab=new int [taille];
+    }                                        
+
+    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+      if(indice<taille){  
+      
+      //si on depasse la taille du tab alors on as finit de remplir et on redirect vers une autre page pr afficher
+      
+          int e=Integer.parseInt(t2.getText()); 
+                            //lelement quon vas saisir
+          if(e>5 && e<24){ //sil est avec notre condition
+              if(!l1.contains(e)){  //et on veut pas des doublons
+                  tab[indice]=e;
+                  indice++;
+                  l1.add(e);
+              }else {
+                  JOptionPane.showMessageDialog(null, "Cet élément existe déja","Erreur",JOptionPane.ERROR_MESSAGE);
+         
+              }
+          }else {
+              JOptionPane.showMessageDialog(null, "L'élément doit être entre 6 et 23","Erreur",JOptionPane.ERROR_MESSAGE);
+          }
+      }else {
+          page_2 p=new page_2(tab);  
+                //on lenovie notre tableaux qui contient nos elements
+          this.dispose();
+          p.setVisible(true);
+      }
+      t2.setText("");
+    }  
+
+/ 2eme page /
+
+    ArrayList<Integer> l1=new ArrayList<Integer>();  //ndiro une nouvelle array list n7ato fiha les valeurs t3 lancien tab
+   
+    public page_2(int [] t) {  //le constructeur hna yjibna le tab a cause du deplacemnt entre page
+        
+        initComponents();
+    
+        int i=0;
+        while(i<t.length){  //ou bien avec une boucle for 
+            int k=(int)(Math.random()*t.length);  
+            //pr que math.random nous donne des numéro entier au hassard de notre tableaux (t.length)  
+            
+            if(!l1.contains(t[k])){   // pr lobliger a ne pas ajouter des doublants 
+                ta.append(t[k]+"\n"); //nnafichiw la 1er valeur du tab et ainsi de suite 
+                l1.add(t[k]); //    n3amro la nouvelle liste
+            }    i++;
+            
+        }
+    }
+
+
+    private tab_arraylist_math_random_deplacement_2() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+
+~~~~~~~~~~~~~~~~~~~
+int t [];
+
+//1er button lutilisateur donne la taille du tab
+  
+  n=Integer.parseInt(t1.getText());
+    t=new int [n];
+                                      
+
+//2eme button lutilsteur y3mr le tab       
+
+int k=Integer.parseInt(t2.getText());
+
+if(i<n) {           //tjr si lindice inferieure a la taille alors n3amro
+    t[i]=k;   
+       i++;
+    t2.setText("");
+}
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+rotation n fois
+
+int p=Integer.parseInt(t1.getText());
+int n=Integer.parseInt(t2.getText());
+
+ for ( int k = 1; k<=p; k++) {    
+            int x=t[n];
+            for (int i = 0; i<n; i++) {
+            t[i]=t[i+1];              
+            }            
+            t[n]=x;
+     }   
+ ~~~~~~~~~~~~~~
+ 
+     fonction ordre et ordre inverse 
+     
+     public String ordre( int a ) {  
+ 
+     String b,s="";
+  
+ for (int j=1; j<a; j++)  { 
+     
+     b=Integer.toString(j);  s=s+" "+b;    
+ } 
+
+ return s;
+ }
+  public String ordreinverse( int n ) {  
+   
+     String b,z="";
+  
+  for (int j=n-1; j>=1; j--)  { 
+     
+     b=Integer.toString(j);  z=z+" "+b;    
+ }
+   return z;  
+ }
+     
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~    
+
+ jadwal adarb
+ 
+ public String multiplication ( int a){
+     String b,s,z="";     
+    for (int i=1; i<11; i++){    //pr avoire un tab de multip de 1 a 10 
+      
+        b=Integer.toString(a*i);  // pr mulip le a 10 fois
+      
+      s=a+" * "+i+" = "+b+"\n";  // pr afficher a * i = b  4 * 1 = 4
+      
+      z=z+s;  // pr afficher tous les 10 multip 
+    }
+     return z;
+     }
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     une calculatrice
+     
+     
+     public class Calculatrice1 extends javax.swing.JFrame {
+boolean on=false;
+int op=0;
+double nbr1;
+    public Calculatrice1() {
+        initComponents();
+        t1.setEnabled(false);
+    }                       
+
+    private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+      if(on==false){
+          on=true;
+          t1.setEnabled(on);
+          t1.setText("0");
+      }else {
+           on=false;
+          t1.setEnabled(on);
+          t1.setText("");
+      }
+    }                                        
+
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+      if(on==true){
+          if(t1.getText().equals("0")){
+          t1.setText("1");
+      }else {
+          t1.append("1");
+      }  
+      }   
+    }                                        
+
+    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        if(on==true){
+          if(t1.getText().equals("0")){
+          t1.setText("2");
+      }else {
+          t1.append("2");
+      }  
+      }   
+    }                                        
+
+    private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+         if(on==true){
+          if(t1.getText().equals("0")){
+          t1.setText("3");
+      }else {
+          t1.append("3");
+      }  
+      }   
+    }                                        
+
+    private void jButton17ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+      if(on==true){
+          if(t1.getText().equals("0")){
+          t1.setText("0");
+      }else {
+          t1.append("0");
+      }  
+      }   
+    }                                         
+public int NombrePoint(String k){
+    int n=0;
+    for(int i=0;i<k.length();i++){
+        if(k.charAt(i)=='.'){
+            n++;
+        }
+    }
+    
+            return n;
+}
+    private void jButton16ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+         if(on==true){
+          if(t1.getText().equals("0")){
+          t1.setText("0.");
+      }else {
+              if(NombrePoint(t1.getText())==0){
+                    t1.append(".");
+              }        
+      }  
+      }   
+    }                                         
+
+    private void jButton10ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+         if(on==true){
+          t1.setText("0");
+      }   
+    }                                         
+
+    private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+       if(on==true){
+         nbr1=Double.parseDouble(t1.getText());
+         t1.setText("0");
+         op=1;
+      }   
+    }                                        
+
+    private void jButton18ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        double nbr2=Double.parseDouble(t1.getText());
+        switch (op){
+            case 1 :
+                double s=nbr1+nbr2;
+                t1.setText(""+s);
+                break;
+                 case 2 :
+                double se=nbr1-nbr2;
+                t1.setText(""+se);
+                break;
+        }
+    }                                         
+
+    private void jButton9ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+           if(on==true){
+         nbr1=Double.parseDouble(t1.getText());
+         t1.setText("0");
+         op=2;
+      }   
+    } 
+     
+     
+ ~~~~~~~~~~~~~~~~~~~~~~~    
+     
+     
+     nbr binaire
+     
+     String b,s=""; 
+    Scanner nb=new Scanner(System.in);
+        System.out.println("donner un nombre");
+       int a=nb.nextInt();
+    
+       while (a!=0) {
+       b=Integer.toString(a%2); //on fais une conversation car in veut le mettre la valeur de lentier dans une chaine de caractere bch nlas9ohom
+       a=a/2;      
+       s=b+s; //kon ndiro s=s+b maywalich yaqrana bl ma9lob   
+    }
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     
+     les mois de lannée
+     
+     for (int i=1;i<=12 ;i++) {
+switch(i){    
+    case 2:
+        for (int j=1; j<29;j++){
+            System.out.println(j+"/"+i);
+            } break;
+            
+    case 1:
+    case 3:
+    case 5:
+    case 8:
+    case 7:
+    case 10:
+    case 12:
+        
+        for (int j=1; j<=31;j++){
+            System.out.println(j+"/"+i);
+        }
+break;
+    default:
+        for (int j=1; j<=30; j++){
+            System.out.println(j+"/"+i);
+        }
+break;
+
+} } 
+     
+     
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         les suites
+         
+         Scanner cc=new Scanner(System.in);
+      int a;
+     do { System.out.println("donner n egale a 6");a=cc.nextInt(); }
+     while (a!=6);
+        long u=0,p=5;
+        for (int j=1; j<=15; j++)
+        {  for (int i=6; i<=a; i++){
+            u=5*p+2; 
+            p=u;
+        }          System.out.println("le " +j+" terme de cette suite est "+u); 
+        }
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+rotation p fois
+
+ Scanner sc=new Scanner(System.in);
+           System.out.println("donner la taille du tab ensuite le nbr de rotation");
+           int n=sc.nextInt();
+           int p=sc.nextInt();
+           int [] t=new int [n]; 
+           System.out.println("svp remplit votre tab");
+                     for (int i = 0; i <n; i++) {               
+               t[i]=sc.nextInt();
+           }
+           
+    for ( int k = 1; k<=p; k++) {                     
+            int x=t[0];            
+            for ( int j = 0; j<n-1; j++) {
+            t[j]=t[j+1];              
+            }            
+            t[n-1]=x;
+ }
+
+        for (int  j=0; j<n; j++) {
+                    System.out.println(t[j]);
+        }
+        
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+le factoriel
+
+System.out.println("donner un nombre");
+    int a=ss.nextInt();
+    int p=1;
+    for (int i=1; i<=a; i++) {
+        p=p*i;
+    }
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+ trie du tableaux
+ 
+    int i,j,x,n=6;
+int t [] = new int [n];
+Scanner ss=new Scanner(System.in);
+
+for (i=0; i<n; i++) {
+    System.out.println("donner un élément");
+    t[i]=ss.nextInt();
+}
+
+for (j=n-1; j>=1; j--){
+
+ for(i=0; i<j; i++){
+    
+    if (t[i]>t[i+1]) {       x=t[i]; t[i]=t[i+1]; t[i+1]=x;     }
+}
+}
+        System.out.println("\n");        
+for(i=0; i<n; i++){
+    System.out.print(t[i]);
+}
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+random
+
+ ArrayList<Integer> l1=new ArrayList<>();
+
+        for (int i = 0; i < 10; i++) {
+     
+ int k=(int)(Math.random()*25); // 10 nombre entier aux hassard sans vergule entre 0 et 25
+             
+  if(!l1.contains(k)) { 
+// si la liste ne contient pas cette element alors on lajoute juste pr eviter les doublants
+            
+            l1.add(k); }}
+  
+        for(int i=0; i<l1.size(); i++){
+            System.out.println(l1.get(i));
+        }
+        
+
+        
+        
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cryptage avec tableaux circulaire ( césar )
+
+String mc=t1.getText();   int clé=Integer.parseInt(t2.getText());    String mcr="";
+
+char tab[]={'a','b','c','d','e','f','g','h','i','j','k'
+,'l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
+
+for(int i=0; i<mc.length(); i++){
+int k=0;
+    for(int j=0; j<tab.length; j++){
+        if(mc.charAt(i)==tab[j]){ 
+            k=j; break;  
+            
+            // hna wsh ana habin ndiro : ki nal79o lal 7arf t3 un mot hadak nakhdo la postion dyalo f tableaux bch ndirloha un cryptage w ainsi de suite 
+        }
+    }
+    int ni=(k+clé)%26;  
+    
+    //hna wsh tatik za3ma 4+1=5%26=5 t[5]=f mais kon za3ma 3ndk une chaine de caractere fiha 26 lettre wtzidlha criptage avancement t3 2 z3ma twali 28 w kon mandiroch lmod hadak sama t[28] li howa makash sama kichghol n3awdo ninitializiwha malowal bl mod bch yabka tjr un tab circulaire sama 28 % 26 = 2 w hiya rayha
+    
+    mcr=mcr+tab[ni];    
+    }                                        
+    t3.setText(mcr);    
+    }
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ip adress
+                arraylist l1
+            String a=Integer.toString((int)(Math.random()*255));
+            String b=Integer.toString((int)(Math.random()*255));
+            if(!l1.contains(a+b)){  //hadi pr eviter les doublans 
+                l1.add(a+b);
+ t3.append("adresse ip : 127.1."+a+"."+b+"\n");
+            } 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+somme dexpo
+
+int n,x;
+        do {         System.out.println("donner n");  n=ss.nextInt(); System.out.println("donner x");
+        x=ss.nextInt();
+            
+        } while (! (n>=0 && n<34 && x>=0 && x<15 )    );
+    
+   
+float s=0;      
+ for (int i=0; i <=n; i++) {
+    int f=1;     
+    for (int j = 1; j <=n; j++) {
+              f=f*j;
+        }
+         s=( (float) Math.pow(x, i) ) / f;      
+        }
+        System.out.println("la somme est "+s);
+        
+
+        
+        
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+equals class args et plus 
+
+
+
+public class point {
+
+private int x,y;
+
+public static int s;
+point ()    
+    {
+        s++;
+    }
+
+// le constructeur vide par default howa li ydirana point p=new point(); sans donnée w tjr ykon mdefini bla matcriyih
+
+public point(int x,int y){
+this.x=x; this.y=y;
+}
+
+
+public int getX(){
+return x;
+}
+public int getY(){
+return y;
+}
+
+public void setX() { this.x=x; }
+public void setY() { this.y=y; }
+
+    
+public String afficher(){
+return " la valeur de x est "+x+" la valeur de y est "+y+"\n";
+}
+
+public boolean equal(point p){ 
+
+return (x==p.x && y==p.y);
+}
+public void deplacer (int dx,int dy){
+x=x+dx;
+y=y+dy;
+}
+
+}
+
+
+import java.util.Scanner;
+public class tp3{
+public static void main(String [] args) {
+Scanner s=new Scanner (System.in);
+
+//1
+point p=new point(5,9);
+System.out.println(p.afficher());
+
+//2
+int x=Integer.parseInt(args[0]);
+int y=Integer.parseInt(args[1]);
+point q=new point(x,y);
+System.out.println(q.afficher());
+
+
+System.out.println("donner a et b");
+int a=s.nextInt(); int b=s.nextInt();
+point p1=new point(a,b);
+System.out.println(p1.afficher());
+
+//3
+
+point p2=new point (8,9); 
+point p3=new point(4,4); 
+point p4=new point(4,4); 
+
+
+p2=p3;  //cest comme un pointeur on change son adresse donc ils ont la meme adresse 
+System.out.println(p2==p3);  //true
+System.out.println(p2.equals(p3));  //true
+
+System.out.println(p3==p4); // p3.equals(p4) le meme resultat   //false
+
+if(p3.getX()==p4.getX() && p3.getY()==p4.getY()) //ici en teste la valeur de lobjet       
+{ System.out.println("tr");  } else {           //tr
+System.out.println("fs"); 
+}
+
+/*if( ( (p3.getX()).equals(p4.getX()) ) && (  (p3.getY()).equals(p4.getY()) ) ) 
+{ System.out.println("trrrrr");  } else {
+System.out.println("fssss"); 
+} 
+
+on aura une erreur ici car on esseye d'utiliser un entier en le considérant comme un objet avec la méthode equals qui teste les objets pas leurs valeurs donc pr fixer ca il faut quon crée une fonction boolean equal  dans la class point qui nous fait le teste precedent avec == et puis on lappel   
+*/
+
+
+// donc on resumant la double egalite == nous teste tous ce que on la donne objet ou bien valeurs , tant que equals teste seulement les objets alors on peut pas connaitre les valeurs des objets avec equals 
+
+System.out.println(p3.equal(p4));
+
+//4
+//p5= new point(); ereur car on as fait une erreur decriture on appelle pas linstance de cette facon et car le constructeur de la class point intialize comme valeur 2 entier x et y donc il faut quon renvoie 2 valeurs dans linstance , donc pr fixer ca on crée un constructeur par default ( vide ) 
+
+point p5=new point();
+//5
+
+int k=p.s+q.s+p1.s+p2.s+p3.s+p4.s+p5.s;
+System.out.println(" il ya "+k+" objet point ");
+//6
+
+point t []= new point [5];
+
+for (int i=0; i<t.length; i++) {
+System.out.println("donner deux valeurs");
+int w=s.nextInt(); int z=s.nextInt();
+t[i]= new point(w,z);
+}
+for (int i=0; i<t.length; i++) {
+System.out.println(t[i].afficher()); 
+}
+s.close();
+
+/* compilation : javac tp3.java point.java
+
+execution et affichage :
+
+java tp3 22 45
+ la valeur de x est 5 la valeur de y est 9
+
+ la valeur de x est 22 la valeur de y est 45
+
+donner a et b
+2
+1
+ la valeur de x est 2 la valeur de y est 1
+
+true
+true
+false
+tr
+true
+il ya 7 objet point
+donner deux valeurs
+10
+11
+donner deux valeurs
+5
+2
+donner deux valeurs
+3
+1
+donner deux valeurs
+7
+99
+donner deux valeurs
+8
+2
+ la valeur de x est 10 la valeur de y est 11
+
+ la valeur de x est 5 la valeur de y est 2
+
+ la valeur de x est 3 la valeur de y est 1
+
+ la valeur de x est 7 la valeur de y est 99
+
+ la valeur de x est 8 la valeur de y est 2
+
+*/ 
+
+}}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+fichiers
+
+ try{
+            
+         int a;  String k="",s="";
+       f = new File("/home/amine/Desktop/exo1.txt");
+       fr= new FileReader(f);
+       bf= new BufferedReader(fr);
+                     String l=bf.readLine();                                  
+                     String t []=l.split("#");
+                      
+                    for (int  j = 0; j <t.length; j++) {  //1234#5445#66668#2223#                                       
+                            
+                   for (int i = 0; i <t[j].length(); i++) {                      //1 2 3 4, //5 4 4 5                                  
+                 
+                       a=Integer.parseInt(t[j].substring(i,i+1));       //ils sont des entiers donc on les convert puis on fais un substring bl wahda c.a.d 1 a 2 omb3d mn 2 a 3 w hiya rayha w tcomparer                            
+                        if(a%2==0  ){                                                                               
+                    s+=a; 
+                }else{    
+                    k+=a; 
+                  }     
+                   }
+                   t1.append(" voici le nombre "+j+" "+t[j]+" ces paires sont "+s+" ces impaires sont "+k+" \n");   
+                   s="";k="";
+                    }
+
+        }catch(Exception e){}

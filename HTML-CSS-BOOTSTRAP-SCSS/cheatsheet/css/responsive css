@@ -1,0 +1,223 @@
+* {
+// * -> means everything (body,html,head etc..) if you want to the h1 and p1 dont put their padding and margin par default
+//  , always remember that the other attributs have some margin and padding par default also
+     margin:0; padding:0;
+}
+
+body{ 
+    font : normal 16px/1.6em Arial, Halvetica, sans-serif;
+    background-color:#f4f4f4;  color:#555; margin:0;
+}
+
+a { 	text-decoration:none; /* to delete the underline */ 	 color:#000;  }
+
+a:hover{  color: red; /* on hover it turns red */ }
+a:active{  color:green; /* on click it turns green */ }
+a:focus{ display:none; } /* on click but it stays when you let the buttton of the mouse */
+.visit:visited, a:visited { /* color:yellow; /* when you visit the link for example and come back it will turn yellow */ }
+
+
+/* to clear the floats you can do this */
+
+.clr { clear: both; /* clear any floats */        float:0;  /* none , do the same thing */   }
+
+/* or this is particular  */
+
+.clr:after{   content:".";   display:block;   height:0;   clear:both;  visibility:hidden;  }  .clr { display:inline-block; }
+
+
+.container {
+  /*  max-width: 960px;  */
+    width:80%; /* it is responsive then px */
+    margin:auto; /*set an auto margin (spaces) an all sides so it is pushed over in the midlle , padding is the space inside and margin is the space outside */
+    overflow:hidden; /* there is no scroll bars if something goes down of this container */
+}
+
+.block {
+	float:left;   /* so here we wanna say put this div in the left */
+    width: 30%; /* because we have two of them one took already a 70 % 
+        but if we want like  3 boxes with the same size then do the math ,  3 of theme -> 100/3 = 33.3%*/
+
+	box-sizing: border-box; 
+        /*takes in the padding and the border and the stuff in and applies it to the width itself
+         it is considered to be used with floats when you have extra properties
+        like padding , width , border etc...
+        ,btw flexbox is better then this */
+}
+
+.myform .form-group {
+    float:right;  /* so here we wanna say put this div in the right */
+    box-sizing: border-box;
+    width: 70%;  padding: 0 30px;
+ }
+
+#main{ /* so here we wanna say put this div in the left */
+   float: left;     box-sizing: border-box;
+    width: 70%;  padding: 0 30px;
+}
+
+#sidebar{ /* and this one in the right , and they also should be displayed inline next to another */
+    float: right;      box-sizing: border-box;
+    width: 30%;    background: #333; color: white;  padding: 10px;
+}
+
+.box-1 p {
+    /*margin-top:5px; margin-bottom:5px; margin-right:10px; margin-left:10px; */
+    margin: 5px 10px 5px 10px;    /*top right bottom left*/
+    /* margin: 5px 10px;   /*top+bottom are the same , and right+left the same */
+    /*margin: 5px;     /*all the same , and the same thing for padding*/
+}
+
+#box-1 h1 {
+    font-family:Tahoma 800; 	font-style:italic;
+    text-decoration:underline;  text-transform:uppercase;   	text-align:center;
+    letter-spacing:0.2em;       word-spacing:1em;
+}
+
+.categories .nav-cat ul li {  list-style:square; 	list-style:none;   	list-style-image:url('../images/s.jpg'); }
+
+.myform input[type="text"], .myform textarea {  display:block; /* to make labels in their own line */  }
+
+.p-box {
+    position: relative; /*  the parent element is relative so that we can push the son's elements from their box  */
+    background-image:url('../images/1.jpeg');  background-position: 100px 200px;  background-repeat: no-repeat;
+    background-position:center center; /*center horizentaly nd verticly */ background-size: cover;
+
+min-height:300px; /* when we make the page smaller the height will grow with text to make it responsive */
+text-align: center; /* nd to make the pic centered in the page just a trick*/
+
+}
+
+.p-box h1 {
+	position: absolute; /* here h1 will take 100px down and 200px to the right from his parent element p-box */
+     top: 100px;  left: 200px;
+}
+
+.fix-me {  position: fixed; /* to fix the button at top of 400px no matter where we move in the page */  
+top: 400px;  }
+
+
+aside#sidebar .quote input, aside#sidebar .quote textarea{  width: 90%;    padding: 5px; }
+
+
+/* sudo elements */
+
+.mylist li:first-child{   background: red; /* image or color*/  }
+.mylist li:last-child{  background:blue; /* the last child of li */  }
+.mylist li:nth-child(5){  background: yellow; /* the 5th child of li */ }
+.mylist li:nth-child(even){ background: blueviolet;  /* the other childs that are even */ }
+
+
+header .highlight, header .current a ,header a:hover{
+color: #e8491d;  font-weight: bold;
+}
+
+
+@media(min-width:760px){
+
+.container-1{     display: flex;    align-items: flex-start;    flex-direction: column;     }
+.container-2{   display: none; /* we remove totally the container-2 */ }
+}
+
+@media(max-width:680px){
+
+#main, #sidebar{  float: none; /* to remove floating when the size is smaller for android */   width: 100%; }
+
+}
+
+@media(max-width:768px){
+
+/* remove floats */
+header #branding , header nav , header nav li, #newsletter h1, #newsletter form, #boxes .box, article#main-col, aside#sidebar{
+float: none;  text-align: center; width: 100%;  }
+header{  padding-bottom: 20px;  }
+#showcase h1{   margin-top: 40px; }
+#newsletter button, .quote button{  display: block;   width: 100%;  }
+#newsletter form input[type="email"], .quote input, .quote textarea{    width: 100%;  margin-bottom: 7px;  }
+
+}
+
+
+.box{
+/* animation : name duration timing-function delay iteration-count direction fill-mode;    */
+
+animation : myanimation 4s ease-in infinite alternate forwards;
+animation-name: myanimation;   animation-duration: 4s;  animation-delay: 1s;  
+animation-timing-function: ease-in; /* linear , ease-in , ease-out , ease-in-out , slow*/
+animation-direction: reverse;  /* reverse , 'alternate'  */
+animation-iteration-count:infinite; /* 2 , 3 etc.. */
+animation-fill-mode:forwards;   /* ends with the last state */
+}
+
+@keyframes myanimation{    
+0% {   background-color: white;   left: 0px;   top: 0px;    border-radius: 0 0 0 0;}
+25% {   background-color: red;    left: 300px; top: 0px;    border-radius: 50% 0 0 0;}
+50% {   background-color: green;  left: 300px; top:300px;   border-radius: 50% 50% 0 0;}
+75% {   background-color: blue;   left: 0px;   top: 300px;  border-radius: 50% 50% 50% 0;}
+100%{ background-color: white;    left: 0px;   top: 0px;    border-radius: 50%;}
+
+/*
+  0%{top:-50px;}   a slide down from the top to kinda the midlle
+    100%{top:200px;}
+*/ /*
+    0%{left:-1000px;} a left slide to the midlle
+    100%{left: 0;}
+
+*/ 
+}
+
+.box{
+/* transition-property: all , background, border-radius, transform , etc...; */
+transition-property: background border-radius;
+transition-delay : 2s , 1s; /* 2s for the background to become red nd 1s for the border */
+transition-duration : 1s , 3s; /* when you use all it will only durate them all for 1s */
+transition-timing-function:ease-out;
+}
+.box:hover{
+background: red; border-radius: 50%;    transform: rotateY(180deg);
+}
+
+
+.btn{
+display: inline-block; /* on the next line like a block but we dont to go all away across  */
+color: #fff;  text-decoration:none;  padding: 1rem 2rem;  border: #fff 1px solid;
+margin-top:40px; 
+opacity:0; /* now we are hidding the button  */
+animation:btn 3s 3s forwards;
+transition-property:transform;
+transition-duration: 1s;
+}
+@keyframes btn{
+    0%{opacity:0;}
+    100%{opacity: 1;} /* full view */
+}
+.btn:hover{
+    transform: rotateY(180deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

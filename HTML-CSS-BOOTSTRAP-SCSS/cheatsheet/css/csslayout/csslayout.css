@@ -1,0 +1,304 @@
+/* How to use em document wide
+em sized fonts are based off of the size of the root level font size.
+If you change the root font size that cascades document wide
+By setting the size to 62.5% we can achieve the 16px default browser
+size while making em sizing more understandable (16 * 62.5% = 10)
+Now 1.6em = 16px */
+body {
+  font-size: 62.5%;
+
+  /* Remove margins and padding around content */
+  margin: 0;
+  padding: 0;
+
+  /* Use repeating image background */
+  background-image: url("RepeatPattern.png");
+
+  /* Fix background during scrolling */
+  background-attachment: fixed;
+
+  /* Create a gradient background */
+  background-image: -webkit-linear-gradient( top, #000, gray);
+  background-image: -moz-linear-gradient( top, #000, gray);
+  background-image: -ms-linear-gradient( top, #000, gray);
+  background-image: -o-linear-gradient( top, #000, gray);
+  background-image: linear-gradient( top, #000, gray);
+
+  /* Use scalable background image */
+  background-image: url("mountain-bkgrd.png");
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* Remove default margin and padding from every element */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Includes padding, margins with width and height of elements */
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  font-size: 1.6em;
+  padding: 2em;
+  margin: 0 auto;
+  width: 900px;
+  height: 2000px;
+  background-color: #FFF;
+
+  /* Place nonrepeating background */
+  background-image: url("flower-bkgrd.png");
+  background-repeat: no-repeat;
+  background-position: bottom right;
+
+  /* Multiple background images */
+  background: url("flower-bkgrd.png") top right no-repeat,
+  url("flower-bkgrd.png") bottom right no-repeat, #FFF;
+
+  /* Transparent background */
+  opacity: 0.9;
+}
+
+/* Use custom fonts : https://www.google.com/fonts#
+Font Squirrel is often used */
+h1{
+  font-family: 'Lobster', cursive;
+}
+
+/* Eliminate link underlines */
+
+a:link, a:visited {
+  text-decoration: none;
+}
+
+/* Highlight links on hover */
+a:hover {
+  background-color: #FAEBD7;
+}
+
+h1 {
+  /* Remove gap between heading and paragraph */
+  margin-bottom: 0;
+
+  /* Text Shadow : horz-pos, vert-pos, blur amount, color */
+  text-shadow: 2px 2px 3px gray;
+}
+
+/* Remove the margin for a p if it follows a h1 */
+h1+p {
+  margin-top: 0;
+}
+
+p {
+  margin: 10px;
+}
+
+.firstp {
+  /* Indent Text */
+  padding-left: 1.4em;
+}
+
+/* Enlarge the first letter of a paragraph */
+.fourthp:first-letter {
+  font-size: 200%;
+  float: left;
+  line-height: 1;
+}
+
+.dog-pic {
+  border: 2px solid #000;
+  margin: 10px;
+  float: left;
+
+  /* Add drop shadow
+  horz-pos, vert-pos, blur amount, size of shadow, color */
+  -webkit-box-shadow: 2px 2px 3px 2px gray;
+  -moz-box-shadow: 2px 2px 3px 2px gray;
+  box-shadow: 2px 2px 3px 2px gray;
+
+  /* Rounded image corners */
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+
+  /* Rotate Image */
+  -webkit-transform: rotate( 3deg);
+  -moz-transform: rotate( 3deg);
+  -o-transform: rotate( 3deg);
+  -ms-transform: rotate( 3deg);
+  transform: rotate( 3deg);
+
+}
+
+/* Use image in list */
+ul {
+  list-style-image: url(nttlogo.png);
+
+  /* Remove list indent */
+  list-style-type: none;
+  padding-left: 20px;
+  margin-left: 0;
+}
+
+/* Display list items horizontally */
+.notices li {
+  display: inline;
+}
+
+table {
+  /* Displayed at the top by default */
+  caption-side: bottom;
+}
+
+.quarterback-stats {
+  width: 600px;
+
+  /* Add border around the table */
+  border: 1px solid #000;
+
+  /* Eliminate space between cells */
+  border-collapse: collapse;
+}
+
+/* Add border around cells */
+.quarterback-stats td, .quarterback-stats th {
+  border: 1px solid #000;
+}
+
+/* Style table columns */
+.quarterback-stats td {
+  text-align: center;
+  padding: 0.3em;
+}
+
+/* Style table headings */
+.quarterback-stats th {
+  font-weight: bold;
+  padding: 0.3em;
+  background-color: #00308F;
+  color: #FFF;
+}
+
+/* Alternate colors on table rows */
+.quarterback-stats tr:nth-child(odd){
+  background-color: #7CB9E8;
+}
+
+/* Highlight table row on hover */
+.quarterback-stats tr:hover {
+  background-color: #2E5894;
+  color: #FFF;
+}
+
+/* Styling a form */
+#cust-form {
+  width: 375px;
+}
+
+#cust-form div {
+  float: left;
+  width: 375px;
+  padding: 0.5em 0.5em 0.75em 0.5em;
+}
+
+/* Add width so inputs line up */
+#cust-form label {
+  float: left;
+  width: 100px;
+}
+
+/* Add width so inputs are the same size */
+#cust-form textarea, form input {
+  width: 250px;
+}
+
+#cust-submit {
+  float: right;
+  width: auto;
+  margin-right: 10px;
+}
+
+/* Highlight form on focus */
+#cust-form input:focus, #cust-form textarea:focus{
+  background-color: #F5F5DC;
+}
+
+.discount {
+  background-color: #FFF;
+  border: 4px solid #000;
+  padding: 10px;
+  font-size: 1.4em;
+
+  /* Position absolutely 0px from the top / 55px from the right */
+  /* Positioning is based on the viewport so when resized things go wrong */
+  position: absolute;
+  top: 0px;
+  right: 55px;
+}
+
+/* We can correct this by setting the parent element to relative
+and then position based on the parent */
+.wrapper {
+
+  /* Sets positioning for elements inside it */
+  position: relative;
+}
+
+.discount {
+  right: 0px;
+}
+
+/* Make gallery of images */
+
+ul.gallery {
+  /* Eliminate the bullets */
+  list-style: none;
+  /* Don't allow elements on the left or right */
+  clear: both;
+}
+
+ul.gallery li {
+  /* Inline element in that there are no newlines, but
+  you can style margins, padding, height, and width
+  Inline ignores top / bottom margins, height, width
+  and vertical-align */
+  display: inline-block;
+
+  /* Used so I can position span inside using absolute */
+  position: relative;
+}
+
+ul.gallery span {
+  width: 250px;
+  height: 35px;
+  text-align: center;
+
+  /* Positions the span on the gallery image */
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  background-color: #000;
+  opacity: 0.75;
+  color: #fff;
+}
+
+ul.gallery span {
+
+  /* don't show span until hover */
+  margin-left: -10000px;
+}
+
+ul.gallery li:hover span {
+
+  /* Show span on hover */
+  margin-left: 0;
+}

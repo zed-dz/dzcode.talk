@@ -1,0 +1,14 @@
+{
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex"
+  ],
+  "dimmer.enabled": false,
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#135564",
+    "tab.unfocusedActiveBorder": "#fff0"
+  }
+}

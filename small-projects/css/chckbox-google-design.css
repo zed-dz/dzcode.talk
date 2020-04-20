@@ -1,0 +1,191 @@
+.si {
+  --color-default: #dee5f2;
+  --color-active: #0069ff;
+  --rotate-default: 180deg;
+  --rotate-active: 40deg;
+  --border-size-checkmark: 2px;
+  --border-size-box: 1px;
+  --input-size: 20px;
+  --guter: 15px;
+}
+
+.si,
+.si *,
+.si *::before,
+.si *::after {
+  box-sizing: border-box;
+}
+
+.si {
+  cursor: pointer;
+  position: relative;
+}
+
+.si > input[type='checkbox'],
+.si > input[type='radio'] {
+  -webkit-clip-path: polygon(0 0);
+  clip-path: polygon(0 0);
+}
+
+.si .si-label {
+  display: inline-block;
+  padding-left: var(--guter);
+  color: #9aa6bf;
+  vertical-align: text-top;
+}
+
+.si .si-label::before,
+.si .si-label::after {
+  transition: all 0.2s ease-in-out;
+}
+
+.si .si-label::before {
+  content: '';
+  display: block;
+  width: var(--input-size);
+  height: var(--input-size);
+  border: var(--border-size-box) solid var(--color-default);
+  position: absolute;
+  top: -3px;
+  left: 0;
+  -webkit-transform: rotate(0deg) scale(1);
+  transform: rotate(0deg) scale(1);
+}
+
+.si .si-label:hover::before {
+  border-color: var(--color-active);
+}
+
+.si.si-checkbox .si-label::before {
+  border-radius: var(--border-size-checkmark);
+}
+
+.si.si-checkbox .si-label::after {
+  content: '';
+  display: block;
+  width: 8px;
+  height: 18px;
+  border-width: 0 var(--border-size-checkmark) var(--border-size-checkmark) 0;
+  border-style: solid;
+  border-color: transparent var(--color-active) var(--color-active) transparent;
+  position: absolute;
+  top: -3px;
+  left: 0;
+  -webkit-transform: rotate(var(--rotate-default)) scale(0);
+  transform: rotate(var(--rotate-default)) scale(0);
+}
+
+.si.si-checkbox > input:checked + .si-label::after {
+  left: 8px;
+  -webkit-transform: rotate(var(--rotate-active)) scale(1);
+  transform: rotate(var(--rotate-active)) scale(1);
+}
+
+.si.si-checkbox > input:checked + .si-label::before {
+  -webkit-transform: rotate(var(--rotate-active)) scale(0);
+  transform: rotate(var(--rotate-active)) scale(0);
+}
+
+.si.si-radio .si-label::before,
+.si.si-radio .si-label::after {
+  border-radius: 100%;
+  top: -2px;
+}
+
+.si.si-radio .si-label::after {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 12px;
+  height: 0;
+  top: 100%;
+  left: 4px;
+}
+
+.si.si-radio > input:checked + .si-label::after {
+  background-color: #fff;
+  height: 12px;
+  top: 2px;
+}
+
+.si.si-radio > input:checked + .si-label::before {
+  background-color: var(--color-active);
+}
+
+.si.si-switcher .si-label {
+  padding-left: 45px;
+}
+
+.si.si-switcher .si-label::before {
+  content: '';
+  width: 36px;
+  height: 20px;
+  border-radius: 20px;
+  top: -2px;
+}
+
+.si.si-switcher .si-label::after {
+  content: '';
+  border-radius: 4px;
+  width: 6px;
+  height: 12px;
+  background-color: var(--color-default);
+  position: absolute;
+  top: 2px;
+  left: 7px;
+}
+
+.si.si-switcher > input:checked + .si-label::before {
+  background-color: var(--color-active);
+  border-color: var(--color-active);
+}
+
+.si.si-switcher > input:checked + .si-label::after {
+  background-color: #fff;
+  left: 24px;
+}
+
+.si [data-onchecked='show'],
+.si > input:checked ~ [data-onchecked='hide'] {
+  display: none;
+}
+
+.si [data-onchecked='hide'],
+.si > input:checked ~ [data-onchecked='show'] {
+  display: inline-block;
+}
+
+.si > input:checked + .si-label.line-across {
+  text-decoration: line-through;
+}
+
+/* the following style rules used for demo purpose */
+body {
+  font-family: arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 60px;
+}
+
+h1,
+h2,
+p {
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+p {
+  font-size: 20px;
+}
+
+header {
+  border-bottom: 1px solid #000;
+}
+
+.list li {
+  display: block;
+  margin-bottom: 10px;
+}

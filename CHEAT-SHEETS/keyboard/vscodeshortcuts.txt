@@ -1,0 +1,217 @@
+:emoji: => :smile: 
+
+alt + w wrap html
+alt + e emoji
+ctrl + ! => integrated terminal (keyboard shortcuts)
+
+shift + alt + arrowkeydown => copy down
+
+ctrl + d => select multiple item names its so handy
+ctrl + b side bar
+ctrl + p to move into files
+
+"rename symbol" feature in VS Code. Place the cursor on the name we want to replace, then hit F2
+
+shift + alt + right/left for expanding or shrinking selection. 
+
+you can use ctrl + U to undo the cursor insertion. If the text blocks we want to multi-select are already neatly aligned vertically, we can just use ctrl + alt + up or ctrl + alt + down to insert cursors directly above or below the current position.
+If you want to select the next occurrence of the word (text separated by spaces or special characters) currently under cursor or text of the current selection, ctrl + D will do the job.
+
+The most useful ones I find are ctrl + G for Go To Line... or ctrl + P for Go To File..., as well as ctrl + shift + O which is for Go To Symbol.... Man, I love the third one! It will bring you right to where you declared that function or variable
+
+Another nice shortcut is alt + left/right to just back or forth to previous cursor location
+
+/* react shortcuts
+
+// cl , nfn , fn , arfn , ifc , ifelsec , arrmth , axreq , fetchreq , asfetchreq , ndrq , expsrv , exprt , expmw
+
+rfc => react functional component ,
+rcc => react class based comp
+rafcp => react func arrow class with props  
+ptor => proptypes object isrequired ( ptfr, ptbr .. )
+
+*/
+
+1. Search Text Through All Files At Once (Windows: Ctrl + Shift + F, Mac: Control + Shift + F)
+One of my favorite features of VS code is having the ability to search any matching text throughout all of your files in the project directory. The best part? It is strikingly fast!
+
+To use this feature, you can open up the view by pressing Ctrl + Shift + F. It will show this sidebar to the left of your editor:
+
+
+
+By typing in a text and pressing enter, VS code will provide you a list of results matching the text like below:
+
+
+
+You can also replace all the matching texts in each resulting file at once in the blink of a second. If you click this tiny arrow at the left, it will bring up a second input box below where you can input the text to replace all along with clicking the tiny box that appears to the right:
+
+
+
+This feature can save you and your team a ton of time in the most timely pressured situations.
+
+2. Setting Accent Color For Tabs (Material Theme--not exclusive)
+Are you tired of seeing the same accent color for tabs everyday? If you're using the Material Theme extension for VS code, you can actually choose a custom accent color for your tabs to look like this:
+
+Red:
+
+
+
+Purple:
+
+
+
+Yellow:
+
+
+
+There are 16 different colors you can choose from!
+
+So if you have the extension, open up your command palette (Ctrl + Shift + P), select Material Theme: Set accent color and choose a color from the list, it will change the underlining color of your tabs as shown below:
+
+
+
+But wait a minute... I'm not using Material Theme in that example.
+
+That's because with the Material Theme extension installed, the feature is available throughout all of your themes. You don't have to be using the material theme to use this feature!
+
+3. Process Explorer
+Do you find your VS code editor a bit slow sometimes? Ever wished you can take a peek at what is eating up your memory? Well if you haven't known this already VS code has a Process Explorer feature which will allow you to open up a window as shown below:
+
+
+
+Look familiar to you?
+
+You might have seen this from the windows Task Manager which can be used when pressing Ctrl + Alt + Delete outside of your VS code editor. (Mac: Control + Option + Delete)
+
+4. Expand Bracket Selection
+Open your Keyboard Shortcuts and search for Expand Bracket Selection
+
+This is one of those features that took me awhile to discover, because I simply couldn't guess the name of this feature.
+
+When I first saw this in use by someone from a YouTube video, I knew that I had to do whatever it takes to find this one so that I can put a keyboard shortcut and use it in my projects.
+
+Using this feature will allow you to automatically select the entire block from the beginning curly braces to end:
+
+
+
+I find these to be very useful in situations where you want to swap an if/else block.
+
+5. Re-open a Closed Editor
+When you're working on a huge project with files lying around everywhere, it might be a little frustrating when you accidentally close a tab and have to search for it again in the side menu because VS code has a habit of auto expanding directories.
+
+Well, you can actually just re-open a closed editor by pressing Ctrl + Shift + T. (Mac: Control + Shift + T) You can even open up the tab before that, the tab even before that, etc. It's an undo feature exclusively for tabs.
+
+6. Open a File By Matching Text
+And speaking of searching for files, you can search for and open files on the fly. This is one of my top favorite features because you don't really need to manually click through directories to re-open a file that isn't open anymore. You won't believe how much time this continues to save for me every day.
+
+I have my keyboard shortcut bound to Ctrl + T (Mac: Control + T) to use this feature. You might have a Go to Symbol in File window pop open when you press that. I never really use that feature so I have it disabled.
+
+If you want to bind this to a hotkey, open up the keyboard shortcuts (File > Preferences > Keyboard Shortcuts) and search for workbence.action.quickOpen. Double click it and assign Ctrl + T to it.
+
+7. Integrated Terminal
+You can open up VS code's integrated terminal and instantly use it like a normal CLI by pressing Ctrl +` (Backtick). Doesn't it feel great never having to leave your VS code editor?
+
+8. Running Extensions
+You can view all of your running extensions by opening up the command palette and typing "Show Running Extensions".
+
+As you have might guessed this will show you a list of your running extensions.
+
+...but that's not all. You're also given the information to see which extensions take longer than others on activation. If you were ever wondering why your editor was loading up slower than usual then your answer might be lying within this window:
+
+
+
+9. Reload
+I personally think this is one of the coolest features of VS code because it allows you to keep your window in front of you when reloading your editor while having the same effect as if you were to close and re-open it.
+
+Press Ctrl + Alt + R. (Mac: Control + Option + R)
+
+10. Interchange Tabs To Separate Groups
+I have a habit of having a tab in the wrong tab group while I'm developing. I also like to avoid using my mouse as much as possible to get my way around things as it involves me lifting up my hand away from my keyboard. My hand is heavy, so I'd like to keep it on my keyboard at all times. Luckily VS code has a way to transfer a tab to a separate tab group by pressing Ctrl + Alt + Right Arrow (Mac: Control + Option + Right Arrow) to move a tab to the group on the right, or Ctrl + Alt + Left Arrow (Mac: Control + Option + Left Arrow) to move a tab to a group on the left:
+
+
+
+11. Select Everything to the Left/Right
+Sometimes you want to delete everything to the right or left of your cursor. If you weren't aware yet that you can select everything to the right or left of your cursor, this will improve the efficiency in getting things done in code because it simply makes things quicker.
+
+For example, to select everything to the right or left:
+
+Windows: Ctrl + Shift + Home/End
+
+Mac: Ctrl + Shift + Home/End
+
+
+
+To select almost everything to the right or left (cuts time in half):
+
+
+
+12. Delete Previous Word
+To delete a previous word, you can press Ctrl + Backspace (Mac: Control + Delete). This is very useful in situations where you make a typo and you hate having to press and hold the backspace button to get to the part you want to delete:
+
+
+
+You can actually use this outside of vs code almost anywhere:
+
+
+
+13. Startup Performance
+Sometimes it can just be a pain in the behind when you're lacking further detail on performance issues while you're trying to find out why there is a performance issue in the first place.
+
+And sometimes if you're lucky enough you'll find a tool that gives you all the answers. In VS code, startup performance is a top priority. That's why you're able to pop open a useful window of miraculously all the information you need:
+
+
+
+So go ahead and open up your command palette and search Startup Performance!
+
+14. Select In Words
+You can select texts word by word with the shortcuts Ctrl + Shift + Right Arrow (Mac: Control + Shift + Right Arrow) and Ctrl + Shift + Left Arrow (Mac: Control + Shift + Left Arrow).
+
+Very useful to select words faster:
+
+
+
+15. Duplicate Line
+A very powerful and known feature is the ability to duplicate lines. Simply press Ctrl + Shift + D (Mac: Control + Shift + D):
+
+
+
+16. Move to Beginning/End of File
+The quickest way to get your cursor to the first or last line of the file is pressing Ctrl + Home (Mac: Control + Home) to go the beginning and Ctrl + End (Mac: Control + End) to go to the end.
+
+
+
+17. Replace All Matching Occurrences of Text In The Current File
+Back when I started coding I had to select matching occurrences manually with my mouse. I'm glad those days are over because VS code provides a Change All Occurrences feature.
+
+You can select any group of text as your selection and if there are more than one occurrences of that selection, you can select and modify all occurrences at once by pressing Ctrl + F2 (Mac: Control + F2). I personally think Alt + F3 (Mac: Option + F3) feels a little easier on the wrist.
+
+18. Move Line Up/Down
+Moving a line up or down is useful literally every 10 minutes.
+
+Press Alt + Up Arrow (Mac: Option + Up Arrow) to move up and Alt + Down Arrow (Mac: Option + Down Arrow) to move down.
+
+19. Deleting a Line
+You can delete a line instantly by two ways:
+
+Ovewriting the clipboard with Ctrl + X (Mac: Control + X):
+
+
+
+Preserving the clipboard with Ctrl + Shift + K (Mac: Control + Shift + K). I personally prefer Ctrl + Alt + D (Mac: Control + Option + D):
+
+
+
+20. Move Editor Left or Right
+If you're like me, you probably have an uncontrollable desire to re-order tabs in a group where the tabs are related to one another and the tabs to the left are the high level files while the files going to the right are lower levels.
+
+You can control this much easier by using the commands Move Editor Leftand Move Editor Right. I assigned them to Ctrl + Num Pad 4 (Mac: Control + Num Pad 4) and Ctrl + Num Pad 6 (Mac: Control + Num Pad 6) so that they are more intuitive to me:
+
+
+
+21. Add Cursor Above/Below
+Duplicating your cursors is arguably the one feature in VS code that saves you the most time. This becomes great in situations like typescript:
+
+
+
+Press Ctrl + Alt + Up Arrow (Mac: Control + Option + Up Arrow) to add cursor above or Ctrl + Alt + Down Arrow (Mac: Control + Option + Down Arrow) to add cursor below.
+

@@ -1,0 +1,85 @@
+** Block ads with npm package
+
+const PuppeteerBlocker = require('@cliqz/adblocker-puppeteer').PuppeteerBlocker
+const fetch = require('cross-fetch')
+const pge = await browser.newPage()
+  const blocker = await PuppeteerBlocker.fromPrebuiltAdsAndTracking(fetch)
+  blocker.enableBlockingInPage(pge)
+
+  --------------------------
+Puppeteer is best runned in an unkown function i forgot how it's called though
+  ;(async () => {
+    await run()
+  })()
+
+  -----------------------
+
+const config = {
+  configBrowser: async () => {
+
+    /* Initialize browser*/
+    // The method launch launches a browser instance with given arguments. The browser will be closed when the parent node.js process is closed.
+
+    const brw = await puppeteer.launch({
+      headless: false,
+      defaultViewport: null,
+      args: ['--window-size=1920,1080'],
+      devtools: false,
+      slowMo: 250 // slow down by 250ms,
+      executablePath: 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe'
+
+        /* initialize the page*/
+        const pge = await brw.newPage()
+        // wait until network load + go to the page you want
+        await pge.setDefaultNavigationTimeout(0) // default 30000 ms // 3s
+        await pge.goto(BASE_URL, { waitUntil: 'networkidle2' })
+    return pge
+    })
+
+}
+module.exports = config
+
+------------------------------------------------------
+
+const shorten = {
+  getLink: async () => {
+    try {
+      /* initialize the page */
+      const page = await getPage(BASE_URL)
+
+      /* click alow to continue */
+
+      /* check if the element exists */
+      await page.waitFor(ALLOW_SELECTOR, { visible: true })
+
+      /* second method to check */
+      // await page.waitForFunction('document.querySelector("#btn") && document.querySelector("#btn").clientHeight !== 0 && document.querySelector("#btn").style.visibility !== "hidden"')
+      // const btnNext = await page.$('#btn') // $ means document.querySelector
+
+      // await btnNext.click()
+      await page.$eval(ALLOW_SELECTOR, elem => elem.click())
+      // await page.waitForXpath(ALLOW_XPATH, {visible: true})
+      // await page.$x(ALLOW_XPATH)[0].click()
+
+      /* block notification push pop up / geolocation */
+      await brw.defaultBrowserContext().overridePermissions(BASE_URL, ['geolocation', 'notifications'])
+
+      // waitFor => combines both waitforselector / waitforxpath / time
+      await page.waitForSelector(GET_LINK, { visible: true })
+      await page.$eval(GET_LINK, elem => elem.click())
+
+      /* disable JS when the url changes */
+      if (await page.url() !== BASE_URL) {
+        await page.waitFor(10000) // 10s
+        await page.setJavaScriptEnabled(false)
+      }
+
+      /* close the session */
+      await page.close()
+      // await browser.close()
+
+    } catch (err) {
+      console.error(err)
+    }
+  }
+}

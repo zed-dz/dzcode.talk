@@ -1,0 +1,222 @@
+*{
+	margin:0; padding:0;
+/* 	* means everything
+	if you want to the h1 and p1 dontt put their padding and margin par default*/
+}
+
+body{
+background-color:#f4f4f4;
+color:#555555;
+/*font-family: Arial, Halvetica, sans-serif;  font-size: 16px;  font-weight:normal; /* 400 , normal , bold*/
+font :  normal 16px Arial, Halvetica, sans-serif;
+line-height: 1.6em; /*space between the lines*/
+margin:0;
+}
+
+a{
+	text-decoration:none; /* to delete the underline */
+	color:#000;
+}
+
+a:hover{
+	color: red; /* on hover it turns red */
+}
+a:active{
+	color:green; /* on click it turns green */
+}
+.visit:visited{
+/*	color:yellow; /* when you visit the link for example and come back it will turn yellow */
+}
+
+.button:hover{
+	background:red;
+	color: #fff;
+}
+.clr{
+	clear: both; /* clear any floats */
+}
+
+.container{
+	width:80%; /* it is responsive then px */
+	margin:auto;  /*set an auto margin (spaces) an all sides so it is pushed over in the midlle
+	               padding is the space inside and margin is the space outside  */
+}
+.box-1{
+background-color:#333;
+color:#fff;
+border:5px red solid;
+border-width: 3px;
+border-bottom-width:10px;
+border-top-style:dotted;
+padding:40px;
+margin-top:20px;
+margin:20px 0;
+}
+
+.button{
+
+	background-color: #333;
+	color: #fff;
+	padding:10px 15px;
+	border: none;
+
+}
+
+.box-2{
+	border: 3px dotted #ccc;
+	padding:20px;
+	margin: 20px 0;
+}
+
+.categories{
+	border: 1px #ccc solid;
+	padding: 10px;
+	border-radius:15px;
+}
+
+.myform{
+	padding:20px;
+}
+.myform .form-group{
+	padding-bottom:15px;
+}
+
+.block{
+	float:left;
+	width: 33.3%; /* 3 of theme */
+	border: 1px solid #ccc;
+	padding:10px;
+	box-sizing: border-box; /*takes in the padding and the border and the stuff in and applies it to the width itself */
+	/*flexbox is better then this */
+
+}
+
+
+.box-1 p{
+/*margin-top:5px;  margin-bottom:5px; margin-right:10px; margin-left:10px; */
+margin: 5px 10px 5px 10px; /*top right bottom left*/
+/* margin: 5px 10px; /*top+bottom are the same , and right+left the same */
+/*margin: 5px; /*all the same , and the same thing for padding*/
+}
+.box-1 h1{
+	font-family:Tahoma;
+	font-weight:800;
+	font-style:italic;
+	text-decoration:underline;
+	text-transform:uppercase;
+	letter-spacing:0.2em;
+	word-spacing:1em;
+}
+
+.categories h2{
+	text-align:center;
+}
+.categories .nav-cat ul{
+	padding:0;
+	padding-left:20px;
+	list-style:square;
+	list-style:none;
+}
+.categories li{
+	padding-bottom:6px;
+	border-bottom: dotted 1px #333;
+	list-style-image:url('../../../images/s.jpg');
+}
+
+.myform label{
+display:block; /* to make labels in their own line */
+}
+.myform input[type="text"],.myform textarea{
+	padding:8px;
+	width:100%;
+}
+
+/* its the same as button
+.myform input[type="submit"]{
+
+background-color: #333;
+color: #fff;
+padding:10px 15px;
+border: none;
+
+}
+*/
+
+#main-block{
+	float: left;
+	width: 70%; /*responsive*/
+	padding: 15px;
+	box-sizing:border-box;
+}
+#sidebar{
+	float:right;
+	width: 30%; /*responsive*/
+background-color: #333;
+color: #fff;
+padding: 15px;
+box-sizing:border-box;
+
+}
+
+.p-box{
+	width:800px;
+	height:500px;
+	border:1px solid #000;
+	margin-top:30px;
+	position: relative; /*  the parent element is relative so that we can push the sons elements from their box  */
+	background-image:url('../../../images/1.jpeg');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position:center center; /*center horizentaly nd verticly */
+	background-size: cover;
+
+}
+
+.p-box h1{
+	position: absolute;
+	top: 100px;
+	left: 200px;
+}
+.p-box h2{
+	position: absolute;
+	bottom: 40px;
+ 	right: 100px;
+}
+.fix-me{
+    position: fixed; /* to fix the button at top of 400px no matter where we move in the page */
+	top: 400px;
+}
+/* sudo elements */
+.mylist li:first-child{
+	background: red; /* image or color*/
+}
+.mylist li:last-child{
+	background:blue; /* image or color*/
+}
+.mylist li:nth-child(5){
+background: yellow;
+}
+
+.mylist li:nth-child(even){
+
+background: blueviolet;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

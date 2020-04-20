@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-crash-course",
+  "version": "1.0.0",
+  "description": "These files go with the Node crash course on YouTube.",
+  "main": "nodejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node nodejs",
+    "dev": "nodemon nodejs",
+    "esmstart": "node -r esm nodejs",
+    "esmdev": "nodemon -r esm nodejs"
+  },
+  "keywords": [],
+  "author": "Brad Traversy",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  },
+  "dependencies": {
+    "esm": "^3.2.22",
+    "uuid": "^3.3.2"
+  }
+}

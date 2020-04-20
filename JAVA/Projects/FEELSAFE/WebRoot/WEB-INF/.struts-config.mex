@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlowViewLayout Version="1.2">
+  <StrutsActivity path="/feelSafe.do" location="50,50" dimension="248,88" />
+  <StrutsActivity path="login1;6" location="650,50" dimension="146,75" />
+  <StrutsActivity path="admin;6" location="555,135" dimension="150,100" />
+  <StrutsActivity path="feelsafe.appointmentrescheduling" location="950,350" dimension="192,49" />
+  <StrutsActivity path="feelsafe.adminmainpage" location="650,350" dimension="146,49" />
+  <StrutsActivity path="feelsafe.appointmentreports" location="950,250" dimension="167,49" />
+  <StrutsActivity path="feelsafe.login" location="950,50" dimension="94,49" />
+  <StrutsActivity path="feelsafe.employee" location="950,150" dimension="118,49" />
+  <StrutsActivity path="feelsafe.systemreport" location="650,250" dimension="136,49" />
+  <StrutsActivity path="feelsafe.admin" location="350,350" dimension="100,49" />
+  <StrutsActivity path="feelsafe.frontofficemanager" location="350,150" dimension="165,49" />
+  <StrutsActivity path="feelsafe.appointmentscheduling" location="50,350" dimension="182,49" />
+  <StrutsActivity path="feelsafe.doctordetails" location="50,250" dimension="134,49" />
+  <StrutsActivity path="feelsafe.healthawareness" location="350,250" dimension="154,49" />
+  <StrutsActivity path="/index.jsp" location="350,50" dimension="77,49" />
+  <StrutsActivity path="feelsafe.newuseradmin" location="50,450" dimension="141,49" />
+  <StrutsActivity path="feelsafe.addnewequipment" location="350,450" dimension="160,49" />
+  <StrutsActivity path="feelsafe.patientdetails" location="650,450" dimension="137,49" />
+  <StrutsTransition id="/feelSafe.do,doctordetails,feelsafe.doctordetails,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="109,138" />
+      <AbsolutePoint location="109,250" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/feelSafe.do,healthawareness,feelsafe.healthawareness,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="264,138" />
+      <AbsolutePoint location="264,274" />
+      <AbsolutePoint location="350,274" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/feelSafe.do,addnewequipment,feelsafe.addnewequipment,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="50,64" />
+      <AbsolutePoint location="-115,64" />
+      <AbsolutePoint location="-115,574" />
+      <AbsolutePoint location="430,574" />
+      <AbsolutePoint location="430,499" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="login1;6,null,/feelSafe.do,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="650,114" />
+      <AbsolutePoint location="298,114" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/feelSafe.do,appointmentreports,feelsafe.appointmentreports,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="114,50" />
+      <AbsolutePoint location="114,-250" />
+      <AbsolutePoint location="1089,-250" />
+      <AbsolutePoint location="1089,250" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/feelSafe.do,frontofficemanager,feelsafe.frontofficemanager,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="294,138" />
+      <AbsolutePoint location="294,174" />
+      <AbsolutePoint location="350,174" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/feelSafe.do,newuseradmin,feelsafe.newuseradmin,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="50,124" />
+      <AbsolutePoint location="-175,124" />
+      <AbsolutePoint location="-175,474" />
+      <AbsolutePoint location="50,474" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="admin;6,null,/feelSafe.do,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="555,214" />
+      <AbsolutePoint location="169,214" />
+      <AbsolutePoint location="169,138" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/feelSafe.do,appointmentrescheduling,feelsafe.appointmentrescheduling,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="174,50" />
+      <AbsolutePoint location="174,5" />
+      <AbsolutePoint location="1132,5" />
+      <AbsolutePoint location="1132,350" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/feelSafe.do,adminmainpage,feelsafe.adminmainpage,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="234,50" />
+      <AbsolutePoint location="234,-325" />
+      <AbsolutePoint location="871,-325" />
+      <AbsolutePoint location="871,374" />
+      <AbsolutePoint location="796,374" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/index.jsp,null,/feelSafe.do,2" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="350,74" />
+      <AbsolutePoint location="298,74" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/feelSafe.do,employee,feelsafe.employee,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="84,50" />
+      <AbsolutePoint location="84,-100" />
+      <AbsolutePoint location="1059,-100" />
+      <AbsolutePoint location="1059,150" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/feelSafe.do,systemreport,feelsafe.systemreport,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="204,138" />
+      <AbsolutePoint location="204,322" />
+      <AbsolutePoint location="757,322" />
+      <AbsolutePoint location="757,299" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/feelSafe.do,appointmentscheduling,feelsafe.appointmentscheduling,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="50,94" />
+      <AbsolutePoint location="-25,94" />
+      <AbsolutePoint location="-25,374" />
+      <AbsolutePoint location="50,374" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/feelSafe.do,patientdetails,feelsafe.patientdetails,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="114,50" />
+      <AbsolutePoint location="114,-70" />
+      <AbsolutePoint location="530,-70" />
+      <AbsolutePoint location="530,474" />
+      <AbsolutePoint location="650,474" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/feelSafe.do,adminlogin,feelsafe.admin,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="204,50" />
+      <AbsolutePoint location="204,-175" />
+      <AbsolutePoint location="324,-175" />
+      <AbsolutePoint location="324,374" />
+      <AbsolutePoint location="350,374" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/feelSafe.do,login,feelsafe.login,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="144,50" />
+      <AbsolutePoint location="144,-25" />
+      <AbsolutePoint location="997,-25" />
+      <AbsolutePoint location="997,50" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+</FlowViewLayout>
+

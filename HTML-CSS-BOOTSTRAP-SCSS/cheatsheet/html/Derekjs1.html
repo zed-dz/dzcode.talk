@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>js guide from derek banas</title>
+  </head>
+
+  <!-- escaped html symbols
+
+non-breaking space	&nbsp;	&#160;
+<	less than	&lt;	&#60;
+>	greater than	&gt;	&#62;
+&	ampersand	&amp;	&#38;
+"	double quotation mark	&quot;	&#34;
+'	single quotation mark (apostrophe)	&apos;	&#39;
+¢	cent	&cent;	&#162;
+£	pound	&pound;	&#163;
+¥	yen	&yen;	&#165;
+€	euro	&euro;	&#8364;
+©	copyright	&copy;	&#169;
+®	registered trademark	&reg;	&#174;
+ ̀	a	a&#768;	à
+ ́	a	a&#769;	á
+̂	a	a&#770;	â
+ ̃	a	a&#771;	ã
+ ̀	O	O&#768;	Ò
+ ́	O	O&#769;	Ó
+̂	O	O&#770;	Ô
+ ̃	O	O&#771;	Õ
+-->
+
+  <!-- <body onresize="alert('u just resized the browser');" onload="alert('hello world');"> -->
+
+  <body onresize="alert('u just resized the browser');">
+    <button ondblclick="alert('u dblc clicked');">double click</button>
+    <h3 onmouseover="changenode();" onmouseout="changehtml();">hello world</h3>
+
+    <p>Hide me by clicking the first paragraphe checkbox</p>
+
+    <form name="formx">
+      <label>first paragraphe</label>
+      <input type="checkbox" onclick="showFirstPar();" name="check1" />
+
+      <label>mouse X position</label>
+      <input type="text" name="formMouseX" placeholder="formMouseX" />
+
+      <label>mouse Y position</label>
+      <input type="text" name="formMouseY" />
+
+      <label> mouse press</label>
+      <input type="text" name="formMousePress" />
+
+      <label>keyboard press</label>
+      <input type="text" name="formKeyboardPress" />
+      <br />
+      <label> validating email with js not recommended for security reasons </label>
+      <!-- this refers to the input -->
+      <input
+        type="text"
+        name="mail"
+        size="30"
+        id="mail"
+        onblur="validateEmail(this,document.getElementById('logError'));"
+      />
+      <span id="logError"></span>
+      <br />
+      <label>num1</label>
+      <input type="text" name="num1" />
+      <label>num2</label>
+      <input type="text" name="num2" />
+      <span id="answer"></span>
+      <br />
+      <label>first name</label>
+      <input type="text" id="firstname" name="namecookie" />
+      <label>get cookie</label>
+      <input type="text" name="getcookie" />
+      <label>delete cookie</label>
+      <input type="text" name="deletecookie" />
+    </form>
+    <br />
+    <div>
+      <strong> hey there im bold </strong>
+      <i> hey n im italic</i> <br />
+      <h5>and im a lazy h5</h5>
+    </div>
+
+    <script src="derek.js"></script>
+
+    <footer>
+      <center>
+        <a href="https://www.youtube.com/playlist?list=PLBA965A22D89CF13B" style="font-size:1.3rem; font-weight:bold;">
+          All Rights Reserved &copy; Derek Banas
+        </a>
+      </center>
+    </footer>
+
+    <!-- noscript is used for browsers who dosent support javascript its kinda rare nowdays ...  -->
+    <noscript>
+      <h3>
+        this site requires javascript
+      </h3>
+    </noscript>
+  </body>
+</html>

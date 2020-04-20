@@ -1,0 +1,179 @@
+<!-- You can create scalable multi-column layouts with up to 12 columns. Scaling is focused on screens < 768px, >= 768px, >=992px and >1200px -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width = device-width, initial-scale = 1">
+  <title>Bootstrap Tutorial</title>
+  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+</head>
+
+<body>
+
+  <div class="container">
+
+    <!-- col means column, md >=992px (Also use xs, sm and lg), and the 3 represents the size of the column
+3 * 4 = 12 (A 6 column layout would use 2 if they had equal size) -->
+    <div class="row">
+      <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+        <h4>Column 1</h4>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla at libero at finibus. Mauris dui felis, sagittis
+        in dapibus eget, porta quis elit. Donec sodales placerat porta. Vivamus laoreet magna eget facilisis condimentum.
+        Donec porttitor elit nibh, et mollis nunc egestas at. Vestibulum tristique vehicula ligula vel mollis. Quisque ante
+        lectus, tincidunt maximus scelerisque in, molestie nec eros. Vestibulum finibus, lacus at gravida condimentum, tellus
+        mauris imperdiet orci.
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+        <h4>Column 2</h4>
+        Quisque rutrum augue odio, eu placerat diam bibendum id. Donec at fringilla leo, non varius magna. Vestibulum finibus, lacus
+        at gravida condimentum, tellus mauris imperdiet orci, a pretium justo nulla sit amet nunc. Class aptent taciti sociosqu
+        ad litora torquent per conubia nostra, per inceptos himenaeos. In fermentum ex ac lectus porttitor molestie. Sed
+        cursus velit congue ex venenatis accumsan.
+      </div>
+      <!-- When in sm mode the 3rd column jumps up below the 2nd column. To fix it put the following right before the column that messes up using the screen mode being sm that messes up. -->
+      <div class="clearfix visible-sm"></div>
+
+      <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+        <h4>Column 3</h4>
+        Pellentesque vulputate faucibus leo, non blandit ante faucibus maximus. Nunc non neque laoreet, tincidunt nisl et, tristique
+        odio. Nullam imperdiet sollicitudin neque malesuada ornare. Curabitur ultrices urna id gravida lacinia. Nunc eu neque
+        vitae nisi luctus rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique
+        senectus et netus et malesuada fames ac.
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+        <h4>Column 4</h4>
+        Vestibulum vitae lacus eu metus finibus viverra vel blandit justo. Suspendisse ac sapien sapien. In a pellentesque ipsum.
+        Donec quis venenatis lectus, at vehicula nulla. Etiam imperdiet tellus sit amet lobortis varius. Pellentesque sit
+        amet arcu quis sem pretium luctus. Aliquam vitae neque id augue sollicitudin mattis id vitae lorem. Quisque a metus
+        fermentum, ultricies diam non, dignissim nibh. Aliquam erat
+      </div>
+    </div>
+  </div>
+  <br>
+
+  <!-- For different sized columns divide up the 12 -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12">
+
+        <!-- We can collapse or hide data on the screen -->
+        <h4>
+          <a href="#col1Content" data-toggle="collapse">Column 1</a>
+        </h4>
+
+        <!-- With collapse in this div shows on load -->
+        <div id="col1Content" class="collapse show">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla at libero at finibus a pretium justo nulla
+          sit amet nunc. Vestibulum finibus, lacus at gravida condimentum, tellus mauris imperdiet orci.</div>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-8 col-xs-12">
+        <h4>
+          <a href="#col2Content" data-toggle="collapse">Column 2</a>
+        </h4>
+
+        <!-- With class collapse this div won't show on load -->
+        <div id="col2Content" class="collapse">Quisque rutrum augue odio, eu placerat diam bibendum id. Donec at fringilla leo, non varius magna. Vestibulum finibus,
+          lacus at gravida condimentum, tellus mauris imperdiet orci, a pretium justo nulla sit amet nunc. Class aptent taciti
+          sociosqu ad litora torquent per conubia.</div>
+      </div>
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+        <h4>
+          <a href="#col3Content" data-toggle="collapse">Column 3</a>
+        </h4>
+        <div id="col3Content" class="collapse">Pellentesque vulputate faucibus leo, non blandit ante faucibus maximus. Nunc non neque laoreet, tincidunt nisl et,
+          tristique odio. Nullam imperdiet sollicitudin neque malesuada ornare. Curabitur ultrices urna id gravida lacinia.
+          Nunc eu neque vitae nisi luctus rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
+          habitant morbi tristique senectus et netus et malesuada fames ac.</div>
+      </div>
+    </div>
+  </div>
+  <br>
+
+  <!-- Show / Hide elements based on screen size -->
+  <div class="container">
+
+    <div class="card d-sm-none d-md-none d-lg-none">
+      <p>Screen &lt; 768px</p>
+    </div>
+
+    <div class="card d-md-none d-lg-none">
+      <p>Screen &gt;= 768px and &lt; 992px</p>
+    </div>
+
+    <div class="card d-lg-none">
+      <p>Screen &gt;= 992px and &lt; 1200px</p>
+    </div>
+
+    <div class="card">
+      <p>Screen &gt; 1200px</p>
+    </div>
+
+  </div>
+  <br>
+
+  <div class="container">
+
+    <!-- You can constrain the columns if you want -->
+    <div class="row">
+
+      <!-- We could move it to the right with a blank div
+  <div class="col-md-6"></div> -->
+
+      <!-- Or we could use offset -->
+      <div class="col-md-6 col-md-offset-6">
+
+        <!-- The table class adds nice spacing and the other classes add additional style -->
+        <table class="table table-bordered table-striped table-hover">
+          <thead>
+            <tr>
+              <td colspan="4">Best Baseball Players</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+
+              <!-- You can adjust the width of table columns as well -->
+              <th class="col-md-2">
+              </th>
+
+              <!-- Use text alignment like text-center or text-right -->
+              <th class="text-center">Average</th>
+              <th class="text-center">RBIs</th>
+              <th class="text-center">Homeruns</th>
+            </tr>
+            <tr>
+              <td>
+                <a href="#">Hank Aaron*</a>
+              </td>
+              <td>.305</td>
+              <td>2297</td>
+              <td>755</td>
+            </tr>
+            <tr>
+              <td>
+                <a href="#">Babe Ruth*</a>
+              </td>
+              <td>.342</td>
+              <td>2214</td>
+              <td>714</td>
+            </tr>
+            <tr>
+              <td>
+                <a href="#">Barry Bonds</a>
+              </td>
+              <td>.298</td>
+              <td>1996</td>
+              <td>762</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</body>
+
+</html>

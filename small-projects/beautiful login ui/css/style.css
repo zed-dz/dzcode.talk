@@ -1,0 +1,71 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{background: linear-gradient(to right, #f02fc2  ,   #6094ea );
+
+
+}button{
+	background: none;cursor: pointer;
+	border:none;outline: none;
+	width: 56px;height: 56px;
+	padding: 7px 7px 7px 7px;
+	float: right;border-radius: 100px;
+	 box-shadow: 0 0px 3px #17ead9 , 0 0px 50px #6078ea;
+	transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}button img{
+	width: 20px;height: 20px;
+}
+div{
+
+
+	cursor: pointer;
+	width:56px;height:56px;
+	margin-top: 120px;float: left;
+	margin-left: 550px;
+	padding: 20px 20px 20px 20px;
+	border-radius: 50px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+
+}div nav{
+	display: none;
+	width:200px;height: 200px;
+}div nav input{
+	border-bottom:1px solid white;
+	padding: 5px 10px 10px 10px;
+	width:180px;height: 20px;
+	margin-top: 10px;background: none;
+	border-top:none;outline: none;
+	border-left:none;
+	border-right:none;color: white;
+}div nav button{
+	border:none;color: white;
+	margin-top: 30px;
+	width: 100px;
+	height: 40px;
+	font-weight: bold;font-size: 15px;
+	padding: 10px 20px 10px 20px;
+	float: right;cursor: pointer;
+	border-radius: 7px;background: none;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+	transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+	outline: none;
+  background: linear-gradient(to right, rgba(240,47,194,0.3) ,rgba(96,148,234,0.3));
+}div nav button:hover{
+
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: pink;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: pink;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: pink;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: pink;
+}

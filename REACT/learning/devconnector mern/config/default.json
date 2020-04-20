@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb://localhost/devconect",
+  "secretOrKey": "secret",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}

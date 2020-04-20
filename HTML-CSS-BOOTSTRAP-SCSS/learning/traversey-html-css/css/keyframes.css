@@ -1,0 +1,35 @@
+body{
+    background:#333; /* dark grey */
+}
+.box{
+    background: white;
+    width: 200px;
+    height: 200px;
+    position: relative;
+/* animation: name duration timing-function delay iteration-count direction fill-mode; */
+animation-name: myanimation;
+animation-duration: 4s; 
+animation-iteration-count:infinite; /* 2 , 3 etc.. */
+animation-delay: 1s;  /* wait 2 sec to begin */
+/*animation-direction: reverse; /* reverse the principale animation *-from left to bottom and so on ..*/
+animation-direction: alternate; /* go one way the first and then it will go the other way */
+animation-timing-function: ease-in; /* the speed of the animation 
+linear : start and ends with the same speed 
+ease-in  : starts slow and ends fast
+ease-out: start fast and ends slow
+ease-in-out : the default , slow
+*/
+animation-fill-mode:forwards; /* basicly the animations when it ends it comes back to its first look and shape so if you wanna keep the last animation and stops at it do this */
+
+
+}
+
+@keyframes myanimation{
+0% {   background-color: white; left: 0px; top: 0px; border-radius: 0 0 0 0;}
+25% {   background-color: red;  left: 300px; top: 0px; border-radius: 50% 0 0 0;}
+50% {   background-color: green; left: 300px; top:300px; border-radius: 50% 50% 0 0;}
+75% {   background-color: blue; left: 0px; top: 300px; border-radius: 50% 50% 50% 0;}
+100%{ background-color: white; left: 0px; top: 0px; border-radius: 50%;}
+
+
+}

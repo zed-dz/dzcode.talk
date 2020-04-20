@@ -1,0 +1,52 @@
+Block JS 
+
+If you would like to disable JavaScript after the page has loaded, you can use debugger:
+
+await page.evaluate(() => {
+  debugger;
+});
+
+
+I was able to take screenshots after using the debugger.
+
+Alternatively, you can replace each original node with its clone to remove the events attached to each element:
+
+await page.evaluate(() => {
+  document.querySelectorAll('*').forEach(element => {
+    element.parentNode.replaceChild(element.cloneNode(true), element);
+  });
+});
+You can also use removeEventListener() in a loop similar to the one above to remove specific events attached to a node.
+
+Otherwise, if you can disable JavaScript before the page has loaded, you can use page.setJavaScriptEnabled() before navigating to the page:
+
+await page.setJavaScriptEnabled(false);
+
+
+-----------
+
+After phoning a friend the folwing seems to work:
+
+await page.evaluate('document.body.innerHTML = document.body.innerHTML')
+-------
+
+A better solution is just to block all requests with the type equals to script:
+
+const puppeteer = require("puppeteer");
+
+(async () => {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+  await page.setRequestInterception(true);
+
+  page.on("request", request => {
+    if (request.resourceType() === "script") {
+      request.abort()
+    } else {
+      request.continue()
+    }
+  })
+
+  await page.goto("https://stackoverflow.com/")
+  await browser.close()
+})()

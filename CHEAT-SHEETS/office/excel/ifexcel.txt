@@ -1,0 +1,14 @@
+=IF([@Killer]="Arya Stark", "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Arya_Stark-Maisie_Williams.jpg/220px-Arya_Stark-Maisie_Williams.jpg",
+IF([@Killer]="Cersei Lannister", "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Cersei_Lannister-Lena_Headey.jpg/220px-Cersei_Lannister-Lena_Headey.jpg",
+IF([@Killer]="Jon Snow", "https://upload.wikimedia.org/wikipedia/cy/f/f0/Jon_Snow-Kit_Harington.jpg",
+IF([@Killer]="Ramsay Bolton", "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Ramsay_Bolton-_-Iwan_Rheon.jpg/220px-Ramsay_Bolton-_-Iwan_Rheon.jpg",
+IF([@Killer]="Jorah Mormont", "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Jorah_Mormont-Iain_Glen.jpg/220px-Jorah_Mormont-Iain_Glen.jpg",
+IF([@Killer]="Yara Greyjoy", "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a8/Game_of_thrones_6x5_yara_promo.jpg/revision/latest?cb=20160808022737",
+IF([@Killer]="Daenerys Targaryen","https://upload.wikimedia.org/wikipedia/en/0/0d/Daenerys_Targaryen_with_Dragon-Emilia_Clarke.jpg"))))))
+
+to counts from row 2 to row 1370 where that first column A contains the name of the "killer" and where the fourth column D contains 1 =COUNTIFS(A2:A1370, [@killer], D2:D1370, 1)
+
+$A1 : freezes the row
+
+
+

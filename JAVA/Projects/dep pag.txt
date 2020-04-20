@@ -1,0 +1,68 @@
+DÉPLACEMENT ENTRE PAGES
+
+1er page:
+
+        p2 x=new p2(t1.getText());      // tu veux envoyer un string alors dans la 2eme page il faut un constructeur qui contient un String
+       
+        this.dispose(); //la page li rana fiha nkhaboha
+                
+        x.setVisible(true); //tbaynlna la page 2
+
+        x.setLocation(100,200);   // ou bien f la page 2 fl constructor b this
+
+
+2eme page:
+
+// String y; si tu utilise this et elle nest pas obligatoire
+
+public p2(String y) {          // le onstructeur qui contient un String
+        initComponents();
+        //  this.y=y; elle nest pas obligatoire
+
+l1.setText("bonjour"+y);    
+    }
+
+    
+1er page: 
+
+  String user=t1.getText();
+  String mdp=t2.getText();
+  
+  if(user.equals("admin") && mdp.equals("admin")){
+            Accueil a=new Accueil(user,2);  // on veut envoyer ce qui as ecrit le user (String) et on veut le specialiser par un id li howa 2            this.dispose();
+            a.setVisible(true);
+
+2eme page 
+
+    
+    public Accueil(String username,int id) {   //on recupere un String et un entier
+        initComponents();
+        l1.setText("Bonjour "+username);
+        switch(id){
+            case 2:
+                b1.setVisible(false);
+                b2.setVisible(false);
+                break;
+    }
+
+
+    
+    
+1er page
+
+matrice2 q=new matrice2(m);
+this.dispose();
+q.setvisible(true);
+
+2eme page
+
+public matrice2(double [][] m) {
+int i=0,j=0;
+
+boucle pr afficher matrice2 }
+
+
+
+
+    
+    

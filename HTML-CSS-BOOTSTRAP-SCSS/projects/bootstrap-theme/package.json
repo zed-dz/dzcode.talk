@@ -1,0 +1,29 @@
+{
+  "name": "theme1",
+  "version": "1.0.0",
+  "description": "bootstrap theme1",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zed-M/dzcode.talk/"
+  },
+  "author": "Amine Hammou",
+  "license": "ISC",
+  "dependencies": {
+    "font-awesome": "*",
+    "gulp-uglifycss": "*",
+    "jquery": "*",
+    "popper": "*",
+    "popper.js": "*",
+    "tether": "*",
+    "lodash": "*"
+  },
+  "devDependencies": {
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-sass": "*"
+  }
+}

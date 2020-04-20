@@ -1,0 +1,6101 @@
+# Code Talk
+
+#### Code Talk community is a place where you can learn to code from all aspects in computer science whether it is web development, mobile development, desktop apps or even artificial intelligence and machine learning and many other modern IT fields.
+
+### 𝗝𝗼𝗶𝗻 𝘁𝗵𝗲 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆⁣
+
+► Facebook: https://www.facebook.com/dzcode.talk/ (10.3k) 📴
+
+► Group: https://www.facebook.com/groups/715279422170253/ (3.4k) 🖥
+
+► Instagram: https://instagram.com/code__talk (2.1k) 👨‍💻
+
+► Twitter: https://twitter.com/code__talk/ (0.3k) 💻
+
+► GitHub: https://github.com/zed-m/dzcode.talk 📚
+
+> © Code Talk
+
+## Author
+
+Amine Hammou
+
+## Version
+
+2.0.0
+
+## License
+
+Each project has it's owner LICENSE DO NOT ! re-use any projects that are not "open-source" or under "MIT" license, we take no responsibility in any legitim issue.
+
+## Contribution
+
+- Open source projects (JS) 👨‍💻
+- WordPress CMS builder 💻
+- Content Creation 📰
+- Community Management ☑️
+
+## Open To
+
+- Work contract
+- Freelance
+- Internship
+- Podcasts
+- Dev meet-ups 🙍
+- Hackathon ☘️
+
+## Support
+
+- Patreon: (https://patreon.com/code__talk) 👌
+- Referrals 💁
+- Sponsorship
+- Donation 💼
+- Spread the vibe 🤙
+
+## Inquiries
+
+► WhatsApp: +213 (0) 673 835 525
+
+► E-mail: codetalk18@gmail.com
+
+
+
+```bash
+
+- 📂 __C:\\xampp\\htdocs\\projects\\code talk\\dzcode.talk__
+   - 📂 __CHEAT\-SHEETS__
+     - 📄 [Frontend\-Cheat\-Sheets\-master.zip](CHEAT-SHEETS/Frontend-Cheat-Sheets-master.zip)
+     - 📄 [MEAN\-Stack\-Cheat\-Sheet\-master.zip](CHEAT-SHEETS/MEAN-Stack-Cheat-Sheet-master.zip)
+     - 📄 [The Front\-End Checklist\-Your best Front\-End Tool.pdf](CHEAT-SHEETS/The%20Front-End%20Checklist-Your%20best%20Front-End%20Tool.pdf)
+     - 📄 [Vue\-Essentials\-Cheat\-Sheet.pdf](CHEAT-SHEETS/Vue-Essentials-Cheat-Sheet.pdf)
+     - 📄 [Web\_Development.pdf](CHEAT-SHEETS/Web_Development.pdf)
+     - 📂 __ai__
+       - 📄 [Artificial intelligence\-Machine learning \-Deep learning.pdf](CHEAT-SHEETS/ai/Artificial%20intelligence-Machine%20learning%20-Deep%20learning.pdf)
+       - 📄 [EQUATIONS.FINALmachine\-learning.pdf](CHEAT-SHEETS/ai/EQUATIONS.FINALmachine-learning.pdf)
+       - 📄 [Toxic\_Comment\_Classification.pdf](CHEAT-SHEETS/ai/Toxic_Comment_Classification.pdf)
+       - 📄 [cheatsheets\-ai\-master.zip](CHEAT-SHEETS/ai/cheatsheets-ai-master.zip)
+     - 📄 [awesome\-vscode\-master.zip](CHEAT-SHEETS/awesome-vscode-master.zip)
+     - 📂 __cheetsheets\-master__
+       - 📄 [CELERY\_RABBITMQ\_CHEATSHEET](CHEAT-SHEETS/cheetsheets-master/CELERY_RABBITMQ_CHEATSHEET)
+       - 📄 [CURL CHEAT SHEET](CHEAT-SHEETS/cheetsheets-master/CURL%20CHEAT%20SHEET)
+       - 📄 [DJANGO CHEAT SHEET](CHEAT-SHEETS/cheetsheets-master/DJANGO%20CHEAT%20SHEET)
+       - 📄 [DJANGO\_REDIS](CHEAT-SHEETS/cheetsheets-master/DJANGO_REDIS)
+       - 📄 [GIT CHEAT SHEET.txt](CHEAT-SHEETS/cheetsheets-master/GIT%20CHEAT%20SHEET.txt)
+       - 📄 [INSTALLING LAMP \- apache2\-DJANGO.txt](CHEAT-SHEETS/cheetsheets-master/INSTALLING%20LAMP%20-%20apache2-DJANGO.txt)
+       - 📄 [Installing opencv on arch linux](CHEAT-SHEETS/cheetsheets-master/Installing%20opencv%20on%20arch%20linux)
+       - 📄 [JavaScript Cheat Sheet](CHEAT-SHEETS/cheetsheets-master/JavaScript%20Cheat%20Sheet)
+       - 📄 [LICENSE](CHEAT-SHEETS/cheetsheets-master/LICENSE)
+       - 📄 [LINUX CHEAT SHEET.TXT](CHEAT-SHEETS/cheetsheets-master/LINUX%20CHEAT%20SHEET.TXT)
+       - 📄 [MAC cheatsheet](CHEAT-SHEETS/cheetsheets-master/MAC%20cheatsheet)
+       - 📄 [MONGO DB cheat sheet.txt](CHEAT-SHEETS/cheetsheets-master/MONGO%20DB%20cheat%20sheet.txt)
+       - 📄 [MYSQL CHEAT SHEET.txt](CHEAT-SHEETS/cheetsheets-master/MYSQL%20CHEAT%20SHEET.txt)
+       - 📄 [POSTGRESQL CHEAT SHEET.TXT](CHEAT-SHEETS/cheetsheets-master/POSTGRESQL%20CHEAT%20SHEET.TXT)
+       - 📄 [README.md](CHEAT-SHEETS/cheetsheets-master/README.md)
+       - 📄 [SQLITE CHEAT SHEET](CHEAT-SHEETS/cheetsheets-master/SQLITE%20CHEAT%20SHEET)
+       - 📄 [SVN Cheatsheet.txt](CHEAT-SHEETS/cheetsheets-master/SVN%20Cheatsheet.txt)
+       - 📄 [WGET \- FTP](CHEAT-SHEETS/cheetsheets-master/WGET%20-%20FTP)
+       - 📄 [linux\_server.txt](CHEAT-SHEETS/cheetsheets-master/linux_server.txt)
+       - 📄 [supervisord cheat sheet](CHEAT-SHEETS/cheetsheets-master/supervisord%20cheat%20sheet)
+       - 📄 [vim cheatsheet.MD](CHEAT-SHEETS/cheetsheets-master/vim%20cheatsheet.MD)
+     - 📂 __code\_snippets\-master__
+       - 📂 __Atom\-Python__
+         - 📂 __Test\-Project__
+           - 📄 [test\-module.py](CHEAT-SHEETS/code_snippets-master/Atom-Python/Test-Project/test-module.py)
+       - 📂 __Automation__
+         - 📄 [rename.py](CHEAT-SHEETS/code_snippets-master/Automation/rename.py)
+       - 📂 __BeautifulSoup__
+         - 📄 [scrape.py](CHEAT-SHEETS/code_snippets-master/BeautifulSoup/scrape.py)
+         - 📄 [simple.html](CHEAT-SHEETS/code_snippets-master/BeautifulSoup/simple.html)
+       - 📂 __Closure__
+         - 📄 [html\_closure.js](CHEAT-SHEETS/code_snippets-master/Closure/html_closure.js)
+         - 📄 [html\_closure.py](CHEAT-SHEETS/code_snippets-master/Closure/html_closure.py)
+       - 📂 __Closures__
+         - 📄 [closure.js](CHEAT-SHEETS/code_snippets-master/Closures/closure.js)
+         - 📄 [closure.py](CHEAT-SHEETS/code_snippets-master/Closures/closure.py)
+         - 📄 [example.log](CHEAT-SHEETS/code_snippets-master/Closures/example.log)
+       - 📂 __Combinations\-Permutations__
+         - 📄 [comb\_perm.py](CHEAT-SHEETS/code_snippets-master/Combinations-Permutations/comb_perm.py)
+         - 📄 [examples.py](CHEAT-SHEETS/code_snippets-master/Combinations-Permutations/examples.py)
+       - 📂 __Cron\-Tasks__
+         - 📄 [snippets.txt](CHEAT-SHEETS/code_snippets-master/Cron-Tasks/snippets.txt)
+       - 📂 __Datetime__
+         - 📄 [dates.py](CHEAT-SHEETS/code_snippets-master/Datetime/dates.py)
+       - 📂 __Decorators__
+         - 📄 [decorators.py](CHEAT-SHEETS/code_snippets-master/Decorators/decorators.py)
+         - 📄 [snippets.txt](CHEAT-SHEETS/code_snippets-master/Decorators/snippets.txt)
+       - 📂 __EAFP__
+         - 📄 [eafp.py](CHEAT-SHEETS/code_snippets-master/EAFP/eafp.py)
+       - 📂 __Ex\-Machina__
+         - 📄 [ex\-machina.py](CHEAT-SHEETS/code_snippets-master/Ex-Machina/ex-machina.py)
+       - 📂 __Exceptions__
+         - 📄 [currupt\_file.txt](CHEAT-SHEETS/code_snippets-master/Exceptions/currupt_file.txt)
+         - 📄 [exceptions.py](CHEAT-SHEETS/code_snippets-master/Exceptions/exceptions.py)
+         - 📄 [test\_file.txt](CHEAT-SHEETS/code_snippets-master/Exceptions/test_file.txt)
+       - 📂 __FC\_Functions__
+         - 📄 [fc\_functions.py](CHEAT-SHEETS/code_snippets-master/FC_Functions/fc_functions.py)
+       - 📂 __For\_Else__
+         - 📄 [find.py](CHEAT-SHEETS/code_snippets-master/For_Else/find.py)
+         - 📄 [test\_while.py](CHEAT-SHEETS/code_snippets-master/For_Else/test_while.py)
+       - 📂 __Generators__
+         - 📄 [mem\_profile.py](CHEAT-SHEETS/code_snippets-master/Generators/mem_profile.py)
+         - 📄 [mem\_profile.pyc](CHEAT-SHEETS/code_snippets-master/Generators/mem_profile.pyc)
+         - 📄 [people.py](CHEAT-SHEETS/code_snippets-master/Generators/people.py)
+         - 📄 [square\_nums.py](CHEAT-SHEETS/code_snippets-master/Generators/square_nums.py)
+       - 📂 __Idempotence__
+         - 📄 [methods.txt](CHEAT-SHEETS/code_snippets-master/Idempotence/methods.txt)
+         - 📄 [test.py](CHEAT-SHEETS/code_snippets-master/Idempotence/test.py)
+       - 📂 __List\_Comp__
+         - 📄 [comprehensions.py](CHEAT-SHEETS/code_snippets-master/List_Comp/comprehensions.py)
+       - 📂 __Logging\-Advanced__
+         - 📄 [employee.py](CHEAT-SHEETS/code_snippets-master/Logging-Advanced/employee.py)
+         - 📄 [log\-sample.py](CHEAT-SHEETS/code_snippets-master/Logging-Advanced/log-sample.py)
+       - 📂 __Logging\-Basics__
+         - 📄 [employee.py](CHEAT-SHEETS/code_snippets-master/Logging-Basics/employee.py)
+         - 📄 [log\-sample.py](CHEAT-SHEETS/code_snippets-master/Logging-Basics/log-sample.py)
+         - 📄 [snippets.txt](CHEAT-SHEETS/code_snippets-master/Logging-Basics/snippets.txt)
+       - 📂 __Memoization__
+         - 📄 [sample.py](CHEAT-SHEETS/code_snippets-master/Memoization/sample.py)
+       - 📂 __Mutable__
+         - 📄 [code.py](CHEAT-SHEETS/code_snippets-master/Mutable/code.py)
+         - 📄 [concat.py](CHEAT-SHEETS/code_snippets-master/Mutable/concat.py)
+         - 📄 [mutable.py](CHEAT-SHEETS/code_snippets-master/Mutable/mutable.py)
+       - 📂 __NamedTuples__
+         - 📄 [code.py](CHEAT-SHEETS/code_snippets-master/NamedTuples/code.py)
+         - 📄 [named\_tuples.py](CHEAT-SHEETS/code_snippets-master/NamedTuples/named_tuples.py)
+       - 📂 __Object\-Oriented__
+         - 📂 __1\-FirstClasses__
+           - 📄 [oop.py](CHEAT-SHEETS/code_snippets-master/Object-Oriented/1-FirstClasses/oop.py)
+         - 📂 __2\-Class\-Instance\-Variables__
+           - 📄 [oop.py](CHEAT-SHEETS/code_snippets-master/Object-Oriented/2-Class-Instance-Variables/oop.py)
+         - 📂 __3\-Class\-Static\-Methods__
+           - 📄 [oop.py](CHEAT-SHEETS/code_snippets-master/Object-Oriented/3-Class-Static-Methods/oop.py)
+         - 📂 __4\-Inheritance__
+           - 📄 [oop\-finish.py](CHEAT-SHEETS/code_snippets-master/Object-Oriented/4-Inheritance/oop-finish.py)
+           - 📄 [oop.py](CHEAT-SHEETS/code_snippets-master/Object-Oriented/4-Inheritance/oop.py)
+         - 📂 __5\-SpecialMethods__
+           - 📄 [oop\_test.py](CHEAT-SHEETS/code_snippets-master/Object-Oriented/5-SpecialMethods/oop_test.py)
+         - 📂 __6\-property\-decorator__
+           - 📄 [oop.py](CHEAT-SHEETS/code_snippets-master/Object-Oriented/6-property-decorator/oop.py)
+       - 📂 __Python__
+         - 📂 __Python\-Environment\-Variables__
+           - 📄 [env\_vars.py](CHEAT-SHEETS/code_snippets-master/Python/Python-Environment-Variables/env_vars.py)
+       - 📂 __Python\-CSV__
+         - 📄 [names.csv](CHEAT-SHEETS/code_snippets-master/Python-CSV/names.csv)
+         - 📄 [new\_names.csv](CHEAT-SHEETS/code_snippets-master/Python-CSV/new_names.csv)
+         - 📄 [parse\_csv.py](CHEAT-SHEETS/code_snippets-master/Python-CSV/parse_csv.py)
+       - 📂 __Python\-Conditionals__
+         - 📄 [intro.py](CHEAT-SHEETS/code_snippets-master/Python-Conditionals/intro.py)
+         - 📄 [snippets.txt](CHEAT-SHEETS/code_snippets-master/Python-Conditionals/snippets.txt)
+       - 📂 __Python\-Context\-Managers__
+         - 📂 __Sample\-Dir\-One__
+           - 📄 [mydoc.txt](CHEAT-SHEETS/code_snippets-master/Python-Context-Managers/Sample-Dir-One/mydoc.txt)
+           - 📄 [todo.txt](CHEAT-SHEETS/code_snippets-master/Python-Context-Managers/Sample-Dir-One/todo.txt)
+           - 📄 [work.txt](CHEAT-SHEETS/code_snippets-master/Python-Context-Managers/Sample-Dir-One/work.txt)
+         - 📂 __Sample\-Dir\-Two__
+           - 📄 [demo.txt](CHEAT-SHEETS/code_snippets-master/Python-Context-Managers/Sample-Dir-Two/demo.txt)
+           - 📄 [sample.txt](CHEAT-SHEETS/code_snippets-master/Python-Context-Managers/Sample-Dir-Two/sample.txt)
+           - 📄 [test.txt](CHEAT-SHEETS/code_snippets-master/Python-Context-Managers/Sample-Dir-Two/test.txt)
+         - 📄 [cm\_demo.py](CHEAT-SHEETS/code_snippets-master/Python-Context-Managers/cm_demo.py)
+         - 📄 [sample.txt](CHEAT-SHEETS/code_snippets-master/Python-Context-Managers/sample.txt)
+         - 📄 [snippets.txt](CHEAT-SHEETS/code_snippets-master/Python-Context-Managers/snippets.txt)
+       - 📂 __Python\-Decorator\-Arguments__
+         - 📄 [decorator\-finish.py](CHEAT-SHEETS/code_snippets-master/Python-Decorator-Arguments/decorator-finish.py)
+         - 📄 [decorator\-start.py](CHEAT-SHEETS/code_snippets-master/Python-Decorator-Arguments/decorator-start.py)
+         - 📄 [flask\-hello.py](CHEAT-SHEETS/code_snippets-master/Python-Decorator-Arguments/flask-hello.py)
+       - 📂 __Python\-Dicts__
+         - 📄 [intro.py](CHEAT-SHEETS/code_snippets-master/Python-Dicts/intro.py)
+       - 📂 __Python\-Functions__
+         - 📄 [intro.py](CHEAT-SHEETS/code_snippets-master/Python-Functions/intro.py)
+         - 📄 [snippets.txt](CHEAT-SHEETS/code_snippets-master/Python-Functions/snippets.txt)
+       - 📂 __Python\-Future\-Date__
+         - 📄 [credit.py](CHEAT-SHEETS/code_snippets-master/Python-Future-Date/credit.py)
+         - 📄 [subs.py](CHEAT-SHEETS/code_snippets-master/Python-Future-Date/subs.py)
+         - 📄 [weight.py](CHEAT-SHEETS/code_snippets-master/Python-Future-Date/weight.py)
+       - 📂 __Python\-Imports__
+         - 📄 [intro.py](CHEAT-SHEETS/code_snippets-master/Python-Imports/intro.py)
+         - 📄 [my\_module.py](CHEAT-SHEETS/code_snippets-master/Python-Imports/my_module.py)
+       - 📂 __Python\-Ints__
+         - 📄 [intro.py](CHEAT-SHEETS/code_snippets-master/Python-Ints/intro.py)
+         - 📄 [snippets.txt](CHEAT-SHEETS/code_snippets-master/Python-Ints/snippets.txt)
+       - 📂 __Python\-JSON__
+         - 📄 [api.py](CHEAT-SHEETS/code_snippets-master/Python-JSON/api.py)
+         - 📄 [json\_demo.py](CHEAT-SHEETS/code_snippets-master/Python-JSON/json_demo.py)
+         - 📄 [new\_states.json](CHEAT-SHEETS/code_snippets-master/Python-JSON/new_states.json)
+         - 📄 [states.json](CHEAT-SHEETS/code_snippets-master/Python-JSON/states.json)
+       - 📂 __Python\-Lists__
+         - 📄 [intro.py](CHEAT-SHEETS/code_snippets-master/Python-Lists/intro.py)
+         - 📄 [snippets.txt](CHEAT-SHEETS/code_snippets-master/Python-Lists/snippets.txt)
+       - 📂 __Python\-Loops__
+         - 📄 [intro.py](CHEAT-SHEETS/code_snippets-master/Python-Loops/intro.py)
+       - 📂 __Python\-Patreon\-CSV__
+         - 📄 [parse\_csv.py](CHEAT-SHEETS/code_snippets-master/Python-Patreon-CSV/parse_csv.py)
+         - 📄 [patrons.csv](CHEAT-SHEETS/code_snippets-master/Python-Patreon-CSV/patrons.csv)
+       - 📂 __Python\-Random__
+         - 📄 [random\_data.py](CHEAT-SHEETS/code_snippets-master/Python-Random/random_data.py)
+         - 📄 [random\_demo.py](CHEAT-SHEETS/code_snippets-master/Python-Random/random_demo.py)
+       - 📂 __Python\-Regular\-Expressions__
+         - 📄 [data.txt](CHEAT-SHEETS/code_snippets-master/Python-Regular-Expressions/data.txt)
+         - 📄 [emails.py](CHEAT-SHEETS/code_snippets-master/Python-Regular-Expressions/emails.py)
+         - 📄 [simple.py](CHEAT-SHEETS/code_snippets-master/Python-Regular-Expressions/simple.py)
+         - 📄 [snippets.txt](CHEAT-SHEETS/code_snippets-master/Python-Regular-Expressions/snippets.txt)
+         - 📄 [urls.py](CHEAT-SHEETS/code_snippets-master/Python-Regular-Expressions/urls.py)
+       - 📂 __Python\-SQLite__
+         - 📄 [employee.db](CHEAT-SHEETS/code_snippets-master/Python-SQLite/employee.db)
+         - 📄 [employee.py](CHEAT-SHEETS/code_snippets-master/Python-SQLite/employee.py)
+         - 📄 [snippets.txt](CHEAT-SHEETS/code_snippets-master/Python-SQLite/snippets.txt)
+         - 📄 [sqlite\_demo.py](CHEAT-SHEETS/code_snippets-master/Python-SQLite/sqlite_demo.py)
+       - 📂 __Python\-Strings__
+         - 📄 [intro.py](CHEAT-SHEETS/code_snippets-master/Python-Strings/intro.py)
+       - 📂 __Python\-Unit\-Testing__
+         - 📄 [calc.py](CHEAT-SHEETS/code_snippets-master/Python-Unit-Testing/calc.py)
+         - 📄 [employee.py](CHEAT-SHEETS/code_snippets-master/Python-Unit-Testing/employee.py)
+         - 📄 [snippets.txt](CHEAT-SHEETS/code_snippets-master/Python-Unit-Testing/snippets.txt)
+         - 📄 [test\_calc.py](CHEAT-SHEETS/code_snippets-master/Python-Unit-Testing/test_calc.py)
+         - 📄 [test\_employee.py](CHEAT-SHEETS/code_snippets-master/Python-Unit-Testing/test_employee.py)
+       - 📄 [README.md](CHEAT-SHEETS/code_snippets-master/README.md)
+       - 📂 __Regular\-Expressions__
+         - 📄 [data.txt](CHEAT-SHEETS/code_snippets-master/Regular-Expressions/data.txt)
+         - 📄 [emails.txt](CHEAT-SHEETS/code_snippets-master/Regular-Expressions/emails.txt)
+         - 📄 [simple.txt](CHEAT-SHEETS/code_snippets-master/Regular-Expressions/simple.txt)
+         - 📄 [snippets.txt](CHEAT-SHEETS/code_snippets-master/Regular-Expressions/snippets.txt)
+         - 📄 [urls.txt](CHEAT-SHEETS/code_snippets-master/Regular-Expressions/urls.txt)
+       - 📂 __Scope__
+         - 📄 [scope.py](CHEAT-SHEETS/code_snippets-master/Scope/scope.py)
+       - 📂 __Slicing__
+         - 📄 [slicing.py](CHEAT-SHEETS/code_snippets-master/Slicing/slicing.py)
+       - 📂 __Starting\_Code__
+         - 📄 [calc.py](CHEAT-SHEETS/code_snippets-master/Starting_Code/calc.py)
+         - 📄 [employee.py](CHEAT-SHEETS/code_snippets-master/Starting_Code/employee.py)
+       - 📂 __Str\_Repr__
+         - 📄 [test.py](CHEAT-SHEETS/code_snippets-master/Str_Repr/test.py)
+         - 📄 [test2.py](CHEAT-SHEETS/code_snippets-master/Str_Repr/test2.py)
+       - 📂 __String Interpolation__
+         - 📄 [test.py](CHEAT-SHEETS/code_snippets-master/String Interpolation/test.py)
+       - 📂 __String\-Formatting__
+         - 📄 [formatting.py](CHEAT-SHEETS/code_snippets-master/String-Formatting/formatting.py)
+       - 📂 __Terminal__
+         - 📂 __Grep__
+           - 📂 __Personel__
+             - 📄 [emails.txt](CHEAT-SHEETS/code_snippets-master/Terminal/Grep/Personel/emails.txt)
+             - 📄 [phone\_numbers.txt](CHEAT-SHEETS/code_snippets-master/Terminal/Grep/Personel/phone_numbers.txt)
+           - 📄 [grep\-commands.txt](CHEAT-SHEETS/code_snippets-master/Terminal/Grep/grep-commands.txt)
+           - 📄 [memo.txt](CHEAT-SHEETS/code_snippets-master/Terminal/Grep/memo.txt)
+           - 📄 [names.txt](CHEAT-SHEETS/code_snippets-master/Terminal/Grep/names.txt)
+       - 📄 [conda\_auto\_env.sh](CHEAT-SHEETS/code_snippets-master/conda_auto_env.sh)
+       - 📄 [mem\_profile.py](CHEAT-SHEETS/code_snippets-master/mem_profile.py)
+       - 📄 [mem\_profile\_old.py](CHEAT-SHEETS/code_snippets-master/mem_profile_old.py)
+       - 📄 [random\_data.py](CHEAT-SHEETS/code_snippets-master/random_data.py)
+     - 📄 [coding\-cheat\-sheets\-master.zip](CHEAT-SHEETS/coding-cheat-sheets-master.zip)
+     - 📄 [developer\-list\-master.zip](CHEAT-SHEETS/developer-list-master.zip)
+     - 📄 [docker\-cheat\-sheet\-master.zip](CHEAT-SHEETS/docker-cheat-sheet-master.zip)
+     - 📂 __emmet__
+       - 📄 [emmet cheatsheet.pdf](CHEAT-SHEETS/emmet/emmet%20cheatsheet.pdf)
+       - 📂 __emmet\-master__
+         - 📄 [Icon.png](CHEAT-SHEETS/emmet/emmet-master/Icon.png)
+         - 📄 [LICENSE](CHEAT-SHEETS/emmet/emmet-master/LICENSE)
+         - 📄 [README.md](CHEAT-SHEETS/emmet/emmet-master/README.md)
+         - 📂 __bundles__
+           - 📄 [caniuse.js](CHEAT-SHEETS/emmet/emmet-master/bundles/caniuse.js)
+           - 📄 [snippets.js](CHEAT-SHEETS/emmet/emmet-master/bundles/snippets.js)
+         - 📄 [gulpfile.js](CHEAT-SHEETS/emmet/emmet-master/gulpfile.js)
+         - 📂 __lib__
+           - 📂 __action__
+             - 📄 [balance.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/balance.js)
+             - 📄 [base64.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/base64.js)
+             - 📄 [editPoints.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/editPoints.js)
+             - 📄 [evaluateMath.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/evaluateMath.js)
+             - 📄 [expandAbbreviation.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/expandAbbreviation.js)
+             - 📄 [incrementDecrement.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/incrementDecrement.js)
+             - 📄 [lineBreaks.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/lineBreaks.js)
+             - 📄 [main.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/main.js)
+             - 📄 [mergeLines.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/mergeLines.js)
+             - 📄 [reflectCSSValue.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/reflectCSSValue.js)
+             - 📄 [removeTag.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/removeTag.js)
+             - 📄 [selectItem.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/selectItem.js)
+             - 📄 [selectLine.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/selectLine.js)
+             - 📄 [splitJoinTag.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/splitJoinTag.js)
+             - 📄 [toggleComment.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/toggleComment.js)
+             - 📄 [updateImageSize.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/updateImageSize.js)
+             - 📄 [updateTag.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/updateTag.js)
+             - 📄 [wrapWithAbbreviation.js](CHEAT-SHEETS/emmet/emmet-master/lib/action/wrapWithAbbreviation.js)
+           - 📂 __assets__
+             - 📄 [caniuse.js](CHEAT-SHEETS/emmet/emmet-master/lib/assets/caniuse.js)
+             - 📄 [elements.js](CHEAT-SHEETS/emmet/emmet-master/lib/assets/elements.js)
+             - 📄 [handlerList.js](CHEAT-SHEETS/emmet/emmet-master/lib/assets/handlerList.js)
+             - 📄 [htmlMatcher.js](CHEAT-SHEETS/emmet/emmet-master/lib/assets/htmlMatcher.js)
+             - 📄 [logger.js](CHEAT-SHEETS/emmet/emmet-master/lib/assets/logger.js)
+             - 📄 [preferences.js](CHEAT-SHEETS/emmet/emmet-master/lib/assets/preferences.js)
+             - 📄 [profile.js](CHEAT-SHEETS/emmet/emmet-master/lib/assets/profile.js)
+             - 📄 [range.js](CHEAT-SHEETS/emmet/emmet-master/lib/assets/range.js)
+             - 📄 [resources.js](CHEAT-SHEETS/emmet/emmet-master/lib/assets/resources.js)
+             - 📄 [stringScore.js](CHEAT-SHEETS/emmet/emmet-master/lib/assets/stringScore.js)
+             - 📄 [stringStream.js](CHEAT-SHEETS/emmet/emmet-master/lib/assets/stringStream.js)
+             - 📄 [tabStops.js](CHEAT-SHEETS/emmet/emmet-master/lib/assets/tabStops.js)
+             - 📄 [tokenIterator.js](CHEAT-SHEETS/emmet/emmet-master/lib/assets/tokenIterator.js)
+           - 📂 __editTree__
+             - 📄 [base.js](CHEAT-SHEETS/emmet/emmet-master/lib/editTree/base.js)
+             - 📄 [css.js](CHEAT-SHEETS/emmet/emmet-master/lib/editTree/css.js)
+             - 📄 [xml.js](CHEAT-SHEETS/emmet/emmet-master/lib/editTree/xml.js)
+           - 📄 [emmet.js](CHEAT-SHEETS/emmet/emmet-master/lib/emmet.js)
+           - 📂 __filter__
+             - 📄 [bem.js](CHEAT-SHEETS/emmet/emmet-master/lib/filter/bem.js)
+             - 📄 [comment.js](CHEAT-SHEETS/emmet/emmet-master/lib/filter/comment.js)
+             - 📄 [css.js](CHEAT-SHEETS/emmet/emmet-master/lib/filter/css.js)
+             - 📄 [escape.js](CHEAT-SHEETS/emmet/emmet-master/lib/filter/escape.js)
+             - 📄 [format.js](CHEAT-SHEETS/emmet/emmet-master/lib/filter/format.js)
+             - 📄 [haml.js](CHEAT-SHEETS/emmet/emmet-master/lib/filter/haml.js)
+             - 📄 [html.js](CHEAT-SHEETS/emmet/emmet-master/lib/filter/html.js)
+             - 📄 [jade.js](CHEAT-SHEETS/emmet/emmet-master/lib/filter/jade.js)
+             - 📄 [jsx.js](CHEAT-SHEETS/emmet/emmet-master/lib/filter/jsx.js)
+             - 📄 [main.js](CHEAT-SHEETS/emmet/emmet-master/lib/filter/main.js)
+             - 📄 [singleLine.js](CHEAT-SHEETS/emmet/emmet-master/lib/filter/singleLine.js)
+             - 📄 [slim.js](CHEAT-SHEETS/emmet/emmet-master/lib/filter/slim.js)
+             - 📄 [trim.js](CHEAT-SHEETS/emmet/emmet-master/lib/filter/trim.js)
+             - 📄 [xsl.js](CHEAT-SHEETS/emmet/emmet-master/lib/filter/xsl.js)
+           - 📂 __generator__
+             - 📄 [lorem.js](CHEAT-SHEETS/emmet/emmet-master/lib/generator/lorem.js)
+           - 📂 __interfaces__
+             - 📄 [IEmmetEditor.js](CHEAT-SHEETS/emmet/emmet-master/lib/interfaces/IEmmetEditor.js)
+             - 📄 [IEmmetFile.js](CHEAT-SHEETS/emmet/emmet-master/lib/interfaces/IEmmetFile.js)
+           - 📂 __parser__
+             - 📄 [abbreviation.js](CHEAT-SHEETS/emmet/emmet-master/lib/parser/abbreviation.js)
+             - 📄 [css.js](CHEAT-SHEETS/emmet/emmet-master/lib/parser/css.js)
+             - 📂 __processor__
+               - 📄 [attributes.js](CHEAT-SHEETS/emmet/emmet-master/lib/parser/processor/attributes.js)
+               - 📄 [href.js](CHEAT-SHEETS/emmet/emmet-master/lib/parser/processor/href.js)
+               - 📄 [pastedContent.js](CHEAT-SHEETS/emmet/emmet-master/lib/parser/processor/pastedContent.js)
+               - 📄 [resourceMatcher.js](CHEAT-SHEETS/emmet/emmet-master/lib/parser/processor/resourceMatcher.js)
+               - 📄 [tagName.js](CHEAT-SHEETS/emmet/emmet-master/lib/parser/processor/tagName.js)
+             - 📄 [xml.js](CHEAT-SHEETS/emmet/emmet-master/lib/parser/xml.js)
+           - 📂 __plugin__
+             - 📄 [file.js](CHEAT-SHEETS/emmet/emmet-master/lib/plugin/file.js)
+           - 📂 __resolver__
+             - 📄 [css.js](CHEAT-SHEETS/emmet/emmet-master/lib/resolver/css.js)
+             - 📄 [cssGradient.js](CHEAT-SHEETS/emmet/emmet-master/lib/resolver/cssGradient.js)
+             - 📂 __gradient__
+               - 📄 [linear.js](CHEAT-SHEETS/emmet/emmet-master/lib/resolver/gradient/linear.js)
+             - 📄 [tagName.js](CHEAT-SHEETS/emmet/emmet-master/lib/resolver/tagName.js)
+           - 📄 [snippets.json](CHEAT-SHEETS/emmet/emmet-master/lib/snippets.json)
+           - 📂 __utils__
+             - 📄 [abbreviation.js](CHEAT-SHEETS/emmet/emmet-master/lib/utils/abbreviation.js)
+             - 📄 [action.js](CHEAT-SHEETS/emmet/emmet-master/lib/utils/action.js)
+             - 📄 [base64.js](CHEAT-SHEETS/emmet/emmet-master/lib/utils/base64.js)
+             - 📄 [comments.js](CHEAT-SHEETS/emmet/emmet-master/lib/utils/comments.js)
+             - 📄 [common.js](CHEAT-SHEETS/emmet/emmet-master/lib/utils/common.js)
+             - 📄 [cssSections.js](CHEAT-SHEETS/emmet/emmet-master/lib/utils/cssSections.js)
+             - 📄 [editor.js](CHEAT-SHEETS/emmet/emmet-master/lib/utils/editor.js)
+             - 📄 [math.js](CHEAT-SHEETS/emmet/emmet-master/lib/utils/math.js)
+             - 📄 [template.js](CHEAT-SHEETS/emmet/emmet-master/lib/utils/template.js)
+           - 📂 __vendor__
+             - 📄 [almond.js](CHEAT-SHEETS/emmet/emmet-master/lib/vendor/almond.js)
+             - 📄 [klass.js](CHEAT-SHEETS/emmet/emmet-master/lib/vendor/klass.js)
+             - 📄 [stringScore.js](CHEAT-SHEETS/emmet/emmet-master/lib/vendor/stringScore.js)
+         - 📄 [package.json](CHEAT-SHEETS/emmet/emmet-master/package.json)
+         - 📂 __test__
+           - 📂 __actions__
+             - 📄 [all.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/all.js)
+             - 📄 [balance.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/balance.js)
+             - 📄 [base64.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/base64.js)
+             - 📄 [editPoints.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/editPoints.js)
+             - 📄 [evaluateMath.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/evaluateMath.js)
+             - 📄 [expandAbbreviation.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/expandAbbreviation.js)
+             - 📄 [incrementDecrement.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/incrementDecrement.js)
+             - 📄 [lineBreaks.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/lineBreaks.js)
+             - 📄 [mergeLines.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/mergeLines.js)
+             - 📄 [reflectCSSValue.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/reflectCSSValue.js)
+             - 📄 [removeTag.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/removeTag.js)
+             - 📄 [selectItem.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/selectItem.js)
+             - 📄 [selectLine.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/selectLine.js)
+             - 📄 [splitJoinTag.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/splitJoinTag.js)
+             - 📄 [toggleComment.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/toggleComment.js)
+             - 📄 [updateImageSize.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/updateImageSize.js)
+             - 📄 [updateTag.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/updateTag.js)
+             - 📄 [wrapWithAbbreviation.js](CHEAT-SHEETS/emmet/emmet-master/test/actions/wrapWithAbbreviation.js)
+           - 📄 [caniuse.js](CHEAT-SHEETS/emmet/emmet-master/test/caniuse.js)
+           - 📄 [cssGradient.js](CHEAT-SHEETS/emmet/emmet-master/test/cssGradient.js)
+           - 📄 [cssResolver.js](CHEAT-SHEETS/emmet/emmet-master/test/cssResolver.js)
+           - 📄 [cssSections.js](CHEAT-SHEETS/emmet/emmet-master/test/cssSections.js)
+           - 📂 __editTree__
+             - 📄 [css.js](CHEAT-SHEETS/emmet/emmet-master/test/editTree/css.js)
+             - 📄 [xml.js](CHEAT-SHEETS/emmet/emmet-master/test/editTree/xml.js)
+           - 📄 [expandAbbreviations.js](CHEAT-SHEETS/emmet/emmet-master/test/expandAbbreviations.js)
+           - 📄 [filters.js](CHEAT-SHEETS/emmet/emmet-master/test/filters.js)
+           - 📄 [generators.js](CHEAT-SHEETS/emmet/emmet-master/test/generators.js)
+           - 📄 [handlerList.js](CHEAT-SHEETS/emmet/emmet-master/test/handlerList.js)
+           - 📄 [htmlMatcher.js](CHEAT-SHEETS/emmet/emmet-master/test/htmlMatcher.js)
+           - 📄 [preferences.js](CHEAT-SHEETS/emmet/emmet-master/test/preferences.js)
+           - 📂 __stubs__
+             - 📄 [ayyo.css](CHEAT-SHEETS/emmet/emmet-master/test/stubs/ayyo.css)
+             - 📄 [caniuse.json](CHEAT-SHEETS/emmet/emmet-master/test/stubs/caniuse.json)
+             - 📄 [e.gif](CHEAT-SHEETS/emmet/emmet-master/test/stubs/e.gif)
+             - 📄 [editor.js](CHEAT-SHEETS/emmet/emmet-master/test/stubs/editor.js)
+             - 📄 [webkit.html](CHEAT-SHEETS/emmet/emmet-master/test/stubs/webkit.html)
+           - 📄 [tabStops.js](CHEAT-SHEETS/emmet/emmet-master/test/tabStops.js)
+           - 📄 [template.js](CHEAT-SHEETS/emmet/emmet-master/test/template.js)
+           - 📄 [testUtils.js](CHEAT-SHEETS/emmet/emmet-master/test/testUtils.js)
+           - 📂 __ui__
+             - 📄 [profile\-matcher.html](CHEAT-SHEETS/emmet/emmet-master/test/ui/profile-matcher.html)
+             - 📄 [profile.html](CHEAT-SHEETS/emmet/emmet-master/test/ui/profile.html)
+           - 📄 [utils.js](CHEAT-SHEETS/emmet/emmet-master/test/utils.js)
+       - 📂 __emmetsandbox__
+         - 📄 [abbr.css](CHEAT-SHEETS/emmet/emmetsandbox/abbr.css)
+         - 📄 [abbr.html](CHEAT-SHEETS/emmet/emmetsandbox/abbr.html)
+         - 📄 [actions.html](CHEAT-SHEETS/emmet/emmetsandbox/actions.html)
+     - 📄 [get vs post](CHEAT-SHEETS/get%20vs%20post)
+     - 📂 __git__
+       - 📄 [git.txt](CHEAT-SHEETS/git/git.txt)
+       - 📄 [gitcheatsheet.PNG](CHEAT-SHEETS/git/gitcheatsheet.PNG)
+       - 📄 [github\-cheat\-sheet\-master.zip](CHEAT-SHEETS/git/github-cheat-sheet-master.zip)
+       - 📄 [my personal git cheatsheet.zip](CHEAT-SHEETS/git/my%20personal%20git%20cheatsheet.zip)
+     - 📂 __keyboard__
+       - 📄 [New to Mac Notes 2017 (2).pdf](CHEAT-SHEETS/keyboard/New%20to%20Mac%20Notes%202017%20(2).pdf)
+       - 📄 [Photos 2016 mac (2).pdf](CHEAT-SHEETS/keyboard/Photos%202016%20mac%20(2).pdf)
+       - 📄 [Siri\_Commands\_Sierra (2).pdf](CHEAT-SHEETS/keyboard/Siri_Commands_Sierra%20(2).pdf)
+       - 📄 [keyboard\-shortcuts\-windows (2).pdf](CHEAT-SHEETS/keyboard/keyboard-shortcuts-windows%20(2).pdf)
+       - 📄 [vscodeshortcuts.txt](CHEAT-SHEETS/keyboard/vscodeshortcuts.txt)
+     - 📂 __office__
+       - 📂 __excel__
+         - 📄 [ifexcel.txt](CHEAT-SHEETS/office/excel/ifexcel.txt)
+     - 📄 [regex\-cheat\-sheet\-rebellabs.png](CHEAT-SHEETS/regex-cheat-sheet-rebellabs.png)
+     - 📄 [snippets\-master.zip](CHEAT-SHEETS/snippets-master.zip)
+     - 📄 [the best sources.md](CHEAT-SHEETS/the%20best%20sources.md)
+     - 📂 __wordpress__
+       - 📄 [Wordpress\-Cheat\-Sheet\-V\-1.pdf](CHEAT-SHEETS/wordpress/Wordpress-Cheat-Sheet-V-1.pdf)
+       - 📄 [addhtml\_preventscroll\_sharefbbutton\_inputclassesnames\_wp.js](CHEAT-SHEETS/wordpress/addhtml_preventscroll_sharefbbutton_inputclassesnames_wp.js)
+       - 📄 [addhtmlwithjsidoine.html](CHEAT-SHEETS/wordpress/addhtmlwithjsidoine.html)
+       - 📄 [flexboxidoine.css](CHEAT-SHEETS/wordpress/flexboxidoine.css)
+       - 📄 [mega\-wordpress\-cheat\-sheet\-version\-1.zip](CHEAT-SHEETS/wordpress/mega-wordpress-cheat-sheet-version-1.zip)
+       - 📄 [replacetext\_addjs\_wordpress.php](CHEAT-SHEETS/wordpress/replacetext_addjs_wordpress.php)
+       - 📄 [wordpress.txt](CHEAT-SHEETS/wordpress/wordpress.txt)
+   - 📂 __COMPUTER\-SCIENCE__
+     - 📄 [100\-days\-of\-code\-log\-r2\-master.zip](COMPUTER-SCIENCE/100-days-of-code-log-r2-master.zip)
+     - 📄 [A\-to\-Z\-Resources\-for\-Students\-master.zip](COMPUTER-SCIENCE/A-to-Z-Resources-for-Students-master.zip)
+     - 📄 [Front\-end\-Developer\-Interview\-Questions\-master.zip](COMPUTER-SCIENCE/Front-end-Developer-Interview-Questions-master.zip)
+     - 📄 [algo\-data\-structures\-master.zip](COMPUTER-SCIENCE/algo-data-structures-master.zip)
+     - 📄 [awesome\-learn\-to\-code\-master.zip](COMPUTER-SCIENCE/awesome-learn-to-code-master.zip)
+     - 📄 [awesome\-master.zip](COMPUTER-SCIENCE/awesome-master.zip)
+     - 📄 [clean\-code\-javascript\-master.zip](COMPUTER-SCIENCE/clean-code-javascript-master.zip)
+     - 📄 [code\-tidbits\-master.zip](COMPUTER-SCIENCE/code-tidbits-master.zip)
+     - 📄 [computer\-science\-dev.zip](COMPUTER-SCIENCE/computer-science-dev.zip)
+     - 📄 [data\-science\-master.zip](COMPUTER-SCIENCE/data-science-master.zip)
+     - 📄 [every\-programmer\-should\-know\-master.zip](COMPUTER-SCIENCE/every-programmer-should-know-master.zip)
+     - 📄 [four\-semesters\-of\-cs\-gh\-pages.zip](COMPUTER-SCIENCE/four-semesters-of-cs-gh-pages.zip)
+     - 📄 [four\-semesters\-of\-cs\-part\-two\-master.zip](COMPUTER-SCIENCE/four-semesters-of-cs-part-two-master.zip)
+     - 📄 [intro\-to\-web\-dev\-v2\-master.zip](COMPUTER-SCIENCE/intro-to-web-dev-v2-master.zip)
+     - 📄 [mvc\-master.zip](COMPUTER-SCIENCE/mvc-master.zip)
+     - 📄 [pwa\-fundamentals\-master.zip](COMPUTER-SCIENCE/pwa-fundamentals-master.zip)
+     - 📄 [realworld\-master.zip](COMPUTER-SCIENCE/realworld-master.zip)
+     - 📄 [software\-design\-and\-architecture\-roadmap\-master.zip](COMPUTER-SCIENCE/software-design-and-architecture-roadmap-master.zip)
+     - 📄 [spellbook\-of\-modern\-webdev\-master.zip](COMPUTER-SCIENCE/spellbook-of-modern-webdev-master.zip)
+   - 📂 __DATABASES__
+     - 📄 [BD books.zip](DATABASES/BD%20books.zip)
+     - 📄 [cool tips.zip](DATABASES/cool%20tips.zip)
+     - 📄 [pics resume.zip](DATABASES/pics%20resume.zip)
+     - 📄 [sql tp + cour.zip](DATABASES/sql%20tp%20%2B%20cour.zip)
+     - 📄 [sql\-cheetsheet.zip](DATABASES/sql-cheetsheet.zip)
+   - 📂 __HTML\-CSS\-BOOTSTRAP\-SCSS__
+     - 📂 __books__
+       - 📂 __html & css books__
+         - 📄 [book.pdf](HTML-CSS-BOOTSTRAP-SCSS/books/html & css books/book.pdf)
+         - 📄 [cssvisualdictionary2ND.pdf](HTML-CSS-BOOTSTRAP-SCSS/books/html & css books/cssvisualdictionary2ND.pdf)
+         - 📄 [html\-intuitive\-guide\-I.pdf](HTML-CSS-BOOTSTRAP-SCSS/books/html & css books/html-intuitive-guide-I.pdf)
+         - 📄 [viseo\-responsive\-design (2).pdf](HTML-CSS-BOOTSTRAP-SCSS/books/html & css books/viseo-responsive-design%20(2).pdf)
+     - 📂 __cheatsheet__
+       - 📄 [Flexbox30\-master.zip](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/Flexbox30-master.zip)
+       - 📂 __css__
+         - 📄 [css properties](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/css%20properties)
+         - 📂 __css shorthand__
+           - 📂 __CSSShortHand\-__
+             - 📄 [cssShortHandProperty(without highlight).pdf](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/css shorthand/CSSShortHand-/cssShortHandProperty(without%20highlight).pdf)
+             - 📄 [cssShortHandProperty.pdf](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/css shorthand/CSSShortHand-/cssShortHandProperty.pdf)
+           - 📄 [css shorthand.pdf](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/css shorthand/css%20shorthand.pdf)
+           - 📄 [css\-shorthand\-cheat\-sheet\-1.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/css shorthand/css-shorthand-cheat-sheet-1.png)
+         - 📄 [css.jpg](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/css.jpg)
+         - 📂 __csslayout__
+           - 📄 [csslaout2.css](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/csslayout/csslaout2.css)
+           - 📄 [csslaout2.html](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/csslayout/csslaout2.html)
+           - 📄 [csslayout.css](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/csslayout/csslayout.css)
+           - 📄 [csslayout.html](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/csslayout/csslayout.html)
+           - 📄 [csslayout3.css](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/csslayout/csslayout3.css)
+           - 📄 [csslayout3.html](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/csslayout/csslayout3.html)
+         - 📄 [responsive css](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/responsive%20css)
+         - 📄 [responsive css notes](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/responsive%20css%20notes)
+         - 📄 [split.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/split.png)
+         - 📄 [splitnote.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/splitnote.png)
+         - 📄 [videobgzindexopacity.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/css/videobgzindexopacity.png)
+       - 📂 __html__
+         - 📄 [Derekjs1.html](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/html/Derekjs1.html)
+         - 📄 [HTML5\-Cheat\-Sheet\-1.jpg](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/html/HTML5-Cheat-Sheet-1.jpg)
+         - 📄 [canvas cs.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/html/canvas%20cs.png)
+         - 📄 [html5\-cheat\-sheet.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/html/html5-cheat-sheet.png)
+         - 📄 [html\_cheatsheet.jpg](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/html/html_cheatsheet.jpg)
+         - 📄 [responsive html](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/html/responsive%20html)
+         - 📄 [resum html.html](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/html/resum%20html.html)
+       - 📂 __scss\-animation\-cheetsheet\-master__
+         - 📂 __sass__
+           - 📂 __partials__
+             - 📄 [\_bigEntrance.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_bigEntrance.scss)
+             - 📄 [\_bounce.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_bounce.scss)
+             - 📄 [\_expandOpen.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_expandOpen.scss)
+             - 📄 [\_expandUp.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_expandUp.scss)
+             - 📄 [\_fadeIn.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_fadeIn.scss)
+             - 📄 [\_floating.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_floating.scss)
+             - 📄 [\_hatch.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_hatch.scss)
+             - 📄 [\_pullDown.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_pullDown.scss)
+             - 📄 [\_pullUp.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_pullUp.scss)
+             - 📄 [\_pulse.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_pulse.scss)
+             - 📄 [\_sildeDown.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_sildeDown.scss)
+             - 📄 [\_slideExpandUp.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_slideExpandUp.scss)
+             - 📄 [\_slideLeft.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_slideLeft.scss)
+             - 📄 [\_slideRight.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_slideRight.scss)
+             - 📄 [\_slideUp.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_slideUp.scss)
+             - 📄 [\_stretchLeft.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_stretchLeft.scss)
+             - 📄 [\_stretchRight.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_stretchRight.scss)
+             - 📄 [\_tossing.scss](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/scss-animation-cheetsheet-master/sass/partials/_tossing.scss)
+       - 📂 __traversey\_bootstrap\_cheatsheet__
+         - 📂 __css__
+           - 📄 [bootstrap.min.css](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/traversey_bootstrap_cheatsheet/css/bootstrap.min.css)
+         - 📂 __fonts__
+           - 📄 [glyphicons\-halflings\-regular.eot](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/traversey_bootstrap_cheatsheet/fonts/glyphicons-halflings-regular.eot)
+           - 📄 [glyphicons\-halflings\-regular.svg](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/traversey_bootstrap_cheatsheet/fonts/glyphicons-halflings-regular.svg)
+           - 📄 [glyphicons\-halflings\-regular.ttf](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/traversey_bootstrap_cheatsheet/fonts/glyphicons-halflings-regular.ttf)
+           - 📄 [glyphicons\-halflings\-regular.woff](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/traversey_bootstrap_cheatsheet/fonts/glyphicons-halflings-regular.woff)
+           - 📄 [glyphicons\-halflings\-regular.woff2](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/traversey_bootstrap_cheatsheet/fonts/glyphicons-halflings-regular.woff2)
+         - 📄 [index.html](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/traversey_bootstrap_cheatsheet/index.html)
+         - 📂 __js__
+           - 📄 [bootstrap.min.js](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/traversey_bootstrap_cheatsheet/js/bootstrap.min.js)
+       - 📂 __visuals__
+         - 📄 [343677.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/343677.png)
+         - 📄 [clearfix css floats.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/clearfix%20css%20floats.png)
+         - 📄 [colors.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/colors.png)
+         - 📄 [css units.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/css%20units.png)
+         - 📄 [css units2.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/css%20units2.png)
+         - 📄 [css units3.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/css%20units3.png)
+         - 📄 [css units4.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/css%20units4.png)
+         - 📄 [flex.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/flex.png)
+         - 📄 [flexprop.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/flexprop.png)
+         - 📄 [font.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/font.png)
+         - 📄 [grid\-column\-row.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/grid-column-row.png)
+         - 📄 [header.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/header.png)
+         - 📄 [html5r.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/html5r.png)
+         - 📄 [nicehoverimage.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/nicehoverimage.png)
+         - 📄 [padding and margin.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/padding%20and%20margin.png)
+         - 📄 [position.png](HTML-CSS-BOOTSTRAP-SCSS/cheatsheet/visuals/position.png)
+     - 📂 __game__
+       - 📂 __demineur\-master__
+         - 📄 [README.md](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/README.md)
+         - 📂 __img__
+           - 📄 [Démineur en JS.html](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/img/D%C3%A9mineur%20en%20JS.html)
+           - 📄 [drapeau.png](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/img/drapeau.png)
+           - 📄 [drapeau.xcf](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/img/drapeau.xcf)
+           - 📄 [drapeau2.png](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/img/drapeau2.png)
+           - 📄 [mine\-noire.png](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/img/mine-noire.png)
+           - 📄 [mine\-noire.xcf](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/img/mine-noire.xcf)
+           - 📄 [mine\-noire2.png](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/img/mine-noire2.png)
+           - 📄 [mine\-rouge.png](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/img/mine-rouge.png)
+           - 📄 [mine\-rouge.xcf](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/img/mine-rouge.xcf)
+           - 📄 [mine\-rouge2.png](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/img/mine-rouge2.png)
+         - 📄 [index.html](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/index.html)
+         - 📂 __scripts__
+           - 📄 [Cell.js](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/scripts/Cell.js)
+           - 📄 [demineur.js](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/scripts/demineur.js)
+           - 📄 [jquery\-2.1.4.min.js](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/scripts/jquery-2.1.4.min.js)
+           - 📄 [less.min.js](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/scripts/less.min.js)
+           - 📄 [pixi.js](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/scripts/pixi.js)
+         - 📂 __styles__
+           - 📂 __font__
+             - 📄 [DIGITALDREAMFAT\-demo.html](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/styles/font/DIGITALDREAMFAT-demo.html)
+             - 📄 [DIGITALDREAMFAT\-webfont.eot](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/styles/font/DIGITALDREAMFAT-webfont.eot)
+             - 📄 [DIGITALDREAMFAT\-webfont.ttf](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/styles/font/DIGITALDREAMFAT-webfont.ttf)
+             - 📄 [DIGITALDREAMFAT\-webfont.woff](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/styles/font/DIGITALDREAMFAT-webfont.woff)
+           - 📄 [mixins.less](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/styles/mixins.less)
+           - 📄 [reset.css](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/styles/reset.css)
+           - 📄 [style.less](HTML-CSS-BOOTSTRAP-SCSS/game/demineur-master/styles/style.less)
+       - 📄 [game.css](HTML-CSS-BOOTSTRAP-SCSS/game/game.css)
+       - 📄 [game.html](HTML-CSS-BOOTSTRAP-SCSS/game/game.html)
+       - 📄 [memory\-card.css](HTML-CSS-BOOTSTRAP-SCSS/game/memory-card.css)
+       - 📄 [memory\-card.html](HTML-CSS-BOOTSTRAP-SCSS/game/memory-card.html)
+       - 📄 [memory\-card.js](HTML-CSS-BOOTSTRAP-SCSS/game/memory-card.js)
+       - 📂 __roll dice__
+         - 📂 __Images__
+           - 📄 [back2.jpg](HTML-CSS-BOOTSTRAP-SCSS/game/roll dice/Images/back2.jpg)
+           - 📄 [dice\-1.png](HTML-CSS-BOOTSTRAP-SCSS/game/roll dice/Images/dice-1.png)
+           - 📄 [dice\-2.png](HTML-CSS-BOOTSTRAP-SCSS/game/roll dice/Images/dice-2.png)
+           - 📄 [dice\-3.png](HTML-CSS-BOOTSTRAP-SCSS/game/roll dice/Images/dice-3.png)
+           - 📄 [dice\-4.png](HTML-CSS-BOOTSTRAP-SCSS/game/roll dice/Images/dice-4.png)
+           - 📄 [dice\-5.png](HTML-CSS-BOOTSTRAP-SCSS/game/roll dice/Images/dice-5.png)
+           - 📄 [dice\-6.png](HTML-CSS-BOOTSTRAP-SCSS/game/roll dice/Images/dice-6.png)
+         - 📄 [challenges.js](HTML-CSS-BOOTSTRAP-SCSS/game/roll dice/challenges.js)
+         - 📄 [index.html](HTML-CSS-BOOTSTRAP-SCSS/game/roll dice/index.html)
+         - 📄 [style.css](HTML-CSS-BOOTSTRAP-SCSS/game/roll dice/style.css)
+     - 📂 __learning__
+       - 📄 [awesome\-css\-houdini\-master.zip](HTML-CSS-BOOTSTRAP-SCSS/learning/awesome-css-houdini-master.zip)
+       - 📂 __bootstrap__
+         - 📂 __1st udemy__
+           - 📂 __src__
+             - 📂 __css__
+               - 📄 [app.css](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/css/app.css)
+               - 📄 [app.css.map](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/css/app.css.map)
+               - 📄 [bootstrap.css](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/css/bootstrap.css)
+               - 📄 [bootstrap4b2.css](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/css/bootstrap4b2.css)
+               - 📄 [ekko\-lightbox.css](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/css/ekko-lightbox.css)
+               - 📄 [font\-awesome.css](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/css/font-awesome.css)
+               - 📄 [lightbox.min.css](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/css/lightbox.min.css)
+             - 📄 [index.html](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/index.html)
+             - 📂 __js__
+               - 📄 [bootstrap.min.js](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/js/bootstrap.min.js)
+               - 📄 [ekko\-lightbox.min.js](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/js/ekko-lightbox.min.js)
+               - 📄 [jquery.easing.min.js](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/js/jquery.easing.min.js)
+               - 📄 [jquery.min.js](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/js/jquery.min.js)
+               - 📄 [lightbox.min.js](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/js/lightbox.min.js)
+               - 📄 [popper.min.js](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/js/popper.min.js)
+               - 📄 [tether.min.js](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/js/tether.min.js)
+             - 📂 __p1__
+               - 📄 [about.html](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/p1/about.html)
+               - 📄 [contact.html](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/p1/contact.html)
+               - 📄 [home.html](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/p1/home.html)
+             - 📂 __scss__
+               - 📄 [\_bootstrap.scss](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/scss/_bootstrap.scss)
+               - 📄 [\_mixin.scss](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/scss/_mixin.scss)
+               - 📄 [\_variables.scss](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/scss/_variables.scss)
+               - 📄 [app.scss](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/1st udemy/src/scss/app.scss)
+         - 📄 [bootstraptut.html](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/bootstraptut.html)
+         - 📄 [bootstraptut2.html](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/bootstraptut2.html)
+         - 📄 [bootstraptut3.html](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/bootstraptut3.html)
+         - 📄 [carousel.html](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/carousel.html)
+         - 📄 [index.html](HTML-CSS-BOOTSTRAP-SCSS/learning/bootstrap/index.html)
+       - 📂 __sass__
+         - 📂 __css__
+           - 📄 [app.css](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/css/app.css)
+           - 📄 [app.css.map](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/css/app.css.map)
+           - 📄 [app2.css](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/css/app2.css)
+           - 📄 [app2.css.map](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/css/app2.css.map)
+           - 📄 [style.css](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/css/style.css)
+           - 📄 [style.css.map](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/css/style.css.map)
+         - 📂 __html__
+           - 📄 [bootstrap\-sass.html](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/html/bootstrap-sass.html)
+           - 📄 [index.html](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/html/index.html)
+           - 📄 [mixing.html](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/html/mixing.html)
+         - 📄 [prepros\-6.config](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/prepros-6.config)
+         - 📂 __sass__
+           - 📄 [\_variables.sass](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/sass/_variables.sass)
+           - 📄 [app.css](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/sass/app.css)
+           - 📄 [app.css.map](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/sass/app.css.map)
+           - 📄 [app.sass](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/sass/app.sass)
+           - 📄 [app2.css](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/sass/app2.css)
+           - 📄 [app2.css.map](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/sass/app2.css.map)
+           - 📄 [app2.sass](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/sass/app2.sass)
+           - 📂 __sass\-begin__
+             - 📂 __1\-base__
+               - 📄 [\_base.sass](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/sass/sass-begin/1-base/_base.sass)
+               - 📄 [\_base1.sass](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/sass/sass-begin/1-base/_base1.sass)
+             - 📂 __2\-mixins__
+               - 📄 [\_mixin.sass](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/sass/sass-begin/2-mixins/_mixin.sass)
+               - 📄 [\_mixins.sass](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/sass/sass-begin/2-mixins/_mixins.sass)
+             - 📄 [style.css](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/sass/sass-begin/style.css)
+             - 📄 [style.css.map](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/sass/sass-begin/style.css.map)
+             - 📄 [style.sass](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/sass/sass-begin/style.sass)
+           - 📂 __traversey\-bootstrap\-sass__
+             - 📄 [\_boot\-sass.sass](HTML-CSS-BOOTSTRAP-SCSS/learning/sass/sass/traversey-bootstrap-sass/_boot-sass.sass)
+       - 📂 __traversey\-html\-css__
+         - 📂 __css__
+           - 📄 [blog2.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/blog2.css)
+           - 📄 [flex.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/flex.css)
+           - 📄 [fullscreen.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/fullscreen.css)
+           - 📄 [grid.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/grid.css)
+           - 📄 [gridmobile.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/gridmobile.css)
+           - 📄 [keyframes.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/keyframes.css)
+           - 📄 [loginresponsive.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/loginresponsive.css)
+           - 📄 [menubar.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/menubar.css)
+           - 📄 [parallex.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/parallex.css)
+           - 📄 [photography.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/photography.css)
+           - 📄 [pricingtable.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/pricingtable.css)
+           - 📄 [responsive.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/responsive.css)
+           - 📄 [social.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/social.css)
+           - 📄 [split.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/split.css)
+           - 📄 [transition.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/transition.css)
+           - 📄 [video.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/video.css)
+           - 📄 [website.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/website.css)
+           - 📄 [website2.css](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/css/website2.css)
+         - 📂 __html__
+           - 📄 [blog.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/blog.html)
+           - 📄 [blog2.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/blog2.html)
+           - 📄 [flex.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/flex.html)
+           - 📄 [fullscreen.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/fullscreen.html)
+           - 📄 [grid.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/grid.html)
+           - 📄 [gridmobile.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/gridmobile.html)
+           - 📄 [keyframes.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/keyframes.html)
+           - 📄 [loginresponsive.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/loginresponsive.html)
+           - 📄 [menubar.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/menubar.html)
+           - 📄 [parallex.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/parallex.html)
+           - 📄 [photography.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/photography.html)
+           - 📄 [pricingtable.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/pricingtable.html)
+           - 📂 __responsive website__
+             - 📄 [about.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/responsive website/about.html)
+             - 📄 [responsive.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/responsive website/responsive.html)
+             - 📄 [services.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/responsive website/services.html)
+           - 📄 [social.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/social.html)
+           - 📄 [split.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/split.html)
+           - 📄 [text.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/text.html)
+           - 📄 [transitions.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/transitions.html)
+           - 📄 [video.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/video.html)
+           - 📄 [website.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/website.html)
+           - 📄 [website2.html](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/html/website2.html)
+         - 📂 __img__
+           - 📄 [cards.png](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/img/cards.png)
+           - 📄 [favicon.ico](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/img/favicon.ico)
+           - 📄 [logo.png](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/img/logo.png)
+           - 📄 [mockup1.png](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/img/mockup1.png)
+           - 📄 [mockup2.png](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/img/mockup2.png)
+           - 📄 [section\-bg.jpg](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/img/section-bg.jpg)
+           - 📄 [showcase.jpg](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/img/showcase.jpg)
+         - 📂 __js__
+           - 📄 [photograph.js](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/js/photograph.js)
+           - 📄 [split.js](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/js/split.js)
+         - 📄 [npm\-debug.log](HTML-CSS-BOOTSTRAP-SCSS/learning/traversey-html-css/npm-debug.log)
+     - 📂 __projects__
+       - 📂 __Digital agency__
+         - 📄 [gulpfile.js](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/gulpfile.js)
+         - 📄 [package.json](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/package.json)
+         - 📂 __src__
+           - 📂 __css__
+             - 📄 [bootstrap.css](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/css/bootstrap.css)
+             - 📄 [bootstrapv4.css](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/css/bootstrapv4.css)
+             - 📄 [font\-awesome.css](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/css/font-awesome.css)
+             - 📄 [style.css](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/css/style.css)
+           - 📂 __fonts__
+             - 📄 [FontAwesome.otf](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/fonts/FontAwesome.otf)
+             - 📄 [fontawesome\-webfont.eot](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/fonts/fontawesome-webfont.eot)
+             - 📄 [fontawesome\-webfont.svg](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/fonts/fontawesome-webfont.svg)
+             - 📄 [fontawesome\-webfont.ttf](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/fonts/fontawesome-webfont.ttf)
+             - 📄 [fontawesome\-webfont.woff](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/fonts/fontawesome-webfont.woff)
+             - 📄 [fontawesome\-webfont.woff2](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/fonts/fontawesome-webfont.woff2)
+           - 📂 __img__
+             - 📄 [Thumbs.db](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/img/Thumbs.db)
+             - 📄 [downloads\-bg.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/img/downloads-bg.jpg)
+             - 📄 [intro\-bg.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/img/intro-bg.jpg)
+             - 📄 [partner1.png](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/img/partner1.png)
+             - 📄 [partner2.png](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/img/partner2.png)
+             - 📄 [partner3.png](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/img/partner3.png)
+             - 📄 [partner4.png](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/img/partner4.png)
+             - 📄 [partner5.png](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/img/partner5.png)
+             - 📄 [partner6.png](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/img/partner6.png)
+             - 📄 [partner6.png.crdownload](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/img/partner6.png.crdownload)
+           - 📄 [index.html](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/index.html)
+           - 📂 __js__
+             - 📄 [bootstrap.min.js](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/js/bootstrap.min.js)
+             - 📄 [jquery.easing.min.js](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/js/jquery.easing.min.js)
+             - 📄 [jquery.min.js](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/js/jquery.min.js)
+             - 📄 [main.js](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/js/main.js)
+             - 📄 [popper.min.js](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/js/popper.min.js)
+             - 📄 [tether.min.js](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/js/tether.min.js)
+           - 📂 __scss__
+             - 📄 [style.scss](HTML-CSS-BOOTSTRAP-SCSS/projects/Digital agency/src/scss/style.scss)
+       - 📂 __bootstrap\-theme__
+         - 📄 [gulpfile.js](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/gulpfile.js)
+         - 📄 [package.json](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/package.json)
+         - 📂 __src__
+           - 📂 __css__
+             - 📄 [bootstrap.css](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/css/bootstrap.css)
+             - 📄 [font\-awesome.min.css](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/css/font-awesome.min.css)
+             - 📄 [style.css](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/css/style.css)
+           - 📂 __fonts__
+             - 📄 [FontAwesome.otf](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/fonts/FontAwesome.otf)
+             - 📄 [fontawesome\-webfont.eot](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/fonts/fontawesome-webfont.eot)
+             - 📄 [fontawesome\-webfont.svg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/fonts/fontawesome-webfont.svg)
+             - 📄 [fontawesome\-webfont.ttf](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/fonts/fontawesome-webfont.ttf)
+             - 📄 [fontawesome\-webfont.woff](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/fonts/fontawesome-webfont.woff)
+             - 📄 [fontawesome\-webfont.woff2](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/fonts/fontawesome-webfont.woff2)
+           - 📂 __img__
+             - 📄 [73oeq\-desktop\-49291842\-1920x1080.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/img/73oeq-desktop-49291842-1920x1080.jpg)
+             - 📄 [bootstrap\_solid.png](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/img/bootstrap_solid.png)
+             - 📄 [create\-section1.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/img/create-section1.jpg)
+             - 📄 [explore\-section1.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/img/explore-section1.jpg)
+             - 📄 [home.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/img/home.jpg)
+             - 📄 [share\-section1.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/img/share-section1.jpg)
+           - 📄 [index.html](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/index.html)
+           - 📂 __js__
+             - 📄 [bootstrap.min.js](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/js/bootstrap.min.js)
+             - 📄 [jquery.min.js](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/js/jquery.min.js)
+             - 📄 [popper.min.js](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/js/popper.min.js)
+           - 📂 __minify__
+             - 📄 [bootstrap.css](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/minify/bootstrap.css)
+             - 📄 [font\-awesome.min.css](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/minify/font-awesome.min.css)
+             - 📄 [style.css](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/minify/style.css)
+           - 📂 __scss__
+             - 📄 [style.scss](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme/src/scss/style.scss)
+       - 📂 __bootstrap\-theme\-2__
+         - 📂 __css__
+           - 📄 [style.css](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/css/style.css)
+         - 📂 __img__
+           - 📄 [01circle.svg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/01circle.svg)
+           - 📄 [02circle.svg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/02circle.svg)
+           - 📄 [03rectangle.svg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/03rectangle.svg)
+           - 📄 [04circle.svg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/04circle.svg)
+           - 📄 [05circle.svg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/05circle.svg)
+           - 📄 [06circle.svg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/06circle.svg)
+           - 📄 [07circle.svg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/07circle.svg)
+           - 📄 [08circle.svg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/08circle.svg)
+           - 📄 [09circle.svg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/09circle.svg)
+           - 📄 [4662.png](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/4662.png)
+           - 📄 [client01.png](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/client01.png)
+           - 📄 [client02.png](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/client02.png)
+           - 📄 [client03.png](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/client03.png)
+           - 📄 [client04.png](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/client04.png)
+           - 📄 [logo.svg](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/logo.svg)
+           - 📄 [man.png](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/img/man.png)
+         - 📄 [index.html](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/index.html)
+         - 📂 __js__
+           - 📄 [script.js](HTML-CSS-BOOTSTRAP-SCSS/projects/bootstrap-theme-2/js/script.js)
+       - 📂 __code\_talk__
+         - 📂 __css__
+           - 📄 [footer.css](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/css/footer.css)
+           - 📄 [home.css](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/css/home.css)
+           - 📄 [login.css](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/css/login.css)
+           - 📄 [media\-query.css](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/css/media-query.css)
+         - 📂 __fonts__
+           - 📄 [FontAwesome.otf](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/fonts/FontAwesome.otf)
+           - 📄 [fontawesome\-webfont.eot](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/fonts/fontawesome-webfont.eot)
+           - 📄 [fontawesome\-webfont.svg](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/fonts/fontawesome-webfont.svg)
+           - 📄 [fontawesome\-webfont.ttf](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/fonts/fontawesome-webfont.ttf)
+           - 📄 [fontawesome\-webfont.woff](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/fonts/fontawesome-webfont.woff)
+           - 📄 [fontawesome\-webfont.woff2](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/fonts/fontawesome-webfont.woff2)
+           - 📄 [genericons\-regular\-webfont.eot](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/fonts/genericons-regular-webfont.eot)
+           - 📄 [genericons\-regular\-webfont.woff](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/fonts/genericons-regular-webfont.woff)
+           - 📄 [glyphicons\-halflings\-regular.eot](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/fonts/glyphicons-halflings-regular.eot)
+           - 📄 [glyphicons\-halflings\-regular.svg](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/fonts/glyphicons-halflings-regular.svg)
+           - 📄 [glyphicons\-halflings\-regular.ttf](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/fonts/glyphicons-halflings-regular.ttf)
+           - 📄 [glyphicons\-halflings\-regular.woff](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/fonts/glyphicons-halflings-regular.woff)
+           - 📄 [glyphicons\-halflings\-regular.woff2](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/fonts/glyphicons-halflings-regular.woff2)
+         - 📂 __html__
+           - 📄 [about.html](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/html/about.html)
+           - 📄 [contact.html](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/html/contact.html)
+           - 📄 [homepage.html](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/html/homepage.html)
+           - 📄 [login.html](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/html/login.html)
+           - 📄 [services.html](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/html/services.html)
+         - 📂 __images__
+           - 📄 [1.jpeg](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/images/1.jpeg)
+           - 📄 [action\-america\-architecture\-378570.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/images/action-america-architecture-378570.jpg)
+           - 📄 [america\-american\-flag\-architecture\-450597.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/images/america-american-flag-architecture-450597.jpg)
+           - 📄 [america\-billboards\-broadway\-1112109.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/images/america-billboards-broadway-1112109.jpg)
+           - 📄 [car1.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/images/car1.jpg)
+           - 📄 [car2.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/images/car2.jpg)
+           - 📄 [car3.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/images/car3.jpg)
+           - 📄 [image1.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/images/image1.jpg)
+           - 📄 [image2.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/images/image2.jpg)
+           - 📄 [image3.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/images/image3.jpg)
+           - 📄 [showcase.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/images/showcase.jpg)
+         - 📂 __js__
+           - 📄 [home.js](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/js/home.js)
+         - 📂 __video__
+           - 📄 [Hacker\_code\_whiteblack\_01\_Videvo.mov](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/video/Hacker_code_whiteblack_01_Videvo.mov)
+           - 📄 [laptop.mov](HTML-CSS-BOOTSTRAP-SCSS/projects/code_talk/video/laptop.mov)
+       - 📄 [devconnector\_theme\_sass\-master.zip](HTML-CSS-BOOTSTRAP-SCSS/projects/devconnector_theme_sass-master.zip)
+       - 📂 __modern\_portfolio\-master__
+         - 📂 __dist__
+           - 📄 [about.html](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/dist/about.html)
+           - 📄 [contact.html](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/dist/contact.html)
+           - 📂 __css__
+             - 📄 [main.css](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/dist/css/main.css)
+           - 📂 __img__
+             - 📄 [background.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/dist/img/background.jpg)
+             - 📄 [portrait.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/dist/img/portrait.jpg)
+             - 📄 [portrait\_small.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/dist/img/portrait_small.jpg)
+             - 📂 __projects__
+               - 📄 [project1.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/dist/img/projects/project1.jpg)
+               - 📄 [project2.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/dist/img/projects/project2.jpg)
+               - 📄 [project3.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/dist/img/projects/project3.jpg)
+               - 📄 [project4.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/dist/img/projects/project4.jpg)
+               - 📄 [project5.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/dist/img/projects/project5.jpg)
+           - 📄 [index.html](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/dist/index.html)
+           - 📂 __js__
+             - 📄 [main.js](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/dist/js/main.js)
+           - 📄 [work.html](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/dist/work.html)
+         - 📄 [package.json](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/package.json)
+         - 📂 __scss__
+           - 📄 [\_config.scss](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/scss/_config.scss)
+           - 📄 [\_menu.scss](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/scss/_menu.scss)
+           - 📄 [\_mobile.scss](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/scss/_mobile.scss)
+           - 📄 [main.scss](HTML-CSS-BOOTSTRAP-SCSS/projects/modern_portfolio-master/scss/main.scss)
+       - 📂 __social static network__
+         - 📄 [blog.html](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/blog.html)
+         - 📄 [chat.html](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/chat.html)
+         - 📂 __css__
+           - 📄 [blog.css](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/css/blog.css)
+           - 📄 [chat.css](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/css/chat.css)
+           - 📄 [home.css](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/css/home.css)
+           - 📄 [index.css](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/css/index.css)
+           - 📄 [menu.css](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/css/menu.css)
+           - 📄 [messaging.css](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/css/messaging.css)
+           - 📄 [post.css](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/css/post.css)
+           - 📄 [post\_form.css](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/css/post_form.css)
+           - 📄 [profile.css](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/css/profile.css)
+           - 📄 [reset.css](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/css/reset.css)
+           - 📄 [widget.css](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/css/widget.css)
+         - 📄 [home.html](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/home.html)
+         - 📂 __img__
+           - 📂 __cover__
+             - 📄 [Wallpaper\-Macbook.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/cover/Wallpaper-Macbook.jpg)
+           - 📂 __header__
+             - 📄 [birthday\-cake.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/birthday-cake.png)
+             - 📄 [burn\-button.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/burn-button.png)
+             - 📄 [comment.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/comment.png)
+             - 📄 [comment2.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/comment2.png)
+             - 📄 [conversation\-speech\-bubbles\-.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/conversation-speech-bubbles-.png)
+             - 📄 [create\-group\-button.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/create-group-button.png)
+             - 📄 [create\-new\-pencil\-button.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/create-new-pencil-button.png)
+             - 📄 [ellipsis.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/ellipsis.png)
+             - 📄 [eyeglasses.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/eyeglasses.png)
+             - 📄 [forward\-arrow.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/forward-arrow.png)
+             - 📄 [history\-clock\-button.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/history-clock-button.png)
+             - 📄 [idea.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/idea.png)
+             - 📄 [like.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/like.png)
+             - 📄 [like2.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/like2.png)
+             - 📄 [like3.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/like3.png)
+             - 📄 [menu\-button.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/menu-button.png)
+             - 📄 [musica\-searcher.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/musica-searcher.png)
+             - 📄 [musica\-searcher2.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/musica-searcher2.png)
+             - 📄 [notifications\-button.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/notifications-button.png)
+             - 📄 [online.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/online.png)
+             - 📄 [photo\-library.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/photo-library.png)
+             - 📄 [rubbish\-bin\-delete\-button.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/rubbish-bin-delete-button.png)
+             - 📄 [settings\-cogwheel\-button.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/settings-cogwheel-button.png)
+             - 📄 [share.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/share.png)
+             - 📄 [share2.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/share2.png)
+             - 📄 [show\-more\-button\-with\-three\-dots.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/show-more-button-with-three-dots.png)
+             - 📄 [speech\-bubble\-black.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/speech-bubble-black.png)
+             - 📄 [tick\-inside\-circle.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/tick-inside-circle.png)
+             - 📄 [turn\-notifications\-on\-button.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/turn-notifications-on-button.png)
+             - 📄 [user\-shape.png](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/header/user-shape.png)
+           - 📂 __posts__
+             - 📄 [1.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/posts/1.jpg)
+             - 📄 [2.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/posts/2.jpg)
+             - 📄 [3.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/posts/3.jpg)
+             - 📄 [4.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/posts/4.jpg)
+             - 📄 [5.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/posts/5.jpg)
+           - 📂 __profile__
+             - 📄 [1.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/profile/1.jpg)
+             - 📄 [2.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/profile/2.jpg)
+             - 📄 [3.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/profile/3.jpg)
+             - 📄 [4.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/profile/4.jpg)
+             - 📄 [5.jpg](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/img/profile/5.jpg)
+         - 📂 __js__
+           - 📄 [jquery.js](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/js/jquery.js)
+           - 📄 [masonry.js](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/js/masonry.js)
+         - 📄 [profile.html](HTML-CSS-BOOTSTRAP-SCSS/projects/social static network/profile.html)
+   - 📂 __JAMSTACK__
+     - 📂 __gatsby__
+       - 📄 [gatsby\-course\-starter\-master.zip](JAMSTACK/gatsby/gatsby-course-starter-master.zip)
+     - 📂 __jamstack books__
+       - 📄 [oreilly\-modern\-web\-development\-on\-the\-jamstack.pdf](JAMSTACK/jamstack books/oreilly-modern-web-development-on-the-jamstack.pdf)
+     - 📄 [jamstack\-argon\-design\-system\-master.zip](JAMSTACK/jamstack-argon-design-system-master.zip)
+     - 📄 [jamstack\-big\-picture\-master.zip](JAMSTACK/jamstack-big-picture-master.zip)
+     - 📄 [jamstack\-fractal\-master.zip](JAMSTACK/jamstack-fractal-master.zip)
+     - 📄 [jamstack\-landed\-master.zip](JAMSTACK/jamstack-landed-master.zip)
+     - 📄 [jamstack\-master.zip](JAMSTACK/jamstack-master.zip)
+     - 📄 [jamstack\-material\-kit\-master.zip](JAMSTACK/jamstack-material-kit-master.zip)
+     - 📄 [jamstack\-now\-ui\-kit\-master.zip](JAMSTACK/jamstack-now-ui-kit-master.zip)
+     - 📄 [jamstack\-paper\-kit\-master.zip](JAMSTACK/jamstack-paper-kit-master.zip)
+   - 📂 __JAVA__
+     - 📂 __Projects__
+       - 📂 __FEELSAFE__
+         - 📂 __SRC__
+           - 📂 __COM__
+             - 📂 __FEELSAFE__
+               - 📂 __STRUTS__
+                 - 📄 [ApplicationResources.properties](JAVA/Projects/FEELSAFE/SRC/COM/FEELSAFE/STRUTS/ApplicationResources.properties)
+                 - 📂 __FORM__
+                   - 📄 [FeelSafeForm.java](JAVA/Projects/FEELSAFE/SRC/COM/FEELSAFE/STRUTS/FORM/FeelSafeForm.java)
+             - 📂 __feelsafe1__
+               - 📂 __STRUTS__
+                 - 📂 __ACTION__
+                   - 📄 [FeelSafeAction.java](JAVA/Projects/FEELSAFE/SRC/COM/feelsafe1/STRUTS/ACTION/FeelSafeAction.java)
+           - 📂 __feelsafeHibernatePackage__
+             - 📄 [AbstractAppointments.java](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/AbstractAppointments.java)
+             - 📄 [AbstractDoctorfees.java](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/AbstractDoctorfees.java)
+             - 📄 [AbstractEmployees.java](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/AbstractEmployees.java)
+             - 📄 [AbstractHealth.java](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/AbstractHealth.java)
+             - 📄 [AbstractOtherfees.java](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/AbstractOtherfees.java)
+             - 📄 [AbstractPatient.java](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/AbstractPatient.java)
+             - 📄 [AbstractRooms.java](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/AbstractRooms.java)
+             - 📄 [Appointments.hbm.xml](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/Appointments.hbm.xml)
+             - 📄 [Appointments.java](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/Appointments.java)
+             - 📄 [Doctorfees.hbm.xml](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/Doctorfees.hbm.xml)
+             - 📄 [Doctorfees.java](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/Doctorfees.java)
+             - 📄 [Employees.hbm.xml](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/Employees.hbm.xml)
+             - 📄 [Employees.java](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/Employees.java)
+             - 📄 [Health.hbm.xml](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/Health.hbm.xml)
+             - 📄 [Health.java](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/Health.java)
+             - 📄 [HibernateSessionFactory.java](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/HibernateSessionFactory.java)
+             - 📄 [Otherfees.hbm.xml](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/Otherfees.hbm.xml)
+             - 📄 [Otherfees.java](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/Otherfees.java)
+             - 📄 [Patient.hbm.xml](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/Patient.hbm.xml)
+             - 📄 [Patient.java](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/Patient.java)
+             - 📄 [Rooms.hbm.xml](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/Rooms.hbm.xml)
+             - 📄 [Rooms.java](JAVA/Projects/FEELSAFE/SRC/feelsafeHibernatePackage/Rooms.java)
+           - 📂 __feelsafeLogic__
+             - 📄 [FeelSafeLogic.java](JAVA/Projects/FEELSAFE/SRC/feelsafeLogic/FeelSafeLogic.java)
+           - 📄 [hibernate.cfg.xml](JAVA/Projects/FEELSAFE/SRC/hibernate.cfg.xml)
+         - 📂 __WebRoot__
+           - 📄 [ADMIN.JSP](JAVA/Projects/FEELSAFE/WebRoot/ADMIN.JSP)
+           - 📂 __IMAGES__
+             - 📄 [AM1.GIF](JAVA/Projects/FEELSAFE/WebRoot/IMAGES/AM1.GIF)
+             - 📄 [AM2.GIF](JAVA/Projects/FEELSAFE/WebRoot/IMAGES/AM2.GIF)
+             - 📄 [ARROW.GIF](JAVA/Projects/FEELSAFE/WebRoot/IMAGES/ARROW.GIF)
+             - 📄 [BG.GIF](JAVA/Projects/FEELSAFE/WebRoot/IMAGES/BG.GIF)
+             - 📄 [BLANK.GIF](JAVA/Projects/FEELSAFE/WebRoot/IMAGES/BLANK.GIF)
+             - 📄 [CAL.GIF](JAVA/Projects/FEELSAFE/WebRoot/IMAGES/CAL.GIF)
+             - 📄 [CLOSE.GIF](JAVA/Projects/FEELSAFE/WebRoot/IMAGES/CLOSE.GIF)
+             - 📄 [IMG1.JPG](JAVA/Projects/FEELSAFE/WebRoot/IMAGES/IMG1.JPG)
+             - 📄 [ORANGEG.GIF](JAVA/Projects/FEELSAFE/WebRoot/IMAGES/ORANGEG.GIF)
+             - 📄 [PM1.GIF](JAVA/Projects/FEELSAFE/WebRoot/IMAGES/PM1.GIF)
+             - 📄 [PM2.GIF](JAVA/Projects/FEELSAFE/WebRoot/IMAGES/PM2.GIF)
+             - 📄 [timepicker.gif](JAVA/Projects/FEELSAFE/WebRoot/IMAGES/timepicker.gif)
+             - 📄 [timepicker2.gif](JAVA/Projects/FEELSAFE/WebRoot/IMAGES/timepicker2.gif)
+             - 📄 [titleback.gif](JAVA/Projects/FEELSAFE/WebRoot/IMAGES/titleback.gif)
+           - 📄 [INDEX.JSP](JAVA/Projects/FEELSAFE/WebRoot/INDEX.JSP)
+           - 📂 __JS__
+             - 📄 [CAL2.JS](JAVA/Projects/FEELSAFE/WebRoot/JS/CAL2.JS)
+             - 📄 [TIMECAL.JS](JAVA/Projects/FEELSAFE/WebRoot/JS/TIMECAL.JS)
+             - 📄 [cal\_conf2.js](JAVA/Projects/FEELSAFE/WebRoot/JS/cal_conf2.js)
+           - 📂 __META\-INF__
+             - 📄 [MANIFEST.MF](JAVA/Projects/FEELSAFE/WebRoot/META-INF/MANIFEST.MF)
+           - 📂 __WEB\-INF__
+             - 📂 __CLASSES__
+               - 📂 __COM__
+                 - 📂 __FEELSAFE__
+                   - 📂 __STRUTS__
+                     - 📄 [ApplicationResources.properties](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/COM/FEELSAFE/STRUTS/ApplicationResources.properties)
+                     - 📂 __FORM__
+                       - 📄 [FeelSafeForm.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/COM/FEELSAFE/STRUTS/FORM/FeelSafeForm.class)
+                 - 📂 __feelsafe1__
+                   - 📂 __STRUTS__
+                     - 📂 __ACTION__
+                       - 📄 [FeelSafeAction.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/COM/feelsafe1/STRUTS/ACTION/FeelSafeAction.class)
+               - 📂 __feelsafeHibernatePackage__
+                 - 📄 [AbstractAppointments.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/AbstractAppointments.class)
+                 - 📄 [AbstractDoctorfees.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/AbstractDoctorfees.class)
+                 - 📄 [AbstractEmployees.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/AbstractEmployees.class)
+                 - 📄 [AbstractHealth.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/AbstractHealth.class)
+                 - 📄 [AbstractOtherfees.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/AbstractOtherfees.class)
+                 - 📄 [AbstractPatient.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/AbstractPatient.class)
+                 - 📄 [AbstractRooms.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/AbstractRooms.class)
+                 - 📄 [Appointments.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/Appointments.class)
+                 - 📄 [Appointments.hbm.xml](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/Appointments.hbm.xml)
+                 - 📄 [Doctorfees.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/Doctorfees.class)
+                 - 📄 [Doctorfees.hbm.xml](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/Doctorfees.hbm.xml)
+                 - 📄 [Employees.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/Employees.class)
+                 - 📄 [Employees.hbm.xml](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/Employees.hbm.xml)
+                 - 📄 [Health.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/Health.class)
+                 - 📄 [Health.hbm.xml](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/Health.hbm.xml)
+                 - 📄 [HibernateSessionFactory.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/HibernateSessionFactory.class)
+                 - 📄 [Otherfees.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/Otherfees.class)
+                 - 📄 [Otherfees.hbm.xml](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/Otherfees.hbm.xml)
+                 - 📄 [Patient.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/Patient.class)
+                 - 📄 [Patient.hbm.xml](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/Patient.hbm.xml)
+                 - 📄 [Rooms.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/Rooms.class)
+                 - 📄 [Rooms.hbm.xml](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeHibernatePackage/Rooms.hbm.xml)
+               - 📂 __feelsafeLogic__
+                 - 📄 [FeelSafeLogic.class](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/feelsafeLogic/FeelSafeLogic.class)
+               - 📄 [hibernate.cfg.xml](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/CLASSES/hibernate.cfg.xml)
+             - 📂 __LIB__
+               - 📄 [STRUTS.JAR](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/LIB/STRUTS.JAR)
+               - 📄 [commons\-beanutils.jar](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/LIB/commons-beanutils.jar)
+               - 📄 [commons\-collections.jar](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/LIB/commons-collections.jar)
+               - 📄 [commons\-digester.jar](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/LIB/commons-digester.jar)
+               - 📄 [commons\-fileupload.jar](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/LIB/commons-fileupload.jar)
+               - 📄 [commons\-lang.jar](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/LIB/commons-lang.jar)
+               - 📄 [commons\-logging.jar](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/LIB/commons-logging.jar)
+               - 📄 [commons\-validator.jar](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/LIB/commons-validator.jar)
+               - 📄 [jakarta\-oro.jar](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/LIB/jakarta-oro.jar)
+               - 📄 [mysql\-connector\-java\-5.0.4\-bin.jar](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/LIB/mysql-connector-java-5.0.4-bin.jar)
+               - 📄 [struts\-legacy.jar](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/LIB/struts-legacy.jar)
+             - 📄 [WEB.XML](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/WEB.XML)
+             - 📄 [struts\-bean.tld](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/struts-bean.tld)
+             - 📄 [struts\-config.xml](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/struts-config.xml)
+             - 📄 [struts\-html.tld](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/struts-html.tld)
+             - 📄 [struts\-logic.tld](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/struts-logic.tld)
+             - 📄 [struts\-nested.tld](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/struts-nested.tld)
+             - 📄 [struts\-template.tld](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/struts-template.tld)
+             - 📄 [struts\-tiles.tld](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/struts-tiles.tld)
+             - 📄 [tiles\-definition.xml](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/tiles-definition.xml)
+             - 📄 [validator\-rules.xml](JAVA/Projects/FEELSAFE/WebRoot/WEB-INF/validator-rules.xml)
+           - 📂 __feelsafeAdminJspFiles__
+             - 📄 [adminlogin.jsp](JAVA/Projects/FEELSAFE/WebRoot/feelsafeAdminJspFiles/adminlogin.jsp)
+             - 📄 [adminmainpage.jsp](JAVA/Projects/FEELSAFE/WebRoot/feelsafeAdminJspFiles/adminmainpage.jsp)
+           - 📂 __feelsafeJspFiles__
+             - 📄 [LOGIN.JSP](JAVA/Projects/FEELSAFE/WebRoot/feelsafeJspFiles/LOGIN.JSP)
+             - 📄 [NEWUSER.JSP](JAVA/Projects/FEELSAFE/WebRoot/feelsafeJspFiles/NEWUSER.JSP)
+             - 📄 [addnewequipment.jsp](JAVA/Projects/FEELSAFE/WebRoot/feelsafeJspFiles/addnewequipment.jsp)
+             - 📄 [appointmentreports.jsp](JAVA/Projects/FEELSAFE/WebRoot/feelsafeJspFiles/appointmentreports.jsp)
+             - 📄 [appointmentrescheduling.jsp](JAVA/Projects/FEELSAFE/WebRoot/feelsafeJspFiles/appointmentrescheduling.jsp)
+             - 📄 [appointmentscheduling.jsp](JAVA/Projects/FEELSAFE/WebRoot/feelsafeJspFiles/appointmentscheduling.jsp)
+             - 📄 [doctordetails.jsp](JAVA/Projects/FEELSAFE/WebRoot/feelsafeJspFiles/doctordetails.jsp)
+             - 📄 [employees.jsp](JAVA/Projects/FEELSAFE/WebRoot/feelsafeJspFiles/employees.jsp)
+             - 📄 [frontoffice.jsp](JAVA/Projects/FEELSAFE/WebRoot/feelsafeJspFiles/frontoffice.jsp)
+             - 📄 [healthawareness.jsp](JAVA/Projects/FEELSAFE/WebRoot/feelsafeJspFiles/healthawareness.jsp)
+             - 📄 [newuseradmin.jsp](JAVA/Projects/FEELSAFE/WebRoot/feelsafeJspFiles/newuseradmin.jsp)
+             - 📄 [patientdetails.jsp](JAVA/Projects/FEELSAFE/WebRoot/feelsafeJspFiles/patientdetails.jsp)
+             - 📄 [systemreport.jsp](JAVA/Projects/FEELSAFE/WebRoot/feelsafeJspFiles/systemreport.jsp)
+           - 📂 __feelsafeLayout__
+             - 📄 [FOOTER.JSP](JAVA/Projects/FEELSAFE/WebRoot/feelsafeLayout/FOOTER.JSP)
+             - 📄 [HEADER.JSP](JAVA/Projects/FEELSAFE/WebRoot/feelsafeLayout/HEADER.JSP)
+             - 📄 [LAYOUT.JSP](JAVA/Projects/FEELSAFE/WebRoot/feelsafeLayout/LAYOUT.JSP)
+       - 📄 [arrayhash.txt](JAVA/Projects/arrayhash.txt)
+       - 📂 __arraylist and hashmap__
+         - 📄 [JavaFxApplication.iml](JAVA/Projects/arraylist and hashmap/JavaFxApplication.iml)
+         - 📄 [arraylist and hashmap.iml](JAVA/Projects/arraylist and hashmap/arraylist%20and%20hashmap.iml)
+         - 📂 __build__
+           - 📄 [built\-jar.properties](JAVA/Projects/arraylist and hashmap/build/built-jar.properties)
+           - 📂 __classes__
+             - 📂 __arraylist__
+               - 📄 [ajout\_rech\_supp\_calcule\_somme\_max$1.class](JAVA/Projects/arraylist and hashmap/build/classes/arraylist/ajout_rech_supp_calcule_somme_max%241.class)
+               - 📄 [ajout\_rech\_supp\_calcule\_somme\_max$2.class](JAVA/Projects/arraylist and hashmap/build/classes/arraylist/ajout_rech_supp_calcule_somme_max%242.class)
+               - 📄 [ajout\_rech\_supp\_calcule\_somme\_max$3.class](JAVA/Projects/arraylist and hashmap/build/classes/arraylist/ajout_rech_supp_calcule_somme_max%243.class)
+               - 📄 [ajout\_rech\_supp\_calcule\_somme\_max$4.class](JAVA/Projects/arraylist and hashmap/build/classes/arraylist/ajout_rech_supp_calcule_somme_max%244.class)
+               - 📄 [ajout\_rech\_supp\_calcule\_somme\_max.class](JAVA/Projects/arraylist and hashmap/build/classes/arraylist/ajout_rech_supp_calcule_somme_max.class)
+           - 📂 __empty__
+           - 📂 __generated\-sources__
+             - 📂 __ap\-source\-output__
+         - 📄 [build.xml](JAVA/Projects/arraylist and hashmap/build.xml)
+         - 📂 __nbproject__
+           - 📄 [build\-impl.xml](JAVA/Projects/arraylist and hashmap/nbproject/build-impl.xml)
+           - 📄 [genfiles.properties](JAVA/Projects/arraylist and hashmap/nbproject/genfiles.properties)
+           - 📂 __private__
+             - 📄 [config.properties](JAVA/Projects/arraylist and hashmap/nbproject/private/config.properties)
+             - 📄 [private.properties](JAVA/Projects/arraylist and hashmap/nbproject/private/private.properties)
+             - 📄 [private.xml](JAVA/Projects/arraylist and hashmap/nbproject/private/private.xml)
+           - 📄 [project.properties](JAVA/Projects/arraylist and hashmap/nbproject/project.properties)
+           - 📄 [project.xml](JAVA/Projects/arraylist and hashmap/nbproject/project.xml)
+         - 📂 __out__
+           - 📂 __production__
+             - 📂 __JavaFxApplication__
+               - 📂 __sample__
+                 - 📄 [sample.fxml](JAVA/Projects/arraylist and hashmap/out/production/JavaFxApplication/sample/sample.fxml)
+             - 📂 __arraylist and hashmap__
+               - 📂 __arraylist__
+                 - 📄 [Classmath\_random\_max\_min.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/Classmath_random_max_min.class)
+                 - 📄 [Compte.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/Compte.class)
+                 - 📄 [Etudiant.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/Etudiant.class)
+                 - 📄 [ajout\_rech\_supp\_calcule\_somme\_max$1.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/ajout_rech_supp_calcule_somme_max%241.class)
+                 - 📄 [ajout\_rech\_supp\_calcule\_somme\_max$2.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/ajout_rech_supp_calcule_somme_max%242.class)
+                 - 📄 [ajout\_rech\_supp\_calcule\_somme\_max$3.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/ajout_rech_supp_calcule_somme_max%243.class)
+                 - 📄 [ajout\_rech\_supp\_calcule\_somme\_max$4.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/ajout_rech_supp_calcule_somme_max%244.class)
+                 - 📄 [ajout\_rech\_supp\_calcule\_somme\_max.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/ajout_rech_supp_calcule_somme_max.class)
+                 - 📄 [compte$1.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/compte%241.class)
+                 - 📄 [compte$2.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/compte%242.class)
+                 - 📄 [compte$3.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/compte%243.class)
+                 - 📄 [compte$4.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/compte%244.class)
+                 - 📄 [compte$5.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/compte%245.class)
+                 - 📄 [nom\_pre\_sp\_ajout\_rechr\_supp\_ID$1.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/nom_pre_sp_ajout_rechr_supp_ID%241.class)
+                 - 📄 [nom\_pre\_sp\_ajout\_rechr\_supp\_ID$2.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/nom_pre_sp_ajout_rechr_supp_ID%242.class)
+                 - 📄 [nom\_pre\_sp\_ajout\_rechr\_supp\_ID$3.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/nom_pre_sp_ajout_rechr_supp_ID%243.class)
+                 - 📄 [nom\_pre\_sp\_ajout\_rechr\_supp\_ID$4.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/nom_pre_sp_ajout_rechr_supp_ID%244.class)
+                 - 📄 [nom\_pre\_sp\_ajout\_rechr\_supp\_ID$5.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/nom_pre_sp_ajout_rechr_supp_ID%245.class)
+                 - 📄 [nom\_pre\_sp\_ajout\_rechr\_supp\_ID$6.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/nom_pre_sp_ajout_rechr_supp_ID%246.class)
+                 - 📄 [nom\_pre\_sp\_ajout\_rechr\_supp\_ID.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/nom_pre_sp_ajout_rechr_supp_ID.class)
+                 - 📄 [sousclassMath.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/sousclassMath.class)
+                 - 📄 [tab\_arraylist\_math\_random\_deplacement\_1$1.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/tab_arraylist_math_random_deplacement_1%241.class)
+                 - 📄 [tab\_arraylist\_math\_random\_deplacement\_1$2.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/tab_arraylist_math_random_deplacement_1%242.class)
+                 - 📄 [tab\_arraylist\_math\_random\_deplacement\_1$3.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/tab_arraylist_math_random_deplacement_1%243.class)
+                 - 📄 [tab\_arraylist\_math\_random\_deplacement\_1.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/tab_arraylist_math_random_deplacement_1.class)
+                 - 📄 [tab\_arraylist\_math\_random\_deplacement\_2$1.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/tab_arraylist_math_random_deplacement_2%241.class)
+                 - 📄 [tab\_arraylist\_math\_random\_deplacement\_2.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/tab_arraylist_math_random_deplacement_2.class)
+                 - 📄 [tparraylist.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/arraylist/tparraylist.class)
+               - 📂 __hashmap__
+                 - 📄 [Annuaire$1.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/hashmap/Annuaire%241.class)
+                 - 📄 [Annuaire$2.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/hashmap/Annuaire%242.class)
+                 - 📄 [Annuaire$3.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/hashmap/Annuaire%243.class)
+                 - 📄 [Annuaire$4.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/hashmap/Annuaire%244.class)
+                 - 📄 [Annuaire.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/hashmap/Annuaire.class)
+                 - 📄 [Cordonne.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/hashmap/Cordonne.class)
+                 - 📄 [msg\_dinfo\_errreur\_information\_warning$1.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/hashmap/msg_dinfo_errreur_information_warning%241.class)
+                 - 📄 [msg\_dinfo\_errreur\_information\_warning$2.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/hashmap/msg_dinfo_errreur_information_warning%242.class)
+                 - 📄 [msg\_dinfo\_errreur\_information\_warning$3.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/hashmap/msg_dinfo_errreur_information_warning%243.class)
+                 - 📄 [msg\_dinfo\_errreur\_information\_warning$4.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/hashmap/msg_dinfo_errreur_information_warning%244.class)
+                 - 📄 [msg\_dinfo\_errreur\_information\_warning.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/hashmap/msg_dinfo_errreur_information_warning.class)
+                 - 📄 [tphahsmap1.class](JAVA/Projects/arraylist and hashmap/out/production/arraylist and hashmap/hashmap/tphahsmap1.class)
+         - 📂 __src__
+           - 📂 __arraylist__
+             - 📄 [Classmath\_random\_max\_min.java](JAVA/Projects/arraylist and hashmap/src/arraylist/Classmath_random_max_min.java)
+             - 📄 [Compte.java](JAVA/Projects/arraylist and hashmap/src/arraylist/Compte.java)
+             - 📄 [Etudiant.java](JAVA/Projects/arraylist and hashmap/src/arraylist/Etudiant.java)
+             - 📄 [ajout\_rech\_supp\_calcule\_somme\_max.form](JAVA/Projects/arraylist and hashmap/src/arraylist/ajout_rech_supp_calcule_somme_max.form)
+             - 📄 [ajout\_rech\_supp\_calcule\_somme\_max.java](JAVA/Projects/arraylist and hashmap/src/arraylist/ajout_rech_supp_calcule_somme_max.java)
+             - 📄 [nom\_pre\_sp\_ajout\_rechr\_supp\_ID.form](JAVA/Projects/arraylist and hashmap/src/arraylist/nom_pre_sp_ajout_rechr_supp_ID.form)
+             - 📄 [nom\_pre\_sp\_ajout\_rechr\_supp\_ID.java](JAVA/Projects/arraylist and hashmap/src/arraylist/nom_pre_sp_ajout_rechr_supp_ID.java)
+             - 📄 [sousclassMath.java](JAVA/Projects/arraylist and hashmap/src/arraylist/sousclassMath.java)
+             - 📄 [tab\_arraylist\_math\_random\_deplacement\_1.form](JAVA/Projects/arraylist and hashmap/src/arraylist/tab_arraylist_math_random_deplacement_1.form)
+             - 📄 [tab\_arraylist\_math\_random\_deplacement\_1.java](JAVA/Projects/arraylist and hashmap/src/arraylist/tab_arraylist_math_random_deplacement_1.java)
+             - 📄 [tab\_arraylist\_math\_random\_deplacement\_2.form](JAVA/Projects/arraylist and hashmap/src/arraylist/tab_arraylist_math_random_deplacement_2.form)
+             - 📄 [tab\_arraylist\_math\_random\_deplacement\_2.java](JAVA/Projects/arraylist and hashmap/src/arraylist/tab_arraylist_math_random_deplacement_2.java)
+             - 📄 [tparraylist.java](JAVA/Projects/arraylist and hashmap/src/arraylist/tparraylist.java)
+           - 📂 __hashmap__
+             - 📄 [Annuaire.form](JAVA/Projects/arraylist and hashmap/src/hashmap/Annuaire.form)
+             - 📄 [Annuaire.java](JAVA/Projects/arraylist and hashmap/src/hashmap/Annuaire.java)
+             - 📄 [Cordonne.java](JAVA/Projects/arraylist and hashmap/src/hashmap/Cordonne.java)
+             - 📄 [msg\_dinfo\_errreur\_information\_warning.form](JAVA/Projects/arraylist and hashmap/src/hashmap/msg_dinfo_errreur_information_warning.form)
+             - 📄 [msg\_dinfo\_errreur\_information\_warning.java](JAVA/Projects/arraylist and hashmap/src/hashmap/msg_dinfo_errreur_information_warning.java)
+             - 📄 [tphahsmap1.java](JAVA/Projects/arraylist and hashmap/src/hashmap/tphahsmap1.java)
+         - 📂 __test__
+       - 📂 __basede\_donnée__
+         - 📂 __build__
+           - 📄 [built\-jar.properties](JAVA/Projects/basede_donnée/build/built-jar.properties)
+           - 📂 __classes__
+             - 📂 __EXO__
+               - 📄 [inscription$1.class](JAVA/Projects/basede_donnée/build/classes/EXO/inscription%241.class)
+               - 📄 [inscription$2.class](JAVA/Projects/basede_donnée/build/classes/EXO/inscription%242.class)
+               - 📄 [inscription.class](JAVA/Projects/basede_donnée/build/classes/EXO/inscription.class)
+             - 📂 __niveau3bd__
+               - 📄 [ConnecterBDD.class](JAVA/Projects/basede_donnée/build/classes/niveau3bd/ConnecterBDD.class)
+               - 📄 [Produit$1.class](JAVA/Projects/basede_donnée/build/classes/niveau3bd/Produit%241.class)
+               - 📄 [Produit$2.class](JAVA/Projects/basede_donnée/build/classes/niveau3bd/Produit%242.class)
+               - 📄 [Produit$3.class](JAVA/Projects/basede_donnée/build/classes/niveau3bd/Produit%243.class)
+               - 📄 [Produit$4.class](JAVA/Projects/basede_donnée/build/classes/niveau3bd/Produit%244.class)
+               - 📄 [Produit$5.class](JAVA/Projects/basede_donnée/build/classes/niveau3bd/Produit%245.class)
+               - 📄 [Produit$6.class](JAVA/Projects/basede_donnée/build/classes/niveau3bd/Produit%246.class)
+               - 📄 [Produit.class](JAVA/Projects/basede_donnée/build/classes/niveau3bd/Produit.class)
+           - 📂 __empty__
+           - 📂 __generated\-sources__
+             - 📂 __ap\-source\-output__
+         - 📄 [build.xml](JAVA/Projects/basede_donnée/build.xml)
+         - 📄 [manifest.mf](JAVA/Projects/basede_donnée/manifest.mf)
+         - 📂 __nbproject__
+           - 📄 [build\-impl.xml](JAVA/Projects/basede_donnée/nbproject/build-impl.xml)
+           - 📄 [genfiles.properties](JAVA/Projects/basede_donnée/nbproject/genfiles.properties)
+           - 📂 __private__
+             - 📄 [config.properties](JAVA/Projects/basede_donnée/nbproject/private/config.properties)
+             - 📄 [private.properties](JAVA/Projects/basede_donnée/nbproject/private/private.properties)
+             - 📄 [private.xml](JAVA/Projects/basede_donnée/nbproject/private/private.xml)
+           - 📄 [project.properties](JAVA/Projects/basede_donnée/nbproject/project.properties)
+           - 📄 [project.xml](JAVA/Projects/basede_donnée/nbproject/project.xml)
+         - 📂 __src__
+           - 📂 __EXO__
+             - 📄 [Login.form](JAVA/Projects/basede_donnée/src/EXO/Login.form)
+             - 📄 [Login.java](JAVA/Projects/basede_donnée/src/EXO/Login.java)
+             - 📄 [inscription.form](JAVA/Projects/basede_donnée/src/EXO/inscription.form)
+             - 📄 [inscription.java](JAVA/Projects/basede_donnée/src/EXO/inscription.java)
+             - 📄 [on.java](JAVA/Projects/basede_donnée/src/EXO/on.java)
+           - 📂 __niveau3bd__
+             - 📄 [ConnecterBDD.java](JAVA/Projects/basede_donnée/src/niveau3bd/ConnecterBDD.java)
+             - 📄 [Produit.form](JAVA/Projects/basede_donnée/src/niveau3bd/Produit.form)
+             - 📄 [Produit.java](JAVA/Projects/basede_donnée/src/niveau3bd/Produit.java)
+         - 📂 __test__
+       - 📂 __cabinet medical__
+         - 📄 [Clinik.doc](JAVA/Projects/cabinet medical/Clinik.doc)
+         - 📄 [Gestion\-de\-Cabinet\-Medical.pdf](JAVA/Projects/cabinet medical/Gestion-de-Cabinet-Medical.pdf)
+         - 📄 [Super\_Market\_Project.rar](JAVA/Projects/cabinet medical/Super_Market_Project.rar)
+         - 📄 [algerieteelecom.pdf](JAVA/Projects/cabinet medical/algerieteelecom.pdf)
+         - 📂 __build__
+           - 📄 [built\-jar.properties](JAVA/Projects/cabinet medical/build/built-jar.properties)
+           - 📂 __classes__
+             - 📄 [ConnecterBDD.class](JAVA/Projects/cabinet medical/build/classes/ConnecterBDD.class)
+             - 📄 [Login$1.class](JAVA/Projects/cabinet medical/build/classes/Login%241.class)
+             - 📄 [Login$2.class](JAVA/Projects/cabinet medical/build/classes/Login%242.class)
+             - 📄 [Login.class](JAVA/Projects/cabinet medical/build/classes/Login.class)
+             - 📄 [Produit$1.class](JAVA/Projects/cabinet medical/build/classes/Produit%241.class)
+             - 📄 [Produit$2.class](JAVA/Projects/cabinet medical/build/classes/Produit%242.class)
+             - 📄 [Produit$3.class](JAVA/Projects/cabinet medical/build/classes/Produit%243.class)
+             - 📄 [Produit$4.class](JAVA/Projects/cabinet medical/build/classes/Produit%244.class)
+             - 📄 [Produit$5.class](JAVA/Projects/cabinet medical/build/classes/Produit%245.class)
+             - 📄 [Produit$6.class](JAVA/Projects/cabinet medical/build/classes/Produit%246.class)
+             - 📄 [Produit.class](JAVA/Projects/cabinet medical/build/classes/Produit.class)
+             - 📄 [aceuil$1.class](JAVA/Projects/cabinet medical/build/classes/aceuil%241.class)
+             - 📄 [aceuil$10.class](JAVA/Projects/cabinet medical/build/classes/aceuil%2410.class)
+             - 📄 [aceuil$2.class](JAVA/Projects/cabinet medical/build/classes/aceuil%242.class)
+             - 📄 [aceuil$3.class](JAVA/Projects/cabinet medical/build/classes/aceuil%243.class)
+             - 📄 [aceuil$4.class](JAVA/Projects/cabinet medical/build/classes/aceuil%244.class)
+             - 📄 [aceuil$5.class](JAVA/Projects/cabinet medical/build/classes/aceuil%245.class)
+             - 📄 [aceuil$6.class](JAVA/Projects/cabinet medical/build/classes/aceuil%246.class)
+             - 📄 [aceuil$7.class](JAVA/Projects/cabinet medical/build/classes/aceuil%247.class)
+             - 📄 [aceuil$8.class](JAVA/Projects/cabinet medical/build/classes/aceuil%248.class)
+             - 📄 [aceuil$9.class](JAVA/Projects/cabinet medical/build/classes/aceuil%249.class)
+             - 📄 [aceuil.class](JAVA/Projects/cabinet medical/build/classes/aceuil.class)
+             - 📄 [datesql$1.class](JAVA/Projects/cabinet medical/build/classes/datesql%241.class)
+             - 📄 [datesql$2.class](JAVA/Projects/cabinet medical/build/classes/datesql%242.class)
+             - 📄 [datesql.class](JAVA/Projects/cabinet medical/build/classes/datesql.class)
+             - 📄 [gestion\_rdv$1.class](JAVA/Projects/cabinet medical/build/classes/gestion_rdv%241.class)
+             - 📄 [gestion\_rdv$10.class](JAVA/Projects/cabinet medical/build/classes/gestion_rdv%2410.class)
+             - 📄 [gestion\_rdv$11.class](JAVA/Projects/cabinet medical/build/classes/gestion_rdv%2411.class)
+             - 📄 [gestion\_rdv$2.class](JAVA/Projects/cabinet medical/build/classes/gestion_rdv%242.class)
+             - 📄 [gestion\_rdv$3.class](JAVA/Projects/cabinet medical/build/classes/gestion_rdv%243.class)
+             - 📄 [gestion\_rdv$4.class](JAVA/Projects/cabinet medical/build/classes/gestion_rdv%244.class)
+             - 📄 [gestion\_rdv$5.class](JAVA/Projects/cabinet medical/build/classes/gestion_rdv%245.class)
+             - 📄 [gestion\_rdv$6.class](JAVA/Projects/cabinet medical/build/classes/gestion_rdv%246.class)
+             - 📄 [gestion\_rdv$7.class](JAVA/Projects/cabinet medical/build/classes/gestion_rdv%247.class)
+             - 📄 [gestion\_rdv$8.class](JAVA/Projects/cabinet medical/build/classes/gestion_rdv%248.class)
+             - 📄 [gestion\_rdv$9.class](JAVA/Projects/cabinet medical/build/classes/gestion_rdv%249.class)
+             - 📄 [gestion\_rdv.class](JAVA/Projects/cabinet medical/build/classes/gestion_rdv.class)
+             - 📄 [gestionrdv$1.class](JAVA/Projects/cabinet medical/build/classes/gestionrdv%241.class)
+             - 📄 [gestionrdv$2.class](JAVA/Projects/cabinet medical/build/classes/gestionrdv%242.class)
+             - 📄 [gestionrdv$3.class](JAVA/Projects/cabinet medical/build/classes/gestionrdv%243.class)
+             - 📄 [gestionrdv$4.class](JAVA/Projects/cabinet medical/build/classes/gestionrdv%244.class)
+             - 📄 [gestionrdv$5.class](JAVA/Projects/cabinet medical/build/classes/gestionrdv%245.class)
+             - 📄 [gestionrdv$6.class](JAVA/Projects/cabinet medical/build/classes/gestionrdv%246.class)
+             - 📄 [gestionrdv.class](JAVA/Projects/cabinet medical/build/classes/gestionrdv.class)
+           - 📂 __empty__
+           - 📂 __generated\-sources__
+             - 📂 __ap\-source\-output__
+         - 📄 [build.xml](JAVA/Projects/cabinet medical/build.xml)
+         - 📄 [cabinetmedical.pdf](JAVA/Projects/cabinet medical/cabinetmedical.pdf)
+         - 📄 [ck](JAVA/Projects/cabinet medical/ck)
+         - 📄 [manifest.mf](JAVA/Projects/cabinet medical/manifest.mf)
+         - 📂 __nbproject__
+           - 📄 [build\-impl.xml](JAVA/Projects/cabinet medical/nbproject/build-impl.xml)
+           - 📄 [genfiles.properties](JAVA/Projects/cabinet medical/nbproject/genfiles.properties)
+           - 📂 __private__
+             - 📄 [config.properties](JAVA/Projects/cabinet medical/nbproject/private/config.properties)
+             - 📄 [private.properties](JAVA/Projects/cabinet medical/nbproject/private/private.properties)
+             - 📄 [private.xml](JAVA/Projects/cabinet medical/nbproject/private/private.xml)
+           - 📄 [project.properties](JAVA/Projects/cabinet medical/nbproject/project.properties)
+           - 📄 [project.xml](JAVA/Projects/cabinet medical/nbproject/project.xml)
+         - 📄 [p\-0730\-\-Hospital Management in JAVA.rar](JAVA/Projects/cabinet medical/p-0730--Hospital%20Management%20in%20JAVA.rar)
+         - 📂 __src__
+           - 📄 [ConnecterBDD.java](JAVA/Projects/cabinet medical/src/ConnecterBDD.java)
+           - 📄 [Login.form](JAVA/Projects/cabinet medical/src/Login.form)
+           - 📄 [Login.java](JAVA/Projects/cabinet medical/src/Login.java)
+           - 📄 [Produit.form](JAVA/Projects/cabinet medical/src/Produit.form)
+           - 📄 [Produit.java](JAVA/Projects/cabinet medical/src/Produit.java)
+           - 📄 [acceuil.form](JAVA/Projects/cabinet medical/src/acceuil.form)
+           - 📄 [acceuil.java](JAVA/Projects/cabinet medical/src/acceuil.java)
+           - 📄 [dossier\_patient.form](JAVA/Projects/cabinet medical/src/dossier_patient.form)
+           - 📄 [dossier\_patient.java](JAVA/Projects/cabinet medical/src/dossier_patient.java)
+           - 📄 [gestion\_medicament.form](JAVA/Projects/cabinet medical/src/gestion_medicament.form)
+           - 📄 [gestion\_medicament.java](JAVA/Projects/cabinet medical/src/gestion_medicament.java)
+           - 📄 [gestion\_rdv.form](JAVA/Projects/cabinet medical/src/gestion_rdv.form)
+           - 📄 [gestion\_rdv.java](JAVA/Projects/cabinet medical/src/gestion_rdv.java)
+         - 📂 __test__
+       - 📂 __class\_poo\_interface__
+         - 📂 __build__
+           - 📂 __classes__
+             - 📂 __calcul\_tab\_chaine\_caractere\_suite\_boucle__
+               - 📄 [Tableau\_pairgauche\_impairdroite.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/Tableau_pairgauche_impairdroite.class)
+               - 📄 [exobinaire.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/exobinaire.class)
+               - 📄 [exodemendechar.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/exodemendechar.class)
+               - 📄 [exodyaze.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/exodyaze.class)
+               - 📄 [exodyaze2.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/exodyaze2.class)
+               - 📄 [exonbrpremier.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/exonbrpremier.class)
+               - 📄 [exosouschaine.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/exosouschaine.class)
+               - 📄 [exosumcarreepremiersentier.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/exosumcarreepremiersentier.class)
+               - 📄 [exovoyelle.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/exovoyelle.class)
+               - 📄 [mois\_annee\_switch\_de\_1\_12.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/mois_annee_switch_de_1_12.class)
+               - 📄 [pair.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/pair.class)
+               - 📄 [recherche\_carectere.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/recherche_carectere.class)
+               - 📄 [rotation\_p\_fois.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/rotation_p_fois.class)
+               - 📄 [tab\_de\_chaine\_avec\_taille.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/tab_de_chaine_avec_taille.class)
+               - 📄 [tpSuite.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/tpSuite.class)
+               - 📄 [tp\_factoriel.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/tp_factoriel.class)
+               - 📄 [tp\_tabminmax.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/tp_tabminmax.class)
+               - 📄 [tplogin.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/tplogin.class)
+               - 📄 [tpwhile.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/tpwhile.class)
+               - 📄 [trie\_de\_tableaux.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/trie_de_tableaux.class)
+               - 📄 [whileboucle.class](JAVA/Projects/class_poo_interface/build/classes/calcul_tab_chaine_caractere_suite_boucle/whileboucle.class)
+             - 📂 __classes\_dans\_les\_interfaces\_calcul__
+               - 📄 [add\_sous\_mod\_fois$1.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/add_sous_mod_fois%241.class)
+               - 📄 [add\_sous\_mod\_fois$2.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/add_sous_mod_fois%242.class)
+               - 📄 [add\_sous\_mod\_fois$3.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/add_sous_mod_fois%243.class)
+               - 📄 [add\_sous\_mod\_fois$4.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/add_sous_mod_fois%244.class)
+               - 📄 [add\_sous\_mod\_fois.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/add_sous_mod_fois.class)
+               - 📄 [add\_sous\_mod\_fois.form](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/add_sous_mod_fois.form)
+               - 📄 [ordr2$1.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/ordr2%241.class)
+               - 📄 [ordr2$2.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/ordr2%242.class)
+               - 📄 [ordr2$3.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/ordr2%243.class)
+               - 📄 [ordr2.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/ordr2.class)
+               - 📄 [ordr2.form](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/ordr2.form)
+               - 📄 [ordre\_croi\_decroit\_nbr$1.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/ordre_croi_decroit_nbr%241.class)
+               - 📄 [ordre\_croi\_decroit\_nbr$2.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/ordre_croi_decroit_nbr%242.class)
+               - 📄 [ordre\_croi\_decroit\_nbr.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/ordre_croi_decroit_nbr.class)
+               - 📄 [ordre\_croi\_decroit\_nbr.form](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/ordre_croi_decroit_nbr.form)
+               - 📄 [tabl\_multipl\_1\_10$1.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/tabl_multipl_1_10%241.class)
+               - 📄 [tabl\_multipl\_1\_10$2.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/tabl_multipl_1_10%242.class)
+               - 📄 [tabl\_multipl\_1\_10$3.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/tabl_multipl_1_10%243.class)
+               - 📄 [tabl\_multipl\_1\_10.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/tabl_multipl_1_10.class)
+               - 📄 [tabl\_multipl\_1\_10.form](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/tabl_multipl_1_10.form)
+               - 📄 [taille\_premier\_dernier\_caractere$1.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/taille_premier_dernier_caractere%241.class)
+               - 📄 [taille\_premier\_dernier\_caractere$2.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/taille_premier_dernier_caractere%242.class)
+               - 📄 [taille\_premier\_dernier\_caractere.class](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/taille_premier_dernier_caractere.class)
+               - 📄 [taille\_premier\_dernier\_caractere.form](JAVA/Projects/class_poo_interface/build/classes/classes_dans_les_interfaces_calcul/taille_premier_dernier_caractere.form)
+             - 📂 __interfaces\_avec\_des\_classes\_poo__
+               - 📄 [Calculatrice1$1.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Calculatrice1%241.class)
+               - 📄 [Calculatrice1$10.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Calculatrice1%2410.class)
+               - 📄 [Calculatrice1$11.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Calculatrice1%2411.class)
+               - 📄 [Calculatrice1$2.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Calculatrice1%242.class)
+               - 📄 [Calculatrice1$3.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Calculatrice1%243.class)
+               - 📄 [Calculatrice1$4.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Calculatrice1%244.class)
+               - 📄 [Calculatrice1$5.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Calculatrice1%245.class)
+               - 📄 [Calculatrice1$6.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Calculatrice1%246.class)
+               - 📄 [Calculatrice1$7.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Calculatrice1%247.class)
+               - 📄 [Calculatrice1$8.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Calculatrice1%248.class)
+               - 📄 [Calculatrice1$9.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Calculatrice1%249.class)
+               - 📄 [Calculatrice1.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Calculatrice1.class)
+               - 📄 [Calculatrice1.form](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Calculatrice1.form)
+               - 📄 [ClassCryptage.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/ClassCryptage.class)
+               - 📄 [Classmath\_random\_max\_min\_arraylist.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Classmath_random_max_min_arraylist.class)
+               - 📄 [Clientip.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Clientip.class)
+               - 📄 [Equation.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Equation.class)
+               - 📄 [Rectangle.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Rectangle.class)
+               - 📄 [Ville.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/Ville.class)
+               - 📄 [bancaire.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/bancaire.class)
+               - 📄 [complexe.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/complexe.class)
+               - 📄 [cryptage2$1.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/cryptage2%241.class)
+               - 📄 [cryptage2$2.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/cryptage2%242.class)
+               - 📄 [cryptage2$3.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/cryptage2%243.class)
+               - 📄 [cryptage2.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/cryptage2.class)
+               - 📄 [cryptage2.form](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/cryptage2.form)
+               - 📄 [exo2.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/exo2.class)
+               - 📄 [ip$1.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/ip%241.class)
+               - 📄 [ip$2.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/ip%242.class)
+               - 📄 [ip.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/ip.class)
+               - 📄 [ip.form](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/ip.form)
+               - 📄 [sousclassMath.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/sousclassMath.class)
+               - 📄 [substring\_startwith\_endwith\_classmath.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/substring_startwith_endwith_classmath.class)
+               - 📄 [testVIle$1.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testVIle%241.class)
+               - 📄 [testVIle$2.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testVIle%242.class)
+               - 📄 [testVIle.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testVIle.class)
+               - 📄 [testVIle.form](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testVIle.form)
+               - 📄 [testbancaire$1.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testbancaire%241.class)
+               - 📄 [testbancaire$2.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testbancaire%242.class)
+               - 📄 [testbancaire$3.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testbancaire%243.class)
+               - 📄 [testbancaire$4.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testbancaire%244.class)
+               - 📄 [testbancaire.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testbancaire.class)
+               - 📄 [testbancaire.form](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testbancaire.form)
+               - 📄 [testcomplexe$1.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testcomplexe%241.class)
+               - 📄 [testcomplexe$2.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testcomplexe%242.class)
+               - 📄 [testcomplexe$3.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testcomplexe%243.class)
+               - 📄 [testcomplexe$4.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testcomplexe%244.class)
+               - 📄 [testcomplexe$5.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testcomplexe%245.class)
+               - 📄 [testcomplexe$6.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testcomplexe%246.class)
+               - 📄 [testcomplexe$7.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testcomplexe%247.class)
+               - 📄 [testcomplexe$8.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testcomplexe%248.class)
+               - 📄 [testcomplexe$9.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testcomplexe%249.class)
+               - 📄 [testcomplexe.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testcomplexe.class)
+               - 📄 [testcomplexe.form](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testcomplexe.form)
+               - 📄 [testequation$1.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testequation%241.class)
+               - 📄 [testequation$2.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testequation%242.class)
+               - 📄 [testequation$3.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testequation%243.class)
+               - 📄 [testequation$4.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testequation%244.class)
+               - 📄 [testequation.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testequation.class)
+               - 📄 [testequation.form](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testequation.form)
+               - 📄 [testrectgl$1.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testrectgl%241.class)
+               - 📄 [testrectgl$2.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testrectgl%242.class)
+               - 📄 [testrectgl$3.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testrectgl%243.class)
+               - 📄 [testrectgl$4.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testrectgl%244.class)
+               - 📄 [testrectgl$5.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testrectgl%245.class)
+               - 📄 [testrectgl.class](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testrectgl.class)
+               - 📄 [testrectgl.form](JAVA/Projects/class_poo_interface/build/classes/interfaces_avec_des_classes_poo/testrectgl.form)
+         - 📄 [build.xml](JAVA/Projects/class_poo_interface/build.xml)
+         - 📄 [manifest.mf](JAVA/Projects/class_poo_interface/manifest.mf)
+         - 📂 __nbproject__
+           - 📄 [build\-impl.xml](JAVA/Projects/class_poo_interface/nbproject/build-impl.xml)
+           - 📄 [genfiles.properties](JAVA/Projects/class_poo_interface/nbproject/genfiles.properties)
+           - 📂 __private__
+             - 📄 [private.properties](JAVA/Projects/class_poo_interface/nbproject/private/private.properties)
+             - 📄 [private.xml](JAVA/Projects/class_poo_interface/nbproject/private/private.xml)
+           - 📄 [project.properties](JAVA/Projects/class_poo_interface/nbproject/project.properties)
+           - 📄 [project.xml](JAVA/Projects/class_poo_interface/nbproject/project.xml)
+         - 📂 __src__
+           - 📂 __calcul\_tab\_chaine\_caractere\_suite\_boucle__
+             - 📄 [Tableau\_pairgauche\_impairdroite.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/Tableau_pairgauche_impairdroite.java)
+             - 📄 [exobinaire.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/exobinaire.java)
+             - 📄 [exodemendechar.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/exodemendechar.java)
+             - 📄 [exodyaze.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/exodyaze.java)
+             - 📄 [exodyaze2.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/exodyaze2.java)
+             - 📄 [exonbrpremier.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/exonbrpremier.java)
+             - 📄 [exosouschaine.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/exosouschaine.java)
+             - 📄 [exosumcarreepremiersentier.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/exosumcarreepremiersentier.java)
+             - 📄 [exovoyelle.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/exovoyelle.java)
+             - 📄 [mois\_annee\_switch\_de\_1\_12.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/mois_annee_switch_de_1_12.java)
+             - 📄 [pair.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/pair.java)
+             - 📄 [recherche\_carectere.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/recherche_carectere.java)
+             - 📄 [rotation\_p\_fois.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/rotation_p_fois.java)
+             - 📄 [tab\_de\_chaine\_avec\_taille.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/tab_de_chaine_avec_taille.java)
+             - 📄 [tpSuite.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/tpSuite.java)
+             - 📄 [tp\_factoriel.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/tp_factoriel.java)
+             - 📄 [tp\_tabminmax.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/tp_tabminmax.java)
+             - 📄 [tplogin.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/tplogin.java)
+             - 📄 [tpwhile.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/tpwhile.java)
+             - 📄 [trie\_de\_tableaux.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/trie_de_tableaux.java)
+             - 📄 [whileboucle.java](JAVA/Projects/class_poo_interface/src/calcul_tab_chaine_caractere_suite_boucle/whileboucle.java)
+           - 📂 __classes\_dans\_les\_interfaces\_calcul__
+             - 📄 [add\_sous\_mod\_fois.form](JAVA/Projects/class_poo_interface/src/classes_dans_les_interfaces_calcul/add_sous_mod_fois.form)
+             - 📄 [add\_sous\_mod\_fois.java](JAVA/Projects/class_poo_interface/src/classes_dans_les_interfaces_calcul/add_sous_mod_fois.java)
+             - 📄 [ordr2.form](JAVA/Projects/class_poo_interface/src/classes_dans_les_interfaces_calcul/ordr2.form)
+             - 📄 [ordr2.java](JAVA/Projects/class_poo_interface/src/classes_dans_les_interfaces_calcul/ordr2.java)
+             - 📄 [ordre\_croi\_decroit\_nbr.form](JAVA/Projects/class_poo_interface/src/classes_dans_les_interfaces_calcul/ordre_croi_decroit_nbr.form)
+             - 📄 [ordre\_croi\_decroit\_nbr.java](JAVA/Projects/class_poo_interface/src/classes_dans_les_interfaces_calcul/ordre_croi_decroit_nbr.java)
+             - 📄 [tabl\_multipl\_1\_10.form](JAVA/Projects/class_poo_interface/src/classes_dans_les_interfaces_calcul/tabl_multipl_1_10.form)
+             - 📄 [tabl\_multipl\_1\_10.java](JAVA/Projects/class_poo_interface/src/classes_dans_les_interfaces_calcul/tabl_multipl_1_10.java)
+             - 📄 [taille\_premier\_dernier\_caractere.form](JAVA/Projects/class_poo_interface/src/classes_dans_les_interfaces_calcul/taille_premier_dernier_caractere.form)
+             - 📄 [taille\_premier\_dernier\_caractere.java](JAVA/Projects/class_poo_interface/src/classes_dans_les_interfaces_calcul/taille_premier_dernier_caractere.java)
+           - 📂 __interfaces\_avec\_des\_classes\_poo__
+             - 📄 [Calculatrice1.form](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/Calculatrice1.form)
+             - 📄 [Calculatrice1.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/Calculatrice1.java)
+             - 📄 [ClassCryptage.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/ClassCryptage.java)
+             - 📄 [Classmath\_random\_max\_min\_arraylist.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/Classmath_random_max_min_arraylist.java)
+             - 📄 [Clientip.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/Clientip.java)
+             - 📄 [Equation.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/Equation.java)
+             - 📄 [Rectangle.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/Rectangle.java)
+             - 📄 [Ville.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/Ville.java)
+             - 📄 [bancaire.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/bancaire.java)
+             - 📄 [complexe.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/complexe.java)
+             - 📄 [cryptage2.form](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/cryptage2.form)
+             - 📄 [cryptage2.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/cryptage2.java)
+             - 📄 [exo2.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/exo2.java)
+             - 📄 [ip.form](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/ip.form)
+             - 📄 [ip.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/ip.java)
+             - 📄 [sousclassMath.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/sousclassMath.java)
+             - 📄 [substring\_startwith\_endwith\_classmath.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/substring_startwith_endwith_classmath.java)
+             - 📄 [testVIle.form](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/testVIle.form)
+             - 📄 [testVIle.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/testVIle.java)
+             - 📄 [testbancaire.form](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/testbancaire.form)
+             - 📄 [testbancaire.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/testbancaire.java)
+             - 📄 [testcomplexe.form](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/testcomplexe.form)
+             - 📄 [testcomplexe.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/testcomplexe.java)
+             - 📄 [testequation.form](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/testequation.form)
+             - 📄 [testequation.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/testequation.java)
+             - 📄 [testrectgl.form](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/testrectgl.form)
+             - 📄 [testrectgl.java](JAVA/Projects/class_poo_interface/src/interfaces_avec_des_classes_poo/testrectgl.java)
+         - 📂 __test__
+       - 📄 [dep pag.txt](JAVA/Projects/dep%20pag.txt)
+       - 📂 __deplacement entre pages__
+         - 📂 __build__
+           - 📂 __classes__
+             - 📂 __deplacement__
+               - 📄 [Accueil$1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/Accueil%241.class)
+               - 📄 [Accueil$2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/Accueil%242.class)
+               - 📄 [Accueil$3.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/Accueil%243.class)
+               - 📄 [Accueil$4.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/Accueil%244.class)
+               - 📄 [Accueil.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/Accueil.class)
+               - 📄 [Accueil.form](JAVA/Projects/deplacement entre pages/build/classes/deplacement/Accueil.form)
+               - 📄 [Login$1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/Login%241.class)
+               - 📄 [Login$2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/Login%242.class)
+               - 📄 [Login.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/Login.class)
+               - 📄 [Login.form](JAVA/Projects/deplacement entre pages/build/classes/deplacement/Login.form)
+               - 📄 [cal1$1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/cal1%241.class)
+               - 📄 [cal1$2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/cal1%242.class)
+               - 📄 [cal1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/cal1.class)
+               - 📄 [cal1.form](JAVA/Projects/deplacement entre pages/build/classes/deplacement/cal1.form)
+               - 📄 [cal2$1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/cal2%241.class)
+               - 📄 [cal2$2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/cal2%242.class)
+               - 📄 [cal2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/cal2.class)
+               - 📄 [cal2.form](JAVA/Projects/deplacement entre pages/build/classes/deplacement/cal2.form)
+               - 📄 [matrice$1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/matrice%241.class)
+               - 📄 [matrice$2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/matrice%242.class)
+               - 📄 [matrice$3.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/matrice%243.class)
+               - 📄 [matrice.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/matrice.class)
+               - 📄 [matrice.form](JAVA/Projects/deplacement entre pages/build/classes/deplacement/matrice.form)
+               - 📄 [matrice2$1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/matrice2%241.class)
+               - 📄 [matrice2$2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/matrice2%242.class)
+               - 📄 [matrice2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/matrice2.class)
+               - 📄 [matrice2.form](JAVA/Projects/deplacement entre pages/build/classes/deplacement/matrice2.form)
+               - 📄 [p1$1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/p1%241.class)
+               - 📄 [p1$2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/p1%242.class)
+               - 📄 [p1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/p1.class)
+               - 📄 [p1.form](JAVA/Projects/deplacement entre pages/build/classes/deplacement/p1.form)
+               - 📄 [p2$1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/p2%241.class)
+               - 📄 [p2$2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/p2%242.class)
+               - 📄 [p2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/p2.class)
+               - 📄 [p2.form](JAVA/Projects/deplacement entre pages/build/classes/deplacement/p2.form)
+               - 📄 [tab\_arraylist\_math\_random\_deplacement\_1$1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_arraylist_math_random_deplacement_1%241.class)
+               - 📄 [tab\_arraylist\_math\_random\_deplacement\_1$2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_arraylist_math_random_deplacement_1%242.class)
+               - 📄 [tab\_arraylist\_math\_random\_deplacement\_1$3.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_arraylist_math_random_deplacement_1%243.class)
+               - 📄 [tab\_arraylist\_math\_random\_deplacement\_1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_arraylist_math_random_deplacement_1.class)
+               - 📄 [tab\_arraylist\_math\_random\_deplacement\_1.form](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_arraylist_math_random_deplacement_1.form)
+               - 📄 [tab\_arraylist\_math\_random\_deplacement\_2$1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_arraylist_math_random_deplacement_2%241.class)
+               - 📄 [tab\_arraylist\_math\_random\_deplacement\_2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_arraylist_math_random_deplacement_2.class)
+               - 📄 [tab\_arraylist\_math\_random\_deplacement\_2.form](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_arraylist_math_random_deplacement_2.form)
+               - 📄 [tab\_taille\_user\_inverser\_1$1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_taille_user_inverser_1%241.class)
+               - 📄 [tab\_taille\_user\_inverser\_1$2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_taille_user_inverser_1%242.class)
+               - 📄 [tab\_taille\_user\_inverser\_1$3.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_taille_user_inverser_1%243.class)
+               - 📄 [tab\_taille\_user\_inverser\_1$4.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_taille_user_inverser_1%244.class)
+               - 📄 [tab\_taille\_user\_inverser\_1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_taille_user_inverser_1.class)
+               - 📄 [tab\_taille\_user\_inverser\_1.form](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_taille_user_inverser_1.form)
+               - 📄 [tab\_taille\_user\_inverser\_2$1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_taille_user_inverser_2%241.class)
+               - 📄 [tab\_taille\_user\_inverser\_2$2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_taille_user_inverser_2%242.class)
+               - 📄 [tab\_taille\_user\_inverser\_2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_taille_user_inverser_2.class)
+               - 📄 [tab\_taille\_user\_inverser\_2.form](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_taille_user_inverser_2.form)
+               - 📄 [tab\_user\_rotation\_1$1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_user_rotation_1%241.class)
+               - 📄 [tab\_user\_rotation\_1$2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_user_rotation_1%242.class)
+               - 📄 [tab\_user\_rotation\_1$3.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_user_rotation_1%243.class)
+               - 📄 [tab\_user\_rotation\_1$4.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_user_rotation_1%244.class)
+               - 📄 [tab\_user\_rotation\_1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_user_rotation_1.class)
+               - 📄 [tab\_user\_rotation\_1.form](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_user_rotation_1.form)
+               - 📄 [tab\_user\_rotation\_2$1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_user_rotation_2%241.class)
+               - 📄 [tab\_user\_rotation\_2$2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_user_rotation_2%242.class)
+               - 📄 [tab\_user\_rotation\_2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_user_rotation_2.class)
+               - 📄 [tab\_user\_rotation\_2.form](JAVA/Projects/deplacement entre pages/build/classes/deplacement/tab_user_rotation_2.form)
+               - 📄 [trietableau$1.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/trietableau%241.class)
+               - 📄 [trietableau$2.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/trietableau%242.class)
+               - 📄 [trietableau$3.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/trietableau%243.class)
+               - 📄 [trietableau$4.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/trietableau%244.class)
+               - 📄 [trietableau.class](JAVA/Projects/deplacement entre pages/build/classes/deplacement/trietableau.class)
+               - 📄 [trietableau.form](JAVA/Projects/deplacement entre pages/build/classes/deplacement/trietableau.form)
+             - 📄 [exo1p1$t.class](JAVA/Projects/deplacement entre pages/build/classes/exo1p1%24t.class)
+         - 📄 [build.xml](JAVA/Projects/deplacement entre pages/build.xml)
+         - 📂 __nbproject__
+           - 📄 [build\-impl.xml](JAVA/Projects/deplacement entre pages/nbproject/build-impl.xml)
+           - 📄 [genfiles.properties](JAVA/Projects/deplacement entre pages/nbproject/genfiles.properties)
+           - 📂 __private__
+             - 📄 [private.properties](JAVA/Projects/deplacement entre pages/nbproject/private/private.properties)
+             - 📄 [private.xml](JAVA/Projects/deplacement entre pages/nbproject/private/private.xml)
+           - 📄 [project.properties](JAVA/Projects/deplacement entre pages/nbproject/project.properties)
+           - 📄 [project.xml](JAVA/Projects/deplacement entre pages/nbproject/project.xml)
+         - 📂 __src__
+           - 📂 __deplacement__
+             - 📄 [Accueil.form](JAVA/Projects/deplacement entre pages/src/deplacement/Accueil.form)
+             - 📄 [Accueil.java](JAVA/Projects/deplacement entre pages/src/deplacement/Accueil.java)
+             - 📄 [Login.form](JAVA/Projects/deplacement entre pages/src/deplacement/Login.form)
+             - 📄 [Login.java](JAVA/Projects/deplacement entre pages/src/deplacement/Login.java)
+             - 📄 [cal1.form](JAVA/Projects/deplacement entre pages/src/deplacement/cal1.form)
+             - 📄 [cal1.java](JAVA/Projects/deplacement entre pages/src/deplacement/cal1.java)
+             - 📄 [cal2.form](JAVA/Projects/deplacement entre pages/src/deplacement/cal2.form)
+             - 📄 [cal2.java](JAVA/Projects/deplacement entre pages/src/deplacement/cal2.java)
+             - 📄 [matrice.form](JAVA/Projects/deplacement entre pages/src/deplacement/matrice.form)
+             - 📄 [matrice.java](JAVA/Projects/deplacement entre pages/src/deplacement/matrice.java)
+             - 📄 [matrice2.form](JAVA/Projects/deplacement entre pages/src/deplacement/matrice2.form)
+             - 📄 [matrice2.java](JAVA/Projects/deplacement entre pages/src/deplacement/matrice2.java)
+             - 📄 [p1.form](JAVA/Projects/deplacement entre pages/src/deplacement/p1.form)
+             - 📄 [p1.java](JAVA/Projects/deplacement entre pages/src/deplacement/p1.java)
+             - 📄 [p2.form](JAVA/Projects/deplacement entre pages/src/deplacement/p2.form)
+             - 📄 [p2.java](JAVA/Projects/deplacement entre pages/src/deplacement/p2.java)
+             - 📄 [tab\_arraylist\_math\_random\_deplacement\_1.form](JAVA/Projects/deplacement entre pages/src/deplacement/tab_arraylist_math_random_deplacement_1.form)
+             - 📄 [tab\_arraylist\_math\_random\_deplacement\_1.java](JAVA/Projects/deplacement entre pages/src/deplacement/tab_arraylist_math_random_deplacement_1.java)
+             - 📄 [tab\_arraylist\_math\_random\_deplacement\_2.form](JAVA/Projects/deplacement entre pages/src/deplacement/tab_arraylist_math_random_deplacement_2.form)
+             - 📄 [tab\_arraylist\_math\_random\_deplacement\_2.java](JAVA/Projects/deplacement entre pages/src/deplacement/tab_arraylist_math_random_deplacement_2.java)
+             - 📄 [tab\_taille\_user\_inverser\_1.form](JAVA/Projects/deplacement entre pages/src/deplacement/tab_taille_user_inverser_1.form)
+             - 📄 [tab\_taille\_user\_inverser\_1.java](JAVA/Projects/deplacement entre pages/src/deplacement/tab_taille_user_inverser_1.java)
+             - 📄 [tab\_taille\_user\_inverser\_2.form](JAVA/Projects/deplacement entre pages/src/deplacement/tab_taille_user_inverser_2.form)
+             - 📄 [tab\_taille\_user\_inverser\_2.java](JAVA/Projects/deplacement entre pages/src/deplacement/tab_taille_user_inverser_2.java)
+             - 📄 [tab\_user\_rotation\_1.form](JAVA/Projects/deplacement entre pages/src/deplacement/tab_user_rotation_1.form)
+             - 📄 [tab\_user\_rotation\_1.java](JAVA/Projects/deplacement entre pages/src/deplacement/tab_user_rotation_1.java)
+             - 📄 [tab\_user\_rotation\_2.form](JAVA/Projects/deplacement entre pages/src/deplacement/tab_user_rotation_2.form)
+             - 📄 [tab\_user\_rotation\_2.java](JAVA/Projects/deplacement entre pages/src/deplacement/tab_user_rotation_2.java)
+             - 📄 [trietableau.form](JAVA/Projects/deplacement entre pages/src/deplacement/trietableau.form)
+             - 📄 [trietableau.java](JAVA/Projects/deplacement entre pages/src/deplacement/trietableau.java)
+         - 📂 __test__
+       - 📄 [fichier.txt](JAVA/Projects/fichier.txt)
+       - 📄 [hash\_code2019.zip](JAVA/Projects/hash_code2019.zip)
+       - 📂 __heritage__
+         - 📄 [build.xml](JAVA/Projects/heritage/build.xml)
+         - 📄 [manifest.mf](JAVA/Projects/heritage/manifest.mf)
+         - 📂 __nbproject__
+           - 📄 [build\-impl.xml](JAVA/Projects/heritage/nbproject/build-impl.xml)
+           - 📄 [genfiles.properties](JAVA/Projects/heritage/nbproject/genfiles.properties)
+           - 📂 __private__
+             - 📄 [config.properties](JAVA/Projects/heritage/nbproject/private/config.properties)
+             - 📄 [private.properties](JAVA/Projects/heritage/nbproject/private/private.properties)
+             - 📄 [private.xml](JAVA/Projects/heritage/nbproject/private/private.xml)
+           - 📄 [project.properties](JAVA/Projects/heritage/nbproject/project.properties)
+           - 📄 [project.xml](JAVA/Projects/heritage/nbproject/project.xml)
+         - 📂 __src__
+           - 📂 __heritage__
+             - 📄 [Enfant.java](JAVA/Projects/heritage/src/heritage/Enfant.java)
+             - 📄 [Papa.java](JAVA/Projects/heritage/src/heritage/Papa.java)
+             - 📄 [Test\_enfant.form](JAVA/Projects/heritage/src/heritage/Test_enfant.form)
+             - 📄 [Test\_enfant.java](JAVA/Projects/heritage/src/heritage/Test_enfant.java)
+             - 📄 [batiment.java](JAVA/Projects/heritage/src/heritage/batiment.java)
+             - 📄 [camion.java](JAVA/Projects/heritage/src/heritage/camion.java)
+             - 📄 [employee.java](JAVA/Projects/heritage/src/heritage/employee.java)
+             - 📄 [etudiant.java](JAVA/Projects/heritage/src/heritage/etudiant.java)
+             - 📄 [maison.java](JAVA/Projects/heritage/src/heritage/maison.java)
+             - 📄 [personne.java](JAVA/Projects/heritage/src/heritage/personne.java)
+             - 📄 [test\_employee\_etudiant.form](JAVA/Projects/heritage/src/heritage/test_employee_etudiant.form)
+             - 📄 [test\_employee\_etudiant.java](JAVA/Projects/heritage/src/heritage/test_employee_etudiant.java)
+             - 📄 [testbatimant.form](JAVA/Projects/heritage/src/heritage/testbatimant.form)
+             - 📄 [testbatimant.java](JAVA/Projects/heritage/src/heritage/testbatimant.java)
+             - 📄 [testcars.form](JAVA/Projects/heritage/src/heritage/testcars.form)
+             - 📄 [testcars.java](JAVA/Projects/heritage/src/heritage/testcars.java)
+             - 📄 [vehicule.java](JAVA/Projects/heritage/src/heritage/vehicule.java)
+             - 📄 [voiture.java](JAVA/Projects/heritage/src/heritage/voiture.java)
+         - 📂 __test__
+       - 📄 [heritage.txt](JAVA/Projects/heritage.txt)
+       - 📄 [heritg.txt](JAVA/Projects/heritg.txt)
+       - 📂 __interface\_model\_button__
+         - 📂 __build__
+           - 📄 [built\-jar.properties](JAVA/Projects/interface_model_button/build/built-jar.properties)
+           - 📂 __classes__
+             - 📂 __interface\_model\_button__
+               - 📄 [dateeee$1.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/dateeee%241.class)
+               - 📄 [dateeee.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/dateeee.class)
+               - 📄 [menubar\_combobox\_radiobutton$1.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/menubar_combobox_radiobutton%241.class)
+               - 📄 [menubar\_combobox\_radiobutton$10.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/menubar_combobox_radiobutton%2410.class)
+               - 📄 [menubar\_combobox\_radiobutton$2.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/menubar_combobox_radiobutton%242.class)
+               - 📄 [menubar\_combobox\_radiobutton$3.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/menubar_combobox_radiobutton%243.class)
+               - 📄 [menubar\_combobox\_radiobutton$4.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/menubar_combobox_radiobutton%244.class)
+               - 📄 [menubar\_combobox\_radiobutton$5.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/menubar_combobox_radiobutton%245.class)
+               - 📄 [menubar\_combobox\_radiobutton$6.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/menubar_combobox_radiobutton%246.class)
+               - 📄 [menubar\_combobox\_radiobutton$7.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/menubar_combobox_radiobutton%247.class)
+               - 📄 [menubar\_combobox\_radiobutton$8.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/menubar_combobox_radiobutton%248.class)
+               - 📄 [menubar\_combobox\_radiobutton$9.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/menubar_combobox_radiobutton%249.class)
+               - 📄 [menubar\_combobox\_radiobutton.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/menubar_combobox_radiobutton.class)
+               - 📄 [model$1.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/model%241.class)
+               - 📄 [model$2.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/model%242.class)
+               - 📄 [model$3.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/model%243.class)
+               - 📄 [model.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/model.class)
+               - 📄 [tpdate$1.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/tpdate%241.class)
+               - 📄 [tpdate.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/tpdate.class)
+               - 📄 [tpdate2$1.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/tpdate2%241.class)
+               - 📄 [tpdate2.class](JAVA/Projects/interface_model_button/build/classes/interface_model_button/tpdate2.class)
+           - 📂 __empty__
+           - 📂 __generated\-sources__
+             - 📂 __ap\-source\-output__
+         - 📄 [build.xml](JAVA/Projects/interface_model_button/build.xml)
+         - 📄 [manifest.mf](JAVA/Projects/interface_model_button/manifest.mf)
+         - 📂 __nbproject__
+           - 📄 [build\-impl.xml](JAVA/Projects/interface_model_button/nbproject/build-impl.xml)
+           - 📄 [genfiles.properties](JAVA/Projects/interface_model_button/nbproject/genfiles.properties)
+           - 📂 __private__
+             - 📄 [config.properties](JAVA/Projects/interface_model_button/nbproject/private/config.properties)
+             - 📄 [private.properties](JAVA/Projects/interface_model_button/nbproject/private/private.properties)
+             - 📄 [private.xml](JAVA/Projects/interface_model_button/nbproject/private/private.xml)
+           - 📄 [project.properties](JAVA/Projects/interface_model_button/nbproject/project.properties)
+           - 📄 [project.xml](JAVA/Projects/interface_model_button/nbproject/project.xml)
+         - 📂 __src__
+           - 📂 __interface\_model\_button__
+             - 📄 [menubar\_combobox\_radiobutton.form](JAVA/Projects/interface_model_button/src/interface_model_button/menubar_combobox_radiobutton.form)
+             - 📄 [menubar\_combobox\_radiobutton.java](JAVA/Projects/interface_model_button/src/interface_model_button/menubar_combobox_radiobutton.java)
+             - 📄 [model.form](JAVA/Projects/interface_model_button/src/interface_model_button/model.form)
+             - 📄 [model.java](JAVA/Projects/interface_model_button/src/interface_model_button/model.java)
+             - 📄 [tpdate.form](JAVA/Projects/interface_model_button/src/interface_model_button/tpdate.form)
+             - 📄 [tpdate.java](JAVA/Projects/interface_model_button/src/interface_model_button/tpdate.java)
+         - 📂 __test__
+       - 📂 __la fac__
+         - 📂 __build__
+           - 📄 [built\-jar.properties](JAVA/Projects/la fac/build/built-jar.properties)
+           - 📂 __classes__
+             - 📄 [A.class](JAVA/Projects/la fac/build/classes/A.class)
+             - 📄 [B.class](JAVA/Projects/la fac/build/classes/B.class)
+             - 📄 [C.class](JAVA/Projects/la fac/build/classes/C.class)
+             - 📄 [Chercheur.class](JAVA/Projects/la fac/build/classes/Chercheur.class)
+             - 📄 [D.class](JAVA/Projects/la fac/build/classes/D.class)
+             - 📄 [E.class](JAVA/Projects/la fac/build/classes/E.class)
+             - 📄 [Enseignant.class](JAVA/Projects/la fac/build/classes/Enseignant.class)
+             - 📄 [F.class](JAVA/Projects/la fac/build/classes/F.class)
+             - 📄 [Main.class](JAVA/Projects/la fac/build/classes/Main.class)
+             - 📄 [Personnel.class](JAVA/Projects/la fac/build/classes/Personnel.class)
+             - 📄 [alphabet.class](JAVA/Projects/la fac/build/classes/alphabet.class)
+             - 📂 __autre__
+               - 📄 [studio.class](JAVA/Projects/la fac/build/classes/autre/studio.class)
+               - 📄 [studio\_excep.class](JAVA/Projects/la fac/build/classes/autre/studio_excep.class)
+               - 📄 [tp7.class](JAVA/Projects/la fac/build/classes/autre/tp7.class)
+             - 📂 __important__
+               - 📄 [bancaire.class](JAVA/Projects/la fac/build/classes/important/bancaire.class)
+               - 📄 [essentiel\_tp.class](JAVA/Projects/la fac/build/classes/important/essentiel_tp.class)
+               - 📄 [poste.class](JAVA/Projects/la fac/build/classes/important/poste.class)
+             - 📂 __pack1__
+               - 📄 [A2.class](JAVA/Projects/la fac/build/classes/pack1/A2.class)
+               - 📄 [ClassA.class](JAVA/Projects/la fac/build/classes/pack1/ClassA.class)
+               - 📄 [ClassB.class](JAVA/Projects/la fac/build/classes/pack1/ClassB.class)
+             - 📂 __pack2__
+               - 📄 [A1.class](JAVA/Projects/la fac/build/classes/pack2/A1.class)
+               - 📄 [testpackage.class](JAVA/Projects/la fac/build/classes/pack2/testpackage.class)
+             - 📄 [surdef.class](JAVA/Projects/la fac/build/classes/surdef.class)
+             - 📂 __td1__
+               - 📄 [Somme\_1sur1\_1sur\_n.class](JAVA/Projects/la fac/build/classes/td1/Somme_1sur1_1sur_n.class)
+               - 📄 [Somme\_exponentiel.class](JAVA/Projects/la fac/build/classes/td1/Somme_exponentiel.class)
+               - 📄 [exo10.class](JAVA/Projects/la fac/build/classes/td1/exo10.class)
+               - 📄 [exo9.class](JAVA/Projects/la fac/build/classes/td1/exo9.class)
+               - 📄 [factoriel.class](JAVA/Projects/la fac/build/classes/td1/factoriel.class)
+               - 📄 [valeurabsolue.class](JAVA/Projects/la fac/build/classes/td1/valeurabsolue.class)
+             - 📂 __td2__
+               - 📄 [A.class](JAVA/Projects/la fac/build/classes/td2/A.class)
+               - 📄 [B.class](JAVA/Projects/la fac/build/classes/td2/B.class)
+               - 📄 [C.class](JAVA/Projects/la fac/build/classes/td2/C.class)
+               - 📄 [D.class](JAVA/Projects/la fac/build/classes/td2/D.class)
+               - 📄 [E.class](JAVA/Projects/la fac/build/classes/td2/E.class)
+               - 📄 [F.class](JAVA/Projects/la fac/build/classes/td2/F.class)
+               - 📄 [alphabet.class](JAVA/Projects/la fac/build/classes/td2/alphabet.class)
+               - 📄 [bancaire.class](JAVA/Projects/la fac/build/classes/td2/bancaire.class)
+               - 📄 [ccp.class](JAVA/Projects/la fac/build/classes/td2/ccp.class)
+               - 📄 [exo1complexe.class](JAVA/Projects/la fac/build/classes/td2/exo1complexe.class)
+               - 📄 [poste.class](JAVA/Projects/la fac/build/classes/td2/poste.class)
+               - 📄 [surdef.class](JAVA/Projects/la fac/build/classes/td2/surdef.class)
+             - 📂 __tp1\_tp2__
+               - 📄 [infinty.class](JAVA/Projects/la fac/build/classes/tp1_tp2/infinty.class)
+               - 📄 [point.class](JAVA/Projects/la fac/build/classes/tp1_tp2/point.class)
+               - 📄 [tp1nbrprm.class](JAVA/Projects/la fac/build/classes/tp1_tp2/tp1nbrprm.class)
+               - 📄 [tp1pair.class](JAVA/Projects/la fac/build/classes/tp1_tp2/tp1pair.class)
+               - 📄 [tp1surfacerectangle.class](JAVA/Projects/la fac/build/classes/tp1_tp2/tp1surfacerectangle.class)
+               - 📄 [tp3.class](JAVA/Projects/la fac/build/classes/tp1_tp2/tp3.class)
+             - 📂 __tp4\_tp3__
+               - 📄 [cercle.class](JAVA/Projects/la fac/build/classes/tp4_tp3/cercle.class)
+               - 📄 [pile.class](JAVA/Projects/la fac/build/classes/tp4_tp3/pile.class)
+               - 📄 [pile2.class](JAVA/Projects/la fac/build/classes/tp4_tp3/pile2.class)
+               - 📄 [point.class](JAVA/Projects/la fac/build/classes/tp4_tp3/point.class)
+               - 📄 [testcomposition.class](JAVA/Projects/la fac/build/classes/tp4_tp3/testcomposition.class)
+               - 📄 [tp3.class](JAVA/Projects/la fac/build/classes/tp4_tp3/tp3.class)
+             - 📂 __tp5__
+               - 📄 [cercle.class](JAVA/Projects/la fac/build/classes/tp5/cercle.class)
+               - 📄 [cylindre.class](JAVA/Projects/la fac/build/classes/tp5/cylindre.class)
+               - 📄 [point.class](JAVA/Projects/la fac/build/classes/tp5/point.class)
+               - 📄 [testcercle.class](JAVA/Projects/la fac/build/classes/tp5/testcercle.class)
+             - 📂 __tp6__
+               - 📄 [Comparable.class](JAVA/Projects/la fac/build/classes/tp6/Comparable.class)
+               - 📄 [carré.class](JAVA/Projects/la fac/build/classes/tp6/carr%C3%A9.class)
+               - 📄 [cercle.class](JAVA/Projects/la fac/build/classes/tp6/cercle.class)
+               - 📄 [cercleOrd.class](JAVA/Projects/la fac/build/classes/tp6/cercleOrd.class)
+               - 📄 [deplacable.class](JAVA/Projects/la fac/build/classes/tp6/deplacable.class)
+               - 📄 [forme$carre.class](JAVA/Projects/la fac/build/classes/tp6/forme%24carre.class)
+               - 📄 [forme$cercle.class](JAVA/Projects/la fac/build/classes/tp6/forme%24cercle.class)
+               - 📄 [forme$rectangle.class](JAVA/Projects/la fac/build/classes/tp6/forme%24rectangle.class)
+               - 📄 [forme.class](JAVA/Projects/la fac/build/classes/tp6/forme.class)
+               - 📄 [point.class](JAVA/Projects/la fac/build/classes/tp6/point.class)
+               - 📄 [rectangle.class](JAVA/Projects/la fac/build/classes/tp6/rectangle.class)
+               - 📄 [test\_tp6.class](JAVA/Projects/la fac/build/classes/tp6/test_tp6.class)
+             - 📂 __tp7__
+               - 📄 [tp7.class](JAVA/Projects/la fac/build/classes/tp7/tp7.class)
+             - 📂 __tp8__
+               - 📄 [CoordonneesException.class](JAVA/Projects/la fac/build/classes/tp8/CoordonneesException.class)
+               - 📄 [DeplacementException.class](JAVA/Projects/la fac/build/classes/tp8/DeplacementException.class)
+               - 📄 [pile.class](JAVA/Projects/la fac/build/classes/tp8/pile.class)
+               - 📄 [pilemain.class](JAVA/Projects/la fac/build/classes/tp8/pilemain.class)
+               - 📄 [pilepleineException.class](JAVA/Projects/la fac/build/classes/tp8/pilepleineException.class)
+               - 📄 [pilevideException.class](JAVA/Projects/la fac/build/classes/tp8/pilevideException.class)
+               - 📄 [point.class](JAVA/Projects/la fac/build/classes/tp8/point.class)
+             - 📂 __tp9__
+               - 📄 [article.class](JAVA/Projects/la fac/build/classes/tp9/article.class)
+               - 📄 [ligneachat.class](JAVA/Projects/la fac/build/classes/tp9/ligneachat.class)
+               - 📄 [pile.class](JAVA/Projects/la fac/build/classes/tp9/pile.class)
+               - 📄 [pilemain.class](JAVA/Projects/la fac/build/classes/tp9/pilemain.class)
+               - 📄 [pilepleineException.class](JAVA/Projects/la fac/build/classes/tp9/pilepleineException.class)
+               - 📄 [pilevideException.class](JAVA/Projects/la fac/build/classes/tp9/pilevideException.class)
+               - 📄 [test.class](JAVA/Projects/la fac/build/classes/tp9/test.class)
+               - 📄 [ticketachat.class](JAVA/Projects/la fac/build/classes/tp9/ticketachat.class)
+               - 📄 [ticketameliore.class](JAVA/Projects/la fac/build/classes/tp9/ticketameliore.class)
+           - 📂 __empty__
+           - 📂 __generated\-sources__
+             - 📂 __ap\-source\-output__
+         - 📄 [build.xml](JAVA/Projects/la fac/build.xml)
+         - 📂 __nbproject__
+           - 📄 [build\-impl.xml](JAVA/Projects/la fac/nbproject/build-impl.xml)
+           - 📂 __configs__
+             - 📄 [args.properties](JAVA/Projects/la fac/nbproject/configs/args.properties)
+           - 📄 [genfiles.properties](JAVA/Projects/la fac/nbproject/genfiles.properties)
+           - 📂 __private__
+             - 📄 [config.properties](JAVA/Projects/la fac/nbproject/private/config.properties)
+             - 📂 __configs__
+               - 📄 [args.properties](JAVA/Projects/la fac/nbproject/private/configs/args.properties)
+             - 📄 [private.properties](JAVA/Projects/la fac/nbproject/private/private.properties)
+             - 📄 [private.xml](JAVA/Projects/la fac/nbproject/private/private.xml)
+           - 📄 [project.properties](JAVA/Projects/la fac/nbproject/project.properties)
+           - 📄 [project.xml](JAVA/Projects/la fac/nbproject/project.xml)
+         - 📂 __src__
+           - 📄 [Chercheur.java](JAVA/Projects/la fac/src/Chercheur.java)
+           - 📄 [Enseignant.java](JAVA/Projects/la fac/src/Enseignant.java)
+           - 📄 [Main.java](JAVA/Projects/la fac/src/Main.java)
+           - 📄 [Personnel.java](JAVA/Projects/la fac/src/Personnel.java)
+           - 📂 __autre__
+             - 📄 [studio.java](JAVA/Projects/la fac/src/autre/studio.java)
+             - 📄 [studio\_excep.java](JAVA/Projects/la fac/src/autre/studio_excep.java)
+             - 📄 [test.java](JAVA/Projects/la fac/src/autre/test.java)
+           - 📂 __important__
+             - 📄 [bancaire.java](JAVA/Projects/la fac/src/important/bancaire.java)
+             - 📄 [essentiel.java](JAVA/Projects/la fac/src/important/essentiel.java)
+             - 📄 [essentiel\_tp.java](JAVA/Projects/la fac/src/important/essentiel_tp.java)
+             - 📄 [poste.java](JAVA/Projects/la fac/src/important/poste.java)
+           - 📂 __pack1__
+             - 📄 [A2.java](JAVA/Projects/la fac/src/pack1/A2.java)
+             - 📄 [ClassA.java](JAVA/Projects/la fac/src/pack1/ClassA.java)
+             - 📄 [ClassB.java](JAVA/Projects/la fac/src/pack1/ClassB.java)
+           - 📂 __pack2__
+             - 📄 [A1.java](JAVA/Projects/la fac/src/pack2/A1.java)
+             - 📄 [testpackage.java](JAVA/Projects/la fac/src/pack2/testpackage.java)
+           - 📂 __start__
+             - 📄 [Equation.java](JAVA/Projects/la fac/src/start/Equation.java)
+             - 📄 [complie execute cmd chemin nom class java](JAVA/Projects/la fac/src/start/complie%20execute%20cmd%20chemin%20nom%20class%20java)
+             - 📄 [exo2.java](JAVA/Projects/la fac/src/start/exo2.java)
+             - 📄 [point.class](JAVA/Projects/la fac/src/start/point.class)
+             - 📄 [point.java](JAVA/Projects/la fac/src/start/point.java)
+             - 📄 [tp3.class](JAVA/Projects/la fac/src/start/tp3.class)
+             - 📄 [tp3.java](JAVA/Projects/la fac/src/start/tp3.java)
+           - 📂 __td1__
+             - 📄 [Somme\_1sur1\_1sur\_n.java](JAVA/Projects/la fac/src/td1/Somme_1sur1_1sur_n.java)
+             - 📄 [Somme\_exponentiel.java](JAVA/Projects/la fac/src/td1/Somme_exponentiel.java)
+             - 📄 [exo10.java](JAVA/Projects/la fac/src/td1/exo10.java)
+             - 📄 [exo9.java](JAVA/Projects/la fac/src/td1/exo9.java)
+             - 📄 [factoriel.java](JAVA/Projects/la fac/src/td1/factoriel.java)
+             - 📄 [valeurabsolue.java](JAVA/Projects/la fac/src/td1/valeurabsolue.java)
+           - 📂 __td2__
+             - 📄 [bancaire.java](JAVA/Projects/la fac/src/td2/bancaire.java)
+             - 📄 [ccp.java](JAVA/Projects/la fac/src/td2/ccp.java)
+             - 📄 [exo1complexe.java](JAVA/Projects/la fac/src/td2/exo1complexe.java)
+             - 📄 [poste.java](JAVA/Projects/la fac/src/td2/poste.java)
+             - 📄 [super\_poly.java](JAVA/Projects/la fac/src/td2/super_poly.java)
+             - 📄 [surdef.java](JAVA/Projects/la fac/src/td2/surdef.java)
+           - 📄 [testmain.java](JAVA/Projects/la fac/src/testmain.java)
+           - 📂 __tp1\_tp2__
+             - 📄 [infinty.java](JAVA/Projects/la fac/src/tp1_tp2/infinty.java)
+             - 📄 [point.java](JAVA/Projects/la fac/src/tp1_tp2/point.java)
+             - 📄 [tp1nbrprm.java](JAVA/Projects/la fac/src/tp1_tp2/tp1nbrprm.java)
+             - 📄 [tp1pair.java](JAVA/Projects/la fac/src/tp1_tp2/tp1pair.java)
+             - 📄 [tp1surfacerectangle.java](JAVA/Projects/la fac/src/tp1_tp2/tp1surfacerectangle.java)
+             - 📄 [tp3.java](JAVA/Projects/la fac/src/tp1_tp2/tp3.java)
+           - 📂 __tp4\_tp3__
+             - 📄 [cercle.java](JAVA/Projects/la fac/src/tp4_tp3/cercle.java)
+             - 📄 [pile.java](JAVA/Projects/la fac/src/tp4_tp3/pile.java)
+             - 📄 [pile2.java](JAVA/Projects/la fac/src/tp4_tp3/pile2.java)
+             - 📄 [point.java](JAVA/Projects/la fac/src/tp4_tp3/point.java)
+             - 📄 [testcomposition.java](JAVA/Projects/la fac/src/tp4_tp3/testcomposition.java)
+             - 📄 [tp3.java](JAVA/Projects/la fac/src/tp4_tp3/tp3.java)
+           - 📂 __tp5__
+             - 📄 [cercle.java](JAVA/Projects/la fac/src/tp5/cercle.java)
+             - 📄 [cylindre.java](JAVA/Projects/la fac/src/tp5/cylindre.java)
+             - 📄 [point.java](JAVA/Projects/la fac/src/tp5/point.java)
+             - 📄 [testcercle.java](JAVA/Projects/la fac/src/tp5/testcercle.java)
+           - 📂 __tp6__
+             - 📄 [carré.java](JAVA/Projects/la fac/src/tp6/carr%C3%A9.java)
+             - 📄 [cercle.java](JAVA/Projects/la fac/src/tp6/cercle.java)
+             - 📄 [cercleOrd.java](JAVA/Projects/la fac/src/tp6/cercleOrd.java)
+             - 📄 [deplacable.java](JAVA/Projects/la fac/src/tp6/deplacable.java)
+             - 📄 [forme.java](JAVA/Projects/la fac/src/tp6/forme.java)
+             - 📄 [point.java](JAVA/Projects/la fac/src/tp6/point.java)
+             - 📄 [rectangle.java](JAVA/Projects/la fac/src/tp6/rectangle.java)
+             - 📄 [test\_tp6.java](JAVA/Projects/la fac/src/tp6/test_tp6.java)
+           - 📂 __tp7__
+             - 📄 [tp7.java](JAVA/Projects/la fac/src/tp7/tp7.java)
+           - 📂 __tp8__
+             - 📄 [CoordonneesException.java](JAVA/Projects/la fac/src/tp8/CoordonneesException.java)
+             - 📄 [DeplacementException.java](JAVA/Projects/la fac/src/tp8/DeplacementException.java)
+             - 📄 [pile.java](JAVA/Projects/la fac/src/tp8/pile.java)
+             - 📄 [pilemain.java](JAVA/Projects/la fac/src/tp8/pilemain.java)
+             - 📄 [pilepleineException.java](JAVA/Projects/la fac/src/tp8/pilepleineException.java)
+             - 📄 [pilevideException.java](JAVA/Projects/la fac/src/tp8/pilevideException.java)
+             - 📄 [point.java](JAVA/Projects/la fac/src/tp8/point.java)
+             - 📄 [principal.java](JAVA/Projects/la fac/src/tp8/principal.java)
+             - 📄 [principal2.java](JAVA/Projects/la fac/src/tp8/principal2.java)
+             - 📄 [principal3.java](JAVA/Projects/la fac/src/tp8/principal3.java)
+           - 📂 __tp9__
+             - 📄 [article.java](JAVA/Projects/la fac/src/tp9/article.java)
+             - 📄 [ligneachat.java](JAVA/Projects/la fac/src/tp9/ligneachat.java)
+             - 📄 [test.java](JAVA/Projects/la fac/src/tp9/test.java)
+             - 📄 [ticketachat.java](JAVA/Projects/la fac/src/tp9/ticketachat.java)
+             - 📄 [ticketameliore.java](JAVA/Projects/la fac/src/tp9/ticketameliore.java)
+         - 📂 __test__
+       - 📂 __les fichiers__
+         - 📂 __build__
+           - 📄 [built\-jar.properties](JAVA/Projects/les fichiers/build/built-jar.properties)
+           - 📂 __classes__
+             - 📄 [fichier\_nbrpair\_impair\_recupere\_diaze$1.class](JAVA/Projects/les fichiers/build/classes/fichier_nbrpair_impair_recupere_diaze%241.class)
+             - 📄 [fichier\_nbrpair\_impair\_recupere\_diaze$2.class](JAVA/Projects/les fichiers/build/classes/fichier_nbrpair_impair_recupere_diaze%242.class)
+             - 📄 [fichier\_nbrpair\_impair\_recupere\_diaze$3.class](JAVA/Projects/les fichiers/build/classes/fichier_nbrpair_impair_recupere_diaze%243.class)
+             - 📄 [fichier\_nbrpair\_impair\_recupere\_diaze$4.class](JAVA/Projects/les fichiers/build/classes/fichier_nbrpair_impair_recupere_diaze%244.class)
+             - 📄 [fichier\_nbrpair\_impair\_recupere\_diaze.class](JAVA/Projects/les fichiers/build/classes/fichier_nbrpair_impair_recupere_diaze.class)
+             - 📄 [pair\_impair\_2$1.class](JAVA/Projects/les fichiers/build/classes/pair_impair_2%241.class)
+             - 📄 [pair\_impair\_2.class](JAVA/Projects/les fichiers/build/classes/pair_impair_2.class)
+             - 📄 [tp\_lesFichier\_avec\_interface$1.class](JAVA/Projects/les fichiers/build/classes/tp_lesFichier_avec_interface%241.class)
+             - 📄 [tp\_lesFichier\_avec\_interface$2.class](JAVA/Projects/les fichiers/build/classes/tp_lesFichier_avec_interface%242.class)
+             - 📄 [tp\_lesFichier\_avec\_interface$3.class](JAVA/Projects/les fichiers/build/classes/tp_lesFichier_avec_interface%243.class)
+             - 📄 [tp\_lesFichier\_avec\_interface$4.class](JAVA/Projects/les fichiers/build/classes/tp_lesFichier_avec_interface%244.class)
+             - 📄 [tp\_lesFichier\_avec\_interface$5.class](JAVA/Projects/les fichiers/build/classes/tp_lesFichier_avec_interface%245.class)
+             - 📄 [tp\_lesFichier\_avec\_interface$6.class](JAVA/Projects/les fichiers/build/classes/tp_lesFichier_avec_interface%246.class)
+             - 📄 [tp\_lesFichier\_avec\_interface$7.class](JAVA/Projects/les fichiers/build/classes/tp_lesFichier_avec_interface%247.class)
+             - 📄 [tp\_lesFichier\_avec\_interface$8.class](JAVA/Projects/les fichiers/build/classes/tp_lesFichier_avec_interface%248.class)
+             - 📄 [tp\_lesFichier\_avec\_interface.class](JAVA/Projects/les fichiers/build/classes/tp_lesFichier_avec_interface.class)
+           - 📂 __empty__
+           - 📂 __generated\-sources__
+             - 📂 __ap\-source\-output__
+         - 📄 [build.xml](JAVA/Projects/les fichiers/build.xml)
+         - 📄 [manifest.mf](JAVA/Projects/les fichiers/manifest.mf)
+         - 📂 __nbproject__
+           - 📄 [build\-impl.xml](JAVA/Projects/les fichiers/nbproject/build-impl.xml)
+           - 📄 [genfiles.properties](JAVA/Projects/les fichiers/nbproject/genfiles.properties)
+           - 📂 __private__
+             - 📄 [private.properties](JAVA/Projects/les fichiers/nbproject/private/private.properties)
+             - 📄 [private.xml](JAVA/Projects/les fichiers/nbproject/private/private.xml)
+           - 📄 [project.properties](JAVA/Projects/les fichiers/nbproject/project.properties)
+           - 📄 [project.xml](JAVA/Projects/les fichiers/nbproject/project.xml)
+         - 📂 __src__
+           - 📄 [fichier\_nbrpair\_impair\_recupere\_diaze.form](JAVA/Projects/les fichiers/src/fichier_nbrpair_impair_recupere_diaze.form)
+           - 📄 [fichier\_nbrpair\_impair\_recupere\_diaze.java](JAVA/Projects/les fichiers/src/fichier_nbrpair_impair_recupere_diaze.java)
+           - 📄 [pair\_impair\_2.form](JAVA/Projects/les fichiers/src/pair_impair_2.form)
+           - 📄 [pair\_impair\_2.java](JAVA/Projects/les fichiers/src/pair_impair_2.java)
+           - 📄 [tp\_lesFichier\_avec\_interface.form](JAVA/Projects/les fichiers/src/tp_lesFichier_avec_interface.form)
+           - 📄 [tp\_lesFichier\_avec\_interface.java](JAVA/Projects/les fichiers/src/tp_lesFichier_avec_interface.java)
+           - 📄 [tp\_main\_les\_fonctions\_des\_fichiers.java](JAVA/Projects/les fichiers/src/tp_main_les_fonctions_des_fichiers.java)
+         - 📂 __test__
+       - 📂 __netbeanslib__
+         - 📄 [JTimeChooser\_0.1.0.jar](JAVA/Projects/netbeanslib/JTimeChooser_0.1.0.jar)
+         - 📄 [jcalendar\-1.4.jar](JAVA/Projects/netbeanslib/jcalendar-1.4.jar)
+         - 📄 [kotlin\-runtime.jar](JAVA/Projects/netbeanslib/kotlin-runtime.jar)
+         - 📄 [poi\-3.17.jar](JAVA/Projects/netbeanslib/poi-3.17.jar)
+         - 📄 [poi\-examples\-3.17.jar](JAVA/Projects/netbeanslib/poi-examples-3.17.jar)
+         - 📄 [poi\-excelant\-3.17.jar](JAVA/Projects/netbeanslib/poi-excelant-3.17.jar)
+         - 📄 [poi\-ooxml\-3.17.jar](JAVA/Projects/netbeanslib/poi-ooxml-3.17.jar)
+         - 📄 [poi\-ooxml\-schemas\-3.17.jar](JAVA/Projects/netbeanslib/poi-ooxml-schemas-3.17.jar)
+         - 📄 [poi\-scratchpad\-3.17.jar](JAVA/Projects/netbeanslib/poi-scratchpad-3.17.jar)
+       - 📂 __niveau4__
+         - 📂 __build__
+           - 📄 [built\-jar.properties](JAVA/Projects/niveau4/build/built-jar.properties)
+           - 📂 __classes__
+             - 📂 __events\_image\_button\_click\_mouse\_keyboard__
+               - 📄 [imageicon\_create\_fichier\_chemin$1.class](JAVA/Projects/niveau4/build/classes/events_image_button_click_mouse_keyboard/imageicon_create_fichier_chemin%241.class)
+               - 📄 [imageicon\_create\_fichier\_chemin$2.class](JAVA/Projects/niveau4/build/classes/events_image_button_click_mouse_keyboard/imageicon_create_fichier_chemin%242.class)
+               - 📄 [imageicon\_create\_fichier\_chemin$3.class](JAVA/Projects/niveau4/build/classes/events_image_button_click_mouse_keyboard/imageicon_create_fichier_chemin%243.class)
+               - 📄 [imageicon\_create\_fichier\_chemin.class](JAVA/Projects/niveau4/build/classes/events_image_button_click_mouse_keyboard/imageicon_create_fichier_chemin.class)
+             - 📂 __niv4__
+               - 📄 [jframe\_jdida$1.class](JAVA/Projects/niveau4/build/classes/niv4/jframe_jdida%241.class)
+               - 📄 [jframe\_jdida$2.class](JAVA/Projects/niveau4/build/classes/niv4/jframe_jdida%242.class)
+               - 📄 [jframe\_jdida$3.class](JAVA/Projects/niveau4/build/classes/niv4/jframe_jdida%243.class)
+               - 📄 [jframe\_jdida.class](JAVA/Projects/niveau4/build/classes/niv4/jframe_jdida.class)
+               - 📄 [jframe\_jdida2$1.class](JAVA/Projects/niveau4/build/classes/niv4/jframe_jdida2%241.class)
+               - 📄 [jframe\_jdida2$2.class](JAVA/Projects/niveau4/build/classes/niv4/jframe_jdida2%242.class)
+               - 📄 [jframe\_jdida2$3.class](JAVA/Projects/niveau4/build/classes/niv4/jframe_jdida2%243.class)
+               - 📄 [jframe\_jdida2.class](JAVA/Projects/niveau4/build/classes/niv4/jframe_jdida2.class)
+               - 📄 [tp1$1.class](JAVA/Projects/niveau4/build/classes/niv4/tp1%241.class)
+               - 📄 [tp1$2.class](JAVA/Projects/niveau4/build/classes/niv4/tp1%242.class)
+               - 📄 [tp1$3.class](JAVA/Projects/niveau4/build/classes/niv4/tp1%243.class)
+               - 📄 [tp1.class](JAVA/Projects/niveau4/build/classes/niv4/tp1.class)
+             - 📂 __rapport\_doc\_poi\_regex__
+               - 📄 [Editeur\_rapport\_fichier\_poi.class](JAVA/Projects/niveau4/build/classes/rapport_doc_poi_regex/Editeur_rapport_fichier_poi.class)
+               - 📄 [exo1.class](JAVA/Projects/niveau4/build/classes/rapport_doc_poi_regex/exo1.class)
+           - 📂 __empty__
+           - 📂 __generated\-sources__
+             - 📂 __ap\-source\-output__
+         - 📄 [build.xml](JAVA/Projects/niveau4/build.xml)
+         - 📄 [manifest.mf](JAVA/Projects/niveau4/manifest.mf)
+         - 📂 __nbproject__
+           - 📄 [build\-impl.xml](JAVA/Projects/niveau4/nbproject/build-impl.xml)
+           - 📄 [genfiles.properties](JAVA/Projects/niveau4/nbproject/genfiles.properties)
+           - 📂 __private__
+             - 📄 [config.properties](JAVA/Projects/niveau4/nbproject/private/config.properties)
+             - 📄 [private.properties](JAVA/Projects/niveau4/nbproject/private/private.properties)
+             - 📄 [private.xml](JAVA/Projects/niveau4/nbproject/private/private.xml)
+           - 📄 [project.properties](JAVA/Projects/niveau4/nbproject/project.properties)
+           - 📄 [project.xml](JAVA/Projects/niveau4/nbproject/project.xml)
+         - 📂 __src__
+           - 📂 __Les\_Threads__
+             - 📄 [Carte\_credit.java](JAVA/Projects/niveau4/src/Les_Threads/Carte_credit.java)
+             - 📄 [Exemple1.java](JAVA/Projects/niveau4/src/Les_Threads/Exemple1.java)
+             - 📄 [Sa3a.form](JAVA/Projects/niveau4/src/Les_Threads/Sa3a.form)
+             - 📄 [Sa3a.java](JAVA/Projects/niveau4/src/Les_Threads/Sa3a.java)
+             - 📄 [Test1.java](JAVA/Projects/niveau4/src/Les_Threads/Test1.java)
+             - 📄 [Test2.java](JAVA/Projects/niveau4/src/Les_Threads/Test2.java)
+           - 📂 __animation__
+             - 📄 [animation\_tp.form](JAVA/Projects/niveau4/src/animation/animation_tp.form)
+             - 📄 [animation\_tp.java](JAVA/Projects/niveau4/src/animation/animation_tp.java)
+             - 📄 [exo1.form](JAVA/Projects/niveau4/src/animation/exo1.form)
+             - 📄 [exo1.java](JAVA/Projects/niveau4/src/animation/exo1.java)
+             - 📄 [exo2.form](JAVA/Projects/niveau4/src/animation/exo2.form)
+             - 📄 [exo2.java](JAVA/Projects/niveau4/src/animation/exo2.java)
+             - 📄 [exo3.form](JAVA/Projects/niveau4/src/animation/exo3.form)
+             - 📄 [exo3.java](JAVA/Projects/niveau4/src/animation/exo3.java)
+           - 📂 __class\_abstraite__
+             - 📄 [camion.java](JAVA/Projects/niveau4/src/class_abstraite/camion.java)
+             - 📄 [cercle.java](JAVA/Projects/niveau4/src/class_abstraite/cercle.java)
+             - 📄 [forme.java](JAVA/Projects/niveau4/src/class_abstraite/forme.java)
+             - 📄 [main\_test.java](JAVA/Projects/niveau4/src/class_abstraite/main_test.java)
+             - 📄 [rectangle.java](JAVA/Projects/niveau4/src/class_abstraite/rectangle.java)
+             - 📄 [test.java](JAVA/Projects/niveau4/src/class_abstraite/test.java)
+             - 📄 [voiture.java](JAVA/Projects/niveau4/src/class_abstraite/voiture.java)
+             - 📄 [véhicule.java](JAVA/Projects/niveau4/src/class_abstraite/v%C3%A9hicule.java)
+           - 📂 __events\_image\_button\_click\_mouse\_keyboard__
+             - 📄 [event\_mouse\_click\_color\_pick.form](JAVA/Projects/niveau4/src/events_image_button_click_mouse_keyboard/event_mouse_click_color_pick.form)
+             - 📄 [event\_mouse\_click\_color\_pick.java](JAVA/Projects/niveau4/src/events_image_button_click_mouse_keyboard/event_mouse_click_color_pick.java)
+             - 📄 [imageicon\_create\_fichier\_chemin.form](JAVA/Projects/niveau4/src/events_image_button_click_mouse_keyboard/imageicon_create_fichier_chemin.form)
+             - 📄 [imageicon\_create\_fichier\_chemin.java](JAVA/Projects/niveau4/src/events_image_button_click_mouse_keyboard/imageicon_create_fichier_chemin.java)
+             - 📄 [keyboard\_events\_block\_and\_click.form](JAVA/Projects/niveau4/src/events_image_button_click_mouse_keyboard/keyboard_events_block_and_click.form)
+             - 📄 [keyboard\_events\_block\_and\_click.java](JAVA/Projects/niveau4/src/events_image_button_click_mouse_keyboard/keyboard_events_block_and_click.java)
+           - 📂 __les\_interfaces__
+             - 📄 [file\_dattente.java](JAVA/Projects/niveau4/src/les_interfaces/file_dattente.java)
+             - 📄 [fileclass.java](JAVA/Projects/niveau4/src/les_interfaces/fileclass.java)
+             - 📄 [main\_test.java](JAVA/Projects/niveau4/src/les_interfaces/main_test.java)
+           - 📂 __rapport\_doc\_poi\_regex__
+             - 📄 [Editeur\_rapport\_fichier\_poi.java](JAVA/Projects/niveau4/src/rapport_doc_poi_regex/Editeur_rapport_fichier_poi.java)
+             - 📄 [Expression\_reguliere\_api.java](JAVA/Projects/niveau4/src/rapport_doc_poi_regex/Expression_reguliere_api.java)
+             - 📄 [exo1.java](JAVA/Projects/niveau4/src/rapport_doc_poi_regex/exo1.java)
+         - 📂 __test__
+       - 📂 __reseau__
+         - 📂 __build__
+           - 📂 __classes__
+             - 📂 __reseau__
+               - 📄 [client$1.class](JAVA/Projects/reseau/build/classes/reseau/client%241.class)
+               - 📄 [client$2.class](JAVA/Projects/reseau/build/classes/reseau/client%242.class)
+               - 📄 [client$3.class](JAVA/Projects/reseau/build/classes/reseau/client%243.class)
+               - 📄 [client$4.class](JAVA/Projects/reseau/build/classes/reseau/client%244.class)
+               - 📄 [client$5.class](JAVA/Projects/reseau/build/classes/reseau/client%245.class)
+               - 📄 [client.class](JAVA/Projects/reseau/build/classes/reseau/client.class)
+               - 📄 [client.form](JAVA/Projects/reseau/build/classes/reseau/client.form)
+               - 📄 [serveur$1.class](JAVA/Projects/reseau/build/classes/reseau/serveur%241.class)
+               - 📄 [serveur$2.class](JAVA/Projects/reseau/build/classes/reseau/serveur%242.class)
+               - 📄 [serveur$3.class](JAVA/Projects/reseau/build/classes/reseau/serveur%243.class)
+               - 📄 [serveur$4.class](JAVA/Projects/reseau/build/classes/reseau/serveur%244.class)
+               - 📄 [serveur$5.class](JAVA/Projects/reseau/build/classes/reseau/serveur%245.class)
+               - 📄 [serveur.class](JAVA/Projects/reseau/build/classes/reseau/serveur.class)
+               - 📄 [serveur.form](JAVA/Projects/reseau/build/classes/reseau/serveur.form)
+         - 📄 [build.xml](JAVA/Projects/reseau/build.xml)
+         - 📄 [manifest.mf](JAVA/Projects/reseau/manifest.mf)
+         - 📂 __nbproject__
+           - 📄 [build\-impl.xml](JAVA/Projects/reseau/nbproject/build-impl.xml)
+           - 📄 [genfiles.properties](JAVA/Projects/reseau/nbproject/genfiles.properties)
+           - 📂 __private__
+             - 📄 [private.properties](JAVA/Projects/reseau/nbproject/private/private.properties)
+             - 📄 [private.xml](JAVA/Projects/reseau/nbproject/private/private.xml)
+           - 📄 [project.properties](JAVA/Projects/reseau/nbproject/project.properties)
+           - 📄 [project.xml](JAVA/Projects/reseau/nbproject/project.xml)
+         - 📂 __src__
+           - 📂 __reseau__
+             - 📄 [client.form](JAVA/Projects/reseau/src/reseau/client.form)
+             - 📄 [client.java](JAVA/Projects/reseau/src/reseau/client.java)
+             - 📄 [serveur.form](JAVA/Projects/reseau/src/reseau/serveur.form)
+             - 📄 [serveur.java](JAVA/Projects/reseau/src/reseau/serveur.java)
+         - 📂 __test__
+       - 📄 [rsm jv.txt](JAVA/Projects/rsm%20jv.txt)
+       - 📂 __test__
+         - 📂 __build__
+           - 📂 __classes__
+             - 📂 __test__
+               - 📄 [Test.class](JAVA/Projects/test/build/classes/test/Test.class)
+           - 📂 __empty__
+           - 📂 __generated\-sources__
+             - 📂 __ap\-source\-output__
+         - 📄 [build.xml](JAVA/Projects/test/build.xml)
+         - 📄 [manifest.mf](JAVA/Projects/test/manifest.mf)
+         - 📂 __nbproject__
+           - 📄 [build\-impl.xml](JAVA/Projects/test/nbproject/build-impl.xml)
+           - 📄 [genfiles.properties](JAVA/Projects/test/nbproject/genfiles.properties)
+           - 📂 __private__
+             - 📄 [private.properties](JAVA/Projects/test/nbproject/private/private.properties)
+             - 📄 [private.xml](JAVA/Projects/test/nbproject/private/private.xml)
+           - 📄 [project.properties](JAVA/Projects/test/nbproject/project.properties)
+           - 📄 [project.xml](JAVA/Projects/test/nbproject/project.xml)
+         - 📂 __src__
+           - 📂 __test__
+             - 📄 [Test.java](JAVA/Projects/test/src/test/Test.java)
+         - 📂 __test__
+     - 📂 __java books__
+       - 📄 [Java Learning to Program with Robots.pdf](JAVA/java books/Java%20Learning%20to%20Program%20with%20Robots.pdf)
+       - 📄 [jls9 (2).pdf](JAVA/java books/jls9%20(2).pdf)
+       - 📄 [learig java by pb (2).pdf](JAVA/java books/learig%20java%20by%20pb%20(2).pdf)
+       - 📄 [les\-applications\-web\-avec\-javafx.pdf](JAVA/java books/les-applications-web-avec-javafx.pdf)
+       - 📄 [thinkapjava (2).pdf](JAVA/java books/thinkapjava%20(2).pdf)
+   - 📂 __JAVASCRIPT__
+     - 📂 __Cheatsheet__
+       - 📄 [JavaScript Cheat Sheet.txt](JAVASCRIPT/Cheatsheet/JavaScript%20Cheat%20Sheet.txt)
+       - 📄 [JavaScript\-cheat\-sheet\-master (2).zip](JAVASCRIPT/Cheatsheet/JavaScript-cheat-sheet-master%20(2).zip)
+       - 📄 [JavaScript\-cheat\-sheet\-master.zip](JAVASCRIPT/Cheatsheet/JavaScript-cheat-sheet-master.zip)
+       - 📄 [davechild\_javascript.pdf](JAVASCRIPT/Cheatsheet/davechild_javascript.pdf)
+       - 📄 [derek.js](JAVASCRIPT/Cheatsheet/derek.js)
+       - 📄 [es6\-cheatsheet\-master (2).zip](JAVASCRIPT/Cheatsheet/es6-cheatsheet-master%20(2).zip)
+       - 📄 [es6.js](JAVASCRIPT/Cheatsheet/es6.js)
+       - 📄 [jquery1.png](JAVASCRIPT/Cheatsheet/jquery1.png)
+       - 📄 [js abrégé.txt](JAVASCRIPT/Cheatsheet/js%20abr%C3%A9g%C3%A9.txt)
+       - 📄 [js\-cheat\-sheet.pdf](JAVASCRIPT/Cheatsheet/js-cheat-sheet.pdf)
+       - 📄 [js.txt](JAVASCRIPT/Cheatsheet/js.txt)
+       - 📄 [jscheet.jpeg](JAVASCRIPT/Cheatsheet/jscheet.jpeg)
+       - 📄 [nodejs.js](JAVASCRIPT/Cheatsheet/nodejs.js)
+       - 📂 __puppeteer__
+         - 📄 [5randompostinform.txt](JAVASCRIPT/Cheatsheet/puppeteer/5randompostinform.txt)
+         - 📄 [Cannot login to twitter with the CLI tool #198.txt](JAVASCRIPT/Cheatsheet/puppeteer/Cannot%20login%20to%20twitter%20with%20the%20CLI%20tool%20%23198.txt)
+         - 📄 [block ads.txt](JAVASCRIPT/Cheatsheet/puppeteer/block%20ads.txt)
+         - 📄 [block javascript in page.txt](JAVASCRIPT/Cheatsheet/puppeteer/block%20javascript%20in%20page.txt)
+         - 📄 [block notification and pop ups.txt](JAVASCRIPT/Cheatsheet/puppeteer/block%20notification%20and%20pop%20ups.txt)
+         - 📄 [close browser && page.txt](JAVASCRIPT/Cheatsheet/puppeteer/close%20browser%20%26%26%20page.txt)
+         - 📄 [export puppeteer uttils funcs.txt](JAVASCRIPT/Cheatsheet/puppeteer/export%20puppeteer%20uttils%20funcs.txt)
+         - 📄 [multiple pages.txt](JAVASCRIPT/Cheatsheet/puppeteer/multiple%20pages.txt)
+         - 📄 [puppeteer\-with\-adblock.js](JAVASCRIPT/Cheatsheet/puppeteer/puppeteer-with-adblock.js)
+         - 📄 [redirects issues.txt](JAVASCRIPT/Cheatsheet/puppeteer/redirects%20issues.txt)
+         - 📄 [tips and tricks.txt](JAVASCRIPT/Cheatsheet/puppeteer/tips%20and%20tricks.txt)
+     - 📂 __books__
+       - 📄 [Eloquent\_JavaScript (2).pdf](JAVASCRIPT/books/Eloquent_JavaScript%20(2).pdf)
+       - 📄 [es5toesnext\-handbok.pdf](JAVASCRIPT/books/es5toesnext-handbok.pdf)
+       - 📄 [fplight (2).pdf](JAVASCRIPT/books/fplight%20(2).pdf)
+       - 📄 [javascript\-handbook.pdf](JAVASCRIPT/books/javascript-handbook.pdf)
+       - 📄 [javascriptgrammar\-II.pdf](JAVASCRIPT/books/javascriptgrammar-II.pdf)
+       - 📄 [jsrecent (2).pdf](JAVASCRIPT/books/jsrecent%20(2).pdf)
+       - 📄 [keep\-betting\-on\-js\-5 (2).pdf](JAVASCRIPT/books/keep-betting-on-js-5%20(2).pdf)
+       - 📄 [syncingasync (2).pdf](JAVASCRIPT/books/syncingasync%20(2).pdf)
+     - 📂 __learning__
+       - 📄 [10\-practical\-js\-features\-master.zip](JAVASCRIPT/learning/10-practical-js-features-master.zip)
+       - 📄 [Awesome\-JavaScript\-Interviews\-master.zip](JAVASCRIPT/learning/Awesome-JavaScript-Interviews-master.zip)
+       - 📄 [ECMAScript\-new\-features\-list\-master.zip](JAVASCRIPT/learning/ECMAScript-new-features-list-master.zip)
+       - 📄 [Functional\-Light\-JS\-master.zip](JAVASCRIPT/learning/Functional-Light-JS-master.zip)
+       - 📂 __JavaScript30\-master__
+         - 📂 __01 \- JavaScript Drum Kit__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/01 - JavaScript Drum Kit/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/01 - JavaScript Drum Kit/index-START.html)
+           - 📂 __sounds__
+             - 📄 [boom.wav](JAVASCRIPT/learning/JavaScript30-master/01 - JavaScript Drum Kit/sounds/boom.wav)
+             - 📄 [clap.wav](JAVASCRIPT/learning/JavaScript30-master/01 - JavaScript Drum Kit/sounds/clap.wav)
+             - 📄 [hihat.wav](JAVASCRIPT/learning/JavaScript30-master/01 - JavaScript Drum Kit/sounds/hihat.wav)
+             - 📄 [kick.wav](JAVASCRIPT/learning/JavaScript30-master/01 - JavaScript Drum Kit/sounds/kick.wav)
+             - 📄 [openhat.wav](JAVASCRIPT/learning/JavaScript30-master/01 - JavaScript Drum Kit/sounds/openhat.wav)
+             - 📄 [ride.wav](JAVASCRIPT/learning/JavaScript30-master/01 - JavaScript Drum Kit/sounds/ride.wav)
+             - 📄 [snare.wav](JAVASCRIPT/learning/JavaScript30-master/01 - JavaScript Drum Kit/sounds/snare.wav)
+             - 📄 [tink.wav](JAVASCRIPT/learning/JavaScript30-master/01 - JavaScript Drum Kit/sounds/tink.wav)
+             - 📄 [tom.wav](JAVASCRIPT/learning/JavaScript30-master/01 - JavaScript Drum Kit/sounds/tom.wav)
+           - 📄 [style.css](JAVASCRIPT/learning/JavaScript30-master/01 - JavaScript Drum Kit/style.css)
+         - 📂 __02 \- JS and CSS Clock__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/02 - JS and CSS Clock/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/02 - JS and CSS Clock/index-START.html)
+         - 📂 __03 \- CSS Variables__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/03 - CSS Variables/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/03 - CSS Variables/index-START.html)
+         - 📂 __04 \- Array Cardio Day 1__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/04 - Array Cardio Day 1/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/04 - Array Cardio Day 1/index-START.html)
+         - 📂 __05 \- Flex Panel Gallery__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/05 - Flex Panel Gallery/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/05 - Flex Panel Gallery/index-START.html)
+         - 📂 __06 \- Type Ahead__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/06 - Type Ahead/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/06 - Type Ahead/index-START.html)
+           - 📄 [style.css](JAVASCRIPT/learning/JavaScript30-master/06 - Type Ahead/style.css)
+         - 📂 __07 \- Array Cardio Day 2__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/07 - Array Cardio Day 2/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/07 - Array Cardio Day 2/index-START.html)
+         - 📂 __08 \- Fun with HTML5 Canvas__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/08 - Fun with HTML5 Canvas/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/08 - Fun with HTML5 Canvas/index-START.html)
+         - 📂 __09 \- Dev Tools Domination__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/09 - Dev Tools Domination/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/09 - Dev Tools Domination/index-START.html)
+         - 📂 __10 \- Hold Shift and Check Checkboxes__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/10 - Hold Shift and Check Checkboxes/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/10 - Hold Shift and Check Checkboxes/index-START.html)
+         - 📂 __11 \- Custom Video Player__
+           - 📄 [index.html](JAVASCRIPT/learning/JavaScript30-master/11 - Custom Video Player/index.html)
+           - 📄 [scripts\-FINISHED.js](JAVASCRIPT/learning/JavaScript30-master/11 - Custom Video Player/scripts-FINISHED.js)
+           - 📄 [scripts.js](JAVASCRIPT/learning/JavaScript30-master/11 - Custom Video Player/scripts.js)
+           - 📄 [style.css](JAVASCRIPT/learning/JavaScript30-master/11 - Custom Video Player/style.css)
+         - 📂 __12 \- Key Sequence Detection__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/12 - Key Sequence Detection/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/12 - Key Sequence Detection/index-START.html)
+         - 📂 __13 \- Slide in on Scroll__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/13 - Slide in on Scroll/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/13 - Slide in on Scroll/index-START.html)
+         - 📂 __14 \- JavaScript References VS Copying__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/14 - JavaScript References VS Copying/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/14 - JavaScript References VS Copying/index-START.html)
+         - 📂 __15 \- LocalStorage__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/15 - LocalStorage/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/15 - LocalStorage/index-START.html)
+           - 📄 [style.css](JAVASCRIPT/learning/JavaScript30-master/15 - LocalStorage/style.css)
+         - 📂 __16 \- Mouse Move Shadow__
+           - 📄 [index\-finished.html](JAVASCRIPT/learning/JavaScript30-master/16 - Mouse Move Shadow/index-finished.html)
+           - 📄 [index\-start.html](JAVASCRIPT/learning/JavaScript30-master/16 - Mouse Move Shadow/index-start.html)
+         - 📂 __17 \- Sort Without Articles__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/17 - Sort Without Articles/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/17 - Sort Without Articles/index-START.html)
+         - 📂 __18 \- Adding Up Times with Reduce__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/18 - Adding Up Times with Reduce/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/18 - Adding Up Times with Reduce/index-START.html)
+         - 📂 __19 \- Webcam Fun__
+           - 📄 [index.html](JAVASCRIPT/learning/JavaScript30-master/19 - Webcam Fun/index.html)
+           - 📄 [package.json](JAVASCRIPT/learning/JavaScript30-master/19 - Webcam Fun/package.json)
+           - 📄 [scripts\-FINISHED.js](JAVASCRIPT/learning/JavaScript30-master/19 - Webcam Fun/scripts-FINISHED.js)
+           - 📄 [scripts.js](JAVASCRIPT/learning/JavaScript30-master/19 - Webcam Fun/scripts.js)
+           - 📄 [style.css](JAVASCRIPT/learning/JavaScript30-master/19 - Webcam Fun/style.css)
+         - 📂 __20 \- Speech Detection__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/20 - Speech Detection/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/20 - Speech Detection/index-START.html)
+           - 📄 [package.json](JAVASCRIPT/learning/JavaScript30-master/20 - Speech Detection/package.json)
+         - 📂 __21 \- Geolocation__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/21 - Geolocation/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/21 - Geolocation/index-START.html)
+           - 📄 [package.json](JAVASCRIPT/learning/JavaScript30-master/21 - Geolocation/package.json)
+         - 📂 __22 \- Follow Along Link Highlighter__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/22 - Follow Along Link Highlighter/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/22 - Follow Along Link Highlighter/index-START.html)
+           - 📄 [style.css](JAVASCRIPT/learning/JavaScript30-master/22 - Follow Along Link Highlighter/style.css)
+         - 📂 __23 \- Speech Synthesis__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/23 - Speech Synthesis/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/23 - Speech Synthesis/index-START.html)
+           - 📄 [style.css](JAVASCRIPT/learning/JavaScript30-master/23 - Speech Synthesis/style.css)
+         - 📂 __24 \- Sticky Nav__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/24 - Sticky Nav/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/24 - Sticky Nav/index-START.html)
+           - 📄 [style\-FINISHED.css](JAVASCRIPT/learning/JavaScript30-master/24 - Sticky Nav/style-FINISHED.css)
+           - 📄 [style\-START.css](JAVASCRIPT/learning/JavaScript30-master/24 - Sticky Nav/style-START.css)
+         - 📂 __25 \- Event Capture Propagation Bubbling and Once__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/25 - Event Capture Propagation Bubbling and Once/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/25 - Event Capture Propagation Bubbling and Once/index-START.html)
+         - 📂 __26 \- Stripe Follow Along Nav__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/26 - Stripe Follow Along Nav/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/26 - Stripe Follow Along Nav/index-START.html)
+         - 📂 __27 \- Click and Drag__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/27 - Click and Drag/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/27 - Click and Drag/index-START.html)
+           - 📄 [style.css](JAVASCRIPT/learning/JavaScript30-master/27 - Click and Drag/style.css)
+         - 📂 __28 \- Video Speed Controller__
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/28 - Video Speed Controller/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/28 - Video Speed Controller/index-START.html)
+           - 📄 [style.css](JAVASCRIPT/learning/JavaScript30-master/28 - Video Speed Controller/style.css)
+         - 📂 __29 \- Countdown Timer__
+           - 📄 [index.html](JAVASCRIPT/learning/JavaScript30-master/29 - Countdown Timer/index.html)
+           - 📄 [scripts\-FINISHED.js](JAVASCRIPT/learning/JavaScript30-master/29 - Countdown Timer/scripts-FINISHED.js)
+           - 📄 [scripts\-START.js](JAVASCRIPT/learning/JavaScript30-master/29 - Countdown Timer/scripts-START.js)
+           - 📄 [style.css](JAVASCRIPT/learning/JavaScript30-master/29 - Countdown Timer/style.css)
+         - 📂 __30 \- Whack A Mole__
+           - 📄 [dirt.svg](JAVASCRIPT/learning/JavaScript30-master/30 - Whack A Mole/dirt.svg)
+           - 📄 [index\-FINISHED.html](JAVASCRIPT/learning/JavaScript30-master/30 - Whack A Mole/index-FINISHED.html)
+           - 📄 [index\-START.html](JAVASCRIPT/learning/JavaScript30-master/30 - Whack A Mole/index-START.html)
+           - 📄 [mole.svg](JAVASCRIPT/learning/JavaScript30-master/30 - Whack A Mole/mole.svg)
+           - 📄 [style.css](JAVASCRIPT/learning/JavaScript30-master/30 - Whack A Mole/style.css)
+         - 📄 [PULL\_REQUEST\_TEMPLATE.md](JAVASCRIPT/learning/JavaScript30-master/PULL_REQUEST_TEMPLATE.md)
+         - 📄 [readme.md](JAVASCRIPT/learning/JavaScript30-master/readme.md)
+       - 📄 [You\-Dont\-Know\-JS\-master.zip](JAVASCRIPT/learning/You-Dont-Know-JS-master.zip)
+       - 📂 __ajaxcrash__
+         - 📄 [ajax1.html](JAVASCRIPT/learning/ajaxcrash/ajax1.html)
+         - 📄 [ajax2.html](JAVASCRIPT/learning/ajaxcrash/ajax2.html)
+         - 📄 [ajax3.html](JAVASCRIPT/learning/ajaxcrash/ajax3.html)
+         - 📄 [ajax4.html](JAVASCRIPT/learning/ajaxcrash/ajax4.html)
+         - 📄 [ajax5.html](JAVASCRIPT/learning/ajaxcrash/ajax5.html)
+         - 📄 [processphp.php](JAVASCRIPT/learning/ajaxcrash/processphp.php)
+         - 📄 [sample.txt](JAVASCRIPT/learning/ajaxcrash/sample.txt)
+         - 📄 [user.json](JAVASCRIPT/learning/ajaxcrash/user.json)
+         - 📄 [users.json](JAVASCRIPT/learning/ajaxcrash/users.json)
+         - 📄 [usersphp.php](JAVASCRIPT/learning/ajaxcrash/usersphp.php)
+       - 📄 [es6\-articles\-master.zip](JAVASCRIPT/learning/es6-articles-master.zip)
+       - 📂 __es6.io\-master__
+         - 📂 __es6.io\-master__
+           - 📂 __01 \- New Variables__
+             - 📄 [let\-const\-real\-life.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/01 - New Variables/let-const-real-life.html)
+             - 📄 [let\-const.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/01 - New Variables/let-const.html)
+             - 📄 [temporal\-dead\-zone.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/01 - New Variables/temporal-dead-zone.html)
+             - 📄 [var\-let\-const.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/01 - New Variables/var-let-const.html)
+           - 📂 __02 \- Arrow functions__
+             - 📄 [arrow\-functions\-examples.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/02 - Arrow functions/arrow-functions-examples.html)
+             - 📄 [arrow\-functions\-this\-ANSWER.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/02 - Arrow functions/arrow-functions-this-ANSWER.html)
+             - 📄 [arrow\-functions\-this.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/02 - Arrow functions/arrow-functions-this.html)
+             - 📄 [arrow\-functions.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/02 - Arrow functions/arrow-functions.html)
+             - 📄 [default\-arguments.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/02 - Arrow functions/default-arguments.html)
+             - 📂 __exercises__
+               - 📄 [Exercise 1 \- ANSWER.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/02 - Arrow functions/exercises/Exercise%201%20-%20ANSWER.html)
+               - 📄 [Exercise 1\-WES.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/02 - Arrow functions/exercises/Exercise%201-WES.html)
+               - 📄 [Exercise 1.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/02 - Arrow functions/exercises/Exercise%201.html)
+               - 📄 [Exercise 2  \- ANSWER.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/02 - Arrow functions/exercises/Exercise%202%20%20-%20ANSWER.html)
+               - 📄 [Exercise 2\-WES.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/02 - Arrow functions/exercises/Exercise%202-WES.html)
+               - 📄 [Exercise 2.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/02 - Arrow functions/exercises/Exercise%202.html)
+             - 📄 [when\-not\-to\-use\-arrows.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/02 - Arrow functions/when-not-to-use-arrows.html)
+           - 📂 __03 \- Template Strings__
+             - 📄 [tagged\-templates\-dictionary\-ANSWER.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/03 - Template Strings/tagged-templates-dictionary-ANSWER.html)
+             - 📄 [tagged\-templates\-dictionary\-WES.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/03 - Template Strings/tagged-templates-dictionary-WES.html)
+             - 📄 [tagged\-templates\-dictionary.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/03 - Template Strings/tagged-templates-dictionary.html)
+             - 📄 [tagged\-templates\-santize.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/03 - Template Strings/tagged-templates-santize.html)
+             - 📄 [tagged\-templates.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/03 - Template Strings/tagged-templates.html)
+             - 📄 [template\-strings\-html.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/03 - Template Strings/template-strings-html.html)
+             - 📄 [template\-strings\-if.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/03 - Template Strings/template-strings-if.html)
+             - 📄 [template\-strings\-looping.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/03 - Template Strings/template-strings-looping.html)
+             - 📄 [template\-strings\-render\-functions.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/03 - Template Strings/template-strings-render-functions.html)
+             - 📄 [template\-strings.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/03 - Template Strings/template-strings.html)
+           - 📂 __04 \- Additional String Improvements__
+             - 📄 [string\-methods.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/04 - Additional String Improvements/string-methods.html)
+           - 📂 __05 \- Destructuring__
+             - 📄 [destructuring\-WTF.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/05 - Destructuring/destructuring-WTF.html)
+             - 📄 [destructuring\-and\-functions.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/05 - Destructuring/destructuring-and-functions.html)
+             - 📄 [destructuring\-arrays.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/05 - Destructuring/destructuring-arrays.html)
+             - 📄 [destructuring\-in\-action.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/05 - Destructuring/destructuring-in-action.html)
+             - 📄 [destructuring\-intro.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/05 - Destructuring/destructuring-intro.html)
+           - 📂 __06 \- Iterables & Looping__
+             - 📄 [for\-of\-examples.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/06 - Iterables & Looping/for-of-examples.html)
+             - 📄 [for\-of\-object.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/06 - Iterables & Looping/for-of-object.html)
+             - 📄 [intro.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/06 - Iterables & Looping/intro.html)
+           - 📂 __07 \- An Array of Improvements__
+             - 📄 [Array\-from\-and\-of.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/07 - An Array of Improvements/Array-from-and-of.html)
+             - 📄 [array\-finding.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/07 - An Array of Improvements/array-finding.html)
+             - 📄 [array\-some\-and\-every.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/07 - An Array of Improvements/array-some-and-every.html)
+           - 📂 __08 \- Say Hello to Spread and Rest__
+             - 📄 [jumping\-letters\-ANSWER.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/08 - Say Hello to Spread and Rest/jumping-letters-ANSWER.html)
+             - 📄 [jumping\-letters.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/08 - Say Hello to Spread and Rest/jumping-letters.html)
+             - 📄 [more\-spread\-examples.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/08 - Say Hello to Spread and Rest/more-spread-examples.html)
+             - 📄 [rest\-params.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/08 - Say Hello to Spread and Rest/rest-params.html)
+             - 📄 [spread\-introduction.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/08 - Say Hello to Spread and Rest/spread-introduction.html)
+             - 📄 [spreading\-into\-a\-function.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/08 - Say Hello to Spread and Rest/spreading-into-a-function.html)
+           - 📂 __09 \- Object Literal Upgrades__
+             - 📄 [object\-literal\-upgrades.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/09 - Object Literal Upgrades/object-literal-upgrades.html)
+           - 📂 __10 \- Promises__
+             - 📄 [chaining\-promises\-ANSWER.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/10 - Promises/chaining-promises-ANSWER.html)
+             - 📄 [chaining\-promises.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/10 - Promises/chaining-promises.html)
+             - 📄 [creating\-promises.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/10 - Promises/creating-promises.html)
+             - 📄 [multiple\-promises.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/10 - Promises/multiple-promises.html)
+             - 📄 [promises\-introduction.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/10 - Promises/promises-introduction.html)
+           - 📂 __11 \- Symbols__
+             - 📄 [symbols.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/11 - Symbols/symbols.html)
+           - 📂 __12 \- Code Quality with ESLint__
+             - 📄 [2bad\-code.js](JAVASCRIPT/learning/es6.io-master/es6.io-master/12 - Code Quality with ESLint/2bad-code.js)
+             - 📄 [bad\-code\-FINSHED.js](JAVASCRIPT/learning/es6.io-master/es6.io-master/12 - Code Quality with ESLint/bad-code-FINSHED.js)
+             - 📄 [bad\-code.js](JAVASCRIPT/learning/es6.io-master/es6.io-master/12 - Code Quality with ESLint/bad-code.js)
+             - 📄 [code\-in\-html.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/12 - Code Quality with ESLint/code-in-html.html)
+             - 📄 [commit\-msg.txt](JAVASCRIPT/learning/es6.io-master/es6.io-master/12 - Code Quality with ESLint/commit-msg.txt)
+             - 📄 [docs.md](JAVASCRIPT/learning/es6.io-master/es6.io-master/12 - Code Quality with ESLint/docs.md)
+             - 📄 [npmCheatsheet.md](JAVASCRIPT/learning/es6.io-master/es6.io-master/12 - Code Quality with ESLint/npmCheatsheet.md)
+           - 📂 __13 \- JavaScript Modules and Using npm__
+             - 📄 [es6\-module\-instructions.md](JAVASCRIPT/learning/es6.io-master/es6.io-master/13 - JavaScript Modules and Using npm/es6-module-instructions.md)
+             - 📂 __es6modules\-FINISHED__
+               - 📂 __\_build__
+                 - 📄 [bundle.js](JAVASCRIPT/learning/es6.io-master/es6.io-master/13 - JavaScript Modules and Using npm/es6modules-FINISHED/_build/bundle.js)
+                 - 📄 [bundle.js.map](JAVASCRIPT/learning/es6.io-master/es6.io-master/13 - JavaScript Modules and Using npm/es6modules-FINISHED/_build/bundle.js.map)
+               - 📄 [app.js](JAVASCRIPT/learning/es6.io-master/es6.io-master/13 - JavaScript Modules and Using npm/es6modules-FINISHED/app.js)
+               - 📄 [index.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/13 - JavaScript Modules and Using npm/es6modules-FINISHED/index.html)
+               - 📄 [package.json](JAVASCRIPT/learning/es6.io-master/es6.io-master/13 - JavaScript Modules and Using npm/es6modules-FINISHED/package.json)
+               - 📂 __src__
+                 - 📄 [config.js](JAVASCRIPT/learning/es6.io-master/es6.io-master/13 - JavaScript Modules and Using npm/es6modules-FINISHED/src/config.js)
+                 - 📄 [user.js](JAVASCRIPT/learning/es6.io-master/es6.io-master/13 - JavaScript Modules and Using npm/es6modules-FINISHED/src/user.js)
+               - 📄 [vendor.bundle.js](JAVASCRIPT/learning/es6.io-master/es6.io-master/13 - JavaScript Modules and Using npm/es6modules-FINISHED/vendor.bundle.js)
+               - 📄 [webpack.config.js](JAVASCRIPT/learning/es6.io-master/es6.io-master/13 - JavaScript Modules and Using npm/es6modules-FINISHED/webpack.config.js)
+           - 📂 __14 \- ES6 Tooling__
+             - 📂 __babel__
+               - 📄 [app.js](JAVASCRIPT/learning/es6.io-master/es6.io-master/14 - ES6 Tooling/babel/app.js)
+             - 📂 __babel\-FINISHED__
+               - 📄 [app\-compiled.js](JAVASCRIPT/learning/es6.io-master/es6.io-master/14 - ES6 Tooling/babel-FINISHED/app-compiled.js)
+               - 📄 [app.js](JAVASCRIPT/learning/es6.io-master/es6.io-master/14 - ES6 Tooling/babel-FINISHED/app.js)
+               - 📄 [package\-lock.json](JAVASCRIPT/learning/es6.io-master/es6.io-master/14 - ES6 Tooling/babel-FINISHED/package-lock.json)
+               - 📄 [package.json](JAVASCRIPT/learning/es6.io-master/es6.io-master/14 - ES6 Tooling/babel-FINISHED/package.json)
+             - 📂 __systemjs__
+               - 📄 [index.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/14 - ES6 Tooling/systemjs/index.html)
+             - 📂 __systemjs\-FINISHED__
+               - 📄 [checkout.js](JAVASCRIPT/learning/es6.io-master/es6.io-master/14 - ES6 Tooling/systemjs-FINISHED/checkout.js)
+               - 📄 [index.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/14 - ES6 Tooling/systemjs-FINISHED/index.html)
+               - 📄 [main.js](JAVASCRIPT/learning/es6.io-master/es6.io-master/14 - ES6 Tooling/systemjs-FINISHED/main.js)
+               - 📄 [package.json](JAVASCRIPT/learning/es6.io-master/es6.io-master/14 - ES6 Tooling/systemjs-FINISHED/package.json)
+           - 📂 __15 \- Classes__
+             - 📄 [classes\-FINISHED.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/15 - Classes/classes-FINISHED.html)
+             - 📄 [classes.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/15 - Classes/classes.html)
+             - 📄 [extending\-arrays\-ANSWER.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/15 - Classes/extending-arrays-ANSWER.html)
+             - 📄 [extending\-arrays.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/15 - Classes/extending-arrays.html)
+             - 📄 [extending\-classes\-ANSWER.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/15 - Classes/extending-classes-ANSWER.html)
+             - 📄 [extending\-classes.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/15 - Classes/extending-classes.html)
+             - 📄 [inheritance\-review.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/15 - Classes/inheritance-review.html)
+           - 📂 __16 \- Generators__
+             - 📄 [generators\-syncish\-ajax.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/16 - Generators/generators-syncish-ajax.html)
+             - 📄 [generators.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/16 - Generators/generators.html)
+             - 📄 [looping\-generators.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/16 - Generators/looping-generators.html)
+           - 📂 __17 \- Proxies__
+             - 📄 [proxies\-case\-safety.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/17 - Proxies/proxies-case-safety.html)
+             - 📄 [proxies\-intro.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/17 - Proxies/proxies-intro.html)
+             - 📄 [proxies\-phone\-numbers.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/17 - Proxies/proxies-phone-numbers.html)
+           - 📂 __18 \- Sets and WeakSets__
+             - 📄 [sets\-brunch.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/18 - Sets and WeakSets/sets-brunch.html)
+             - 📄 [sets.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/18 - Sets and WeakSets/sets.html)
+             - 📄 [weak\-set.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/18 - Sets and WeakSets/weak-set.html)
+           - 📂 __19 \- Maps and WeakMaps__
+             - 📄 [maps\-metadata.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/19 - Maps and WeakMaps/maps-metadata.html)
+             - 📄 [maps.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/19 - Maps and WeakMaps/maps.html)
+             - 📄 [weak\-maps.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/19 - Maps and WeakMaps/weak-maps.html)
+           - 📂 __20 \- Async + Await__
+             - 📄 [Async Await \- START.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/20 - Async + Await/Async%20Await%20-%20START.html)
+             - 📄 [Async Await.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/20 - Async + Await/Async%20Await.html)
+             - 📄 [Custom Promise Review\-START.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/20 - Async + Await/Custom%20Promise%20Review-START.html)
+             - 📄 [Custom Promise Review.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/20 - Async + Await/Custom%20Promise%20Review.html)
+             - 📄 [Multiple Promises \- START.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/20 - Async + Await/Multiple%20Promises%20-%20START.html)
+             - 📄 [Multiple Promises.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/20 - Async + Await/Multiple%20Promises.html)
+             - 📄 [Native Promises Review\-START.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/20 - Async + Await/Native%20Promises%20Review-START.html)
+             - 📄 [Native Promises Review.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/20 - Async + Await/Native%20Promises%20Review.html)
+             - 📄 [Promisifying Functions \- START .html](JAVASCRIPT/learning/es6.io-master/es6.io-master/20 - Async + Await/Promisifying%20Functions%20-%20START%20.html)
+             - 📄 [Promisifying Functions.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/20 - Async + Await/Promisifying%20Functions.html)
+           - 📂 __21 \- Future and Experimental Language Additions__
+             - 📄 [Object .entries() and .values() \- START.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/21 - Future and Experimental Language Additions/Object%20.entries()%20and%20.values()%20-%20START.html)
+             - 📄 [Object .entries() and .values().html](JAVASCRIPT/learning/es6.io-master/es6.io-master/21 - Future and Experimental Language Additions/Object%20.entries()%20and%20.values().html)
+             - 📄 [Trailing Comma.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/21 - Future and Experimental Language Additions/Trailing%20Comma.html)
+             - 📂 __class properties__
+               - 📄 [index.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/21 - Future and Experimental Language Additions/class properties/index.html)
+             - 📄 [padstart\-and\-padend.html](JAVASCRIPT/learning/es6.io-master/es6.io-master/21 - Future and Experimental Language Additions/padstart-and-padend.html)
+           - 📄 [data.js](JAVASCRIPT/learning/es6.io-master/es6.io-master/data.js)
+           - 📄 [readme.md](JAVASCRIPT/learning/es6.io-master/es6.io-master/readme.md)
+       - 📄 [functionalJS\-master.zip](JAVASCRIPT/learning/functionalJS-master.zip)
+       - 📂 __javascript\-algorithms\-master__
+         - 📄 [CODE\_OF\_CONDUCT.md](JAVASCRIPT/learning/javascript-algorithms-master/CODE_OF_CONDUCT.md)
+         - 📄 [CONTRIBUTING.md](JAVASCRIPT/learning/javascript-algorithms-master/CONTRIBUTING.md)
+         - 📄 [LICENSE](JAVASCRIPT/learning/javascript-algorithms-master/LICENSE)
+         - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/README.md)
+         - 📄 [README.zh\-CN.md](JAVASCRIPT/learning/javascript-algorithms-master/README.zh-CN.md)
+         - 📄 [README.zh\-TW.md](JAVASCRIPT/learning/javascript-algorithms-master/README.zh-TW.md)
+         - 📂 __assets__
+           - 📄 [big\-o\-graph.png](JAVASCRIPT/learning/javascript-algorithms-master/assets/big-o-graph.png)
+         - 📄 [jest.config.js](JAVASCRIPT/learning/javascript-algorithms-master/jest.config.js)
+         - 📄 [package\-lock.json](JAVASCRIPT/learning/javascript-algorithms-master/package-lock.json)
+         - 📄 [package.json](JAVASCRIPT/learning/javascript-algorithms-master/package.json)
+         - 📂 __src__
+           - 📂 __algorithms__
+             - 📂 __graph__
+               - 📂 __articulation\-points__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/articulation-points/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [articulationPoints.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/articulation-points/__test__/articulationPoints.test.js)
+                 - 📄 [articulationPoints.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/articulation-points/articulationPoints.js)
+               - 📂 __bellman\-ford__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/bellman-ford/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [bellmanFord.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/bellman-ford/__test__/bellmanFord.test.js)
+                 - 📄 [bellmanFord.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/bellman-ford/bellmanFord.js)
+               - 📂 __breadth\-first\-search__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/breadth-first-search/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [breadthFirstSearch.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/breadth-first-search/__test__/breadthFirstSearch.test.js)
+                 - 📄 [breadthFirstSearch.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/breadth-first-search/breadthFirstSearch.js)
+               - 📂 __bridges__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/bridges/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [graphBridges.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/bridges/__test__/graphBridges.test.js)
+                 - 📄 [graphBridges.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/bridges/graphBridges.js)
+               - 📂 __depth\-first\-search__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/depth-first-search/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [depthFirstSearch.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/depth-first-search/__test__/depthFirstSearch.test.js)
+                 - 📄 [depthFirstSearch.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/depth-first-search/depthFirstSearch.js)
+               - 📂 __detect\-cycle__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/detect-cycle/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [detectDirectedCycle.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/detect-cycle/__test__/detectDirectedCycle.test.js)
+                   - 📄 [detectUndirectedCycle.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/detect-cycle/__test__/detectUndirectedCycle.test.js)
+                   - 📄 [detectUndirectedCycleUsingDisjointSet.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/detect-cycle/__test__/detectUndirectedCycleUsingDisjointSet.test.js)
+                 - 📄 [detectDirectedCycle.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/detect-cycle/detectDirectedCycle.js)
+                 - 📄 [detectUndirectedCycle.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/detect-cycle/detectUndirectedCycle.js)
+                 - 📄 [detectUndirectedCycleUsingDisjointSet.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/detect-cycle/detectUndirectedCycleUsingDisjointSet.js)
+               - 📂 __dijkstra__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/dijkstra/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [dijkstra.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/dijkstra/__test__/dijkstra.test.js)
+                 - 📄 [dijkstra.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/dijkstra/dijkstra.js)
+               - 📂 __eulerian\-path__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/eulerian-path/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [eulerianPath.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/eulerian-path/__test__/eulerianPath.test.js)
+                 - 📄 [eulerianPath.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/eulerian-path/eulerianPath.js)
+               - 📂 __hamiltonian\-cycle__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/hamiltonian-cycle/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [hamiltonianCycle.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/hamiltonian-cycle/__test__/hamiltonianCycle.test.js)
+                 - 📄 [hamiltonianCycle.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/hamiltonian-cycle/hamiltonianCycle.js)
+               - 📂 __kruskal__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/kruskal/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [kruskal.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/kruskal/__test__/kruskal.test.js)
+                 - 📄 [kruskal.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/kruskal/kruskal.js)
+               - 📂 __prim__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/prim/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [prim.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/prim/__test__/prim.test.js)
+                 - 📄 [prim.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/prim/prim.js)
+               - 📂 __strongly\-connected\-components__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/strongly-connected-components/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [stronglyConnectedComponents.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/strongly-connected-components/__test__/stronglyConnectedComponents.test.js)
+                 - 📄 [stronglyConnectedComponents.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/strongly-connected-components/stronglyConnectedComponents.js)
+               - 📂 __topological\-sorting__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/topological-sorting/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [topologicalSort.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/topological-sorting/__test__/topologicalSort.test.js)
+                 - 📄 [topologicalSort.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/topological-sorting/topologicalSort.js)
+               - 📂 __travelling\-salesman__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/travelling-salesman/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [bfTravellingSalesman.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/travelling-salesman/__test__/bfTravellingSalesman.test.js)
+                 - 📄 [bfTravellingSalesman.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/graph/travelling-salesman/bfTravellingSalesman.js)
+             - 📂 __math__
+               - 📂 __euclidean\-algorithm__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/euclidean-algorithm/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [euclieanAlgorithm.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/euclidean-algorithm/__test__/euclieanAlgorithm.test.js)
+                 - 📄 [euclideanAlgorithm.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/euclidean-algorithm/euclideanAlgorithm.js)
+               - 📂 __factorial__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/factorial/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [factorial.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/factorial/__test__/factorial.test.js)
+                 - 📄 [factorial.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/factorial/factorial.js)
+               - 📂 __fibonacci__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/fibonacci/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [fibonacci.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/fibonacci/__test__/fibonacci.test.js)
+                 - 📄 [fibonacci.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/fibonacci/fibonacci.js)
+               - 📂 __integer\-partition__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/integer-partition/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [integerPartition.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/integer-partition/__test__/integerPartition.test.js)
+                 - 📄 [integerPartition.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/integer-partition/integerPartition.js)
+               - 📂 __least\-common\-multiple__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/least-common-multiple/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [leastCommonMultiple.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/least-common-multiple/__test__/leastCommonMultiple.test.js)
+                 - 📄 [leastCommonMultiple.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/least-common-multiple/leastCommonMultiple.js)
+               - 📂 __primality\-test__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/primality-test/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [trialDivision.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/primality-test/__test__/trialDivision.test.js)
+                 - 📄 [trialDivision.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/math/primality-test/trialDivision.js)
+             - 📂 __search__
+               - 📂 __binary\-search__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/search/binary-search/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [binarySearch.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/search/binary-search/__test__/binarySearch.test.js)
+                 - 📄 [binarySearch.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/search/binary-search/binarySearch.js)
+               - 📂 __linear\-search__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/search/linear-search/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [linearSearch.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/search/linear-search/__test__/linearSearch.test.js)
+                 - 📄 [linearSearch.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/search/linear-search/linearSearch.js)
+             - 📂 __sets__
+               - 📂 __cartesian\-product__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/cartesian-product/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [cartesianProduct.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/cartesian-product/__test__/cartesianProduct.test.js)
+                 - 📄 [cartesianProduct.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/cartesian-product/cartesianProduct.js)
+               - 📂 __combinations__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/combinations/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [combineWithRepetitions.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/combinations/__test__/combineWithRepetitions.test.js)
+                   - 📄 [combineWithoutRepetitions.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/combinations/__test__/combineWithoutRepetitions.test.js)
+                 - 📄 [combineWithRepetitions.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/combinations/combineWithRepetitions.js)
+                 - 📄 [combineWithoutRepetitions.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/combinations/combineWithoutRepetitions.js)
+               - 📂 __fisher\-yates__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/fisher-yates/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [fisherYates.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/fisher-yates/__test__/fisherYates.test.js)
+                 - 📄 [fisherYates.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/fisher-yates/fisherYates.js)
+               - 📂 __knapsack\-problem__
+                 - 📄 [Knapsack.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/knapsack-problem/Knapsack.js)
+                 - 📄 [KnapsackItem.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/knapsack-problem/KnapsackItem.js)
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/knapsack-problem/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [Knapsack.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/knapsack-problem/__test__/Knapsack.test.js)
+                   - 📄 [KnapsackItem.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/knapsack-problem/__test__/KnapsackItem.test.js)
+               - 📂 __longest\-common\-subsequnce__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/longest-common-subsequnce/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [longestCommonSubsequnce.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/longest-common-subsequnce/__test__/longestCommonSubsequnce.test.js)
+                 - 📄 [longestCommonSubsequnce.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/longest-common-subsequnce/longestCommonSubsequnce.js)
+               - 📂 __longest\-increasing\-subsequence__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/longest-increasing-subsequence/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [dpLongestIncreasingSubsequence.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/longest-increasing-subsequence/__test__/dpLongestIncreasingSubsequence.test.js)
+                 - 📄 [dpLongestIncreasingSubsequence.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/longest-increasing-subsequence/dpLongestIncreasingSubsequence.js)
+               - 📂 __maximum\-subarray__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/maximum-subarray/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [bfMaximumSubarray.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/maximum-subarray/__test__/bfMaximumSubarray.test.js)
+                   - 📄 [dpMaximumSubarray.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/maximum-subarray/__test__/dpMaximumSubarray.test.js)
+                 - 📄 [bfMaximumSubarray.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/maximum-subarray/bfMaximumSubarray.js)
+                 - 📄 [dpMaximumSubarray.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/maximum-subarray/dpMaximumSubarray.js)
+               - 📂 __permutations__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/permutations/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [permutateWithRepetitions.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/permutations/__test__/permutateWithRepetitions.test.js)
+                   - 📄 [permutateWithoutRepetitions.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/permutations/__test__/permutateWithoutRepetitions.test.js)
+                 - 📄 [permutateWithRepetitions.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/permutations/permutateWithRepetitions.js)
+                 - 📄 [permutateWithoutRepetitions.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/permutations/permutateWithoutRepetitions.js)
+               - 📂 __power\-set__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/power-set/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [powerSet.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/power-set/__test__/powerSet.test.js)
+                 - 📄 [powerSet.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/power-set/powerSet.js)
+               - 📂 __shortest\-common\-supersequence__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/shortest-common-supersequence/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [shortestCommonSupersequence.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/shortest-common-supersequence/__test__/shortestCommonSupersequence.test.js)
+                 - 📄 [shortestCommonSupersequence.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sets/shortest-common-supersequence/shortestCommonSupersequence.js)
+             - 📂 __sorting__
+               - 📄 [Sort.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/Sort.js)
+               - 📄 [SortTester.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/SortTester.js)
+               - 📂 __\_\_test\_\___
+                 - 📄 [Sort.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/__test__/Sort.test.js)
+               - 📂 __bubble\-sort__
+                 - 📄 [BubbleSort.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/bubble-sort/BubbleSort.js)
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/bubble-sort/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [BubbleSort.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/bubble-sort/__test__/BubbleSort.test.js)
+               - 📂 __counting\-sort__
+                 - 📄 [CountingSort.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/counting-sort/CountingSort.js)
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/counting-sort/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [CountingSort.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/counting-sort/__test__/CountingSort.test.js)
+               - 📂 __heap\-sort__
+                 - 📄 [HeapSort.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/heap-sort/HeapSort.js)
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/heap-sort/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [HeapSort.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/heap-sort/__test__/HeapSort.test.js)
+               - 📂 __insertion\-sort__
+                 - 📄 [InsertionSort.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/insertion-sort/InsertionSort.js)
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/insertion-sort/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [InsertionSort.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/insertion-sort/__test__/InsertionSort.test.js)
+               - 📂 __merge\-sort__
+                 - 📄 [MergeSort.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/merge-sort/MergeSort.js)
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/merge-sort/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [MergeSort.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/merge-sort/__test__/MergeSort.test.js)
+               - 📂 __quick\-sort__
+                 - 📄 [QuickSort.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/quick-sort/QuickSort.js)
+                 - 📄 [QuickSortInPlace.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/quick-sort/QuickSortInPlace.js)
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/quick-sort/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [QuickSort.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/quick-sort/__test__/QuickSort.test.js)
+                   - 📄 [QuickSortInPlace.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/quick-sort/__test__/QuickSortInPlace.test.js)
+               - 📂 __radix\-sort__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/radix-sort/README.md)
+                 - 📄 [RadixSort.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/radix-sort/RadixSort.js)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [RadixSort.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/radix-sort/__test__/RadixSort.test.js)
+               - 📂 __selection\-sort__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/selection-sort/README.md)
+                 - 📄 [SelectionSort.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/selection-sort/SelectionSort.js)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [SelectionSort.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/selection-sort/__test__/SelectionSort.test.js)
+               - 📂 __shell\-sort__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/shell-sort/README.md)
+                 - 📄 [ShellSort.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/shell-sort/ShellSort.js)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [ShellSort.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/sorting/shell-sort/__test__/ShellSort.test.js)
+             - 📂 __string__
+               - 📂 __hamming\-distance__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/string/hamming-distance/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [hammingDistance.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/string/hamming-distance/__test__/hammingDistance.test.js)
+                 - 📄 [hammingDistance.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/string/hamming-distance/hammingDistance.js)
+               - 📂 __knuth\-morris\-pratt__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/string/knuth-morris-pratt/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [knuthMorrisPratt.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/string/knuth-morris-pratt/__test__/knuthMorrisPratt.test.js)
+                 - 📄 [knuthMorrisPratt.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/string/knuth-morris-pratt/knuthMorrisPratt.js)
+               - 📂 __levenshtein\-distance__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/string/levenshtein-distance/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [levenshteinDistance.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/string/levenshtein-distance/__test__/levenshteinDistance.test.js)
+                 - 📄 [levenshteinDistance.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/string/levenshtein-distance/levenshteinDistance.js)
+               - 📂 __longest\-common\-substring__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/string/longest-common-substring/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [longestCommonSubstring.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/string/longest-common-substring/__test__/longestCommonSubstring.test.js)
+                 - 📄 [longestCommonSubstring.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/string/longest-common-substring/longestCommonSubstring.js)
+               - 📂 __rabin\-karp__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/string/rabin-karp/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [rabinKarp.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/string/rabin-karp/__test__/rabinKarp.test.js)
+                 - 📄 [rabinKarp.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/string/rabin-karp/rabinKarp.js)
+             - 📂 __tree__
+               - 📂 __breadth\-first\-search__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/tree/breadth-first-search/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [breadthFirstSearch.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/tree/breadth-first-search/__test__/breadthFirstSearch.test.js)
+                 - 📄 [breadthFirstSearch.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/tree/breadth-first-search/breadthFirstSearch.js)
+               - 📂 __depth\-first\-search__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/tree/depth-first-search/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [depthFirstSearch.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/tree/depth-first-search/__test__/depthFirstSearch.test.js)
+                 - 📄 [depthFirstSearch.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/tree/depth-first-search/depthFirstSearch.js)
+             - 📂 __uncategorized__
+               - 📂 __hanoi\-tower__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/uncategorized/hanoi-tower/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [hanoiTower.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/uncategorized/hanoi-tower/__test__/hanoiTower.test.js)
+                 - 📄 [hanoiTower.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/uncategorized/hanoi-tower/hanoiTower.js)
+               - 📂 __knight\-tour__
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/uncategorized/knight-tour/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [knightTour.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/uncategorized/knight-tour/__test__/knightTour.test.js)
+                 - 📄 [knightTour.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/uncategorized/knight-tour/knightTour.js)
+               - 📂 __n\-queens__
+                 - 📄 [QueenPosition.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/uncategorized/n-queens/QueenPosition.js)
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/uncategorized/n-queens/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [QueensPosition.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/uncategorized/n-queens/__test__/QueensPosition.test.js)
+                   - 📄 [nQueens.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/uncategorized/n-queens/__test__/nQueens.test.js)
+                 - 📄 [nQueens.js](JAVASCRIPT/learning/javascript-algorithms-master/src/algorithms/uncategorized/n-queens/nQueens.js)
+           - 📂 __data\-structures__
+             - 📂 __disjoint\-set__
+               - 📄 [DisjointSet.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/disjoint-set/DisjointSet.js)
+               - 📄 [DisjointSetItem.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/disjoint-set/DisjointSetItem.js)
+               - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/disjoint-set/README.md)
+               - 📂 __\_\_test\_\___
+                 - 📄 [DisjointSet.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/disjoint-set/__test__/DisjointSet.test.js)
+                 - 📄 [DisjointSetItem.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/disjoint-set/__test__/DisjointSetItem.test.js)
+             - 📂 __graph__
+               - 📄 [Graph.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/graph/Graph.js)
+               - 📄 [GraphEdge.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/graph/GraphEdge.js)
+               - 📄 [GraphVertex.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/graph/GraphVertex.js)
+               - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/graph/README.md)
+               - 📂 __\_\_test\_\___
+                 - 📄 [Graph.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/graph/__test__/Graph.test.js)
+                 - 📄 [GraphEdge.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/graph/__test__/GraphEdge.test.js)
+                 - 📄 [GraphVertex.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/graph/__test__/GraphVertex.test.js)
+             - 📂 __hash\-table__
+               - 📄 [HashTable.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/hash-table/HashTable.js)
+               - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/hash-table/README.md)
+               - 📂 __\_\_test\_\___
+                 - 📄 [HashTable.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/hash-table/__test__/HashTable.test.js)
+             - 📂 __heap__
+               - 📄 [MinHeap.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/heap/MinHeap.js)
+               - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/heap/README.md)
+               - 📂 __\_\_test\_\___
+                 - 📄 [MinHeap.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/heap/__test__/MinHeap.test.js)
+             - 📂 __linked\-list__
+               - 📄 [LinkedList.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/linked-list/LinkedList.js)
+               - 📄 [LinkedListNode.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/linked-list/LinkedListNode.js)
+               - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/linked-list/README.md)
+               - 📂 __\_\_test\_\___
+                 - 📄 [LinkedList.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/linked-list/__test__/LinkedList.test.js)
+                 - 📄 [LinkedListNode.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/linked-list/__test__/LinkedListNode.test.js)
+             - 📂 __priority\-queue__
+               - 📄 [PriorityQueue.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/priority-queue/PriorityQueue.js)
+               - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/priority-queue/README.md)
+               - 📂 __\_\_test\_\___
+                 - 📄 [PriorityQueue.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/priority-queue/__test__/PriorityQueue.test.js)
+             - 📂 __queue__
+               - 📄 [Queue.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/queue/Queue.js)
+               - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/queue/README.md)
+               - 📂 __\_\_test\_\___
+                 - 📄 [Queue.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/queue/__test__/Queue.test.js)
+             - 📂 __stack__
+               - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/stack/README.md)
+               - 📄 [Stack.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/stack/Stack.js)
+               - 📂 __\_\_test\_\___
+                 - 📄 [Stack.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/stack/__test__/Stack.test.js)
+             - 📂 __tree__
+               - 📄 [BinaryTreeNode.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/tree/BinaryTreeNode.js)
+               - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/tree/README.md)
+               - 📂 __\_\_test\_\___
+                 - 📄 [BinaryTreeNode.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/tree/__test__/BinaryTreeNode.test.js)
+               - 📂 __avl\-tree__
+                 - 📄 [AvlTree.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/tree/avl-tree/AvlTree.js)
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/tree/avl-tree/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [AvlTRee.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/tree/avl-tree/__test__/AvlTRee.test.js)
+               - 📂 __binary\-search\-tree__
+                 - 📄 [BinarySearchTree.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/tree/binary-search-tree/BinarySearchTree.js)
+                 - 📄 [BinarySearchTreeNode.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/tree/binary-search-tree/BinarySearchTreeNode.js)
+                 - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/tree/binary-search-tree/README.md)
+                 - 📂 __\_\_test\_\___
+                   - 📄 [BinarySearchTree.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/tree/binary-search-tree/__test__/BinarySearchTree.test.js)
+                   - 📄 [BinarySearchTreeNode.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/tree/binary-search-tree/__test__/BinarySearchTreeNode.test.js)
+             - 📂 __trie__
+               - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/trie/README.md)
+               - 📄 [Trie.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/trie/Trie.js)
+               - 📄 [TrieNode.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/trie/TrieNode.js)
+               - 📂 __\_\_test\_\___
+                 - 📄 [Trie.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/trie/__test__/Trie.test.js)
+                 - 📄 [TrieNode.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/data-structures/trie/__test__/TrieNode.test.js)
+           - 📂 __playground__
+             - 📄 [README.md](JAVASCRIPT/learning/javascript-algorithms-master/src/playground/README.md)
+             - 📂 __\_\_test\_\___
+               - 📄 [playground.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/playground/__test__/playground.test.js)
+             - 📄 [playground.js](JAVASCRIPT/learning/javascript-algorithms-master/src/playground/playground.js)
+           - 📂 __utils__
+             - 📂 __comparator__
+               - 📄 [Comparator.js](JAVASCRIPT/learning/javascript-algorithms-master/src/utils/comparator/Comparator.js)
+               - 📂 __\_\_test\_\___
+                 - 📄 [Comparator.test.js](JAVASCRIPT/learning/javascript-algorithms-master/src/utils/comparator/__test__/Comparator.test.js)
+       - 📄 [javascript\-enlightenment\-master (2).zip](JAVASCRIPT/learning/javascript-enlightenment-master%20(2).zip)
+       - 📄 [javascript\-questions\-master.zip](JAVASCRIPT/learning/javascript-questions-master.zip)
+       - 📂 __javascript\-traversey__
+         - 📂 __autocomplete app__
+           - 📄 [bootstrap.min.css](JAVASCRIPT/learning/javascript-traversey/autocomplete app/bootstrap.min.css)
+           - 📄 [data.json](JAVASCRIPT/learning/javascript-traversey/autocomplete app/data.json)
+           - 📄 [index.html](JAVASCRIPT/learning/javascript-traversey/autocomplete app/index.html)
+           - 📄 [main.js](JAVASCRIPT/learning/javascript-traversey/autocomplete app/main.js)
+         - 📄 [bookmark.html](JAVASCRIPT/learning/javascript-traversey/bookmark.html)
+         - 📄 [bookmark.js](JAVASCRIPT/learning/javascript-traversey/bookmark.js)
+         - 📄 [dom\-add\-remo\-search.html](JAVASCRIPT/learning/javascript-traversey/dom-add-remo-search.html)
+         - 📄 [dom\-add\-remo\-search.js](JAVASCRIPT/learning/javascript-traversey/dom-add-remo-search.js)
+         - 📄 [dom\-crash.html](JAVASCRIPT/learning/javascript-traversey/dom-crash.html)
+         - 📄 [dom\-crash.js](JAVASCRIPT/learning/javascript-traversey/dom-crash.js)
+         - 📄 [filt\-list.html](JAVASCRIPT/learning/javascript-traversey/filt-list.html)
+         - 📄 [index.html](JAVASCRIPT/learning/javascript-traversey/index.html)
+         - 📄 [weight\-converter.html](JAVASCRIPT/learning/javascript-traversey/weight-converter.html)
+       - 📄 [js\-dev\-reads\-master.zip](JAVASCRIPT/learning/js-dev-reads-master.zip)
+       - 📄 [little\-javascript\-preview\-sept\-24.zip](JAVASCRIPT/learning/little-javascript-preview-sept-24.zip)
+       - 📄 [wtfjs\-master.zip](JAVASCRIPT/learning/wtfjs-master.zip)
+     - 📂 __projects__
+       - 📂 __scraper__
+         - 📂 __scraping__
+           - 📂 __internal external chart server__
+             - 📄 [REAMD.md](JAVASCRIPT/projects/scraper/scraping/internal external chart server/REAMD.md)
+             - 📄 [external.js](JAVASCRIPT/projects/scraper/scraping/internal external chart server/external.js)
+             - 📄 [internal.js](JAVASCRIPT/projects/scraper/scraping/internal external chart server/internal.js)
+             - 📄 [package.json](JAVASCRIPT/projects/scraper/scraping/internal external chart server/package.json)
+             - 📂 __public__
+               - 📄 [index.html](JAVASCRIPT/projects/scraper/scraping/internal external chart server/public/index.html)
+               - 📂 __scripts__
+                 - 📄 [chart.js](JAVASCRIPT/projects/scraper/scraping/internal external chart server/public/scripts/chart.js)
+               - 📂 __styles__
+                 - 📄 [app.css](JAVASCRIPT/projects/scraper/scraping/internal external chart server/public/styles/app.css)
+             - 📄 [server.js](JAVASCRIPT/projects/scraper/scraping/internal external chart server/server.js)
+           - 📄 [puppeteer\-1.8.0.zip](JAVASCRIPT/projects/scraper/scraping/puppeteer-1.8.0.zip)
+           - 📄 [robotstxt\-master.zip](JAVASCRIPT/projects/scraper/scraping/robotstxt-master.zip)
+   - 📂 __NATIVE\-FLUTTER__
+     - 📂 __expo cli react native react__
+   - 📂 __NODE__
+     - 📂 __Cheatsheet__
+       - 📄 [node\_nginx\_ssl.md](NODE/Cheatsheet/node_nginx_ssl.md)
+       - 📂 __npm__
+         - 📄 [moshkil hayati.JPG](NODE/Cheatsheet/npm/moshkil%20hayati.JPG)
+         - 📄 [npm.txt](NODE/Cheatsheet/npm/npm.txt)
+     - 📂 __books__
+       - 📂 __express books__
+         - 📄 [express\-handbook.pdf](NODE/books/express books/express-handbook.pdf)
+       - 📂 __node books__
+         - 📄 [node\-book.pdf](NODE/books/node books/node-book.pdf)
+         - 📄 [node\-handbook.pdf](NODE/books/node books/node-handbook.pdf)
+       - 📄 [node.pdf](NODE/books/node.pdf)
+     - 📂 __learning__
+       - 📄 [Learning\-Node.js\-Security\-master.zip](NODE/learning/Learning-Node.js-Security-master.zip)
+       - 📄 [nodebestpractices\-master.zip](NODE/learning/nodebestpractices-master.zip)
+       - 📂 __nodejs\-crash\-course__
+         - 📄 [README.md](NODE/learning/nodejs-crash-course/README.md)
+         - 📂 __basic__
+           - 📄 [person.js](NODE/learning/nodejs-crash-course/basic/person.js)
+         - 📂 __fsfolder__
+           - 📄 [fsfilerenamed.txt](NODE/learning/nodejs-crash-course/fsfolder/fsfilerenamed.txt)
+         - 📂 __fsfolder2__
+           - 📄 [users.json](NODE/learning/nodejs-crash-course/fsfolder2/users.json)
+         - 📄 [nodejs.js](NODE/learning/nodejs-crash-course/nodejs.js)
+         - 📄 [package\-lock.json](NODE/learning/nodejs-crash-course/package-lock.json)
+         - 📄 [package.json](NODE/learning/nodejs-crash-course/package.json)
+         - 📂 __public__
+           - 📄 [404.html](NODE/learning/nodejs-crash-course/public/404.html)
+           - 📄 [about.html](NODE/learning/nodejs-crash-course/public/about.html)
+           - 📂 __css__
+             - 📄 [style.css](NODE/learning/nodejs-crash-course/public/css/style.css)
+           - 📄 [index.html](NODE/learning/nodejs-crash-course/public/index.html)
+           - 📄 [test](NODE/learning/nodejs-crash-course/public/test)
+     - 📂 __node starter kits__
+       - 📄 [node\-api\-boilerplate\-master.zip](NODE/node starter kits/node-api-boilerplate-master.zip)
+       - 📄 [node\-express\-mongoose\-master.zip](NODE/node starter kits/node-express-mongoose-master.zip)
+       - 📄 [nodejs\-api\-starter\-master.zip](NODE/node starter kits/nodejs-api-starter-master.zip)
+       - 📄 [nodejs\-starter\-master.zip](NODE/node starter kits/nodejs-starter-master.zip)
+     - 📂 __projects__
+       - 📄 [bookstore\-master.zip](NODE/projects/bookstore-master.zip)
+       - 📄 [node\_passport\_login\-master.zip](NODE/projects/node_passport_login-master.zip)
+   - 📂 __PHP__
+     - 📂 __books__
+       - 📄 [Phpbook (2).pdf](PHP/books/Phpbook%20(2).pdf)
+     - 📂 __cheatsheet__
+       - 📄 [PHP \- Validate Name, E\-mail, and URL.php](PHP/cheatsheet/PHP%20-%20Validate%20Name%2C%20E-mail%2C%20and%20URL.php)
+       - 📄 [PHP\-Cheat\-Sheet\-with\-Examples\-Variable\-and\-Constant\-Page\-1.png](PHP/cheatsheet/PHP-Cheat-Sheet-with-Examples-Variable-and-Constant-Page-1.png)
+       - 📄 [basic\-php\-cheat\-sheet.png](PHP/cheatsheet/basic-php-cheat-sheet.png)
+       - 📄 [binaire.php](PHP/cheatsheet/binaire.php)
+       - 📄 [classes\_obj\_oop.png](PHP/cheatsheet/classes_obj_oop.png)
+       - 📄 [essentielphp7.png](PHP/cheatsheet/essentielphp7.png)
+       - 📄 [exceptions.png](PHP/cheatsheet/exceptions.png)
+       - 📄 [generator.png](PHP/cheatsheet/generator.png)
+       - 📄 [heure + visiteur.php](PHP/cheatsheet/heure%20%2B%20visiteur.php)
+       - 📄 [namespace.png](PHP/cheatsheet/namespace.png)
+       - 📄 [operators.png](PHP/cheatsheet/operators.png)
+       - 📄 [php\-work\-with\-mysql.jpg](PHP/cheatsheet/php-work-with-mysql.jpg)
+       - 📄 [phpcheatsheet (1).png](PHP/cheatsheet/phpcheatsheet%20(1).png)
+       - 📄 [regex\-resum.php](PHP/cheatsheet/regex-resum.php)
+       - 📄 [resume php bdd omar](PHP/cheatsheet/resume%20php%20bdd%20omar)
+       - 📄 [revis tab foreach.php](PHP/cheatsheet/revis%20tab%20foreach.php)
+       - 📄 [session\_regex\_encrypt.png](PHP/cheatsheet/session_regex_encrypt.png)
+       - 📄 [stuff.png](PHP/cheatsheet/stuff.png)
+       - 📄 [visite](PHP/cheatsheet/visite)
+     - 📂 __learning__
+       - 📂 __php7__
+         - 📂 __php7__
+           - 📄 [classes\_obj\_polym\_colecion\_datatypes\_collable.php](PHP/learning/php7/php7/classes_obj_polym_colecion_datatypes_collable.php)
+           - 📄 [essentiel.php](PHP/learning/php7/php7/essentiel.php)
+           - 📄 [expections.php](PHP/learning/php7/php7/expections.php)
+           - 📄 [generator.php](PHP/learning/php7/php7/generator.php)
+           - 📄 [namespace.php](PHP/learning/php7/php7/namespace.php)
+           - 📄 [operator.php](PHP/learning/php7/php7/operator.php)
+           - 📄 [session\_encryption\_regex.php](PHP/learning/php7/php7/session_encryption_regex.php)
+           - 📄 [stuff.php](PHP/learning/php7/php7/stuff.php)
+     - 📂 __projects__
+       - 📂 __Social\-Network\-2__
+         - 📂 __PHPMailer__
+           - 📄 [LICENSE](PHP/projects/Social-Network-2/PHPMailer/LICENSE)
+           - 📄 [PHPMailerAutoload.php](PHP/projects/Social-Network-2/PHPMailer/PHPMailerAutoload.php)
+           - 📄 [VERSION](PHP/projects/Social-Network-2/PHPMailer/VERSION)
+           - 📄 [class.phpmailer.php](PHP/projects/Social-Network-2/PHPMailer/class.phpmailer.php)
+           - 📄 [class.phpmaileroauth.php](PHP/projects/Social-Network-2/PHPMailer/class.phpmaileroauth.php)
+           - 📄 [class.phpmaileroauthgoogle.php](PHP/projects/Social-Network-2/PHPMailer/class.phpmaileroauthgoogle.php)
+           - 📄 [class.pop3.php](PHP/projects/Social-Network-2/PHPMailer/class.pop3.php)
+           - 📄 [class.smtp.php](PHP/projects/Social-Network-2/PHPMailer/class.smtp.php)
+           - 📄 [composer.json](PHP/projects/Social-Network-2/PHPMailer/composer.json)
+           - 📄 [composer.lock](PHP/projects/Social-Network-2/PHPMailer/composer.lock)
+           - 📂 __examples__
+             - 📄 [DKIM.phps](PHP/projects/Social-Network-2/PHPMailer/examples/DKIM.phps)
+             - 📄 [code\_generator.phps](PHP/projects/Social-Network-2/PHPMailer/examples/code_generator.phps)
+             - 📄 [contactform.phps](PHP/projects/Social-Network-2/PHPMailer/examples/contactform.phps)
+             - 📄 [contents.html](PHP/projects/Social-Network-2/PHPMailer/examples/contents.html)
+             - 📄 [contentsutf8.html](PHP/projects/Social-Network-2/PHPMailer/examples/contentsutf8.html)
+             - 📄 [exceptions.phps](PHP/projects/Social-Network-2/PHPMailer/examples/exceptions.phps)
+             - 📄 [gmail.phps](PHP/projects/Social-Network-2/PHPMailer/examples/gmail.phps)
+             - 📄 [gmail\_xoauth.phps](PHP/projects/Social-Network-2/PHPMailer/examples/gmail_xoauth.phps)
+             - 📂 __images__
+               - 📄 [phpmailer.png](PHP/projects/Social-Network-2/PHPMailer/examples/images/phpmailer.png)
+               - 📄 [phpmailer\_mini.png](PHP/projects/Social-Network-2/PHPMailer/examples/images/phpmailer_mini.png)
+             - 📄 [index.html](PHP/projects/Social-Network-2/PHPMailer/examples/index.html)
+             - 📄 [mail.phps](PHP/projects/Social-Network-2/PHPMailer/examples/mail.phps)
+             - 📄 [mailing\_list.phps](PHP/projects/Social-Network-2/PHPMailer/examples/mailing_list.phps)
+             - 📄 [pop\_before\_smtp.phps](PHP/projects/Social-Network-2/PHPMailer/examples/pop_before_smtp.phps)
+             - 📂 __scripts__
+               - 📄 [XRegExp.js](PHP/projects/Social-Network-2/PHPMailer/examples/scripts/XRegExp.js)
+               - 📄 [shAutoloader.js](PHP/projects/Social-Network-2/PHPMailer/examples/scripts/shAutoloader.js)
+               - 📄 [shBrushPhp.js](PHP/projects/Social-Network-2/PHPMailer/examples/scripts/shBrushPhp.js)
+               - 📄 [shCore.js](PHP/projects/Social-Network-2/PHPMailer/examples/scripts/shCore.js)
+               - 📄 [shLegacy.js](PHP/projects/Social-Network-2/PHPMailer/examples/scripts/shLegacy.js)
+             - 📄 [send\_file\_upload.phps](PHP/projects/Social-Network-2/PHPMailer/examples/send_file_upload.phps)
+             - 📄 [send\_multiple\_file\_upload.phps](PHP/projects/Social-Network-2/PHPMailer/examples/send_multiple_file_upload.phps)
+             - 📄 [sendmail.phps](PHP/projects/Social-Network-2/PHPMailer/examples/sendmail.phps)
+             - 📄 [signed\-mail.phps](PHP/projects/Social-Network-2/PHPMailer/examples/signed-mail.phps)
+             - 📄 [smtp.phps](PHP/projects/Social-Network-2/PHPMailer/examples/smtp.phps)
+             - 📄 [smtp\_check.phps](PHP/projects/Social-Network-2/PHPMailer/examples/smtp_check.phps)
+             - 📄 [smtp\_no\_auth.phps](PHP/projects/Social-Network-2/PHPMailer/examples/smtp_no_auth.phps)
+             - 📄 [ssl\_options.phps](PHP/projects/Social-Network-2/PHPMailer/examples/ssl_options.phps)
+             - 📂 __styles__
+               - 📄 [shCore.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shCore.css)
+               - 📄 [shCoreDefault.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shCoreDefault.css)
+               - 📄 [shCoreDjango.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shCoreDjango.css)
+               - 📄 [shCoreEclipse.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shCoreEclipse.css)
+               - 📄 [shCoreEmacs.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shCoreEmacs.css)
+               - 📄 [shCoreFadeToGrey.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shCoreFadeToGrey.css)
+               - 📄 [shCoreMDUltra.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shCoreMDUltra.css)
+               - 📄 [shCoreMidnight.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shCoreMidnight.css)
+               - 📄 [shCoreRDark.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shCoreRDark.css)
+               - 📄 [shThemeAppleScript.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shThemeAppleScript.css)
+               - 📄 [shThemeDefault.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shThemeDefault.css)
+               - 📄 [shThemeDjango.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shThemeDjango.css)
+               - 📄 [shThemeEclipse.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shThemeEclipse.css)
+               - 📄 [shThemeEmacs.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shThemeEmacs.css)
+               - 📄 [shThemeFadeToGrey.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shThemeFadeToGrey.css)
+               - 📄 [shThemeMDUltra.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shThemeMDUltra.css)
+               - 📄 [shThemeMidnight.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shThemeMidnight.css)
+               - 📄 [shThemeRDark.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shThemeRDark.css)
+               - 📄 [shThemeVisualStudio.css](PHP/projects/Social-Network-2/PHPMailer/examples/styles/shThemeVisualStudio.css)
+               - 📄 [wrapping.png](PHP/projects/Social-Network-2/PHPMailer/examples/styles/wrapping.png)
+           - 📂 __extras__
+             - 📄 [EasyPeasyICS.php](PHP/projects/Social-Network-2/PHPMailer/extras/EasyPeasyICS.php)
+             - 📄 [README.md](PHP/projects/Social-Network-2/PHPMailer/extras/README.md)
+             - 📄 [htmlfilter.php](PHP/projects/Social-Network-2/PHPMailer/extras/htmlfilter.php)
+             - 📄 [ntlm\_sasl\_client.php](PHP/projects/Social-Network-2/PHPMailer/extras/ntlm_sasl_client.php)
+           - 📄 [get\_oauth\_token.php](PHP/projects/Social-Network-2/PHPMailer/get_oauth_token.php)
+           - 📂 __language__
+             - 📄 [phpmailer.lang\-am.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-am.php)
+             - 📄 [phpmailer.lang\-ar.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-ar.php)
+             - 📄 [phpmailer.lang\-az.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-az.php)
+             - 📄 [phpmailer.lang\-be.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-be.php)
+             - 📄 [phpmailer.lang\-bg.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-bg.php)
+             - 📄 [phpmailer.lang\-ca.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-ca.php)
+             - 📄 [phpmailer.lang\-ch.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-ch.php)
+             - 📄 [phpmailer.lang\-cs.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-cs.php)
+             - 📄 [phpmailer.lang\-da.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-da.php)
+             - 📄 [phpmailer.lang\-de.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-de.php)
+             - 📄 [phpmailer.lang\-el.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-el.php)
+             - 📄 [phpmailer.lang\-eo.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-eo.php)
+             - 📄 [phpmailer.lang\-es.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-es.php)
+             - 📄 [phpmailer.lang\-et.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-et.php)
+             - 📄 [phpmailer.lang\-fa.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-fa.php)
+             - 📄 [phpmailer.lang\-fi.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-fi.php)
+             - 📄 [phpmailer.lang\-fo.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-fo.php)
+             - 📄 [phpmailer.lang\-fr.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-fr.php)
+             - 📄 [phpmailer.lang\-gl.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-gl.php)
+             - 📄 [phpmailer.lang\-he.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-he.php)
+             - 📄 [phpmailer.lang\-hr.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-hr.php)
+             - 📄 [phpmailer.lang\-hu.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-hu.php)
+             - 📄 [phpmailer.lang\-id.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-id.php)
+             - 📄 [phpmailer.lang\-it.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-it.php)
+             - 📄 [phpmailer.lang\-ja.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-ja.php)
+             - 📄 [phpmailer.lang\-ka.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-ka.php)
+             - 📄 [phpmailer.lang\-ko.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-ko.php)
+             - 📄 [phpmailer.lang\-lt.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-lt.php)
+             - 📄 [phpmailer.lang\-lv.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-lv.php)
+             - 📄 [phpmailer.lang\-ms.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-ms.php)
+             - 📄 [phpmailer.lang\-nb.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-nb.php)
+             - 📄 [phpmailer.lang\-nl.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-nl.php)
+             - 📄 [phpmailer.lang\-pl.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-pl.php)
+             - 📄 [phpmailer.lang\-pt.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-pt.php)
+             - 📄 [phpmailer.lang\-pt\_br.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-pt_br.php)
+             - 📄 [phpmailer.lang\-ro.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-ro.php)
+             - 📄 [phpmailer.lang\-ru.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-ru.php)
+             - 📄 [phpmailer.lang\-sk.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-sk.php)
+             - 📄 [phpmailer.lang\-sl.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-sl.php)
+             - 📄 [phpmailer.lang\-sr.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-sr.php)
+             - 📄 [phpmailer.lang\-sv.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-sv.php)
+             - 📄 [phpmailer.lang\-tr.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-tr.php)
+             - 📄 [phpmailer.lang\-uk.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-uk.php)
+             - 📄 [phpmailer.lang\-vi.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-vi.php)
+             - 📄 [phpmailer.lang\-zh.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-zh.php)
+             - 📄 [phpmailer.lang\-zh\_cn.php](PHP/projects/Social-Network-2/PHPMailer/language/phpmailer.lang-zh_cn.php)
+         - 📄 [Readme.md](PHP/projects/Social-Network-2/Readme.md)
+         - 📄 [SocialNetwork.sql](PHP/projects/Social-Network-2/SocialNetwork.sql)
+         - 📂 __api__
+           - 📄 [DB.php](PHP/projects/Social-Network-2/api/DB.php)
+           - 📄 [Mail.php](PHP/projects/Social-Network-2/api/Mail.php)
+           - 📂 __PHPMailer__
+             - 📄 [LICENSE](PHP/projects/Social-Network-2/api/PHPMailer/LICENSE)
+             - 📄 [PHPMailerAutoload.php](PHP/projects/Social-Network-2/api/PHPMailer/PHPMailerAutoload.php)
+             - 📄 [VERSION](PHP/projects/Social-Network-2/api/PHPMailer/VERSION)
+             - 📄 [class.phpmailer.php](PHP/projects/Social-Network-2/api/PHPMailer/class.phpmailer.php)
+             - 📄 [class.phpmaileroauth.php](PHP/projects/Social-Network-2/api/PHPMailer/class.phpmaileroauth.php)
+             - 📄 [class.phpmaileroauthgoogle.php](PHP/projects/Social-Network-2/api/PHPMailer/class.phpmaileroauthgoogle.php)
+             - 📄 [class.pop3.php](PHP/projects/Social-Network-2/api/PHPMailer/class.pop3.php)
+             - 📄 [class.smtp.php](PHP/projects/Social-Network-2/api/PHPMailer/class.smtp.php)
+             - 📄 [composer.json](PHP/projects/Social-Network-2/api/PHPMailer/composer.json)
+             - 📄 [composer.lock](PHP/projects/Social-Network-2/api/PHPMailer/composer.lock)
+             - 📂 __examples__
+               - 📄 [DKIM.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/DKIM.phps)
+               - 📄 [code\_generator.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/code_generator.phps)
+               - 📄 [contactform.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/contactform.phps)
+               - 📄 [contents.html](PHP/projects/Social-Network-2/api/PHPMailer/examples/contents.html)
+               - 📄 [contentsutf8.html](PHP/projects/Social-Network-2/api/PHPMailer/examples/contentsutf8.html)
+               - 📄 [exceptions.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/exceptions.phps)
+               - 📄 [gmail.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/gmail.phps)
+               - 📄 [gmail\_xoauth.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/gmail_xoauth.phps)
+               - 📂 __images__
+                 - 📄 [phpmailer.png](PHP/projects/Social-Network-2/api/PHPMailer/examples/images/phpmailer.png)
+                 - 📄 [phpmailer\_mini.png](PHP/projects/Social-Network-2/api/PHPMailer/examples/images/phpmailer_mini.png)
+               - 📄 [index.html](PHP/projects/Social-Network-2/api/PHPMailer/examples/index.html)
+               - 📄 [mail.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/mail.phps)
+               - 📄 [mailing\_list.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/mailing_list.phps)
+               - 📄 [pop\_before\_smtp.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/pop_before_smtp.phps)
+               - 📂 __scripts__
+                 - 📄 [XRegExp.js](PHP/projects/Social-Network-2/api/PHPMailer/examples/scripts/XRegExp.js)
+                 - 📄 [shAutoloader.js](PHP/projects/Social-Network-2/api/PHPMailer/examples/scripts/shAutoloader.js)
+                 - 📄 [shBrushPhp.js](PHP/projects/Social-Network-2/api/PHPMailer/examples/scripts/shBrushPhp.js)
+                 - 📄 [shCore.js](PHP/projects/Social-Network-2/api/PHPMailer/examples/scripts/shCore.js)
+                 - 📄 [shLegacy.js](PHP/projects/Social-Network-2/api/PHPMailer/examples/scripts/shLegacy.js)
+               - 📄 [send\_file\_upload.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/send_file_upload.phps)
+               - 📄 [send\_multiple\_file\_upload.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/send_multiple_file_upload.phps)
+               - 📄 [sendmail.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/sendmail.phps)
+               - 📄 [signed\-mail.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/signed-mail.phps)
+               - 📄 [smtp.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/smtp.phps)
+               - 📄 [smtp\_check.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/smtp_check.phps)
+               - 📄 [smtp\_no\_auth.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/smtp_no_auth.phps)
+               - 📄 [ssl\_options.phps](PHP/projects/Social-Network-2/api/PHPMailer/examples/ssl_options.phps)
+               - 📂 __styles__
+                 - 📄 [shCore.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shCore.css)
+                 - 📄 [shCoreDefault.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shCoreDefault.css)
+                 - 📄 [shCoreDjango.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shCoreDjango.css)
+                 - 📄 [shCoreEclipse.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shCoreEclipse.css)
+                 - 📄 [shCoreEmacs.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shCoreEmacs.css)
+                 - 📄 [shCoreFadeToGrey.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shCoreFadeToGrey.css)
+                 - 📄 [shCoreMDUltra.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shCoreMDUltra.css)
+                 - 📄 [shCoreMidnight.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shCoreMidnight.css)
+                 - 📄 [shCoreRDark.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shCoreRDark.css)
+                 - 📄 [shThemeAppleScript.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shThemeAppleScript.css)
+                 - 📄 [shThemeDefault.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shThemeDefault.css)
+                 - 📄 [shThemeDjango.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shThemeDjango.css)
+                 - 📄 [shThemeEclipse.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shThemeEclipse.css)
+                 - 📄 [shThemeEmacs.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shThemeEmacs.css)
+                 - 📄 [shThemeFadeToGrey.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shThemeFadeToGrey.css)
+                 - 📄 [shThemeMDUltra.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shThemeMDUltra.css)
+                 - 📄 [shThemeMidnight.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shThemeMidnight.css)
+                 - 📄 [shThemeRDark.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shThemeRDark.css)
+                 - 📄 [shThemeVisualStudio.css](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/shThemeVisualStudio.css)
+                 - 📄 [wrapping.png](PHP/projects/Social-Network-2/api/PHPMailer/examples/styles/wrapping.png)
+             - 📂 __extras__
+               - 📄 [EasyPeasyICS.php](PHP/projects/Social-Network-2/api/PHPMailer/extras/EasyPeasyICS.php)
+               - 📄 [README.md](PHP/projects/Social-Network-2/api/PHPMailer/extras/README.md)
+               - 📄 [htmlfilter.php](PHP/projects/Social-Network-2/api/PHPMailer/extras/htmlfilter.php)
+               - 📄 [ntlm\_sasl\_client.php](PHP/projects/Social-Network-2/api/PHPMailer/extras/ntlm_sasl_client.php)
+             - 📄 [get\_oauth\_token.php](PHP/projects/Social-Network-2/api/PHPMailer/get_oauth_token.php)
+             - 📂 __language__
+               - 📄 [phpmailer.lang\-am.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-am.php)
+               - 📄 [phpmailer.lang\-ar.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-ar.php)
+               - 📄 [phpmailer.lang\-az.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-az.php)
+               - 📄 [phpmailer.lang\-be.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-be.php)
+               - 📄 [phpmailer.lang\-bg.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-bg.php)
+               - 📄 [phpmailer.lang\-ca.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-ca.php)
+               - 📄 [phpmailer.lang\-ch.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-ch.php)
+               - 📄 [phpmailer.lang\-cs.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-cs.php)
+               - 📄 [phpmailer.lang\-da.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-da.php)
+               - 📄 [phpmailer.lang\-de.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-de.php)
+               - 📄 [phpmailer.lang\-el.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-el.php)
+               - 📄 [phpmailer.lang\-eo.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-eo.php)
+               - 📄 [phpmailer.lang\-es.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-es.php)
+               - 📄 [phpmailer.lang\-et.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-et.php)
+               - 📄 [phpmailer.lang\-fa.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-fa.php)
+               - 📄 [phpmailer.lang\-fi.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-fi.php)
+               - 📄 [phpmailer.lang\-fo.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-fo.php)
+               - 📄 [phpmailer.lang\-fr.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-fr.php)
+               - 📄 [phpmailer.lang\-gl.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-gl.php)
+               - 📄 [phpmailer.lang\-he.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-he.php)
+               - 📄 [phpmailer.lang\-hr.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-hr.php)
+               - 📄 [phpmailer.lang\-hu.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-hu.php)
+               - 📄 [phpmailer.lang\-id.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-id.php)
+               - 📄 [phpmailer.lang\-it.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-it.php)
+               - 📄 [phpmailer.lang\-ja.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-ja.php)
+               - 📄 [phpmailer.lang\-ka.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-ka.php)
+               - 📄 [phpmailer.lang\-ko.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-ko.php)
+               - 📄 [phpmailer.lang\-lt.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-lt.php)
+               - 📄 [phpmailer.lang\-lv.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-lv.php)
+               - 📄 [phpmailer.lang\-ms.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-ms.php)
+               - 📄 [phpmailer.lang\-nb.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-nb.php)
+               - 📄 [phpmailer.lang\-nl.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-nl.php)
+               - 📄 [phpmailer.lang\-pl.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-pl.php)
+               - 📄 [phpmailer.lang\-pt.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-pt.php)
+               - 📄 [phpmailer.lang\-pt\_br.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-pt_br.php)
+               - 📄 [phpmailer.lang\-ro.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-ro.php)
+               - 📄 [phpmailer.lang\-ru.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-ru.php)
+               - 📄 [phpmailer.lang\-sk.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-sk.php)
+               - 📄 [phpmailer.lang\-sl.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-sl.php)
+               - 📄 [phpmailer.lang\-sr.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-sr.php)
+               - 📄 [phpmailer.lang\-sv.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-sv.php)
+               - 📄 [phpmailer.lang\-tr.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-tr.php)
+               - 📄 [phpmailer.lang\-uk.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-uk.php)
+               - 📄 [phpmailer.lang\-vi.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-vi.php)
+               - 📄 [phpmailer.lang\-zh.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-zh.php)
+               - 📄 [phpmailer.lang\-zh\_cn.php](PHP/projects/Social-Network-2/api/PHPMailer/language/phpmailer.lang-zh_cn.php)
+           - 📄 [index.php](PHP/projects/Social-Network-2/api/index.php)
+         - 📂 __assets__
+           - 📂 __bootstrap__
+             - 📂 __css__
+               - 📄 [bootstrap.min.css](PHP/projects/Social-Network-2/assets/bootstrap/css/bootstrap.min.css)
+             - 📂 __fonts__
+               - 📄 [glyphicons\-halflings\-regular.eot](PHP/projects/Social-Network-2/assets/bootstrap/fonts/glyphicons-halflings-regular.eot)
+               - 📄 [glyphicons\-halflings\-regular.svg](PHP/projects/Social-Network-2/assets/bootstrap/fonts/glyphicons-halflings-regular.svg)
+               - 📄 [glyphicons\-halflings\-regular.ttf](PHP/projects/Social-Network-2/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf)
+               - 📄 [glyphicons\-halflings\-regular.woff](PHP/projects/Social-Network-2/assets/bootstrap/fonts/glyphicons-halflings-regular.woff)
+               - 📄 [glyphicons\-halflings\-regular.woff2](PHP/projects/Social-Network-2/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2)
+             - 📂 __js__
+               - 📄 [bootstrap.min.js](PHP/projects/Social-Network-2/assets/bootstrap/js/bootstrap.min.js)
+           - 📂 __css__
+             - 📄 [Footer\-Dark.css](PHP/projects/Social-Network-2/assets/css/Footer-Dark.css)
+             - 📄 [Highlight\-Clean.css](PHP/projects/Social-Network-2/assets/css/Highlight-Clean.css)
+             - 📄 [Login\-Form\-Clean.css](PHP/projects/Social-Network-2/assets/css/Login-Form-Clean.css)
+             - 📄 [Navigation\-Clean1.css](PHP/projects/Social-Network-2/assets/css/Navigation-Clean1.css)
+             - 📄 [styles.css](PHP/projects/Social-Network-2/assets/css/styles.css)
+             - 📄 [untitled.css](PHP/projects/Social-Network-2/assets/css/untitled.css)
+           - 📂 __fonts__
+             - 📄 [ionicons.eot](PHP/projects/Social-Network-2/assets/fonts/ionicons.eot)
+             - 📄 [ionicons.min.css](PHP/projects/Social-Network-2/assets/fonts/ionicons.min.css)
+             - 📄 [ionicons.svg](PHP/projects/Social-Network-2/assets/fonts/ionicons.svg)
+             - 📄 [ionicons.ttf](PHP/projects/Social-Network-2/assets/fonts/ionicons.ttf)
+             - 📄 [ionicons.woff](PHP/projects/Social-Network-2/assets/fonts/ionicons.woff)
+           - 📂 __img__
+             - 📄 [photo.jpg](PHP/projects/Social-Network-2/assets/img/photo.jpg)
+           - 📂 __js__
+             - 📄 [bs\-animation.js](PHP/projects/Social-Network-2/assets/js/bs-animation.js)
+             - 📄 [jquery.min.js](PHP/projects/Social-Network-2/assets/js/jquery.min.js)
+         - 📄 [change\-password.php](PHP/projects/Social-Network-2/change-password.php)
+         - 📂 __classes__
+           - 📄 [Comment.php](PHP/projects/Social-Network-2/classes/Comment.php)
+           - 📄 [DB.php](PHP/projects/Social-Network-2/classes/DB.php)
+           - 📄 [Image.php](PHP/projects/Social-Network-2/classes/Image.php)
+           - 📄 [Login.php](PHP/projects/Social-Network-2/classes/Login.php)
+           - 📄 [Mail.php](PHP/projects/Social-Network-2/classes/Mail.php)
+           - 📄 [Notify.php](PHP/projects/Social-Network-2/classes/Notify.php)
+           - 📄 [Post.php](PHP/projects/Social-Network-2/classes/Post.php)
+         - 📄 [create\-account.html](PHP/projects/Social-Network-2/create-account.html)
+         - 📄 [create\-account.php](PHP/projects/Social-Network-2/create-account.php)
+         - 📄 [forgot\-password.php](PHP/projects/Social-Network-2/forgot-password.php)
+         - 📄 [index.html](PHP/projects/Social-Network-2/index.html)
+         - 📄 [index.php](PHP/projects/Social-Network-2/index.php)
+         - 📄 [login.html](PHP/projects/Social-Network-2/login.html)
+         - 📄 [login.php](PHP/projects/Social-Network-2/login.php)
+         - 📄 [logout.php](PHP/projects/Social-Network-2/logout.php)
+         - 📄 [messages.html](PHP/projects/Social-Network-2/messages.html)
+         - 📄 [my\-account.php](PHP/projects/Social-Network-2/my-account.php)
+         - 📄 [my\-messages.php](PHP/projects/Social-Network-2/my-messages.php)
+         - 📄 [notify.php](PHP/projects/Social-Network-2/notify.php)
+         - 📄 [profile.html](PHP/projects/Social-Network-2/profile.html)
+         - 📄 [profile.php](PHP/projects/Social-Network-2/profile.php)
+         - 📄 [send\-message.php](PHP/projects/Social-Network-2/send-message.php)
+         - 📄 [topics.php](PHP/projects/Social-Network-2/topics.php)
+       - 📂 __messenger\-php__
+         - 📄 [app.js](PHP/projects/messenger-php/app.js)
+         - 📄 [get.php](PHP/projects/messenger-php/get.php)
+         - 📄 [index.php](PHP/projects/messenger-php/index.php)
+         - 📄 [style.css](PHP/projects/messenger-php/style.css)
+         - 📄 [update.php](PHP/projects/messenger-php/update.php)
+   - 📂 __PYTHON__
+     - 📂 __books__
+       - 📄 [python\_book\_01 (2).pdf](PYTHON/books/python_book_01%20(2).pdf)
+     - 📂 __cheatsheet__
+       - 📄 [Pycs.pdf](PYTHON/cheatsheet/Pycs.pdf)
+       - 📄 [Python\-Cheat\-Sheet.pdf](PYTHON/cheatsheet/Python-Cheat-Sheet.pdf)
+       - 📄 [Python\_Bokeh\_Cheat\_Sheet.pdf](PYTHON/cheatsheet/Python_Bokeh_Cheat_Sheet.pdf)
+       - 📄 [Scikit\_Learn\_Cheat\_Sheet\_Python.pdf](PYTHON/cheatsheet/Scikit_Learn_Cheat_Sheet_Python.pdf)
+       - 📄 [pysheeet\-master.zip](PYTHON/cheatsheet/pysheeet-master.zip)
+       - 📄 [python\-cheatsheet\-master (2).zip](PYTHON/cheatsheet/python-cheatsheet-master%20(2).zip)
+       - 📂 __python\_code\_snippets\-master__
+         - 📂 __Atom\-Python__
+           - 📂 __Test\-Project__
+             - 📄 [test\-module.py](PYTHON/cheatsheet/python_code_snippets-master/Atom-Python/Test-Project/test-module.py)
+         - 📂 __Automation__
+           - 📄 [rename.py](PYTHON/cheatsheet/python_code_snippets-master/Automation/rename.py)
+         - 📂 __BeautifulSoup__
+           - 📄 [scrape.py](PYTHON/cheatsheet/python_code_snippets-master/BeautifulSoup/scrape.py)
+           - 📄 [simple.html](PYTHON/cheatsheet/python_code_snippets-master/BeautifulSoup/simple.html)
+         - 📂 __Closure__
+           - 📄 [html\_closure.js](PYTHON/cheatsheet/python_code_snippets-master/Closure/html_closure.js)
+           - 📄 [html\_closure.py](PYTHON/cheatsheet/python_code_snippets-master/Closure/html_closure.py)
+         - 📂 __Closures__
+           - 📄 [closure.js](PYTHON/cheatsheet/python_code_snippets-master/Closures/closure.js)
+           - 📄 [closure.py](PYTHON/cheatsheet/python_code_snippets-master/Closures/closure.py)
+           - 📄 [example.log](PYTHON/cheatsheet/python_code_snippets-master/Closures/example.log)
+         - 📂 __Combinations\-Permutations__
+           - 📄 [comb\_perm.py](PYTHON/cheatsheet/python_code_snippets-master/Combinations-Permutations/comb_perm.py)
+           - 📄 [examples.py](PYTHON/cheatsheet/python_code_snippets-master/Combinations-Permutations/examples.py)
+         - 📂 __Cron\-Tasks__
+           - 📄 [snippets.txt](PYTHON/cheatsheet/python_code_snippets-master/Cron-Tasks/snippets.txt)
+         - 📂 __Datetime__
+           - 📄 [dates.py](PYTHON/cheatsheet/python_code_snippets-master/Datetime/dates.py)
+         - 📂 __Decorators__
+           - 📄 [decorators.py](PYTHON/cheatsheet/python_code_snippets-master/Decorators/decorators.py)
+           - 📄 [snippets.txt](PYTHON/cheatsheet/python_code_snippets-master/Decorators/snippets.txt)
+         - 📂 __EAFP__
+           - 📄 [eafp.py](PYTHON/cheatsheet/python_code_snippets-master/EAFP/eafp.py)
+         - 📂 __Ex\-Machina__
+           - 📄 [ex\-machina.py](PYTHON/cheatsheet/python_code_snippets-master/Ex-Machina/ex-machina.py)
+         - 📂 __Exceptions__
+           - 📄 [currupt\_file.txt](PYTHON/cheatsheet/python_code_snippets-master/Exceptions/currupt_file.txt)
+           - 📄 [exceptions.py](PYTHON/cheatsheet/python_code_snippets-master/Exceptions/exceptions.py)
+           - 📄 [test\_file.txt](PYTHON/cheatsheet/python_code_snippets-master/Exceptions/test_file.txt)
+         - 📂 __FC\_Functions__
+           - 📄 [fc\_functions.py](PYTHON/cheatsheet/python_code_snippets-master/FC_Functions/fc_functions.py)
+         - 📂 __For\_Else__
+           - 📄 [find.py](PYTHON/cheatsheet/python_code_snippets-master/For_Else/find.py)
+           - 📄 [test\_while.py](PYTHON/cheatsheet/python_code_snippets-master/For_Else/test_while.py)
+         - 📂 __Generators__
+           - 📄 [mem\_profile.py](PYTHON/cheatsheet/python_code_snippets-master/Generators/mem_profile.py)
+           - 📄 [mem\_profile.pyc](PYTHON/cheatsheet/python_code_snippets-master/Generators/mem_profile.pyc)
+           - 📄 [people.py](PYTHON/cheatsheet/python_code_snippets-master/Generators/people.py)
+           - 📄 [square\_nums.py](PYTHON/cheatsheet/python_code_snippets-master/Generators/square_nums.py)
+         - 📂 __Idempotence__
+           - 📄 [methods.txt](PYTHON/cheatsheet/python_code_snippets-master/Idempotence/methods.txt)
+           - 📄 [test.py](PYTHON/cheatsheet/python_code_snippets-master/Idempotence/test.py)
+         - 📂 __List\_Comp__
+           - 📄 [comprehensions.py](PYTHON/cheatsheet/python_code_snippets-master/List_Comp/comprehensions.py)
+         - 📂 __Logging\-Advanced__
+           - 📄 [employee.py](PYTHON/cheatsheet/python_code_snippets-master/Logging-Advanced/employee.py)
+           - 📄 [log\-sample.py](PYTHON/cheatsheet/python_code_snippets-master/Logging-Advanced/log-sample.py)
+         - 📂 __Logging\-Basics__
+           - 📄 [employee.py](PYTHON/cheatsheet/python_code_snippets-master/Logging-Basics/employee.py)
+           - 📄 [log\-sample.py](PYTHON/cheatsheet/python_code_snippets-master/Logging-Basics/log-sample.py)
+           - 📄 [snippets.txt](PYTHON/cheatsheet/python_code_snippets-master/Logging-Basics/snippets.txt)
+         - 📂 __Memoization__
+           - 📄 [sample.py](PYTHON/cheatsheet/python_code_snippets-master/Memoization/sample.py)
+         - 📂 __Mutable__
+           - 📄 [code.py](PYTHON/cheatsheet/python_code_snippets-master/Mutable/code.py)
+           - 📄 [concat.py](PYTHON/cheatsheet/python_code_snippets-master/Mutable/concat.py)
+           - 📄 [mutable.py](PYTHON/cheatsheet/python_code_snippets-master/Mutable/mutable.py)
+         - 📂 __NamedTuples__
+           - 📄 [code.py](PYTHON/cheatsheet/python_code_snippets-master/NamedTuples/code.py)
+           - 📄 [named\_tuples.py](PYTHON/cheatsheet/python_code_snippets-master/NamedTuples/named_tuples.py)
+         - 📂 __Object\-Oriented__
+           - 📂 __1\-FirstClasses__
+             - 📄 [oop.py](PYTHON/cheatsheet/python_code_snippets-master/Object-Oriented/1-FirstClasses/oop.py)
+           - 📂 __2\-Class\-Instance\-Variables__
+             - 📄 [oop.py](PYTHON/cheatsheet/python_code_snippets-master/Object-Oriented/2-Class-Instance-Variables/oop.py)
+           - 📂 __3\-Class\-Static\-Methods__
+             - 📄 [oop.py](PYTHON/cheatsheet/python_code_snippets-master/Object-Oriented/3-Class-Static-Methods/oop.py)
+           - 📂 __4\-Inheritance__
+             - 📄 [oop\-finish.py](PYTHON/cheatsheet/python_code_snippets-master/Object-Oriented/4-Inheritance/oop-finish.py)
+             - 📄 [oop.py](PYTHON/cheatsheet/python_code_snippets-master/Object-Oriented/4-Inheritance/oop.py)
+           - 📂 __5\-SpecialMethods__
+             - 📄 [oop\_test.py](PYTHON/cheatsheet/python_code_snippets-master/Object-Oriented/5-SpecialMethods/oop_test.py)
+           - 📂 __6\-property\-decorator__
+             - 📄 [oop.py](PYTHON/cheatsheet/python_code_snippets-master/Object-Oriented/6-property-decorator/oop.py)
+         - 📂 __Python__
+           - 📂 __Python\-Environment\-Variables__
+             - 📄 [env\_vars.py](PYTHON/cheatsheet/python_code_snippets-master/Python/Python-Environment-Variables/env_vars.py)
+         - 📂 __Python\-CSV__
+           - 📄 [names.csv](PYTHON/cheatsheet/python_code_snippets-master/Python-CSV/names.csv)
+           - 📄 [new\_names.csv](PYTHON/cheatsheet/python_code_snippets-master/Python-CSV/new_names.csv)
+           - 📄 [parse\_csv.py](PYTHON/cheatsheet/python_code_snippets-master/Python-CSV/parse_csv.py)
+         - 📂 __Python\-Conditionals__
+           - 📄 [intro.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Conditionals/intro.py)
+           - 📄 [snippets.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-Conditionals/snippets.txt)
+         - 📂 __Python\-Context\-Managers__
+           - 📂 __Sample\-Dir\-One__
+             - 📄 [mydoc.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-Context-Managers/Sample-Dir-One/mydoc.txt)
+             - 📄 [todo.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-Context-Managers/Sample-Dir-One/todo.txt)
+             - 📄 [work.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-Context-Managers/Sample-Dir-One/work.txt)
+           - 📂 __Sample\-Dir\-Two__
+             - 📄 [demo.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-Context-Managers/Sample-Dir-Two/demo.txt)
+             - 📄 [sample.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-Context-Managers/Sample-Dir-Two/sample.txt)
+             - 📄 [test.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-Context-Managers/Sample-Dir-Two/test.txt)
+           - 📄 [cm\_demo.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Context-Managers/cm_demo.py)
+           - 📄 [sample.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-Context-Managers/sample.txt)
+           - 📄 [snippets.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-Context-Managers/snippets.txt)
+         - 📂 __Python\-Decorator\-Arguments__
+           - 📄 [decorator\-finish.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Decorator-Arguments/decorator-finish.py)
+           - 📄 [decorator\-start.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Decorator-Arguments/decorator-start.py)
+           - 📄 [flask\-hello.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Decorator-Arguments/flask-hello.py)
+         - 📂 __Python\-Dicts__
+           - 📄 [intro.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Dicts/intro.py)
+         - 📂 __Python\-Functions__
+           - 📄 [intro.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Functions/intro.py)
+           - 📄 [snippets.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-Functions/snippets.txt)
+         - 📂 __Python\-Future\-Date__
+           - 📄 [credit.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Future-Date/credit.py)
+           - 📄 [subs.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Future-Date/subs.py)
+           - 📄 [weight.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Future-Date/weight.py)
+         - 📂 __Python\-Imports__
+           - 📄 [intro.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Imports/intro.py)
+           - 📄 [my\_module.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Imports/my_module.py)
+         - 📂 __Python\-Ints__
+           - 📄 [intro.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Ints/intro.py)
+           - 📄 [snippets.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-Ints/snippets.txt)
+         - 📂 __Python\-JSON__
+           - 📄 [api.py](PYTHON/cheatsheet/python_code_snippets-master/Python-JSON/api.py)
+           - 📄 [json\_demo.py](PYTHON/cheatsheet/python_code_snippets-master/Python-JSON/json_demo.py)
+           - 📄 [new\_states.json](PYTHON/cheatsheet/python_code_snippets-master/Python-JSON/new_states.json)
+           - 📄 [states.json](PYTHON/cheatsheet/python_code_snippets-master/Python-JSON/states.json)
+         - 📂 __Python\-Lists__
+           - 📄 [intro.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Lists/intro.py)
+           - 📄 [snippets.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-Lists/snippets.txt)
+         - 📂 __Python\-Loops__
+           - 📄 [intro.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Loops/intro.py)
+         - 📂 __Python\-Patreon\-CSV__
+           - 📄 [parse\_csv.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Patreon-CSV/parse_csv.py)
+           - 📄 [patrons.csv](PYTHON/cheatsheet/python_code_snippets-master/Python-Patreon-CSV/patrons.csv)
+         - 📂 __Python\-Random__
+           - 📄 [random\_data.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Random/random_data.py)
+           - 📄 [random\_demo.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Random/random_demo.py)
+         - 📂 __Python\-Regular\-Expressions__
+           - 📄 [data.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-Regular-Expressions/data.txt)
+           - 📄 [emails.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Regular-Expressions/emails.py)
+           - 📄 [simple.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Regular-Expressions/simple.py)
+           - 📄 [snippets.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-Regular-Expressions/snippets.txt)
+           - 📄 [urls.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Regular-Expressions/urls.py)
+         - 📂 __Python\-SQLite__
+           - 📄 [employee.db](PYTHON/cheatsheet/python_code_snippets-master/Python-SQLite/employee.db)
+           - 📄 [employee.py](PYTHON/cheatsheet/python_code_snippets-master/Python-SQLite/employee.py)
+           - 📄 [snippets.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-SQLite/snippets.txt)
+           - 📄 [sqlite\_demo.py](PYTHON/cheatsheet/python_code_snippets-master/Python-SQLite/sqlite_demo.py)
+         - 📂 __Python\-Strings__
+           - 📄 [intro.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Strings/intro.py)
+         - 📂 __Python\-Unit\-Testing__
+           - 📄 [calc.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Unit-Testing/calc.py)
+           - 📄 [employee.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Unit-Testing/employee.py)
+           - 📄 [snippets.txt](PYTHON/cheatsheet/python_code_snippets-master/Python-Unit-Testing/snippets.txt)
+           - 📄 [test\_calc.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Unit-Testing/test_calc.py)
+           - 📄 [test\_employee.py](PYTHON/cheatsheet/python_code_snippets-master/Python-Unit-Testing/test_employee.py)
+         - 📄 [README.md](PYTHON/cheatsheet/python_code_snippets-master/README.md)
+         - 📂 __Regular\-Expressions__
+           - 📄 [data.txt](PYTHON/cheatsheet/python_code_snippets-master/Regular-Expressions/data.txt)
+           - 📄 [emails.txt](PYTHON/cheatsheet/python_code_snippets-master/Regular-Expressions/emails.txt)
+           - 📄 [simple.txt](PYTHON/cheatsheet/python_code_snippets-master/Regular-Expressions/simple.txt)
+           - 📄 [snippets.txt](PYTHON/cheatsheet/python_code_snippets-master/Regular-Expressions/snippets.txt)
+           - 📄 [urls.txt](PYTHON/cheatsheet/python_code_snippets-master/Regular-Expressions/urls.txt)
+         - 📂 __Scope__
+           - 📄 [scope.py](PYTHON/cheatsheet/python_code_snippets-master/Scope/scope.py)
+         - 📂 __Slicing__
+           - 📄 [slicing.py](PYTHON/cheatsheet/python_code_snippets-master/Slicing/slicing.py)
+         - 📂 __Starting\_Code__
+           - 📄 [calc.py](PYTHON/cheatsheet/python_code_snippets-master/Starting_Code/calc.py)
+           - 📄 [employee.py](PYTHON/cheatsheet/python_code_snippets-master/Starting_Code/employee.py)
+         - 📂 __Str\_Repr__
+           - 📄 [test.py](PYTHON/cheatsheet/python_code_snippets-master/Str_Repr/test.py)
+           - 📄 [test2.py](PYTHON/cheatsheet/python_code_snippets-master/Str_Repr/test2.py)
+         - 📂 __String Interpolation__
+           - 📄 [test.py](PYTHON/cheatsheet/python_code_snippets-master/String Interpolation/test.py)
+         - 📂 __String\-Formatting__
+           - 📄 [formatting.py](PYTHON/cheatsheet/python_code_snippets-master/String-Formatting/formatting.py)
+         - 📂 __Terminal__
+           - 📂 __Grep__
+             - 📂 __Personel__
+               - 📄 [emails.txt](PYTHON/cheatsheet/python_code_snippets-master/Terminal/Grep/Personel/emails.txt)
+               - 📄 [phone\_numbers.txt](PYTHON/cheatsheet/python_code_snippets-master/Terminal/Grep/Personel/phone_numbers.txt)
+             - 📄 [grep\-commands.txt](PYTHON/cheatsheet/python_code_snippets-master/Terminal/Grep/grep-commands.txt)
+             - 📄 [memo.txt](PYTHON/cheatsheet/python_code_snippets-master/Terminal/Grep/memo.txt)
+             - 📄 [names.txt](PYTHON/cheatsheet/python_code_snippets-master/Terminal/Grep/names.txt)
+         - 📄 [conda\_auto\_env.sh](PYTHON/cheatsheet/python_code_snippets-master/conda_auto_env.sh)
+         - 📄 [mem\_profile.py](PYTHON/cheatsheet/python_code_snippets-master/mem_profile.py)
+         - 📄 [mem\_profile\_old.py](PYTHON/cheatsheet/python_code_snippets-master/mem_profile_old.py)
+         - 📄 [random\_data.py](PYTHON/cheatsheet/python_code_snippets-master/random_data.py)
+     - 📂 __learning__
+       - 📄 [Python Tutorial Supplementary Materials.zip](PYTHON/learning/Python%20Tutorial%20Supplementary%20Materials.zip)
+       - 📂 __udacity__
+         - 📄 [learn.py](PYTHON/learning/udacity/learn.py)
+         - 📂 __venv__
+           - 📂 __bin__
+             - 📄 [activate](PYTHON/learning/udacity/venv/bin/activate)
+             - 📄 [activate.csh](PYTHON/learning/udacity/venv/bin/activate.csh)
+             - 📄 [activate.fish](PYTHON/learning/udacity/venv/bin/activate.fish)
+             - 📄 [activate\_this.py](PYTHON/learning/udacity/venv/bin/activate_this.py)
+             - 📄 [easy\_install](PYTHON/learning/udacity/venv/bin/easy_install)
+             - 📄 [easy\_install\-3.5](PYTHON/learning/udacity/venv/bin/easy_install-3.5)
+             - 📄 [pip](PYTHON/learning/udacity/venv/bin/pip)
+             - 📄 [pip3](PYTHON/learning/udacity/venv/bin/pip3)
+             - 📄 [pip3.5](PYTHON/learning/udacity/venv/bin/pip3.5)
+             - 📄 [python](PYTHON/learning/udacity/venv/bin/python)
+             - 📄 [python\-config](PYTHON/learning/udacity/venv/bin/python-config)
+             - 📄 [python3](PYTHON/learning/udacity/venv/bin/python3)
+             - 📄 [python3.5](PYTHON/learning/udacity/venv/bin/python3.5)
+             - 📄 [wheel](PYTHON/learning/udacity/venv/bin/wheel)
+           - 📂 __include__
+             - 📄 [python3.5m](PYTHON/learning/udacity/venv/include/python3.5m)
+           - 📂 __lib__
+             - 📂 __python3.5__
+               - 📄 [\_\_future\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/__future__.py)
+               - 📂 __\_\_pycache\_\___
+                 - 📄 [\_bootlocale.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/_bootlocale.cpython-35.pyc)
+                 - 📄 [\_collections\_abc.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/_collections_abc.cpython-35.pyc)
+                 - 📄 [\_weakrefset.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/_weakrefset.cpython-35.pyc)
+                 - 📄 [abc.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/abc.cpython-35.pyc)
+                 - 📄 [codecs.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/codecs.cpython-35.pyc)
+                 - 📄 [functools.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/functools.cpython-35.pyc)
+                 - 📄 [genericpath.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/genericpath.cpython-35.pyc)
+                 - 📄 [hashlib.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/hashlib.cpython-35.pyc)
+                 - 📄 [heapq.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/heapq.cpython-35.pyc)
+                 - 📄 [io.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/io.cpython-35.pyc)
+                 - 📄 [keyword.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/keyword.cpython-35.pyc)
+                 - 📄 [operator.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/operator.cpython-35.pyc)
+                 - 📄 [os.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/os.cpython-35.pyc)
+                 - 📄 [posixpath.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/posixpath.cpython-35.pyc)
+                 - 📄 [random.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/random.cpython-35.pyc)
+                 - 📄 [reprlib.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/reprlib.cpython-35.pyc)
+                 - 📄 [site.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/site.cpython-35.pyc)
+                 - 📄 [stat.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/stat.cpython-35.pyc)
+                 - 📄 [types.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/types.cpython-35.pyc)
+                 - 📄 [warnings.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/warnings.cpython-35.pyc)
+                 - 📄 [weakref.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/__pycache__/weakref.cpython-35.pyc)
+               - 📄 [\_bootlocale.py](PYTHON/learning/udacity/venv/lib/python3.5/_bootlocale.py)
+               - 📄 [\_collections\_abc.py](PYTHON/learning/udacity/venv/lib/python3.5/_collections_abc.py)
+               - 📄 [\_dummy\_thread.py](PYTHON/learning/udacity/venv/lib/python3.5/_dummy_thread.py)
+               - 📄 [\_weakrefset.py](PYTHON/learning/udacity/venv/lib/python3.5/_weakrefset.py)
+               - 📄 [abc.py](PYTHON/learning/udacity/venv/lib/python3.5/abc.py)
+               - 📄 [base64.py](PYTHON/learning/udacity/venv/lib/python3.5/base64.py)
+               - 📄 [bisect.py](PYTHON/learning/udacity/venv/lib/python3.5/bisect.py)
+               - 📄 [codecs.py](PYTHON/learning/udacity/venv/lib/python3.5/codecs.py)
+               - 📄 [collections](PYTHON/learning/udacity/venv/lib/python3.5/collections)
+               - 📄 [config\-3.5m\-x86\_64\-linux\-gnu](PYTHON/learning/udacity/venv/lib/python3.5/config-3.5m-x86_64-linux-gnu)
+               - 📄 [copy.py](PYTHON/learning/udacity/venv/lib/python3.5/copy.py)
+               - 📄 [copyreg.py](PYTHON/learning/udacity/venv/lib/python3.5/copyreg.py)
+               - 📂 __distutils__
+                 - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/distutils/__init__.py)
+                 - 📄 [distutils.cfg](PYTHON/learning/udacity/venv/lib/python3.5/distutils/distutils.cfg)
+               - 📄 [encodings](PYTHON/learning/udacity/venv/lib/python3.5/encodings)
+               - 📄 [fnmatch.py](PYTHON/learning/udacity/venv/lib/python3.5/fnmatch.py)
+               - 📄 [functools.py](PYTHON/learning/udacity/venv/lib/python3.5/functools.py)
+               - 📄 [genericpath.py](PYTHON/learning/udacity/venv/lib/python3.5/genericpath.py)
+               - 📄 [hashlib.py](PYTHON/learning/udacity/venv/lib/python3.5/hashlib.py)
+               - 📄 [heapq.py](PYTHON/learning/udacity/venv/lib/python3.5/heapq.py)
+               - 📄 [hmac.py](PYTHON/learning/udacity/venv/lib/python3.5/hmac.py)
+               - 📄 [imp.py](PYTHON/learning/udacity/venv/lib/python3.5/imp.py)
+               - 📄 [importlib](PYTHON/learning/udacity/venv/lib/python3.5/importlib)
+               - 📄 [io.py](PYTHON/learning/udacity/venv/lib/python3.5/io.py)
+               - 📄 [keyword.py](PYTHON/learning/udacity/venv/lib/python3.5/keyword.py)
+               - 📄 [lib\-dynload](PYTHON/learning/udacity/venv/lib/python3.5/lib-dynload)
+               - 📄 [linecache.py](PYTHON/learning/udacity/venv/lib/python3.5/linecache.py)
+               - 📄 [locale.py](PYTHON/learning/udacity/venv/lib/python3.5/locale.py)
+               - 📄 [no\-global\-site\-packages.txt](PYTHON/learning/udacity/venv/lib/python3.5/no-global-site-packages.txt)
+               - 📄 [ntpath.py](PYTHON/learning/udacity/venv/lib/python3.5/ntpath.py)
+               - 📄 [operator.py](PYTHON/learning/udacity/venv/lib/python3.5/operator.py)
+               - 📄 [orig\-prefix.txt](PYTHON/learning/udacity/venv/lib/python3.5/orig-prefix.txt)
+               - 📄 [os.py](PYTHON/learning/udacity/venv/lib/python3.5/os.py)
+               - 📄 [plat\-x86\_64\-linux\-gnu](PYTHON/learning/udacity/venv/lib/python3.5/plat-x86_64-linux-gnu)
+               - 📄 [posixpath.py](PYTHON/learning/udacity/venv/lib/python3.5/posixpath.py)
+               - 📄 [random.py](PYTHON/learning/udacity/venv/lib/python3.5/random.py)
+               - 📄 [re.py](PYTHON/learning/udacity/venv/lib/python3.5/re.py)
+               - 📄 [reprlib.py](PYTHON/learning/udacity/venv/lib/python3.5/reprlib.py)
+               - 📄 [rlcompleter.py](PYTHON/learning/udacity/venv/lib/python3.5/rlcompleter.py)
+               - 📄 [shutil.py](PYTHON/learning/udacity/venv/lib/python3.5/shutil.py)
+               - 📂 __site\-packages__
+                 - 📂 __\_\_pycache\_\___
+                   - 📄 [easy\_install.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/__pycache__/easy_install.cpython-35.pyc)
+                 - 📄 [easy\_install.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/easy_install.py)
+                 - 📂 __pip__
+                   - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/__init__.py)
+                   - 📄 [\_\_main\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/__main__.py)
+                   - 📂 __\_\_pycache\_\___
+                     - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/__pycache__/__init__.cpython-35.pyc)
+                     - 📄 [\_\_main\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/__pycache__/__main__.cpython-35.pyc)
+                     - 📄 [basecommand.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/__pycache__/basecommand.cpython-35.pyc)
+                     - 📄 [baseparser.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/__pycache__/baseparser.cpython-35.pyc)
+                     - 📄 [cmdoptions.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/__pycache__/cmdoptions.cpython-35.pyc)
+                     - 📄 [download.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/__pycache__/download.cpython-35.pyc)
+                     - 📄 [exceptions.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/__pycache__/exceptions.cpython-35.pyc)
+                     - 📄 [index.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/__pycache__/index.cpython-35.pyc)
+                     - 📄 [locations.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/__pycache__/locations.cpython-35.pyc)
+                     - 📄 [pep425tags.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/__pycache__/pep425tags.cpython-35.pyc)
+                     - 📄 [status\_codes.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/__pycache__/status_codes.cpython-35.pyc)
+                     - 📄 [wheel.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/__pycache__/wheel.cpython-35.pyc)
+                   - 📂 __\_vendor__
+                     - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/__init__.py)
+                     - 📂 __\_\_pycache\_\___
+                       - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/__pycache__/__init__.cpython-35.pyc)
+                       - 📄 [appdirs.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/__pycache__/appdirs.cpython-35.pyc)
+                       - 📄 [distro.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/__pycache__/distro.cpython-35.pyc)
+                       - 📄 [ipaddress.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/__pycache__/ipaddress.cpython-35.pyc)
+                       - 📄 [ordereddict.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/__pycache__/ordereddict.cpython-35.pyc)
+                       - 📄 [pyparsing.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/__pycache__/pyparsing.cpython-35.pyc)
+                       - 📄 [re\-vendor.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/__pycache__/re-vendor.cpython-35.pyc)
+                       - 📄 [retrying.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/__pycache__/retrying.cpython-35.pyc)
+                       - 📄 [six.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/__pycache__/six.cpython-35.pyc)
+                     - 📄 [appdirs.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/appdirs.py)
+                     - 📂 __cachecontrol__
+                       - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/__init__.py)
+                       - 📂 __\_\_pycache\_\___
+                         - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/__pycache__/__init__.cpython-35.pyc)
+                         - 📄 [\_cmd.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/__pycache__/_cmd.cpython-35.pyc)
+                         - 📄 [adapter.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/__pycache__/adapter.cpython-35.pyc)
+                         - 📄 [cache.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/__pycache__/cache.cpython-35.pyc)
+                         - 📄 [compat.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/__pycache__/compat.cpython-35.pyc)
+                         - 📄 [controller.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/__pycache__/controller.cpython-35.pyc)
+                         - 📄 [filewrapper.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/__pycache__/filewrapper.cpython-35.pyc)
+                         - 📄 [heuristics.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/__pycache__/heuristics.cpython-35.pyc)
+                         - 📄 [serialize.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/__pycache__/serialize.cpython-35.pyc)
+                         - 📄 [wrapper.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/__pycache__/wrapper.cpython-35.pyc)
+                       - 📄 [\_cmd.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/_cmd.py)
+                       - 📄 [adapter.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/adapter.py)
+                       - 📄 [cache.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/cache.py)
+                       - 📂 __caches__
+                         - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/__init__.py)
+                         - 📂 __\_\_pycache\_\___
+                           - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/__pycache__/__init__.cpython-35.pyc)
+                           - 📄 [file\_cache.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/__pycache__/file_cache.cpython-35.pyc)
+                           - 📄 [redis\_cache.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/__pycache__/redis_cache.cpython-35.pyc)
+                         - 📄 [file\_cache.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py)
+                         - 📄 [redis\_cache.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py)
+                       - 📄 [compat.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/compat.py)
+                       - 📄 [controller.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/controller.py)
+                       - 📄 [filewrapper.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/filewrapper.py)
+                       - 📄 [heuristics.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/heuristics.py)
+                       - 📄 [serialize.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/serialize.py)
+                       - 📄 [wrapper.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/wrapper.py)
+                     - 📂 __colorama__
+                       - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/colorama/__init__.py)
+                       - 📂 __\_\_pycache\_\___
+                         - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/colorama/__pycache__/__init__.cpython-35.pyc)
+                         - 📄 [ansi.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/colorama/__pycache__/ansi.cpython-35.pyc)
+                         - 📄 [ansitowin32.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/colorama/__pycache__/ansitowin32.cpython-35.pyc)
+                         - 📄 [initialise.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/colorama/__pycache__/initialise.cpython-35.pyc)
+                         - 📄 [win32.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/colorama/__pycache__/win32.cpython-35.pyc)
+                         - 📄 [winterm.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/colorama/__pycache__/winterm.cpython-35.pyc)
+                       - 📄 [ansi.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/colorama/ansi.py)
+                       - 📄 [ansitowin32.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/colorama/ansitowin32.py)
+                       - 📄 [initialise.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/colorama/initialise.py)
+                       - 📄 [win32.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/colorama/win32.py)
+                       - 📄 [winterm.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/colorama/winterm.py)
+                     - 📂 __distlib__
+                       - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/__init__.py)
+                       - 📂 __\_\_pycache\_\___
+                         - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/__pycache__/__init__.cpython-35.pyc)
+                         - 📄 [compat.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/__pycache__/compat.cpython-35.pyc)
+                         - 📄 [database.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/__pycache__/database.cpython-35.pyc)
+                         - 📄 [index.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/__pycache__/index.cpython-35.pyc)
+                         - 📄 [locators.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/__pycache__/locators.cpython-35.pyc)
+                         - 📄 [manifest.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/__pycache__/manifest.cpython-35.pyc)
+                         - 📄 [markers.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/__pycache__/markers.cpython-35.pyc)
+                         - 📄 [metadata.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/__pycache__/metadata.cpython-35.pyc)
+                         - 📄 [resources.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/__pycache__/resources.cpython-35.pyc)
+                         - 📄 [scripts.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/__pycache__/scripts.cpython-35.pyc)
+                         - 📄 [util.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/__pycache__/util.cpython-35.pyc)
+                         - 📄 [version.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/__pycache__/version.cpython-35.pyc)
+                         - 📄 [wheel.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/__pycache__/wheel.cpython-35.pyc)
+                       - 📂 __\_backport__
+                         - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/__init__.py)
+                         - 📂 __\_\_pycache\_\___
+                           - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/__pycache__/__init__.cpython-35.pyc)
+                           - 📄 [misc.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/__pycache__/misc.cpython-35.pyc)
+                           - 📄 [shutil.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/__pycache__/shutil.cpython-35.pyc)
+                           - 📄 [sysconfig.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/__pycache__/sysconfig.cpython-35.pyc)
+                           - 📄 [tarfile.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/__pycache__/tarfile.cpython-35.pyc)
+                         - 📄 [misc.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/misc.py)
+                         - 📄 [shutil.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/shutil.py)
+                         - 📄 [sysconfig.cfg](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg)
+                         - 📄 [sysconfig.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/sysconfig.py)
+                         - 📄 [tarfile.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/tarfile.py)
+                       - 📄 [compat.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/compat.py)
+                       - 📄 [database.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/database.py)
+                       - 📄 [index.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/index.py)
+                       - 📄 [locators.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/locators.py)
+                       - 📄 [manifest.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/manifest.py)
+                       - 📄 [markers.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/markers.py)
+                       - 📄 [metadata.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/metadata.py)
+                       - 📄 [resources.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/resources.py)
+                       - 📄 [scripts.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/scripts.py)
+                       - 📄 [t32.exe](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/t32.exe)
+                       - 📄 [t64.exe](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/t64.exe)
+                       - 📄 [util.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/util.py)
+                       - 📄 [version.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/version.py)
+                       - 📄 [w32.exe](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/w32.exe)
+                       - 📄 [w64.exe](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/w64.exe)
+                       - 📄 [wheel.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distlib/wheel.py)
+                     - 📄 [distro.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/distro.py)
+                     - 📂 __html5lib__
+                       - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/__init__.py)
+                       - 📂 __\_\_pycache\_\___
+                         - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/__pycache__/__init__.cpython-35.pyc)
+                         - 📄 [\_ihatexml.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/__pycache__/_ihatexml.cpython-35.pyc)
+                         - 📄 [\_inputstream.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/__pycache__/_inputstream.cpython-35.pyc)
+                         - 📄 [\_tokenizer.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/__pycache__/_tokenizer.cpython-35.pyc)
+                         - 📄 [\_utils.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/__pycache__/_utils.cpython-35.pyc)
+                         - 📄 [constants.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/__pycache__/constants.cpython-35.pyc)
+                         - 📄 [html5parser.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/__pycache__/html5parser.cpython-35.pyc)
+                         - 📄 [serializer.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/__pycache__/serializer.cpython-35.pyc)
+                       - 📄 [\_ihatexml.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_ihatexml.py)
+                       - 📄 [\_inputstream.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_inputstream.py)
+                       - 📄 [\_tokenizer.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_tokenizer.py)
+                       - 📂 __\_trie__
+                         - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/__init__.py)
+                         - 📂 __\_\_pycache\_\___
+                           - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/__pycache__/__init__.cpython-35.pyc)
+                           - 📄 [\_base.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/__pycache__/_base.cpython-35.pyc)
+                           - 📄 [datrie.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/__pycache__/datrie.cpython-35.pyc)
+                           - 📄 [py.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/__pycache__/py.cpython-35.pyc)
+                         - 📄 [\_base.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/_base.py)
+                         - 📄 [datrie.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/datrie.py)
+                         - 📄 [py.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/py.py)
+                       - 📄 [\_utils.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_utils.py)
+                       - 📄 [constants.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/constants.py)
+                       - 📂 __filters__
+                         - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/__init__.py)
+                         - 📂 __\_\_pycache\_\___
+                           - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/__pycache__/__init__.cpython-35.pyc)
+                           - 📄 [alphabeticalattributes.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/__pycache__/alphabeticalattributes.cpython-35.pyc)
+                           - 📄 [base.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/__pycache__/base.cpython-35.pyc)
+                           - 📄 [inject\_meta\_charset.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/__pycache__/inject_meta_charset.cpython-35.pyc)
+                           - 📄 [lint.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/__pycache__/lint.cpython-35.pyc)
+                           - 📄 [optionaltags.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/__pycache__/optionaltags.cpython-35.pyc)
+                           - 📄 [sanitizer.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/__pycache__/sanitizer.cpython-35.pyc)
+                           - 📄 [whitespace.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/__pycache__/whitespace.cpython-35.pyc)
+                         - 📄 [alphabeticalattributes.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py)
+                         - 📄 [base.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/base.py)
+                         - 📄 [inject\_meta\_charset.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py)
+                         - 📄 [lint.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/lint.py)
+                         - 📄 [optionaltags.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/optionaltags.py)
+                         - 📄 [sanitizer.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/sanitizer.py)
+                         - 📄 [whitespace.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/whitespace.py)
+                       - 📄 [html5parser.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/html5parser.py)
+                       - 📄 [serializer.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/serializer.py)
+                       - 📂 __treeadapters__
+                         - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py)
+                         - 📂 __\_\_pycache\_\___
+                           - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/__pycache__/__init__.cpython-35.pyc)
+                           - 📄 [genshi.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/__pycache__/genshi.cpython-35.pyc)
+                           - 📄 [sax.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/__pycache__/sax.cpython-35.pyc)
+                         - 📄 [genshi.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py)
+                         - 📄 [sax.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/sax.py)
+                       - 📂 __treebuilders__
+                         - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py)
+                         - 📂 __\_\_pycache\_\___
+                           - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/__pycache__/__init__.cpython-35.pyc)
+                           - 📄 [base.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/__pycache__/base.cpython-35.pyc)
+                           - 📄 [dom.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/__pycache__/dom.cpython-35.pyc)
+                           - 📄 [etree.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/__pycache__/etree.cpython-35.pyc)
+                           - 📄 [etree\_lxml.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/__pycache__/etree_lxml.cpython-35.pyc)
+                         - 📄 [base.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/base.py)
+                         - 📄 [dom.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/dom.py)
+                         - 📄 [etree.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/etree.py)
+                         - 📄 [etree\_lxml.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py)
+                       - 📂 __treewalkers__
+                         - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py)
+                         - 📂 __\_\_pycache\_\___
+                           - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/__pycache__/__init__.cpython-35.pyc)
+                           - 📄 [base.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/__pycache__/base.cpython-35.pyc)
+                           - 📄 [dom.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/__pycache__/dom.cpython-35.pyc)
+                           - 📄 [etree.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/__pycache__/etree.cpython-35.pyc)
+                           - 📄 [etree\_lxml.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/__pycache__/etree_lxml.cpython-35.pyc)
+                           - 📄 [genshi.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/__pycache__/genshi.cpython-35.pyc)
+                         - 📄 [base.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/base.py)
+                         - 📄 [dom.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/dom.py)
+                         - 📄 [etree.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/etree.py)
+                         - 📄 [etree\_lxml.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py)
+                         - 📄 [genshi.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py)
+                     - 📄 [ipaddress.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/ipaddress.py)
+                     - 📂 __lockfile__
+                       - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/lockfile/__init__.py)
+                       - 📂 __\_\_pycache\_\___
+                         - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/lockfile/__pycache__/__init__.cpython-35.pyc)
+                         - 📄 [linklockfile.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/lockfile/__pycache__/linklockfile.cpython-35.pyc)
+                         - 📄 [mkdirlockfile.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/lockfile/__pycache__/mkdirlockfile.cpython-35.pyc)
+                         - 📄 [pidlockfile.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/lockfile/__pycache__/pidlockfile.cpython-35.pyc)
+                         - 📄 [sqlitelockfile.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/lockfile/__pycache__/sqlitelockfile.cpython-35.pyc)
+                         - 📄 [symlinklockfile.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/lockfile/__pycache__/symlinklockfile.cpython-35.pyc)
+                       - 📄 [linklockfile.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/lockfile/linklockfile.py)
+                       - 📄 [mkdirlockfile.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/lockfile/mkdirlockfile.py)
+                       - 📄 [pidlockfile.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/lockfile/pidlockfile.py)
+                       - 📄 [sqlitelockfile.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/lockfile/sqlitelockfile.py)
+                       - 📄 [symlinklockfile.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/lockfile/symlinklockfile.py)
+                     - 📄 [ordereddict.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/ordereddict.py)
+                     - 📂 __packaging__
+                       - 📄 [\_\_about\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/__about__.py)
+                       - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/__init__.py)
+                       - 📂 __\_\_pycache\_\___
+                         - 📄 [\_\_about\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/__pycache__/__about__.cpython-35.pyc)
+                         - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/__pycache__/__init__.cpython-35.pyc)
+                         - 📄 [\_compat.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/__pycache__/_compat.cpython-35.pyc)
+                         - 📄 [\_structures.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/__pycache__/_structures.cpython-35.pyc)
+                         - 📄 [markers.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/__pycache__/markers.cpython-35.pyc)
+                         - 📄 [requirements.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/__pycache__/requirements.cpython-35.pyc)
+                         - 📄 [specifiers.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/__pycache__/specifiers.cpython-35.pyc)
+                         - 📄 [utils.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/__pycache__/utils.cpython-35.pyc)
+                         - 📄 [version.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/__pycache__/version.cpython-35.pyc)
+                       - 📄 [\_compat.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/_compat.py)
+                       - 📄 [\_structures.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/_structures.py)
+                       - 📄 [markers.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/markers.py)
+                       - 📄 [requirements.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/requirements.py)
+                       - 📄 [specifiers.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/specifiers.py)
+                       - 📄 [utils.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/utils.py)
+                       - 📄 [version.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/packaging/version.py)
+                     - 📂 __pkg\_resources__
+                       - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/pkg_resources/__init__.py)
+                       - 📂 __\_\_pycache\_\___
+                         - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/pkg_resources/__pycache__/__init__.cpython-35.pyc)
+                     - 📂 __progress__
+                       - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/progress/__init__.py)
+                       - 📂 __\_\_pycache\_\___
+                         - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/progress/__pycache__/__init__.cpython-35.pyc)
+                         - 📄 [bar.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/progress/__pycache__/bar.cpython-35.pyc)
+                         - 📄 [counter.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/progress/__pycache__/counter.cpython-35.pyc)
+                         - 📄 [helpers.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/progress/__pycache__/helpers.cpython-35.pyc)
+                         - 📄 [spinner.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/progress/__pycache__/spinner.cpython-35.pyc)
+                       - 📄 [bar.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/progress/bar.py)
+                       - 📄 [counter.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/progress/counter.py)
+                       - 📄 [helpers.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/progress/helpers.py)
+                       - 📄 [spinner.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/progress/spinner.py)
+                     - 📄 [pyparsing.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/pyparsing.py)
+                     - 📄 [re\-vendor.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/re-vendor.py)
+                     - 📂 __requests__
+                       - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/__init__.py)
+                       - 📂 __\_\_pycache\_\___
+                         - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/__pycache__/__init__.cpython-35.pyc)
+                         - 📄 [adapters.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/__pycache__/adapters.cpython-35.pyc)
+                         - 📄 [api.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/__pycache__/api.cpython-35.pyc)
+                         - 📄 [auth.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/__pycache__/auth.cpython-35.pyc)
+                         - 📄 [certs.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/__pycache__/certs.cpython-35.pyc)
+                         - 📄 [compat.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/__pycache__/compat.cpython-35.pyc)
+                         - 📄 [cookies.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/__pycache__/cookies.cpython-35.pyc)
+                         - 📄 [exceptions.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/__pycache__/exceptions.cpython-35.pyc)
+                         - 📄 [hooks.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/__pycache__/hooks.cpython-35.pyc)
+                         - 📄 [models.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/__pycache__/models.cpython-35.pyc)
+                         - 📄 [sessions.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/__pycache__/sessions.cpython-35.pyc)
+                         - 📄 [status\_codes.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/__pycache__/status_codes.cpython-35.pyc)
+                         - 📄 [structures.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/__pycache__/structures.cpython-35.pyc)
+                         - 📄 [utils.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/__pycache__/utils.cpython-35.pyc)
+                       - 📄 [adapters.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/adapters.py)
+                       - 📄 [api.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/api.py)
+                       - 📄 [auth.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/auth.py)
+                       - 📄 [cacert.pem](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/cacert.pem)
+                       - 📄 [certs.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/certs.py)
+                       - 📄 [compat.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/compat.py)
+                       - 📄 [cookies.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/cookies.py)
+                       - 📄 [exceptions.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/exceptions.py)
+                       - 📄 [hooks.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/hooks.py)
+                       - 📄 [models.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/models.py)
+                       - 📂 __packages__
+                         - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/__init__.py)
+                         - 📂 __\_\_pycache\_\___
+                           - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/__pycache__/__init__.cpython-35.pyc)
+                         - 📂 __chardet__
+                           - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__init__.py)
+                           - 📂 __\_\_pycache\_\___
+                             - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/__init__.cpython-35.pyc)
+                             - 📄 [big5freq.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/big5freq.cpython-35.pyc)
+                             - 📄 [big5prober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/big5prober.cpython-35.pyc)
+                             - 📄 [chardetect.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/chardetect.cpython-35.pyc)
+                             - 📄 [chardistribution.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/chardistribution.cpython-35.pyc)
+                             - 📄 [charsetgroupprober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/charsetgroupprober.cpython-35.pyc)
+                             - 📄 [charsetprober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/charsetprober.cpython-35.pyc)
+                             - 📄 [codingstatemachine.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/codingstatemachine.cpython-35.pyc)
+                             - 📄 [compat.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/compat.cpython-35.pyc)
+                             - 📄 [constants.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/constants.cpython-35.pyc)
+                             - 📄 [cp949prober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/cp949prober.cpython-35.pyc)
+                             - 📄 [escprober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/escprober.cpython-35.pyc)
+                             - 📄 [escsm.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/escsm.cpython-35.pyc)
+                             - 📄 [eucjpprober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/eucjpprober.cpython-35.pyc)
+                             - 📄 [euckrfreq.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/euckrfreq.cpython-35.pyc)
+                             - 📄 [euckrprober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/euckrprober.cpython-35.pyc)
+                             - 📄 [euctwfreq.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/euctwfreq.cpython-35.pyc)
+                             - 📄 [euctwprober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/euctwprober.cpython-35.pyc)
+                             - 📄 [gb2312freq.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/gb2312freq.cpython-35.pyc)
+                             - 📄 [gb2312prober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/gb2312prober.cpython-35.pyc)
+                             - 📄 [hebrewprober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/hebrewprober.cpython-35.pyc)
+                             - 📄 [jisfreq.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/jisfreq.cpython-35.pyc)
+                             - 📄 [jpcntx.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/jpcntx.cpython-35.pyc)
+                             - 📄 [langbulgarianmodel.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/langbulgarianmodel.cpython-35.pyc)
+                             - 📄 [langcyrillicmodel.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/langcyrillicmodel.cpython-35.pyc)
+                             - 📄 [langgreekmodel.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/langgreekmodel.cpython-35.pyc)
+                             - 📄 [langhebrewmodel.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/langhebrewmodel.cpython-35.pyc)
+                             - 📄 [langhungarianmodel.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/langhungarianmodel.cpython-35.pyc)
+                             - 📄 [langthaimodel.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/langthaimodel.cpython-35.pyc)
+                             - 📄 [latin1prober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/latin1prober.cpython-35.pyc)
+                             - 📄 [mbcharsetprober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/mbcharsetprober.cpython-35.pyc)
+                             - 📄 [mbcsgroupprober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/mbcsgroupprober.cpython-35.pyc)
+                             - 📄 [mbcssm.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/mbcssm.cpython-35.pyc)
+                             - 📄 [sbcharsetprober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/sbcharsetprober.cpython-35.pyc)
+                             - 📄 [sbcsgroupprober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/sbcsgroupprober.cpython-35.pyc)
+                             - 📄 [sjisprober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/sjisprober.cpython-35.pyc)
+                             - 📄 [universaldetector.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/universaldetector.cpython-35.pyc)
+                             - 📄 [utf8prober.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__pycache__/utf8prober.cpython-35.pyc)
+                           - 📄 [big5freq.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py)
+                           - 📄 [big5prober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py)
+                           - 📄 [chardetect.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py)
+                           - 📄 [chardistribution.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py)
+                           - 📄 [charsetgroupprober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py)
+                           - 📄 [charsetprober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py)
+                           - 📄 [codingstatemachine.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py)
+                           - 📄 [compat.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/compat.py)
+                           - 📄 [constants.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/constants.py)
+                           - 📄 [cp949prober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py)
+                           - 📄 [escprober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/escprober.py)
+                           - 📄 [escsm.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/escsm.py)
+                           - 📄 [eucjpprober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py)
+                           - 📄 [euckrfreq.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py)
+                           - 📄 [euckrprober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py)
+                           - 📄 [euctwfreq.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py)
+                           - 📄 [euctwprober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py)
+                           - 📄 [gb2312freq.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py)
+                           - 📄 [gb2312prober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py)
+                           - 📄 [hebrewprober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py)
+                           - 📄 [jisfreq.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py)
+                           - 📄 [jpcntx.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py)
+                           - 📄 [langbulgarianmodel.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py)
+                           - 📄 [langcyrillicmodel.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py)
+                           - 📄 [langgreekmodel.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py)
+                           - 📄 [langhebrewmodel.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py)
+                           - 📄 [langhungarianmodel.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py)
+                           - 📄 [langthaimodel.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py)
+                           - 📄 [latin1prober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py)
+                           - 📄 [mbcharsetprober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py)
+                           - 📄 [mbcsgroupprober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py)
+                           - 📄 [mbcssm.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py)
+                           - 📄 [sbcharsetprober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py)
+                           - 📄 [sbcsgroupprober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py)
+                           - 📄 [sjisprober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py)
+                           - 📄 [universaldetector.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py)
+                           - 📄 [utf8prober.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py)
+                         - 📂 __urllib3__
+                           - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py)
+                           - 📂 __\_\_pycache\_\___
+                             - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/__pycache__/__init__.cpython-35.pyc)
+                             - 📄 [\_collections.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/__pycache__/_collections.cpython-35.pyc)
+                             - 📄 [connection.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/__pycache__/connection.cpython-35.pyc)
+                             - 📄 [connectionpool.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/__pycache__/connectionpool.cpython-35.pyc)
+                             - 📄 [exceptions.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/__pycache__/exceptions.cpython-35.pyc)
+                             - 📄 [fields.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/__pycache__/fields.cpython-35.pyc)
+                             - 📄 [filepost.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/__pycache__/filepost.cpython-35.pyc)
+                             - 📄 [poolmanager.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/__pycache__/poolmanager.cpython-35.pyc)
+                             - 📄 [request.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/__pycache__/request.cpython-35.pyc)
+                             - 📄 [response.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/__pycache__/response.cpython-35.pyc)
+                           - 📄 [\_collections.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py)
+                           - 📄 [connection.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/connection.py)
+                           - 📄 [connectionpool.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py)
+                           - 📂 __contrib__
+                             - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py)
+                             - 📂 __\_\_pycache\_\___
+                               - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__pycache__/__init__.cpython-35.pyc)
+                               - 📄 [appengine.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__pycache__/appengine.cpython-35.pyc)
+                               - 📄 [ntlmpool.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__pycache__/ntlmpool.cpython-35.pyc)
+                               - 📄 [pyopenssl.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__pycache__/pyopenssl.cpython-35.pyc)
+                               - 📄 [socks.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__pycache__/socks.cpython-35.pyc)
+                             - 📄 [appengine.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/appengine.py)
+                             - 📄 [ntlmpool.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py)
+                             - 📄 [pyopenssl.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py)
+                             - 📄 [socks.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/socks.py)
+                           - 📄 [exceptions.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py)
+                           - 📄 [fields.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/fields.py)
+                           - 📄 [filepost.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py)
+                           - 📂 __packages__
+                             - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py)
+                             - 📂 __\_\_pycache\_\___
+                               - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/__pycache__/__init__.cpython-35.pyc)
+                               - 📄 [ordered\_dict.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/__pycache__/ordered_dict.cpython-35.pyc)
+                               - 📄 [six.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/__pycache__/six.cpython-35.pyc)
+                             - 📄 [ordered\_dict.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py)
+                             - 📄 [six.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py)
+                             - 📂 __ssl\_match\_hostname__
+                               - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py)
+                               - 📂 __\_\_pycache\_\___
+                                 - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__pycache__/__init__.cpython-35.pyc)
+                                 - 📄 [\_implementation.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__pycache__/_implementation.cpython-35.pyc)
+                               - 📄 [\_implementation.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py)
+                           - 📄 [poolmanager.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py)
+                           - 📄 [request.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/request.py)
+                           - 📄 [response.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/response.py)
+                           - 📂 __util__
+                             - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py)
+                             - 📂 __\_\_pycache\_\___
+                               - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/__pycache__/__init__.cpython-35.pyc)
+                               - 📄 [connection.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/__pycache__/connection.cpython-35.pyc)
+                               - 📄 [request.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/__pycache__/request.cpython-35.pyc)
+                               - 📄 [response.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/__pycache__/response.cpython-35.pyc)
+                               - 📄 [retry.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/__pycache__/retry.cpython-35.pyc)
+                               - 📄 [ssl\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/__pycache__/ssl_.cpython-35.pyc)
+                               - 📄 [timeout.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/__pycache__/timeout.cpython-35.pyc)
+                               - 📄 [url.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/__pycache__/url.cpython-35.pyc)
+                             - 📄 [connection.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py)
+                             - 📄 [request.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py)
+                             - 📄 [response.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py)
+                             - 📄 [retry.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.py)
+                             - 📄 [ssl\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py)
+                             - 📄 [timeout.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py)
+                             - 📄 [url.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py)
+                       - 📄 [sessions.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/sessions.py)
+                       - 📄 [status\_codes.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/status_codes.py)
+                       - 📄 [structures.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/structures.py)
+                       - 📄 [utils.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/requests/utils.py)
+                     - 📄 [retrying.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/retrying.py)
+                     - 📄 [six.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/six.py)
+                     - 📂 __webencodings__
+                       - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/webencodings/__init__.py)
+                       - 📂 __\_\_pycache\_\___
+                         - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/webencodings/__pycache__/__init__.cpython-35.pyc)
+                         - 📄 [labels.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/webencodings/__pycache__/labels.cpython-35.pyc)
+                         - 📄 [mklabels.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/webencodings/__pycache__/mklabels.cpython-35.pyc)
+                         - 📄 [tests.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/webencodings/__pycache__/tests.cpython-35.pyc)
+                         - 📄 [x\_user\_defined.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/webencodings/__pycache__/x_user_defined.cpython-35.pyc)
+                       - 📄 [labels.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/webencodings/labels.py)
+                       - 📄 [mklabels.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/webencodings/mklabels.py)
+                       - 📄 [tests.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/webencodings/tests.py)
+                       - 📄 [x\_user\_defined.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/_vendor/webencodings/x_user_defined.py)
+                   - 📄 [basecommand.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/basecommand.py)
+                   - 📄 [baseparser.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/baseparser.py)
+                   - 📄 [cmdoptions.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/cmdoptions.py)
+                   - 📂 __commands__
+                     - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/__init__.py)
+                     - 📂 __\_\_pycache\_\___
+                       - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/__pycache__/__init__.cpython-35.pyc)
+                       - 📄 [check.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/__pycache__/check.cpython-35.pyc)
+                       - 📄 [completion.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/__pycache__/completion.cpython-35.pyc)
+                       - 📄 [download.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/__pycache__/download.cpython-35.pyc)
+                       - 📄 [freeze.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/__pycache__/freeze.cpython-35.pyc)
+                       - 📄 [hash.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/__pycache__/hash.cpython-35.pyc)
+                       - 📄 [help.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/__pycache__/help.cpython-35.pyc)
+                       - 📄 [install.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/__pycache__/install.cpython-35.pyc)
+                       - 📄 [list.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/__pycache__/list.cpython-35.pyc)
+                       - 📄 [search.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/__pycache__/search.cpython-35.pyc)
+                       - 📄 [show.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/__pycache__/show.cpython-35.pyc)
+                       - 📄 [uninstall.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/__pycache__/uninstall.cpython-35.pyc)
+                       - 📄 [wheel.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/__pycache__/wheel.cpython-35.pyc)
+                     - 📄 [check.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/check.py)
+                     - 📄 [completion.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/completion.py)
+                     - 📄 [download.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/download.py)
+                     - 📄 [freeze.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/freeze.py)
+                     - 📄 [hash.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/hash.py)
+                     - 📄 [help.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/help.py)
+                     - 📄 [install.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/install.py)
+                     - 📄 [list.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/list.py)
+                     - 📄 [search.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/search.py)
+                     - 📄 [show.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/show.py)
+                     - 📄 [uninstall.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/uninstall.py)
+                     - 📄 [wheel.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/commands/wheel.py)
+                   - 📂 __compat__
+                     - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/compat/__init__.py)
+                     - 📂 __\_\_pycache\_\___
+                       - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/compat/__pycache__/__init__.cpython-35.pyc)
+                       - 📄 [dictconfig.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/compat/__pycache__/dictconfig.cpython-35.pyc)
+                     - 📄 [dictconfig.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/compat/dictconfig.py)
+                   - 📄 [download.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/download.py)
+                   - 📄 [exceptions.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/exceptions.py)
+                   - 📄 [index.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/index.py)
+                   - 📄 [locations.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/locations.py)
+                   - 📂 __models__
+                     - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/models/__init__.py)
+                     - 📂 __\_\_pycache\_\___
+                       - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/models/__pycache__/__init__.cpython-35.pyc)
+                       - 📄 [index.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/models/__pycache__/index.cpython-35.pyc)
+                     - 📄 [index.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/models/index.py)
+                   - 📂 __operations__
+                     - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/operations/__init__.py)
+                     - 📂 __\_\_pycache\_\___
+                       - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/operations/__pycache__/__init__.cpython-35.pyc)
+                       - 📄 [check.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/operations/__pycache__/check.cpython-35.pyc)
+                       - 📄 [freeze.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/operations/__pycache__/freeze.cpython-35.pyc)
+                     - 📄 [check.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/operations/check.py)
+                     - 📄 [freeze.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/operations/freeze.py)
+                   - 📄 [pep425tags.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/pep425tags.py)
+                   - 📂 __req__
+                     - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/req/__init__.py)
+                     - 📂 __\_\_pycache\_\___
+                       - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/req/__pycache__/__init__.cpython-35.pyc)
+                       - 📄 [req\_file.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/req/__pycache__/req_file.cpython-35.pyc)
+                       - 📄 [req\_install.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/req/__pycache__/req_install.cpython-35.pyc)
+                       - 📄 [req\_set.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/req/__pycache__/req_set.cpython-35.pyc)
+                       - 📄 [req\_uninstall.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/req/__pycache__/req_uninstall.cpython-35.pyc)
+                     - 📄 [req\_file.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/req/req_file.py)
+                     - 📄 [req\_install.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/req/req_install.py)
+                     - 📄 [req\_set.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/req/req_set.py)
+                     - 📄 [req\_uninstall.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/req/req_uninstall.py)
+                   - 📄 [status\_codes.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/status_codes.py)
+                   - 📂 __utils__
+                     - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/__init__.py)
+                     - 📂 __\_\_pycache\_\___
+                       - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/__pycache__/__init__.cpython-35.pyc)
+                       - 📄 [appdirs.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/__pycache__/appdirs.cpython-35.pyc)
+                       - 📄 [build.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/__pycache__/build.cpython-35.pyc)
+                       - 📄 [deprecation.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/__pycache__/deprecation.cpython-35.pyc)
+                       - 📄 [encoding.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/__pycache__/encoding.cpython-35.pyc)
+                       - 📄 [filesystem.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/__pycache__/filesystem.cpython-35.pyc)
+                       - 📄 [glibc.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/__pycache__/glibc.cpython-35.pyc)
+                       - 📄 [hashes.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/__pycache__/hashes.cpython-35.pyc)
+                       - 📄 [logging.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/__pycache__/logging.cpython-35.pyc)
+                       - 📄 [outdated.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/__pycache__/outdated.cpython-35.pyc)
+                       - 📄 [packaging.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/__pycache__/packaging.cpython-35.pyc)
+                       - 📄 [setuptools\_build.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/__pycache__/setuptools_build.cpython-35.pyc)
+                       - 📄 [ui.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/__pycache__/ui.cpython-35.pyc)
+                     - 📄 [appdirs.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/appdirs.py)
+                     - 📄 [build.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/build.py)
+                     - 📄 [deprecation.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/deprecation.py)
+                     - 📄 [encoding.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/encoding.py)
+                     - 📄 [filesystem.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/filesystem.py)
+                     - 📄 [glibc.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/glibc.py)
+                     - 📄 [hashes.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/hashes.py)
+                     - 📄 [logging.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/logging.py)
+                     - 📄 [outdated.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/outdated.py)
+                     - 📄 [packaging.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/packaging.py)
+                     - 📄 [setuptools\_build.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/setuptools_build.py)
+                     - 📄 [ui.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/utils/ui.py)
+                   - 📂 __vcs__
+                     - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/vcs/__init__.py)
+                     - 📂 __\_\_pycache\_\___
+                       - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/vcs/__pycache__/__init__.cpython-35.pyc)
+                       - 📄 [bazaar.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/vcs/__pycache__/bazaar.cpython-35.pyc)
+                       - 📄 [git.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/vcs/__pycache__/git.cpython-35.pyc)
+                       - 📄 [mercurial.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/vcs/__pycache__/mercurial.cpython-35.pyc)
+                       - 📄 [subversion.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/vcs/__pycache__/subversion.cpython-35.pyc)
+                     - 📄 [bazaar.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/vcs/bazaar.py)
+                     - 📄 [git.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/vcs/git.py)
+                     - 📄 [mercurial.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/vcs/mercurial.py)
+                     - 📄 [subversion.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/vcs/subversion.py)
+                   - 📄 [wheel.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip/wheel.py)
+                 - 📂 __pip\-9.0.1.dist\-info__
+                   - 📄 [DESCRIPTION.rst](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/DESCRIPTION.rst)
+                   - 📄 [INSTALLER](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/INSTALLER)
+                   - 📄 [METADATA](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/METADATA)
+                   - 📄 [RECORD](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/RECORD)
+                   - 📄 [WHEEL](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/WHEEL)
+                   - 📄 [entry\_points.txt](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/entry_points.txt)
+                   - 📄 [metadata.json](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/metadata.json)
+                   - 📄 [top\_level.txt](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/top_level.txt)
+                 - 📂 __pkg\_resources__
+                   - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/__init__.py)
+                   - 📂 __\_\_pycache\_\___
+                     - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/__pycache__/__init__.cpython-35.pyc)
+                   - 📂 __\_vendor__
+                     - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/__init__.py)
+                     - 📂 __\_\_pycache\_\___
+                       - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/__pycache__/__init__.cpython-35.pyc)
+                       - 📄 [appdirs.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/__pycache__/appdirs.cpython-35.pyc)
+                       - 📄 [pyparsing.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/__pycache__/pyparsing.cpython-35.pyc)
+                       - 📄 [six.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/__pycache__/six.cpython-35.pyc)
+                     - 📄 [appdirs.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/appdirs.py)
+                     - 📂 __packaging__
+                       - 📄 [\_\_about\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__about__.py)
+                       - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__init__.py)
+                       - 📂 __\_\_pycache\_\___
+                         - 📄 [\_\_about\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__pycache__/__about__.cpython-35.pyc)
+                         - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__pycache__/__init__.cpython-35.pyc)
+                         - 📄 [\_compat.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__pycache__/_compat.cpython-35.pyc)
+                         - 📄 [\_structures.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__pycache__/_structures.cpython-35.pyc)
+                         - 📄 [markers.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__pycache__/markers.cpython-35.pyc)
+                         - 📄 [requirements.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__pycache__/requirements.cpython-35.pyc)
+                         - 📄 [specifiers.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__pycache__/specifiers.cpython-35.pyc)
+                         - 📄 [utils.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__pycache__/utils.cpython-35.pyc)
+                         - 📄 [version.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__pycache__/version.cpython-35.pyc)
+                       - 📄 [\_compat.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/_compat.py)
+                       - 📄 [\_structures.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/_structures.py)
+                       - 📄 [markers.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/markers.py)
+                       - 📄 [requirements.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/requirements.py)
+                       - 📄 [specifiers.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/specifiers.py)
+                       - 📄 [utils.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/utils.py)
+                       - 📄 [version.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/version.py)
+                     - 📄 [pyparsing.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/pyparsing.py)
+                     - 📄 [six.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/_vendor/six.py)
+                   - 📂 __extern__
+                     - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/extern/__init__.py)
+                     - 📂 __\_\_pycache\_\___
+                       - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/pkg_resources/extern/__pycache__/__init__.cpython-35.pyc)
+                 - 📂 __setuptools__
+                   - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__init__.py)
+                   - 📂 __\_\_pycache\_\___
+                     - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/__init__.cpython-35.pyc)
+                     - 📄 [archive\_util.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/archive_util.cpython-35.pyc)
+                     - 📄 [depends.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/depends.cpython-35.pyc)
+                     - 📄 [dist.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/dist.cpython-35.pyc)
+                     - 📄 [extension.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/extension.cpython-35.pyc)
+                     - 📄 [glob.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/glob.cpython-35.pyc)
+                     - 📄 [launch.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/launch.cpython-35.pyc)
+                     - 📄 [lib2to3\_ex.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/lib2to3_ex.cpython-35.pyc)
+                     - 📄 [monkey.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/monkey.cpython-35.pyc)
+                     - 📄 [msvc.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/msvc.cpython-35.pyc)
+                     - 📄 [namespaces.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/namespaces.cpython-35.pyc)
+                     - 📄 [package\_index.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/package_index.cpython-35.pyc)
+                     - 📄 [py26compat.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/py26compat.cpython-35.pyc)
+                     - 📄 [py27compat.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/py27compat.cpython-35.pyc)
+                     - 📄 [py31compat.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/py31compat.cpython-35.pyc)
+                     - 📄 [sandbox.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/sandbox.cpython-35.pyc)
+                     - 📄 [site\-patch.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/site-patch.cpython-35.pyc)
+                     - 📄 [ssl\_support.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/ssl_support.cpython-35.pyc)
+                     - 📄 [unicode\_utils.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/unicode_utils.cpython-35.pyc)
+                     - 📄 [version.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/version.cpython-35.pyc)
+                     - 📄 [windows\_support.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/__pycache__/windows_support.cpython-35.pyc)
+                   - 📄 [archive\_util.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/archive_util.py)
+                   - 📄 [cli\-32.exe](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/cli-32.exe)
+                   - 📄 [cli\-64.exe](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/cli-64.exe)
+                   - 📄 [cli.exe](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/cli.exe)
+                   - 📂 __command__
+                     - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__init__.py)
+                     - 📂 __\_\_pycache\_\___
+                       - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/__init__.cpython-35.pyc)
+                       - 📄 [alias.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/alias.cpython-35.pyc)
+                       - 📄 [bdist\_egg.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/bdist_egg.cpython-35.pyc)
+                       - 📄 [bdist\_rpm.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/bdist_rpm.cpython-35.pyc)
+                       - 📄 [bdist\_wininst.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/bdist_wininst.cpython-35.pyc)
+                       - 📄 [build\_ext.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/build_ext.cpython-35.pyc)
+                       - 📄 [build\_py.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/build_py.cpython-35.pyc)
+                       - 📄 [develop.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/develop.cpython-35.pyc)
+                       - 📄 [easy\_install.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/easy_install.cpython-35.pyc)
+                       - 📄 [egg\_info.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/egg_info.cpython-35.pyc)
+                       - 📄 [install.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/install.cpython-35.pyc)
+                       - 📄 [install\_egg\_info.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/install_egg_info.cpython-35.pyc)
+                       - 📄 [install\_lib.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/install_lib.cpython-35.pyc)
+                       - 📄 [install\_scripts.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/install_scripts.cpython-35.pyc)
+                       - 📄 [py36compat.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/py36compat.cpython-35.pyc)
+                       - 📄 [register.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/register.cpython-35.pyc)
+                       - 📄 [rotate.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/rotate.cpython-35.pyc)
+                       - 📄 [saveopts.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/saveopts.cpython-35.pyc)
+                       - 📄 [sdist.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/sdist.cpython-35.pyc)
+                       - 📄 [setopt.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/setopt.cpython-35.pyc)
+                       - 📄 [test.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/test.cpython-35.pyc)
+                       - 📄 [upload.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/upload.cpython-35.pyc)
+                       - 📄 [upload\_docs.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/__pycache__/upload_docs.cpython-35.pyc)
+                     - 📄 [alias.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/alias.py)
+                     - 📄 [bdist\_egg.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/bdist_egg.py)
+                     - 📄 [bdist\_rpm.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/bdist_rpm.py)
+                     - 📄 [bdist\_wininst.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/bdist_wininst.py)
+                     - 📄 [build\_ext.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/build_ext.py)
+                     - 📄 [build\_py.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/build_py.py)
+                     - 📄 [develop.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/develop.py)
+                     - 📄 [easy\_install.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/easy_install.py)
+                     - 📄 [egg\_info.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/egg_info.py)
+                     - 📄 [install.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/install.py)
+                     - 📄 [install\_egg\_info.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/install_egg_info.py)
+                     - 📄 [install\_lib.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/install_lib.py)
+                     - 📄 [install\_scripts.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/install_scripts.py)
+                     - 📄 [launcher manifest.xml](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/launcher%20manifest.xml)
+                     - 📄 [py36compat.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/py36compat.py)
+                     - 📄 [register.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/register.py)
+                     - 📄 [rotate.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/rotate.py)
+                     - 📄 [saveopts.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/saveopts.py)
+                     - 📄 [sdist.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/sdist.py)
+                     - 📄 [setopt.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/setopt.py)
+                     - 📄 [test.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/test.py)
+                     - 📄 [upload.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/upload.py)
+                     - 📄 [upload\_docs.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/command/upload_docs.py)
+                   - 📄 [depends.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/depends.py)
+                   - 📄 [dist.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/dist.py)
+                   - 📄 [extension.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/extension.py)
+                   - 📂 __extern__
+                     - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/extern/__init__.py)
+                     - 📂 __\_\_pycache\_\___
+                       - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/extern/__pycache__/__init__.cpython-35.pyc)
+                   - 📄 [glob.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/glob.py)
+                   - 📄 [gui\-32.exe](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/gui-32.exe)
+                   - 📄 [gui\-64.exe](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/gui-64.exe)
+                   - 📄 [gui.exe](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/gui.exe)
+                   - 📄 [launch.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/launch.py)
+                   - 📄 [lib2to3\_ex.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/lib2to3_ex.py)
+                   - 📄 [monkey.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/monkey.py)
+                   - 📄 [msvc.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/msvc.py)
+                   - 📄 [namespaces.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/namespaces.py)
+                   - 📄 [package\_index.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/package_index.py)
+                   - 📄 [py26compat.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/py26compat.py)
+                   - 📄 [py27compat.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/py27compat.py)
+                   - 📄 [py31compat.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/py31compat.py)
+                   - 📄 [sandbox.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/sandbox.py)
+                   - 📄 [script (dev).tmpl](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/script%20(dev).tmpl)
+                   - 📄 [script.tmpl](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/script.tmpl)
+                   - 📄 [site\-patch.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/site-patch.py)
+                   - 📄 [ssl\_support.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/ssl_support.py)
+                   - 📄 [unicode\_utils.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/unicode_utils.py)
+                   - 📄 [version.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/version.py)
+                   - 📄 [windows\_support.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools/windows_support.py)
+                 - 📂 __setuptools\-28.8.0.dist\-info__
+                   - 📄 [DESCRIPTION.rst](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools-28.8.0.dist-info/DESCRIPTION.rst)
+                   - 📄 [INSTALLER](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools-28.8.0.dist-info/INSTALLER)
+                   - 📄 [METADATA](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools-28.8.0.dist-info/METADATA)
+                   - 📄 [RECORD](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools-28.8.0.dist-info/RECORD)
+                   - 📄 [WHEEL](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools-28.8.0.dist-info/WHEEL)
+                   - 📄 [dependency\_links.txt](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools-28.8.0.dist-info/dependency_links.txt)
+                   - 📄 [entry\_points.txt](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools-28.8.0.dist-info/entry_points.txt)
+                   - 📄 [metadata.json](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools-28.8.0.dist-info/metadata.json)
+                   - 📄 [top\_level.txt](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools-28.8.0.dist-info/top_level.txt)
+                   - 📄 [zip\-safe](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/setuptools-28.8.0.dist-info/zip-safe)
+                 - 📂 __wheel__
+                   - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/__init__.py)
+                   - 📄 [\_\_main\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/__main__.py)
+                   - 📂 __\_\_pycache\_\___
+                     - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/__pycache__/__init__.cpython-35.pyc)
+                     - 📄 [\_\_main\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/__pycache__/__main__.cpython-35.pyc)
+                     - 📄 [archive.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/__pycache__/archive.cpython-35.pyc)
+                     - 📄 [bdist\_wheel.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/__pycache__/bdist_wheel.cpython-35.pyc)
+                     - 📄 [decorator.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/__pycache__/decorator.cpython-35.pyc)
+                     - 📄 [egg2wheel.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/__pycache__/egg2wheel.cpython-35.pyc)
+                     - 📄 [install.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/__pycache__/install.cpython-35.pyc)
+                     - 📄 [metadata.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/__pycache__/metadata.cpython-35.pyc)
+                     - 📄 [paths.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/__pycache__/paths.cpython-35.pyc)
+                     - 📄 [pep425tags.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/__pycache__/pep425tags.cpython-35.pyc)
+                     - 📄 [pkginfo.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/__pycache__/pkginfo.cpython-35.pyc)
+                     - 📄 [util.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/__pycache__/util.cpython-35.pyc)
+                     - 📄 [wininst2wheel.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/__pycache__/wininst2wheel.cpython-35.pyc)
+                   - 📄 [archive.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/archive.py)
+                   - 📄 [bdist\_wheel.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/bdist_wheel.py)
+                   - 📄 [decorator.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/decorator.py)
+                   - 📄 [egg2wheel.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/egg2wheel.py)
+                   - 📄 [eggnames.txt](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/eggnames.txt)
+                   - 📄 [install.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/install.py)
+                   - 📄 [metadata.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/metadata.py)
+                   - 📄 [paths.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/paths.py)
+                   - 📄 [pep425tags.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/pep425tags.py)
+                   - 📄 [pkginfo.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/pkginfo.py)
+                   - 📂 __signatures__
+                     - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/signatures/__init__.py)
+                     - 📂 __\_\_pycache\_\___
+                       - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/signatures/__pycache__/__init__.cpython-35.pyc)
+                       - 📄 [djbec.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/signatures/__pycache__/djbec.cpython-35.pyc)
+                       - 📄 [ed25519py.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/signatures/__pycache__/ed25519py.cpython-35.pyc)
+                       - 📄 [keys.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/signatures/__pycache__/keys.cpython-35.pyc)
+                     - 📄 [djbec.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/signatures/djbec.py)
+                     - 📄 [ed25519py.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/signatures/ed25519py.py)
+                     - 📄 [keys.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/signatures/keys.py)
+                   - 📂 __test__
+                     - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/__init__.py)
+                     - 📂 __\_\_pycache\_\___
+                       - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/__pycache__/__init__.cpython-35.pyc)
+                       - 📄 [test\_basic.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/__pycache__/test_basic.cpython-35.pyc)
+                       - 📄 [test\_install.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/__pycache__/test_install.cpython-35.pyc)
+                       - 📄 [test\_keys.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/__pycache__/test_keys.cpython-35.pyc)
+                       - 📄 [test\_paths.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/__pycache__/test_paths.cpython-35.pyc)
+                       - 📄 [test\_ranking.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/__pycache__/test_ranking.cpython-35.pyc)
+                       - 📄 [test\_signatures.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/__pycache__/test_signatures.cpython-35.pyc)
+                       - 📄 [test\_tagopt.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/__pycache__/test_tagopt.cpython-35.pyc)
+                       - 📄 [test\_tool.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/__pycache__/test_tool.cpython-35.pyc)
+                       - 📄 [test\_wheelfile.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/__pycache__/test_wheelfile.cpython-35.pyc)
+                     - 📂 __complex\-dist__
+                       - 📂 __\_\_pycache\_\___
+                         - 📄 [setup.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/complex-dist/__pycache__/setup.cpython-35.pyc)
+                       - 📂 __complexdist__
+                         - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/complex-dist/complexdist/__init__.py)
+                         - 📂 __\_\_pycache\_\___
+                           - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/complex-dist/complexdist/__pycache__/__init__.cpython-35.pyc)
+                       - 📄 [setup.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/complex-dist/setup.py)
+                     - 📂 __headers.dist__
+                       - 📂 __\_\_pycache\_\___
+                         - 📄 [headersdist.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/headers.dist/__pycache__/headersdist.cpython-35.pyc)
+                         - 📄 [setup.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/headers.dist/__pycache__/setup.cpython-35.pyc)
+                       - 📄 [header.h](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/headers.dist/header.h)
+                       - 📄 [headersdist.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/headers.dist/headersdist.py)
+                       - 📄 [setup.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/headers.dist/setup.py)
+                     - 📄 [pydist\-schema.json](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/pydist-schema.json)
+                     - 📂 __simple.dist__
+                       - 📂 __\_\_pycache\_\___
+                         - 📄 [setup.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/simple.dist/__pycache__/setup.cpython-35.pyc)
+                       - 📄 [setup.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/simple.dist/setup.py)
+                       - 📂 __simpledist__
+                         - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/simple.dist/simpledist/__init__.py)
+                         - 📂 __\_\_pycache\_\___
+                           - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/simple.dist/simpledist/__pycache__/__init__.cpython-35.pyc)
+                     - 📄 [test\-1.0\-py2.py3\-none\-win32.whl](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/test-1.0-py2.py3-none-win32.whl)
+                     - 📄 [test\_basic.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/test_basic.py)
+                     - 📄 [test\_install.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/test_install.py)
+                     - 📄 [test\_keys.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/test_keys.py)
+                     - 📄 [test\_paths.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/test_paths.py)
+                     - 📄 [test\_ranking.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/test_ranking.py)
+                     - 📄 [test\_signatures.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/test_signatures.py)
+                     - 📄 [test\_tagopt.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/test_tagopt.py)
+                     - 📄 [test\_tool.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/test_tool.py)
+                     - 📄 [test\_wheelfile.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/test/test_wheelfile.py)
+                   - 📂 __tool__
+                     - 📄 [\_\_init\_\_.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/tool/__init__.py)
+                     - 📂 __\_\_pycache\_\___
+                       - 📄 [\_\_init\_\_.cpython\-35.pyc](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/tool/__pycache__/__init__.cpython-35.pyc)
+                   - 📄 [util.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/util.py)
+                   - 📄 [wininst2wheel.py](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel/wininst2wheel.py)
+                 - 📂 __wheel\-0.29.0.dist\-info__
+                   - 📄 [DESCRIPTION.rst](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel-0.29.0.dist-info/DESCRIPTION.rst)
+                   - 📄 [INSTALLER](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel-0.29.0.dist-info/INSTALLER)
+                   - 📄 [LICENSE.txt](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel-0.29.0.dist-info/LICENSE.txt)
+                   - 📄 [METADATA](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel-0.29.0.dist-info/METADATA)
+                   - 📄 [RECORD](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel-0.29.0.dist-info/RECORD)
+                   - 📄 [WHEEL](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel-0.29.0.dist-info/WHEEL)
+                   - 📄 [entry\_points.txt](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel-0.29.0.dist-info/entry_points.txt)
+                   - 📄 [metadata.json](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel-0.29.0.dist-info/metadata.json)
+                   - 📄 [top\_level.txt](PYTHON/learning/udacity/venv/lib/python3.5/site-packages/wheel-0.29.0.dist-info/top_level.txt)
+               - 📄 [site.py](PYTHON/learning/udacity/venv/lib/python3.5/site.py)
+               - 📄 [sre\_compile.py](PYTHON/learning/udacity/venv/lib/python3.5/sre_compile.py)
+               - 📄 [sre\_constants.py](PYTHON/learning/udacity/venv/lib/python3.5/sre_constants.py)
+               - 📄 [sre\_parse.py](PYTHON/learning/udacity/venv/lib/python3.5/sre_parse.py)
+               - 📄 [stat.py](PYTHON/learning/udacity/venv/lib/python3.5/stat.py)
+               - 📄 [struct.py](PYTHON/learning/udacity/venv/lib/python3.5/struct.py)
+               - 📄 [tarfile.py](PYTHON/learning/udacity/venv/lib/python3.5/tarfile.py)
+               - 📄 [tempfile.py](PYTHON/learning/udacity/venv/lib/python3.5/tempfile.py)
+               - 📄 [token.py](PYTHON/learning/udacity/venv/lib/python3.5/token.py)
+               - 📄 [tokenize.py](PYTHON/learning/udacity/venv/lib/python3.5/tokenize.py)
+               - 📄 [types.py](PYTHON/learning/udacity/venv/lib/python3.5/types.py)
+               - 📄 [warnings.py](PYTHON/learning/udacity/venv/lib/python3.5/warnings.py)
+               - 📄 [weakref.py](PYTHON/learning/udacity/venv/lib/python3.5/weakref.py)
+     - 📂 __projects__
+       - 📂 __AI\_in\_Medicine\_Clinical\_Imaging\_Classification__
+         - 📄 [LICENSE](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/LICENSE)
+         - 📄 [README.md](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/README.md)
+         - 📂 __data__
+           - 📂 __sample__
+             - 📄 [10\_left.jpeg](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/data/sample/10_left.jpeg)
+             - 📄 [10\_right.jpeg](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/data/sample/10_right.jpeg)
+             - 📄 [13\_left.jpeg](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/data/sample/13_left.jpeg)
+             - 📄 [13\_right.jpeg](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/data/sample/13_right.jpeg)
+             - 📄 [15\_left.jpeg](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/data/sample/15_left.jpeg)
+             - 📄 [15\_right.jpeg](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/data/sample/15_right.jpeg)
+             - 📄 [16\_left.jpeg](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/data/sample/16_left.jpeg)
+             - 📄 [16\_right.jpeg](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/data/sample/16_right.jpeg)
+             - 📄 [17\_left.jpeg](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/data/sample/17_left.jpeg)
+             - 📄 [17\_right.jpeg](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/data/sample/17_right.jpeg)
+         - 📂 __docker__
+           - 📄 [Dockerfile](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/docker/Dockerfile)
+           - 📄 [requirements.txt](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/docker/requirements.txt)
+         - 📂 __images__
+           - 📂 __eda__
+             - 📄 [DR\_vs\_Frequency\_tableau.png](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/eda/DR_vs_Frequency_tableau.png)
+             - 📄 [DR\_vs\_frequency\_balanced.png](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/eda/DR_vs_frequency_balanced.png)
+             - 📄 [Retinopathy\_vs\_Frequency\_All.png](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/eda/Retinopathy_vs_Frequency_All.png)
+             - 📄 [Retinopathy\_vs\_Frequency\_Binary.png](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/eda/Retinopathy_vs_Frequency_Binary.png)
+             - 📄 [Retinopathy\_vs\_Frequency\_Binary\_All.png](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/eda/Retinopathy_vs_Frequency_Binary_All.png)
+           - 📂 __presentation__
+             - 📄 [presentation\_rotations.png](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/presentation/presentation_rotations.png)
+           - 📂 __readme__
+             - 📄 [17\_left\_horizontal\_black.jpg](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/readme/17_left_horizontal_black.jpg)
+             - 📄 [17\_left\_horizontal\_white.jpg](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/readme/17_left_horizontal_white.jpg)
+             - 📄 [No\_DR\_white\_border\_1.png](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/readme/No_DR_white_border_1.png)
+             - 📄 [No\_DR\_white\_border\_2.png](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/readme/No_DR_white_border_2.png)
+             - 📄 [Proliferative\_DR\_white\_border\_1.png](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/readme/Proliferative_DR_white_border_1.png)
+             - 📄 [Proliferative\_DR\_white\_border\_2.png](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/readme/Proliferative_DR_white_border_2.png)
+             - 📄 [cnn\_two\_classes\_tensorboard.png](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/readme/cnn_two_classes_tensorboard.png)
+             - 📄 [dr\_scan.gif](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/readme/dr_scan.gif)
+             - 📄 [sample\_images\_unscaled.jpg](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/readme/sample_images_unscaled.jpg)
+             - 📄 [tensorboard\_baseline.png](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/readme/tensorboard_baseline.png)
+           - 📂 __tech\_stack__
+             - 📄 [tech\_stack\_banner.png](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/images/tech_stack/tech_stack_banner.png)
+         - 📂 __labels__
+           - 📄 [trainLabels.csv](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/labels/trainLabels.csv)
+           - 📄 [trainLabels\_master.csv](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/labels/trainLabels_master.csv)
+           - 📄 [trainLabels\_master\_256.csv](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/labels/trainLabels_master_256.csv)
+           - 📄 [trainLabels\_master\_256\_v2.csv](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/labels/trainLabels_master_256_v2.csv)
+         - 📂 __src__
+           - 📂 __Graph__
+             - 📄 [events.out.tfevents.1507653516.ip\-172\-31\-26\-224](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/src/Graph/events.out.tfevents.1507653516.ip-172-31-26-224)
+           - 📄 [cnn.py](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/src/cnn.py)
+           - 📄 [cnn\_class.py](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/src/cnn_class.py)
+           - 📄 [cnn\_multi.py](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/src/cnn_multi.py)
+           - 📄 [download\_data.sh](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/src/download_data.sh)
+           - 📄 [eda.py](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/src/eda.py)
+           - 📄 [image\_to\_array.py](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/src/image_to_array.py)
+           - 📄 [preprocess\_images.py](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/src/preprocess_images.py)
+           - 📄 [reconcile\_labels.py](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/src/reconcile_labels.py)
+           - 📄 [resize\_images.py](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/src/resize_images.py)
+           - 📄 [rotate\_images.py](PYTHON/projects/AI_in_Medicine_Clinical_Imaging_Classification/src/rotate_images.py)
+       - 📂 __scraper__
+         - 📄 [InstaPy\-master.zip](PYTHON/projects/scraper/InstaPy-master.zip)
+         - 📄 [TwitterFollowBot\-master.zip](PYTHON/projects/scraper/TwitterFollowBot-master.zip)
+         - 📄 [Website Scraping with Python Using BeautifulSoup and Scrapy.zip](PYTHON/projects/scraper/Website%20Scraping%20with%20Python%20Using%20BeautifulSoup%20and%20Scrapy.zip)
+         - 📄 [facebook\-page\-post\-scraper\-master.zip](PYTHON/projects/scraper/facebook-page-post-scraper-master.zip)
+         - 📄 [instabot.py\-master.zip](PYTHON/projects/scraper/instabot.py-master.zip)
+         - 📄 [instagram\-scraper\-master.zip](PYTHON/projects/scraper/instagram-scraper-master.zip)
+         - 📄 [robotstxt\-master.zip](PYTHON/projects/scraper/robotstxt-master.zip)
+         - 📂 __scrapy crawler py__
+           - 📄 [Craigslist\-07.py](PYTHON/projects/scraper/scrapy crawler py/Craigslist-07.py)
+           - 📂 __annuaire__
+             - 📂 __annuaire__
+               - 📄 [\_\_init\_\_.py](PYTHON/projects/scraper/scrapy crawler py/annuaire/annuaire/__init__.py)
+               - 📂 __\_\_pycache\_\___
+                 - 📄 [\_\_init\_\_.cpython\-37.pyc](PYTHON/projects/scraper/scrapy crawler py/annuaire/annuaire/__pycache__/__init__.cpython-37.pyc)
+                 - 📄 [items.cpython\-37.pyc](PYTHON/projects/scraper/scrapy crawler py/annuaire/annuaire/__pycache__/items.cpython-37.pyc)
+                 - 📄 [settings.cpython\-37.pyc](PYTHON/projects/scraper/scrapy crawler py/annuaire/annuaire/__pycache__/settings.cpython-37.pyc)
+               - 📄 [items.py](PYTHON/projects/scraper/scrapy crawler py/annuaire/annuaire/items.py)
+               - 📄 [middlewares.py](PYTHON/projects/scraper/scrapy crawler py/annuaire/annuaire/middlewares.py)
+               - 📄 [pipelines.py](PYTHON/projects/scraper/scrapy crawler py/annuaire/annuaire/pipelines.py)
+               - 📄 [settings.py](PYTHON/projects/scraper/scrapy crawler py/annuaire/annuaire/settings.py)
+               - 📂 __spiders__
+                 - 📄 [\_\_init\_\_.py](PYTHON/projects/scraper/scrapy crawler py/annuaire/annuaire/spiders/__init__.py)
+                 - 📂 __\_\_pycache\_\___
+                   - 📄 [\_\_init\_\_.cpython\-37.pyc](PYTHON/projects/scraper/scrapy crawler py/annuaire/annuaire/spiders/__pycache__/__init__.cpython-37.pyc)
+                   - 📄 [annuaire\_spider.cpython\-37.pyc](PYTHON/projects/scraper/scrapy crawler py/annuaire/annuaire/spiders/__pycache__/annuaire_spider.cpython-37.pyc)
+                 - 📄 [annuaire\_spider.py](PYTHON/projects/scraper/scrapy crawler py/annuaire/annuaire/spiders/annuaire_spider.py)
+             - 📄 [scrapy.cfg](PYTHON/projects/scraper/scrapy crawler py/annuaire/scrapy.cfg)
+           - 📄 [craper.py](PYTHON/projects/scraper/scrapy crawler py/craper.py)
+           - 📂 __quotetutorial__
+             - 📂 __quotetutorial__
+               - 📄 [\_\_init\_\_.py](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/__init__.py)
+               - 📂 __\_\_pycache\_\___
+                 - 📄 [\_\_init\_\_.cpython\-37.pyc](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/__pycache__/__init__.cpython-37.pyc)
+                 - 📄 [items.cpython\-37.pyc](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/__pycache__/items.cpython-37.pyc)
+                 - 📄 [pipelines.cpython\-37.pyc](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/__pycache__/pipelines.cpython-37.pyc)
+                 - 📄 [settings.cpython\-37.pyc](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/__pycache__/settings.cpython-37.pyc)
+               - 📄 [data.json](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/data.json)
+               - 📄 [databasesqlite3.py](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/databasesqlite3.py)
+               - 📄 [items.py](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/items.py)
+               - 📄 [middlewares.py](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/middlewares.py)
+               - 📄 [myquotes\_tb](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/myquotes_tb)
+               - 📄 [pipelines.py](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/pipelines.py)
+               - 📄 [settings.py](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/settings.py)
+               - 📂 __spiders__
+                 - 📄 [\_\_init\_\_.py](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/spiders/__init__.py)
+                 - 📂 __\_\_pycache\_\___
+                   - 📄 [\_\_init\_\_.cpython\-37.pyc](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/spiders/__pycache__/__init__.cpython-37.pyc)
+                   - 📄 [quotes\_spider.cpython\-37.pyc](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/spiders/__pycache__/quotes_spider.cpython-37.pyc)
+                   - 📄 [session.cpython\-37.pyc](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/spiders/__pycache__/session.cpython-37.pyc)
+                 - 📄 [quotes\_spider.py](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/quotetutorial/spiders/quotes_spider.py)
+             - 📄 [scrapy.cfg](PYTHON/projects/scraper/scrapy crawler py/quotetutorial/scrapy.cfg)
+           - 📄 [scrap.py](PYTHON/projects/scraper/scrapy crawler py/scrap.py)
+           - 📄 [ua\_file.txt](PYTHON/projects/scraper/scrapy crawler py/ua_file.txt)
+           - 📄 [user\-agents.txt](PYTHON/projects/scraper/scrapy crawler py/user-agents.txt)
+   - 📂 __REACT__
+     - 📂 __Cheatsheet__
+       - 📄 [The Definitive React Hooks Cheatsheet.zip](REACT/Cheatsheet/The%20Definitive%20React%20Hooks%20Cheatsheet.zip)
+       - 📄 [react\-hooks\-cheatsheet\-master.zip](REACT/Cheatsheet/react-hooks-cheatsheet-master.zip)
+       - 📄 [reactcheatsheet.txt](REACT/Cheatsheet/reactcheatsheet.txt)
+     - 📂 __learning__
+       - 📂 __Learn\-Redux\-Starter\-Files\-master__
+         - 📂 __Learn\-Redux\-Starter\-Files\-master__
+           - 📂 __05__
+             - 📂 __components__
+               - 📄 [Main.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/05/components/Main.js)
+               - 📄 [PhotoGrid.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/05/components/PhotoGrid.js)
+               - 📄 [Single.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/05/components/Single.js)
+             - 📄 [reduxstagram.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/05/reduxstagram.js)
+             - 📂 __styles__
+               - 📄 [\_animations.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/05/styles/_animations.styl)
+               - 📄 [\_normalize.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/05/styles/_normalize.styl)
+               - 📄 [\_typography.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/05/styles/_typography.styl)
+               - 📄 [style.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/05/styles/style.styl)
+           - 📂 __06__
+             - 📂 __components__
+               - 📄 [Main.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/06/components/Main.js)
+               - 📄 [PhotoGrid.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/06/components/PhotoGrid.js)
+               - 📄 [Single.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/06/components/Single.js)
+             - 📂 __data__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/06/data/comments.js)
+               - 📄 [config.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/06/data/config.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/06/data/posts.js)
+             - 📄 [reduxstagram.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/06/reduxstagram.js)
+             - 📄 [store.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/06/store.js)
+             - 📂 __styles__
+               - 📄 [\_animations.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/06/styles/_animations.styl)
+               - 📄 [\_normalize.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/06/styles/_normalize.styl)
+               - 📄 [\_typography.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/06/styles/_typography.styl)
+               - 📄 [style.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/06/styles/style.styl)
+           - 📂 __07__
+             - 📂 __actions__
+               - 📄 [actionCreators.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/07/actions/actionCreators.js)
+             - 📂 __components__
+               - 📄 [Main.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/07/components/Main.js)
+               - 📄 [PhotoGrid.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/07/components/PhotoGrid.js)
+               - 📄 [Single.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/07/components/Single.js)
+             - 📂 __data__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/07/data/comments.js)
+               - 📄 [config.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/07/data/config.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/07/data/posts.js)
+             - 📄 [reduxstagram.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/07/reduxstagram.js)
+             - 📄 [store.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/07/store.js)
+             - 📂 __styles__
+               - 📄 [\_animations.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/07/styles/_animations.styl)
+               - 📄 [\_normalize.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/07/styles/_normalize.styl)
+               - 📄 [\_typography.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/07/styles/_typography.styl)
+               - 📄 [style.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/07/styles/style.styl)
+           - 📂 __08__
+             - 📂 __actions__
+               - 📄 [actionCreators.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/actions/actionCreators.js)
+             - 📂 __components__
+               - 📄 [Main.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/components/Main.js)
+               - 📄 [PhotoGrid.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/components/PhotoGrid.js)
+               - 📄 [Single.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/components/Single.js)
+             - 📂 __data__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/data/comments.js)
+               - 📄 [config.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/data/config.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/data/posts.js)
+             - 📂 __reducers__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/reducers/comments.js)
+               - 📄 [index.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/reducers/index.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/reducers/posts.js)
+             - 📄 [reduxstagram.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/reduxstagram.js)
+             - 📄 [store.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/store.js)
+             - 📂 __styles__
+               - 📄 [\_animations.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/styles/_animations.styl)
+               - 📄 [\_normalize.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/styles/_normalize.styl)
+               - 📄 [\_typography.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/styles/_typography.styl)
+               - 📄 [style.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/08/styles/style.styl)
+           - 📂 __10__
+             - 📂 __actions__
+               - 📄 [actionCreators.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/actions/actionCreators.js)
+             - 📂 __components__
+               - 📄 [Main.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/components/Main.js)
+               - 📄 [PhotoGrid.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/components/PhotoGrid.js)
+               - 📄 [Single.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/components/Single.js)
+             - 📂 __data__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/data/comments.js)
+               - 📄 [config.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/data/config.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/data/posts.js)
+             - 📂 __reducers__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/reducers/comments.js)
+               - 📄 [index.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/reducers/index.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/reducers/posts.js)
+             - 📄 [reduxstagram.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/reduxstagram.js)
+             - 📄 [store.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/store.js)
+             - 📂 __styles__
+               - 📄 [\_animations.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/styles/_animations.styl)
+               - 📄 [\_normalize.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/styles/_normalize.styl)
+               - 📄 [\_typography.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/styles/_typography.styl)
+               - 📄 [style.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/10/styles/style.styl)
+           - 📂 __13__
+             - 📂 __actions__
+               - 📄 [actionCreators.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/actions/actionCreators.js)
+             - 📂 __components__
+               - 📄 [App.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/components/App.js)
+               - 📄 [Comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/components/Comments.js)
+               - 📄 [Main.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/components/Main.js)
+               - 📄 [Photo.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/components/Photo.js)
+               - 📄 [PhotoGrid.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/components/PhotoGrid.js)
+               - 📄 [Single.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/components/Single.js)
+             - 📂 __data__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/data/comments.js)
+               - 📄 [config.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/data/config.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/data/posts.js)
+             - 📂 __reducers__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/reducers/comments.js)
+               - 📄 [index.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/reducers/index.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/reducers/posts.js)
+             - 📄 [reduxstagram.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/reduxstagram.js)
+             - 📄 [store.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/store.js)
+             - 📂 __styles__
+               - 📄 [\_animations.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/styles/_animations.styl)
+               - 📄 [\_normalize.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/styles/_normalize.styl)
+               - 📄 [\_typography.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/styles/_typography.styl)
+               - 📄 [style.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/13/styles/style.styl)
+           - 📂 __14__
+             - 📂 __actions__
+               - 📄 [actionCreators.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/actions/actionCreators.js)
+             - 📂 __components__
+               - 📄 [App.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/components/App.js)
+               - 📄 [Comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/components/Comments.js)
+               - 📄 [Main.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/components/Main.js)
+               - 📄 [Photo.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/components/Photo.js)
+               - 📄 [PhotoGrid.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/components/PhotoGrid.js)
+               - 📄 [Single.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/components/Single.js)
+             - 📂 __data__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/data/comments.js)
+               - 📄 [config.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/data/config.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/data/posts.js)
+             - 📂 __reducers__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/reducers/comments.js)
+               - 📄 [index.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/reducers/index.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/reducers/posts.js)
+             - 📄 [reduxstagram.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/reduxstagram.js)
+             - 📄 [store.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/store.js)
+             - 📂 __styles__
+               - 📄 [\_animations.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/styles/_animations.styl)
+               - 📄 [\_normalize.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/styles/_normalize.styl)
+               - 📄 [\_typography.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/styles/_typography.styl)
+               - 📄 [style.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/14/styles/style.styl)
+           - 📂 __15__
+             - 📂 __actions__
+               - 📄 [actionCreators.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/actions/actionCreators.js)
+             - 📂 __components__
+               - 📄 [App.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/components/App.js)
+               - 📄 [Comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/components/Comments.js)
+               - 📄 [Main.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/components/Main.js)
+               - 📄 [Photo.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/components/Photo.js)
+               - 📄 [PhotoGrid.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/components/PhotoGrid.js)
+               - 📄 [Single.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/components/Single.js)
+             - 📂 __data__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/data/comments.js)
+               - 📄 [config.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/data/config.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/data/posts.js)
+             - 📂 __reducers__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/reducers/comments.js)
+               - 📄 [index.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/reducers/index.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/reducers/posts.js)
+             - 📄 [reduxstagram.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/reduxstagram.js)
+             - 📄 [store.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/store.js)
+             - 📂 __styles__
+               - 📄 [\_animations.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/styles/_animations.styl)
+               - 📄 [\_normalize.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/styles/_normalize.styl)
+               - 📄 [\_typography.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/styles/_typography.styl)
+               - 📄 [style.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/15/styles/style.styl)
+           - 📂 __16__
+             - 📂 __actions__
+               - 📄 [actionCreators.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/actions/actionCreators.js)
+             - 📂 __components__
+               - 📄 [App.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/components/App.js)
+               - 📄 [Comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/components/Comments.js)
+               - 📄 [Main.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/components/Main.js)
+               - 📄 [Photo.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/components/Photo.js)
+               - 📄 [PhotoGrid.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/components/PhotoGrid.js)
+               - 📄 [Single.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/components/Single.js)
+             - 📂 __data__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/data/comments.js)
+               - 📄 [config.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/data/config.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/data/posts.js)
+             - 📂 __reducers__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/reducers/comments.js)
+               - 📄 [index.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/reducers/index.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/reducers/posts.js)
+             - 📄 [reduxstagram.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/reduxstagram.js)
+             - 📄 [store.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/store.js)
+             - 📂 __styles__
+               - 📄 [\_animations.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/styles/_animations.styl)
+               - 📄 [\_normalize.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/styles/_normalize.styl)
+               - 📄 [\_typography.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/styles/_typography.styl)
+               - 📄 [style.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/16/styles/style.styl)
+           - 📂 __17__
+             - 📂 __actions__
+               - 📄 [actionCreators.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/actions/actionCreators.js)
+             - 📂 __components__
+               - 📄 [App.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/components/App.js)
+               - 📄 [Comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/components/Comments.js)
+               - 📄 [Main.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/components/Main.js)
+               - 📄 [Photo.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/components/Photo.js)
+               - 📄 [PhotoGrid.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/components/PhotoGrid.js)
+               - 📄 [Single.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/components/Single.js)
+             - 📂 __data__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/data/comments.js)
+               - 📄 [config.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/data/config.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/data/posts.js)
+             - 📂 __reducers__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/reducers/comments.js)
+               - 📄 [index.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/reducers/index.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/reducers/posts.js)
+             - 📄 [reduxstagram.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/reduxstagram.js)
+             - 📄 [store.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/store.js)
+             - 📂 __styles__
+               - 📄 [\_animations.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/styles/_animations.styl)
+               - 📄 [\_normalize.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/styles/_normalize.styl)
+               - 📄 [\_typography.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/styles/_typography.styl)
+               - 📄 [style.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/17/styles/style.styl)
+           - 📂 __18__
+             - 📂 __actions__
+               - 📄 [actionCreators.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/actions/actionCreators.js)
+             - 📂 __components__
+               - 📄 [App.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/components/App.js)
+               - 📄 [Comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/components/Comments.js)
+               - 📄 [Main.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/components/Main.js)
+               - 📄 [Photo.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/components/Photo.js)
+               - 📄 [PhotoGrid.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/components/PhotoGrid.js)
+               - 📄 [Single.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/components/Single.js)
+             - 📂 __data__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/data/comments.js)
+               - 📄 [config.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/data/config.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/data/posts.js)
+             - 📂 __reducers__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/reducers/comments.js)
+               - 📄 [index.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/reducers/index.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/reducers/posts.js)
+             - 📄 [reduxstagram.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/reduxstagram.js)
+             - 📄 [store.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/store.js)
+             - 📂 __styles__
+               - 📄 [\_animations.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/styles/_animations.styl)
+               - 📄 [\_normalize.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/styles/_normalize.styl)
+               - 📄 [\_typography.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/styles/_typography.styl)
+               - 📄 [style.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/18/styles/style.styl)
+           - 📂 __19__
+             - 📂 __actions__
+               - 📄 [actionCreators.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/actions/actionCreators.js)
+             - 📂 __components__
+               - 📄 [App.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/components/App.js)
+               - 📄 [Comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/components/Comments.js)
+               - 📄 [Main.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/components/Main.js)
+               - 📄 [Photo.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/components/Photo.js)
+               - 📄 [PhotoGrid.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/components/PhotoGrid.js)
+               - 📄 [Single.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/components/Single.js)
+             - 📂 __data__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/data/comments.js)
+               - 📄 [config.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/data/config.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/data/posts.js)
+             - 📂 __reducers__
+               - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/reducers/comments.js)
+               - 📄 [index.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/reducers/index.js)
+               - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/reducers/posts.js)
+             - 📄 [reduxstagram.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/reduxstagram.js)
+             - 📄 [store.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/store.js)
+             - 📂 __styles__
+               - 📄 [\_animations.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/styles/_animations.styl)
+               - 📄 [\_normalize.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/styles/_normalize.styl)
+               - 📄 [\_typography.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/styles/_typography.styl)
+               - 📄 [style.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/19/styles/style.styl)
+           - 📂 __learn\-redux__
+             - 📂 __client__
+               - 📂 __data__
+                 - 📄 [comments.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/learn-redux/client/data/comments.js)
+                 - 📄 [config.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/learn-redux/client/data/config.js)
+                 - 📄 [posts.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/learn-redux/client/data/posts.js)
+               - 📄 [reduxstagram.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/learn-redux/client/reduxstagram.js)
+               - 📂 __styles__
+                 - 📄 [\_animations.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/learn-redux/client/styles/_animations.styl)
+                 - 📄 [\_normalize.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/learn-redux/client/styles/_normalize.styl)
+                 - 📄 [\_typography.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/learn-redux/client/styles/_typography.styl)
+                 - 📄 [style.styl](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/learn-redux/client/styles/style.styl)
+             - 📄 [devServer.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/learn-redux/devServer.js)
+             - 📄 [index.html](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/learn-redux/index.html)
+             - 📄 [package.json](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/learn-redux/package.json)
+             - 📄 [readme.md](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/learn-redux/readme.md)
+             - 📄 [webpack.config.dev.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/learn-redux/webpack.config.dev.js)
+             - 📄 [webpack.config.prod.js](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/learn-redux/webpack.config.prod.js)
+           - 📄 [readme.md](REACT/learning/Learn-Redux-Starter-Files-master/Learn-Redux-Starter-Files-master/readme.md)
+       - 📂 __React\-For\-Beginners\-Starter\-Files\-master__
+         - 📂 __React\-For\-Beginners\-Starter\-Files\-master__
+           - 📂 __catch\-of\-the\-day__
+             - 📄 [package\-lock.json](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/package-lock.json)
+             - 📄 [package.json](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/package.json)
+             - 📂 __public__
+               - 📄 [favicon.ico](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/public/favicon.ico)
+               - 📂 __images__
+                 - 📄 [crab.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/public/images/crab.jpg)
+                 - 📄 [hali.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/public/images/hali.jpg)
+                 - 📄 [lobster.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/public/images/lobster.jpg)
+                 - 📄 [mahi.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/public/images/mahi.jpg)
+                 - 📄 [mussels.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/public/images/mussels.jpg)
+                 - 📄 [oysters.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/public/images/oysters.jpg)
+                 - 📄 [prawns.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/public/images/prawns.jpg)
+                 - 📄 [salmon.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/public/images/salmon.jpg)
+                 - 📄 [scallops.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/public/images/scallops.jpg)
+               - 📄 [index.html](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/public/index.html)
+             - 📄 [security\-rules.json](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/security-rules.json)
+             - 📂 __src__
+               - 📂 __components__
+               - 📂 __css__
+                 - 📄 [\_animations\-finished.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/_animations-finished.styl)
+                 - 📄 [\_animations.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/_animations.styl)
+                 - 📄 [\_colours.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/_colours.styl)
+                 - 📄 [\_fonts.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/_fonts.styl)
+                 - 📄 [\_normalize.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/_normalize.styl)
+                 - 📄 [\_typography.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/_typography.styl)
+                 - 📂 __fonts__
+                   - 📄 [blanch\_caps\_inline\-webfont.eot](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/fonts/blanch_caps_inline-webfont.eot)
+                   - 📄 [blanch\_caps\_inline\-webfont.svg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/fonts/blanch_caps_inline-webfont.svg)
+                   - 📄 [blanch\_caps\_inline\-webfont.ttf](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/fonts/blanch_caps_inline-webfont.ttf)
+                   - 📄 [blanch\_caps\_inline\-webfont.woff](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/fonts/blanch_caps_inline-webfont.woff)
+                   - 📄 [haymaker\-webfont.eot](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/fonts/haymaker-webfont.eot)
+                   - 📄 [haymaker\-webfont.svg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/fonts/haymaker-webfont.svg)
+                   - 📄 [haymaker\-webfont.ttf](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/fonts/haymaker-webfont.ttf)
+                   - 📄 [haymaker\-webfont.woff](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/fonts/haymaker-webfont.woff)
+                 - 📂 __images__
+                   - 📄 [anchor.svg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/images/anchor.svg)
+                 - 📄 [style.css](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/style.css)
+                 - 📄 [style.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/css/style.styl)
+               - 📄 [helpers.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/helpers.js)
+               - 📄 [index.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/index.js)
+               - 📄 [sample\-fishes.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/catch-of-the-day/src/sample-fishes.js)
+           - 📄 [readme.md](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/readme.md)
+           - 📂 __stepped\-solutions__
+             - 📂 __05__
+               - 📂 __components__
+                 - 📄 [StorePicker.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/05/components/StorePicker.js)
+             - 📂 __09__
+               - 📂 __components__
+                 - 📄 [App.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/09/components/App.js)
+                 - 📄 [Header.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/09/components/Header.js)
+                 - 📄 [Inventory.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/09/components/Inventory.js)
+                 - 📄 [Order.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/09/components/Order.js)
+                 - 📄 [Router.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/09/components/Router.js)
+                 - 📄 [StorePicker.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/09/components/StorePicker.js)
+             - 📂 __10__
+               - 📂 __components__
+                 - 📄 [App.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/10/components/App.js)
+                 - 📄 [Header.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/10/components/Header.js)
+                 - 📄 [Inventory.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/10/components/Inventory.js)
+                 - 📄 [NotFound.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/10/components/NotFound.js)
+                 - 📄 [Order.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/10/components/Order.js)
+                 - 📄 [Router.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/10/components/Router.js)
+                 - 📄 [StorePicker.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/10/components/StorePicker.js)
+             - 📂 __12__
+               - 📂 __components__
+                 - 📄 [App.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/12/components/App.js)
+                 - 📄 [Header.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/12/components/Header.js)
+                 - 📄 [Inventory.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/12/components/Inventory.js)
+                 - 📄 [NotFound.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/12/components/NotFound.js)
+                 - 📄 [Order.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/12/components/Order.js)
+                 - 📄 [Router.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/12/components/Router.js)
+                 - 📄 [StorePicker.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/12/components/StorePicker.js)
+             - 📂 __13__
+               - 📂 __components__
+                 - 📄 [App.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/13/components/App.js)
+                 - 📄 [Header.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/13/components/Header.js)
+                 - 📄 [Inventory.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/13/components/Inventory.js)
+                 - 📄 [NotFound.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/13/components/NotFound.js)
+                 - 📄 [Order.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/13/components/Order.js)
+                 - 📄 [Router.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/13/components/Router.js)
+                 - 📄 [StorePicker.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/13/components/StorePicker.js)
+             - 📂 __14__
+               - 📂 __components__
+                 - 📄 [AddFishForm.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/14/components/AddFishForm.js)
+                 - 📄 [App.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/14/components/App.js)
+                 - 📄 [Header.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/14/components/Header.js)
+                 - 📄 [Inventory.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/14/components/Inventory.js)
+                 - 📄 [NotFound.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/14/components/NotFound.js)
+                 - 📄 [Order.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/14/components/Order.js)
+                 - 📄 [Router.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/14/components/Router.js)
+                 - 📄 [StorePicker.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/14/components/StorePicker.js)
+             - 📂 __18__
+               - 📂 __components__
+                 - 📄 [AddFishForm.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/18/components/AddFishForm.js)
+                 - 📄 [App.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/18/components/App.js)
+                 - 📄 [Fish.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/18/components/Fish.js)
+                 - 📄 [Header.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/18/components/Header.js)
+                 - 📄 [Inventory.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/18/components/Inventory.js)
+                 - 📄 [NotFound.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/18/components/NotFound.js)
+                 - 📄 [Order.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/18/components/Order.js)
+                 - 📄 [Router.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/18/components/Router.js)
+                 - 📄 [StorePicker.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/18/components/StorePicker.js)
+             - 📂 __19__
+               - 📂 __src__
+                 - 📄 [base.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/base.js)
+                 - 📂 __components__
+                   - 📄 [AddFishForm.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/components/AddFishForm.js)
+                   - 📄 [App.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/components/App.js)
+                   - 📄 [Fish.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/components/Fish.js)
+                   - 📄 [Header.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/components/Header.js)
+                   - 📄 [Inventory.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/components/Inventory.js)
+                   - 📄 [NotFound.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/components/NotFound.js)
+                   - 📄 [Order.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/components/Order.js)
+                   - 📄 [Router.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/components/Router.js)
+                   - 📄 [StorePicker.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/components/StorePicker.js)
+                 - 📂 __css__
+                   - 📄 [\_animations\-finished.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/_animations-finished.styl)
+                   - 📄 [\_animations.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/_animations.styl)
+                   - 📄 [\_colours.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/_colours.styl)
+                   - 📄 [\_fonts.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/_fonts.styl)
+                   - 📄 [\_normalize.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/_normalize.styl)
+                   - 📄 [\_typography.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/_typography.styl)
+                   - 📂 __fonts__
+                     - 📄 [blanch\_caps\_inline\-webfont.eot](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/fonts/blanch_caps_inline-webfont.eot)
+                     - 📄 [blanch\_caps\_inline\-webfont.svg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/fonts/blanch_caps_inline-webfont.svg)
+                     - 📄 [blanch\_caps\_inline\-webfont.ttf](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/fonts/blanch_caps_inline-webfont.ttf)
+                     - 📄 [blanch\_caps\_inline\-webfont.woff](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/fonts/blanch_caps_inline-webfont.woff)
+                     - 📄 [haymaker\-webfont.eot](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/fonts/haymaker-webfont.eot)
+                     - 📄 [haymaker\-webfont.svg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/fonts/haymaker-webfont.svg)
+                     - 📄 [haymaker\-webfont.ttf](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/fonts/haymaker-webfont.ttf)
+                     - 📄 [haymaker\-webfont.woff](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/fonts/haymaker-webfont.woff)
+                   - 📂 __images__
+                     - 📄 [anchor.svg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/images/anchor.svg)
+                   - 📄 [style.css](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/style.css)
+                   - 📄 [style.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/css/style.styl)
+                 - 📄 [helpers.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/helpers.js)
+                 - 📄 [index.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/index.js)
+                 - 📄 [sample\-fishes.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/19/src/sample-fishes.js)
+             - 📂 __20__
+               - 📂 __components__
+                 - 📄 [AddFishForm.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/20/components/AddFishForm.js)
+                 - 📄 [App.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/20/components/App.js)
+                 - 📄 [Fish.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/20/components/Fish.js)
+                 - 📄 [Header.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/20/components/Header.js)
+                 - 📄 [Inventory.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/20/components/Inventory.js)
+                 - 📄 [NotFound.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/20/components/NotFound.js)
+                 - 📄 [Order.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/20/components/Order.js)
+                 - 📄 [Router.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/20/components/Router.js)
+                 - 📄 [StorePicker.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/20/components/StorePicker.js)
+             - 📂 __21__
+               - 📂 __components__
+                 - 📄 [AddFishForm.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/21/components/AddFishForm.js)
+                 - 📄 [App.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/21/components/App.js)
+                 - 📄 [EditFishForm.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/21/components/EditFishForm.js)
+                 - 📄 [Fish.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/21/components/Fish.js)
+                 - 📄 [Header.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/21/components/Header.js)
+                 - 📄 [Inventory.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/21/components/Inventory.js)
+                 - 📄 [NotFound.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/21/components/NotFound.js)
+                 - 📄 [Order.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/21/components/Order.js)
+                 - 📄 [Router.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/21/components/Router.js)
+                 - 📄 [StorePicker.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/21/components/StorePicker.js)
+             - 📂 __22__
+               - 📂 __components__
+                 - 📄 [AddFishForm.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/22/components/AddFishForm.js)
+                 - 📄 [App.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/22/components/App.js)
+                 - 📄 [EditFishForm.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/22/components/EditFishForm.js)
+                 - 📄 [Fish.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/22/components/Fish.js)
+                 - 📄 [Header.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/22/components/Header.js)
+                 - 📄 [Inventory.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/22/components/Inventory.js)
+                 - 📄 [NotFound.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/22/components/NotFound.js)
+                 - 📄 [Order.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/22/components/Order.js)
+                 - 📄 [Router.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/22/components/Router.js)
+                 - 📄 [StorePicker.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/22/components/StorePicker.js)
+             - 📂 __23__
+               - 📂 __src__
+                 - 📄 [base.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/base.js)
+                 - 📂 __components__
+                   - 📄 [AddFishForm.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/components/AddFishForm.js)
+                   - 📄 [App.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/components/App.js)
+                   - 📄 [EditFishForm.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/components/EditFishForm.js)
+                   - 📄 [Fish.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/components/Fish.js)
+                   - 📄 [Header.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/components/Header.js)
+                   - 📄 [Inventory.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/components/Inventory.js)
+                   - 📄 [NotFound.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/components/NotFound.js)
+                   - 📄 [Order.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/components/Order.js)
+                   - 📄 [Router.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/components/Router.js)
+                   - 📄 [StorePicker.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/components/StorePicker.js)
+                 - 📂 __css__
+                   - 📄 [\_animations\-finished.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/_animations-finished.styl)
+                   - 📄 [\_animations.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/_animations.styl)
+                   - 📄 [\_colours.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/_colours.styl)
+                   - 📄 [\_fonts.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/_fonts.styl)
+                   - 📄 [\_normalize.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/_normalize.styl)
+                   - 📄 [\_typography.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/_typography.styl)
+                   - 📂 __fonts__
+                     - 📄 [blanch\_caps\_inline\-webfont.eot](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/fonts/blanch_caps_inline-webfont.eot)
+                     - 📄 [blanch\_caps\_inline\-webfont.svg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/fonts/blanch_caps_inline-webfont.svg)
+                     - 📄 [blanch\_caps\_inline\-webfont.ttf](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/fonts/blanch_caps_inline-webfont.ttf)
+                     - 📄 [blanch\_caps\_inline\-webfont.woff](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/fonts/blanch_caps_inline-webfont.woff)
+                     - 📄 [haymaker\-webfont.eot](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/fonts/haymaker-webfont.eot)
+                     - 📄 [haymaker\-webfont.svg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/fonts/haymaker-webfont.svg)
+                     - 📄 [haymaker\-webfont.ttf](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/fonts/haymaker-webfont.ttf)
+                     - 📄 [haymaker\-webfont.woff](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/fonts/haymaker-webfont.woff)
+                   - 📂 __images__
+                     - 📄 [anchor.svg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/images/anchor.svg)
+                   - 📄 [style.css](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/style.css)
+                   - 📄 [style.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/css/style.styl)
+                 - 📄 [helpers.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/helpers.js)
+                 - 📄 [index.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/index.js)
+                 - 📄 [sample\-fishes.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/23/src/sample-fishes.js)
+             - 📂 __24__
+               - 📂 __components__
+                 - 📄 [AddFishForm.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/24/components/AddFishForm.js)
+                 - 📄 [App.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/24/components/App.js)
+                 - 📄 [EditFishForm.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/24/components/EditFishForm.js)
+                 - 📄 [Fish.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/24/components/Fish.js)
+                 - 📄 [Header.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/24/components/Header.js)
+                 - 📄 [Inventory.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/24/components/Inventory.js)
+                 - 📄 [NotFound.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/24/components/NotFound.js)
+                 - 📄 [Order.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/24/components/Order.js)
+                 - 📄 [Router.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/24/components/Router.js)
+                 - 📄 [StorePicker.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/24/components/StorePicker.js)
+             - 📂 __Finished App__
+               - 📄 [package\-lock.json](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/package-lock.json)
+               - 📄 [package.json](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/package.json)
+               - 📂 __public__
+                 - 📄 [favicon.ico](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/public/favicon.ico)
+                 - 📂 __images__
+                   - 📄 [crab.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/public/images/crab.jpg)
+                   - 📄 [hali.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/public/images/hali.jpg)
+                   - 📄 [lobster.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/public/images/lobster.jpg)
+                   - 📄 [mahi.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/public/images/mahi.jpg)
+                   - 📄 [mussels.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/public/images/mussels.jpg)
+                   - 📄 [oysters.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/public/images/oysters.jpg)
+                   - 📄 [prawns.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/public/images/prawns.jpg)
+                   - 📄 [salmon.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/public/images/salmon.jpg)
+                   - 📄 [scallops.jpg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/public/images/scallops.jpg)
+                 - 📄 [index.html](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/public/index.html)
+               - 📄 [security\-rules.json](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/security-rules.json)
+               - 📂 __src__
+                 - 📄 [base.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/base.js)
+                 - 📂 __components__
+                   - 📄 [AddFishForm.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/components/AddFishForm.js)
+                   - 📄 [App.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/components/App.js)
+                   - 📄 [EditFishForm.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/components/EditFishForm.js)
+                   - 📄 [Fish.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/components/Fish.js)
+                   - 📄 [Header.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/components/Header.js)
+                   - 📄 [Inventory.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/components/Inventory.js)
+                   - 📄 [Login.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/components/Login.js)
+                   - 📄 [NotFound.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/components/NotFound.js)
+                   - 📄 [Order.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/components/Order.js)
+                   - 📄 [Router.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/components/Router.js)
+                   - 📄 [StorePicker.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/components/StorePicker.js)
+                 - 📂 __css__
+                   - 📄 [\_animations\-finished.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/_animations-finished.styl)
+                   - 📄 [\_animations.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/_animations.styl)
+                   - 📄 [\_colours.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/_colours.styl)
+                   - 📄 [\_fonts.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/_fonts.styl)
+                   - 📄 [\_normalize.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/_normalize.styl)
+                   - 📄 [\_typography.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/_typography.styl)
+                   - 📂 __fonts__
+                     - 📄 [blanch\_caps\_inline\-webfont.eot](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/fonts/blanch_caps_inline-webfont.eot)
+                     - 📄 [blanch\_caps\_inline\-webfont.svg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/fonts/blanch_caps_inline-webfont.svg)
+                     - 📄 [blanch\_caps\_inline\-webfont.ttf](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/fonts/blanch_caps_inline-webfont.ttf)
+                     - 📄 [blanch\_caps\_inline\-webfont.woff](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/fonts/blanch_caps_inline-webfont.woff)
+                     - 📄 [haymaker\-webfont.eot](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/fonts/haymaker-webfont.eot)
+                     - 📄 [haymaker\-webfont.svg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/fonts/haymaker-webfont.svg)
+                     - 📄 [haymaker\-webfont.ttf](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/fonts/haymaker-webfont.ttf)
+                     - 📄 [haymaker\-webfont.woff](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/fonts/haymaker-webfont.woff)
+                   - 📂 __images__
+                     - 📄 [anchor.svg](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/images/anchor.svg)
+                   - 📄 [style.css](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/style.css)
+                   - 📄 [style.styl](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/css/style.styl)
+                 - 📄 [helpers.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/helpers.js)
+                 - 📄 [index.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/index.js)
+                 - 📄 [sample\-fishes.js](REACT/learning/React-For-Beginners-Starter-Files-master/React-For-Beginners-Starter-Files-master/stepped-solutions/Finished App/src/sample-fishes.js)
+       - 📄 [awesome\-react\-hooks\-master.zip](REACT/learning/awesome-react-hooks-master.zip)
+       - 📂 __devconnector mern__
+         - 📂 __client__
+           - 📂 __build__
+             - 📄 [index.html](REACT/learning/devconnector mern/client/build/index.html)
+         - 📂 __config__
+           - 📄 [db.js](REACT/learning/devconnector mern/config/db.js)
+           - 📄 [default.json](REACT/learning/devconnector mern/config/default.json)
+           - 📄 [keys.js](REACT/learning/devconnector mern/config/keys.js)
+         - 📂 __middleware__
+           - 📄 [auth.js](REACT/learning/devconnector mern/middleware/auth.js)
+           - 📄 [errorhandler.js](REACT/learning/devconnector mern/middleware/errorhandler.js)
+           - 📄 [passport.js](REACT/learning/devconnector mern/middleware/passport.js)
+         - 📂 __models__
+           - 📄 [Posts.js](REACT/learning/devconnector mern/models/Posts.js)
+           - 📄 [Profile.js](REACT/learning/devconnector mern/models/Profile.js)
+           - 📄 [User.js](REACT/learning/devconnector mern/models/User.js)
+         - 📄 [package.json](REACT/learning/devconnector mern/package.json)
+         - 📄 [restful.http](REACT/learning/devconnector mern/restful.http)
+         - 📂 __routes__
+           - 📂 __api__
+             - 📄 [auth.js](REACT/learning/devconnector mern/routes/api/auth.js)
+             - 📄 [posts.js](REACT/learning/devconnector mern/routes/api/posts.js)
+             - 📄 [profile.js](REACT/learning/devconnector mern/routes/api/profile.js)
+             - 📄 [users.js](REACT/learning/devconnector mern/routes/api/users.js)
+         - 📄 [server.js](REACT/learning/devconnector mern/server.js)
+         - 📂 __validation__
+           - 📄 [education.js](REACT/learning/devconnector mern/validation/education.js)
+           - 📄 [experience.js](REACT/learning/devconnector mern/validation/experience.js)
+           - 📄 [is\-empty.js](REACT/learning/devconnector mern/validation/is-empty.js)
+           - 📄 [login.js](REACT/learning/devconnector mern/validation/login.js)
+           - 📄 [posts.js](REACT/learning/devconnector mern/validation/posts.js)
+           - 📄 [profile.js](REACT/learning/devconnector mern/validation/profile.js)
+           - 📄 [register.js](REACT/learning/devconnector mern/validation/register.js)
+       - 📂 __frontendmasters__
+         - 📂 __complete intro to react v5__
+           - 📄 [cirv5.code\-workspace](REACT/learning/frontendmasters/complete intro to react v5/cirv5.code-workspace)
+           - 📂 __intro__
+             - 📄 [README.md](REACT/learning/frontendmasters/complete intro to react v5/intro/README.md)
+             - 📄 [package.json](REACT/learning/frontendmasters/complete intro to react v5/intro/package.json)
+             - 📂 __public__
+               - 📄 [favicon.ico](REACT/learning/frontendmasters/complete intro to react v5/intro/public/favicon.ico)
+               - 📄 [index.html](REACT/learning/frontendmasters/complete intro to react v5/intro/public/index.html)
+               - 📄 [logo192.png](REACT/learning/frontendmasters/complete intro to react v5/intro/public/logo192.png)
+               - 📄 [logo512.png](REACT/learning/frontendmasters/complete intro to react v5/intro/public/logo512.png)
+               - 📄 [manifest.json](REACT/learning/frontendmasters/complete intro to react v5/intro/public/manifest.json)
+               - 📄 [robots.txt](REACT/learning/frontendmasters/complete intro to react v5/intro/public/robots.txt)
+             - 📂 __src__
+               - 📄 [App.css](REACT/learning/frontendmasters/complete intro to react v5/intro/src/App.css)
+               - 📄 [App.js](REACT/learning/frontendmasters/complete intro to react v5/intro/src/App.js)
+               - 📄 [App.test.js](REACT/learning/frontendmasters/complete intro to react v5/intro/src/App.test.js)
+               - 📂 __Components__
+                 - 📄 [Search.js](REACT/learning/frontendmasters/complete intro to react v5/intro/src/Components/Search.js)
+               - 📄 [index.css](REACT/learning/frontendmasters/complete intro to react v5/intro/src/index.css)
+               - 📄 [index.js](REACT/learning/frontendmasters/complete intro to react v5/intro/src/index.js)
+               - 📄 [logo.svg](REACT/learning/frontendmasters/complete intro to react v5/intro/src/logo.svg)
+               - 📄 [serviceWorker.js](REACT/learning/frontendmasters/complete intro to react v5/intro/src/serviceWorker.js)
+             - 📄 [yarn.lock](REACT/learning/frontendmasters/complete intro to react v5/intro/yarn.lock)
+         - 📄 [complete\-intro\-to\-react\-v5\-master.zip](REACT/learning/frontendmasters/complete-intro-to-react-v5-master.zip)
+       - 📄 [learn\-react\-hooks\-master.zip](REACT/learning/learn-react-hooks-master.zip)
+       - 📄 [react\-batched\-updates.zip](REACT/learning/react-batched-updates.zip)
+       - 📂 __techsith__
+         - 📄 [devconnectTodo.code\-workspace](REACT/learning/techsith/devconnectTodo.code-workspace)
+         - 📄 [techsithreact.code\-workspace](REACT/learning/techsith/techsithreact.code-workspace)
+         - 📂 __testthis__
+           - 📄 [README.md](REACT/learning/techsith/testthis/README.md)
+           - 📄 [package\-lock.json](REACT/learning/techsith/testthis/package-lock.json)
+           - 📄 [package.json](REACT/learning/techsith/testthis/package.json)
+           - 📂 __public__
+             - 📄 [favicon.ico](REACT/learning/techsith/testthis/public/favicon.ico)
+             - 📄 [index.html](REACT/learning/techsith/testthis/public/index.html)
+             - 📄 [manifest.json](REACT/learning/techsith/testthis/public/manifest.json)
+           - 📂 __src__
+             - 📄 [App.css](REACT/learning/techsith/testthis/src/App.css)
+             - 📄 [App.js](REACT/learning/techsith/testthis/src/App.js)
+             - 📂 __Components__
+               - 📂 __Users__
+                 - 📄 [User.js](REACT/learning/techsith/testthis/src/Components/Users/User.js)
+                 - 📄 [Users.js](REACT/learning/techsith/testthis/src/Components/Users/Users.js)
+             - 📄 [index.css](REACT/learning/techsith/testthis/src/index.css)
+             - 📄 [index.js](REACT/learning/techsith/testthis/src/index.js)
+             - 📄 [serviceWorker.js](REACT/learning/techsith/testthis/src/serviceWorker.js)
+           - 📄 [yarn.lock](REACT/learning/techsith/testthis/yarn.lock)
+       - 📂 __todo__
+         - 📄 [README.md](REACT/learning/todo/README.md)
+         - 📄 [package\-lock.json](REACT/learning/todo/package-lock.json)
+         - 📄 [package.json](REACT/learning/todo/package.json)
+         - 📂 __public__
+           - 📄 [favicon.ico](REACT/learning/todo/public/favicon.ico)
+           - 📄 [index.html](REACT/learning/todo/public/index.html)
+           - 📄 [manifest.json](REACT/learning/todo/public/manifest.json)
+         - 📂 __src__
+           - 📄 [App.css](REACT/learning/todo/src/App.css)
+           - 📄 [App.js](REACT/learning/todo/src/App.js)
+           - 📄 [App.test.js](REACT/learning/todo/src/App.test.js)
+           - 📂 __Todos__
+             - 📄 [TodoForum.js](REACT/learning/todo/src/Todos/TodoForum.js)
+             - 📄 [TodoFunc.js](REACT/learning/todo/src/Todos/TodoFunc.js)
+           - 📄 [index.css](REACT/learning/todo/src/index.css)
+           - 📄 [index.js](REACT/learning/todo/src/index.js)
+           - 📄 [serviceWorker.js](REACT/learning/todo/src/serviceWorker.js)
+         - 📄 [yarn.lock](REACT/learning/todo/yarn.lock)
+     - 📂 __projects__
+       - 📂 __3.1 devconnector\_final__
+         - 📂 __devconnector\_final__
+           - 📂 __client__
+             - 📄 [README.md](REACT/projects/3.1 devconnector_final/devconnector_final/client/README.md)
+             - 📄 [node\_modules](REACT/projects/3.1 devconnector_final/devconnector_final/client/node_modules)
+             - 📄 [package\-lock.json](REACT/projects/3.1 devconnector_final/devconnector_final/client/package-lock.json)
+             - 📄 [package.json](REACT/projects/3.1 devconnector_final/devconnector_final/client/package.json)
+             - 📂 __public__
+               - 📄 [favicon.ico](REACT/projects/3.1 devconnector_final/devconnector_final/client/public/favicon.ico)
+               - 📄 [index.html](REACT/projects/3.1 devconnector_final/devconnector_final/client/public/index.html)
+               - 📄 [manifest.json](REACT/projects/3.1 devconnector_final/devconnector_final/client/public/manifest.json)
+             - 📂 __src__
+               - 📄 [App.css](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/App.css)
+               - 📄 [App.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/App.js)
+               - 📄 [App.test.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/App.test.js)
+               - 📂 __actions__
+                 - 📄 [authActions.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/actions/authActions.js)
+                 - 📄 [postActions.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/actions/postActions.js)
+                 - 📄 [profileActions.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/actions/profileActions.js)
+                 - 📄 [types.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/actions/types.js)
+               - 📂 __components__
+                 - 📂 __add\-credentials__
+                   - 📄 [AddEducation.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/add-credentials/AddEducation.js)
+                   - 📄 [AddExperience.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/add-credentials/AddExperience.js)
+                 - 📂 __auth__
+                   - 📄 [Login.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/auth/Login.js)
+                   - 📄 [Register.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/auth/Register.js)
+                 - 📂 __common__
+                   - 📄 [InputGroup.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/common/InputGroup.js)
+                   - 📄 [PrivateRoute.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/common/PrivateRoute.js)
+                   - 📄 [SelectListGroup.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/common/SelectListGroup.js)
+                   - 📄 [Spinner.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/common/Spinner.js)
+                   - 📄 [TextAreaFieldGroup.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/common/TextAreaFieldGroup.js)
+                   - 📄 [TextFieldGroup.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/common/TextFieldGroup.js)
+                   - 📄 [spinner.gif](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/common/spinner.gif)
+                 - 📂 __create\-profile__
+                   - 📄 [CreateProfile.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/create-profile/CreateProfile.js)
+                 - 📂 __dashboard__
+                   - 📄 [Dashboard.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/dashboard/Dashboard.js)
+                   - 📄 [Education.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/dashboard/Education.js)
+                   - 📄 [Experience.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/dashboard/Experience.js)
+                   - 📄 [ProfileActions.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/dashboard/ProfileActions.js)
+                 - 📂 __edit\-profile__
+                   - 📄 [EditProfile.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/edit-profile/EditProfile.js)
+                 - 📂 __layout__
+                   - 📄 [Footer.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/layout/Footer.js)
+                   - 📄 [Landing.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/layout/Landing.js)
+                   - 📄 [Navbar.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/layout/Navbar.js)
+                 - 📂 __not\-found__
+                   - 📄 [NotFound.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/not-found/NotFound.js)
+                 - 📂 __post__
+                   - 📄 [CommentFeed.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/post/CommentFeed.js)
+                   - 📄 [CommentForm.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/post/CommentForm.js)
+                   - 📄 [CommentItem.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/post/CommentItem.js)
+                   - 📄 [Post.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/post/Post.js)
+                 - 📂 __posts__
+                   - 📄 [PostFeed.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/posts/PostFeed.js)
+                   - 📄 [PostForm.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/posts/PostForm.js)
+                   - 📄 [PostItem.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/posts/PostItem.js)
+                   - 📄 [Posts.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/posts/Posts.js)
+                 - 📂 __profile__
+                   - 📄 [Profile.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/profile/Profile.js)
+                   - 📄 [ProfileAbout.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/profile/ProfileAbout.js)
+                   - 📄 [ProfileCreds.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/profile/ProfileCreds.js)
+                   - 📄 [ProfileGithub.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/profile/ProfileGithub.js)
+                   - 📄 [ProfileHeader.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/profile/ProfileHeader.js)
+                 - 📂 __profiles__
+                   - 📄 [ProfileItem.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/profiles/ProfileItem.js)
+                   - 📄 [Profiles.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/components/profiles/Profiles.js)
+               - 📂 __img__
+                 - 📄 [showcase.jpg](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/img/showcase.jpg)
+               - 📄 [index.css](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/index.css)
+               - 📄 [index.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/index.js)
+               - 📂 __reducers__
+                 - 📄 [authReducer.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/reducers/authReducer.js)
+                 - 📄 [errorReducer.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/reducers/errorReducer.js)
+                 - 📄 [index.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/reducers/index.js)
+                 - 📄 [postReducer.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/reducers/postReducer.js)
+                 - 📄 [profileReducer.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/reducers/profileReducer.js)
+               - 📄 [registerServiceWorker.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/registerServiceWorker.js)
+               - 📄 [store.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/store.js)
+               - 📂 __utils__
+                 - 📄 [setAuthToken.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/utils/setAuthToken.js)
+               - 📂 __validation__
+                 - 📄 [is\-empty.js](REACT/projects/3.1 devconnector_final/devconnector_final/client/src/validation/is-empty.js)
+           - 📂 __config__
+             - 📄 [keys.js](REACT/projects/3.1 devconnector_final/devconnector_final/config/keys.js)
+             - 📄 [keys\_dev.js](REACT/projects/3.1 devconnector_final/devconnector_final/config/keys_dev.js)
+             - 📄 [keys\_prod.js](REACT/projects/3.1 devconnector_final/devconnector_final/config/keys_prod.js)
+             - 📄 [passport.js](REACT/projects/3.1 devconnector_final/devconnector_final/config/passport.js)
+           - 📂 __models__
+             - 📄 [Post.js](REACT/projects/3.1 devconnector_final/devconnector_final/models/Post.js)
+             - 📄 [Profile.js](REACT/projects/3.1 devconnector_final/devconnector_final/models/Profile.js)
+             - 📄 [User.js](REACT/projects/3.1 devconnector_final/devconnector_final/models/User.js)
+           - 📄 [package\-lock.json](REACT/projects/3.1 devconnector_final/devconnector_final/package-lock.json)
+           - 📄 [package.json](REACT/projects/3.1 devconnector_final/devconnector_final/package.json)
+           - 📂 __routes__
+             - 📂 __api__
+               - 📄 [posts.js](REACT/projects/3.1 devconnector_final/devconnector_final/routes/api/posts.js)
+               - 📄 [profile.js](REACT/projects/3.1 devconnector_final/devconnector_final/routes/api/profile.js)
+               - 📄 [users.js](REACT/projects/3.1 devconnector_final/devconnector_final/routes/api/users.js)
+           - 📄 [server.js](REACT/projects/3.1 devconnector_final/devconnector_final/server.js)
+           - 📂 __validation__
+             - 📄 [education.js](REACT/projects/3.1 devconnector_final/devconnector_final/validation/education.js)
+             - 📄 [experience.js](REACT/projects/3.1 devconnector_final/devconnector_final/validation/experience.js)
+             - 📄 [is\-empty.js](REACT/projects/3.1 devconnector_final/devconnector_final/validation/is-empty.js)
+             - 📄 [login.js](REACT/projects/3.1 devconnector_final/devconnector_final/validation/login.js)
+             - 📄 [post.js](REACT/projects/3.1 devconnector_final/devconnector_final/validation/post.js)
+             - 📄 [profile.js](REACT/projects/3.1 devconnector_final/devconnector_final/validation/profile.js)
+             - 📄 [register.js](REACT/projects/3.1 devconnector_final/devconnector_final/validation/register.js)
+       - 📄 [React\-Instagram\-Clone\-2.0\-master.zip](REACT/projects/React-Instagram-Clone-2.0-master.zip)
+       - 📄 [dark\-mode\-final\-react.zip](REACT/projects/dark-mode-final-react.zip)
+       - 📄 [infinite\_scroll\_react\_unsplash\-master.zip](REACT/projects/infinite_scroll_react_unsplash-master.zip)
+       - 📂 __mern\-social\-network\-traversy__
+         - 📂 __\_resources__
+           - 📂 __html\_css\_theme__
+             - 📄 [add\-education.html](REACT/projects/mern-social-network-traversy/_resources/html_css_theme/add-education.html)
+             - 📄 [add\-experience.html](REACT/projects/mern-social-network-traversy/_resources/html_css_theme/add-experience.html)
+             - 📄 [create\-profile.html](REACT/projects/mern-social-network-traversy/_resources/html_css_theme/create-profile.html)
+             - 📂 __css__
+               - 📄 [style.css](REACT/projects/mern-social-network-traversy/_resources/html_css_theme/css/style.css)
+             - 📄 [dashboard.html](REACT/projects/mern-social-network-traversy/_resources/html_css_theme/dashboard.html)
+             - 📂 __img__
+               - 📄 [showcase.4b31330b.jpg](REACT/projects/mern-social-network-traversy/_resources/html_css_theme/img/showcase.4b31330b.jpg)
+               - 📄 [spinner.gif](REACT/projects/mern-social-network-traversy/_resources/html_css_theme/img/spinner.gif)
+             - 📄 [index.html](REACT/projects/mern-social-network-traversy/_resources/html_css_theme/index.html)
+             - 📄 [login.html](REACT/projects/mern-social-network-traversy/_resources/html_css_theme/login.html)
+             - 📄 [post.html](REACT/projects/mern-social-network-traversy/_resources/html_css_theme/post.html)
+             - 📄 [posts.html](REACT/projects/mern-social-network-traversy/_resources/html_css_theme/posts.html)
+             - 📄 [profile.html](REACT/projects/mern-social-network-traversy/_resources/html_css_theme/profile.html)
+             - 📄 [profiles.html](REACT/projects/mern-social-network-traversy/_resources/html_css_theme/profiles.html)
+             - 📄 [register.html](REACT/projects/mern-social-network-traversy/_resources/html_css_theme/register.html)
+         - 📂 __client__
+           - 📂 __build__
+             - 📄 [asset\-manifest.json](REACT/projects/mern-social-network-traversy/client/build/asset-manifest.json)
+             - 📄 [index.html](REACT/projects/mern-social-network-traversy/client/build/index.html)
+             - 📄 [manifest.json](REACT/projects/mern-social-network-traversy/client/build/manifest.json)
+             - 📄 [precache\-manifest.7a4f78f01076020aa74c02491cd31d20.js](REACT/projects/mern-social-network-traversy/client/build/precache-manifest.7a4f78f01076020aa74c02491cd31d20.js)
+             - 📄 [service\-worker.js](REACT/projects/mern-social-network-traversy/client/build/service-worker.js)
+             - 📂 __static__
+               - 📂 __css__
+                 - 📄 [main.e23fee82.chunk.css](REACT/projects/mern-social-network-traversy/client/build/static/css/main.e23fee82.chunk.css)
+                 - 📄 [main.e23fee82.chunk.css.map](REACT/projects/mern-social-network-traversy/client/build/static/css/main.e23fee82.chunk.css.map)
+               - 📂 __js__
+                 - 📄 [2.65aa1cca.chunk.js](REACT/projects/mern-social-network-traversy/client/build/static/js/2.65aa1cca.chunk.js)
+                 - 📄 [2.65aa1cca.chunk.js.map](REACT/projects/mern-social-network-traversy/client/build/static/js/2.65aa1cca.chunk.js.map)
+                 - 📄 [main.f5c2cc74.chunk.js](REACT/projects/mern-social-network-traversy/client/build/static/js/main.f5c2cc74.chunk.js)
+                 - 📄 [main.f5c2cc74.chunk.js.map](REACT/projects/mern-social-network-traversy/client/build/static/js/main.f5c2cc74.chunk.js.map)
+                 - 📄 [runtime~main.a8a9905a.js](REACT/projects/mern-social-network-traversy/client/build/static/js/runtime~main.a8a9905a.js)
+                 - 📄 [runtime~main.a8a9905a.js.map](REACT/projects/mern-social-network-traversy/client/build/static/js/runtime~main.a8a9905a.js.map)
+               - 📂 __media__
+                 - 📄 [showcase.4b31330b.jpg](REACT/projects/mern-social-network-traversy/client/build/static/media/showcase.4b31330b.jpg)
+           - 📄 [node\_modules](REACT/projects/mern-social-network-traversy/client/node_modules)
+           - 📄 [package\-lock.json](REACT/projects/mern-social-network-traversy/client/package-lock.json)
+           - 📄 [package.json](REACT/projects/mern-social-network-traversy/client/package.json)
+           - 📂 __public__
+             - 📄 [index.html](REACT/projects/mern-social-network-traversy/client/public/index.html)
+           - 📂 __src__
+             - 📄 [App.css](REACT/projects/mern-social-network-traversy/client/src/App.css)
+             - 📄 [App.js](REACT/projects/mern-social-network-traversy/client/src/App.js)
+             - 📄 [DisplayErrors.js](REACT/projects/mern-social-network-traversy/client/src/DisplayErrors.js)
+             - 📂 __actions__
+               - 📄 [alert.js](REACT/projects/mern-social-network-traversy/client/src/actions/alert.js)
+               - 📄 [auth.js](REACT/projects/mern-social-network-traversy/client/src/actions/auth.js)
+               - 📄 [profile.js](REACT/projects/mern-social-network-traversy/client/src/actions/profile.js)
+               - 📄 [types.js](REACT/projects/mern-social-network-traversy/client/src/actions/types.js)
+             - 📂 __components__
+               - 📂 __auth__
+                 - 📄 [Login.js](REACT/projects/mern-social-network-traversy/client/src/components/auth/Login.js)
+                 - 📄 [Register.js](REACT/projects/mern-social-network-traversy/client/src/components/auth/Register.js)
+                 - 📄 [RegisterOld.js](REACT/projects/mern-social-network-traversy/client/src/components/auth/RegisterOld.js)
+               - 📂 __dashboard__
+                 - 📄 [Dashboard.js](REACT/projects/mern-social-network-traversy/client/src/components/dashboard/Dashboard.js)
+               - 📂 __layout__
+                 - 📄 [Alert.js](REACT/projects/mern-social-network-traversy/client/src/components/layout/Alert.js)
+                 - 📄 [Footer.js](REACT/projects/mern-social-network-traversy/client/src/components/layout/Footer.js)
+                 - 📄 [Landing.js](REACT/projects/mern-social-network-traversy/client/src/components/layout/Landing.js)
+                 - 📄 [Navbar.js](REACT/projects/mern-social-network-traversy/client/src/components/layout/Navbar.js)
+                 - 📄 [Spinner.js](REACT/projects/mern-social-network-traversy/client/src/components/layout/Spinner.js)
+                 - 📄 [spinner.gif](REACT/projects/mern-social-network-traversy/client/src/components/layout/spinner.gif)
+                 - 📄 [theme.css](REACT/projects/mern-social-network-traversy/client/src/components/layout/theme.css)
+                 - 📄 [theme.html](REACT/projects/mern-social-network-traversy/client/src/components/layout/theme.html)
+               - 📂 __routing__
+                 - 📄 [PrivateRoute.js](REACT/projects/mern-social-network-traversy/client/src/components/routing/PrivateRoute.js)
+             - 📂 __context__
+               - 📄 [action.js](REACT/projects/mern-social-network-traversy/client/src/context/action.js)
+               - 📄 [reducers.js](REACT/projects/mern-social-network-traversy/client/src/context/reducers.js)
+               - 📄 [storeContext.js](REACT/projects/mern-social-network-traversy/client/src/context/storeContext.js)
+             - 📂 __img__
+               - 📄 [showcase.jpg](REACT/projects/mern-social-network-traversy/client/src/img/showcase.jpg)
+             - 📄 [index.js](REACT/projects/mern-social-network-traversy/client/src/index.js)
+             - 📂 __reducers__
+               - 📄 [alert.js](REACT/projects/mern-social-network-traversy/client/src/reducers/alert.js)
+               - 📄 [auth.js](REACT/projects/mern-social-network-traversy/client/src/reducers/auth.js)
+               - 📄 [index.js](REACT/projects/mern-social-network-traversy/client/src/reducers/index.js)
+               - 📄 [profile.js](REACT/projects/mern-social-network-traversy/client/src/reducers/profile.js)
+             - 📄 [store.js](REACT/projects/mern-social-network-traversy/client/src/store.js)
+             - 📂 __utils__
+               - 📄 [setAuthToken.js](REACT/projects/mern-social-network-traversy/client/src/utils/setAuthToken.js)
+         - 📂 __config__
+           - 📄 [db.js](REACT/projects/mern-social-network-traversy/config/db.js)
+           - 📄 [default.json](REACT/projects/mern-social-network-traversy/config/default.json)
+         - 📂 __middleware__
+           - 📄 [auth.js](REACT/projects/mern-social-network-traversy/middleware/auth.js)
+           - 📄 [errorhandler.js](REACT/projects/mern-social-network-traversy/middleware/errorhandler.js)
+         - 📂 __models__
+           - 📄 [Posts.js](REACT/projects/mern-social-network-traversy/models/Posts.js)
+           - 📄 [Profile.js](REACT/projects/mern-social-network-traversy/models/Profile.js)
+           - 📄 [User.js](REACT/projects/mern-social-network-traversy/models/User.js)
+         - 📄 [notes.txt](REACT/projects/mern-social-network-traversy/notes.txt)
+         - 📄 [package\-lock.json](REACT/projects/mern-social-network-traversy/package-lock.json)
+         - 📄 [package.json](REACT/projects/mern-social-network-traversy/package.json)
+         - 📄 [restful.http](REACT/projects/mern-social-network-traversy/restful.http)
+         - 📂 __routes__
+           - 📂 __api__
+             - 📄 [posts.js](REACT/projects/mern-social-network-traversy/routes/api/posts.js)
+             - 📄 [profile.js](REACT/projects/mern-social-network-traversy/routes/api/profile.js)
+             - 📄 [user.js](REACT/projects/mern-social-network-traversy/routes/api/user.js)
+         - 📄 [server.js](REACT/projects/mern-social-network-traversy/server.js)
+       - 📄 [react\_express\_starter\-master.zip](REACT/projects/react_express_starter-master.zip)
+       - 📄 [redux\_crash\_course\-master.zip](REACT/projects/redux_crash_course-master.zip)
+       - 📂 __social network udemy paid__
+         - 📄 [nodeapi\-master.zip](REACT/projects/social network udemy paid/nodeapi-master.zip)
+         - 📄 [react\-front\-master.zip](REACT/projects/social network udemy paid/react-front-master.zip)
+     - 📂 __react books__
+       - 📄 [humanReact.pdf](REACT/react books/humanReact.pdf)
+       - 📄 [react\-enlightenment.pdf](REACT/react books/react-enlightenment.pdf)
+       - 📄 [react\-handbook.pdf](REACT/react books/react-handbook.pdf)
+     - 📂 __react starter kits__
+       - 📄 [easy\-redux\-react\-master.zip](REACT/react starter kits/easy-redux-react-master.zip)
+       - 📄 [electron\-react\-boilerplate\-next.zip](REACT/react starter kits/electron-react-boilerplate-next.zip)
+       - 📄 [react\-boilerplate\-master.zip](REACT/react starter kits/react-boilerplate-master.zip)
+       - 📄 [react\-firebase\-starter\-master.zip](REACT/react starter kits/react-firebase-starter-master.zip)
+       - 📄 [react\-redux\-boilerplate\-master.zip](REACT/react starter kits/react-redux-boilerplate-master.zip)
+       - 📄 [react\-slingshot\-master.zip](REACT/react starter kits/react-slingshot-master.zip)
+       - 📄 [react\-starter\-kit\-master.zip](REACT/react starter kits/react-starter-kit-master.zip)
+   - 📂 __WEBSITES__
+     - 📄 [Basic\-Landing\-Page\-Layout\-master.zip](WEBSITES/Basic-Landing-Page-Layout-master.zip)
+     - 📄 [admin\-dashboards\-master.zip](WEBSITES/admin-dashboards-master.zip)
+     - 📄 [aladin002dz.github.io\-master.zip](WEBSITES/aladin002dz.github.io-master.zip)
+     - 📄 [awesome\-dot\-dev\-master.zip](WEBSITES/awesome-dot-dev-master.zip)
+     - 📄 [coding\-coach\-develop.zip](WEBSITES/coding-coach-develop.zip)
+     - 📄 [dev\-landing\-page\-master.zip](WEBSITES/dev-landing-page-master.zip)
+     - 📄 [dev.to\-master.zip](WEBSITES/dev.to-master.zip)
+     - 📄 [developer\-portfolios\-master.zip](WEBSITES/developer-portfolios-master.zip)
+     - 📄 [ecommerce\-netlify\-master.zip](WEBSITES/ecommerce-netlify-master.zip)
+     - 📄 [emmas\-awesome\-portfolio\-master.zip](WEBSITES/emmas-awesome-portfolio-master.zip)
+     - 📄 [gatsby\-netlify\-cms\-master.zip](WEBSITES/gatsby-netlify-cms-master.zip)
+     - 📄 [gatsby\-theme\-novela\-master.zip](WEBSITES/gatsby-theme-novela-master.zip)
+     - 📄 [mytunes\_landing\-master.zip](WEBSITES/mytunes_landing-master.zip)
+     - 📄 [personal\-site\-vue\-master.zip](WEBSITES/personal-site-vue-master.zip)
+     - 📄 [portfolio\-master.zip](WEBSITES/portfolio-master.zip)
+   - 📂 __books__
+     - 📄 [ai ml books.zip](books/ai%20ml%20books.zip)
+     - 📄 [algorithm books.zip](books/algorithm%20books.zip)
+     - 📄 [assembly books.zip](books/assembly%20books.zip)
+     - 📄 [conception part 1.zip](books/conception%20part%201.zip)
+     - 📄 [conception part 2.zip](books/conception%20part%202.zip)
+     - 📄 [divers.zip](books/divers.zip)
+     - 📄 [goodies.zip](books/goodies.zip)
+     - 📄 [infosec part 1.zip](books/infosec%20part%201.zip)
+     - 📄 [infosec part 2.zip](books/infosec%20part%202.zip)
+     - 📄 [infosec part 3.zip](books/infosec%20part%203.zip)
+     - 📄 [linux.zip](books/linux.zip)
+     - 📄 [rock your career part 1.zip](books/rock%20your%20career%20part%201.zip)
+     - 📄 [rock your career part 2.zip](books/rock%20your%20career%20part%202.zip)
+     - 📄 [vue books.zip](books/vue%20books.zip)
+   - 📂 __c__
+     - 📂 __others__
+       - 📄 [a.out](c/others/a.out)
+       - 📄 [complier executer en c avec cmd](c/others/complier%20executer%20en%20c%20avec%20cmd)
+       - 📄 [exo.c](c/others/exo.c)
+     - 📄 [projects.zip](c/projects.zip)
+   - 📂 __conf\-talks__
+     - 📄 [Async\-Await\-Talk\-gh\-pages.zip](conf-talks/Async-Await-Talk-gh-pages.zip)
+     - 📄 [Modern\-Workflow\-and\-Tooling\-Talk\-gh\-pages.zip](conf-talks/Modern-Workflow-and-Tooling-Talk-gh-pages.zip)
+     - 📄 [Starter\_Kit\_Manifesto\_SDD2017.pdf](conf-talks/Starter_Kit_Manifesto_SDD2017.pdf)
+     - 📄 [WebDevTechs\-master.zip](conf-talks/WebDevTechs-master.zip)
+     - 📄 [badass\-conference\-talks\-master.zip](conf-talks/badass-conference-talks-master.zip)
+   - 📂 __config__
+     - 📄 [ (3).gitattributes](config/%20(3).gitattributes)
+     - 📂 __Dotfiles__
+       - 📄 [DotFiles\-master\_8.zip](config/Dotfiles/DotFiles-master_8.zip)
+       - 📄 [awesome\-dotfiles\-master.zip](config/Dotfiles/awesome-dotfiles-master.zip)
+       - 📄 [chezmoi\-master.zip](config/Dotfiles/chezmoi-master.zip)
+       - 📄 [dotfiesvideoyoutube.txt](config/Dotfiles/dotfiesvideoyoutube.txt)
+       - 📄 [dotfiles\-master (3).zip](config/Dotfiles/dotfiles-master%20(3).zip)
+       - 📄 [dotfiles\-master.zip](config/Dotfiles/dotfiles-master.zip)
+       - 📄 [dotfiles\-master\_2.zip](config/Dotfiles/dotfiles-master_2.zip)
+       - 📄 [dotfiles\-master\_3.zip](config/Dotfiles/dotfiles-master_3.zip)
+       - 📄 [dotfiles\-master\_5.zip](config/Dotfiles/dotfiles-master_5.zip)
+       - 📄 [dotfiles\-master\_6.zip](config/Dotfiles/dotfiles-master_6.zip)
+       - 📄 [dotfiles\-wesbos\-master.zip](config/Dotfiles/dotfiles-wesbos-master.zip)
+       - 📄 [homesick\-master.zip](config/Dotfiles/homesick-master.zip)
+     - 📄 [README.md](config/README.md)
+     - 📂 __config__
+       - 📄 [webpack.base.config.js](config/config/webpack.base.config.js)
+       - 📄 [webpack.prod.config.js](config/config/webpack.prod.config.js)
+     - 📄 [css.json](config/css.json)
+     - 📂 __eslint\-config\-kentcdodds\-master__
+       - 📂 __eslint\-config\-kentcdodds\-master__
+         - 📄 [CODE\_OF\_CONDUCT.md](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/CODE_OF_CONDUCT.md)
+         - 📄 [CONTRIBUTING.md](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/CONTRIBUTING.md)
+         - 📄 [LICENSE](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/LICENSE)
+         - 📄 [README.md](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/README.md)
+         - 📄 [best\-practices.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/best-practices.js)
+         - 📂 __es6__
+           - 📄 [best\-practices.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/es6/best-practices.js)
+           - 📄 [index.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/es6/index.js)
+           - 📄 [non\-rules\-config.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/es6/non-rules-config.js)
+           - 📄 [possible\-errors.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/es6/possible-errors.js)
+           - 📄 [stylistic.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/es6/stylistic.js)
+         - 📂 __import__
+           - 📄 [best\-practices.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/import/best-practices.js)
+           - 📄 [disabled\-rules.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/import/disabled-rules.js)
+           - 📄 [index.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/import/index.js)
+           - 📄 [non\-rules\-config.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/import/non-rules-config.js)
+           - 📄 [possible\-errors.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/import/possible-errors.js)
+           - 📄 [stylistic.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/import/stylistic.js)
+         - 📄 [index.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/index.js)
+         - 📄 [jest.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/jest.js)
+         - 📄 [jsx\-a11y.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/jsx-a11y.js)
+         - 📂 __other__
+           - 📂 __test__
+             - 📂 __jest__
+               - 📄 [index.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/other/test/jest/index.js)
+             - 📂 __jsx\-a11y__
+               - 📄 [index.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/other/test/jsx-a11y/index.js)
+             - 📂 __react__
+               - 📄 [index.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/other/test/react/index.js)
+             - 📂 __webpack__
+               - 📄 [index.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/other/test/webpack/index.js)
+         - 📄 [package.json](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/package.json)
+         - 📄 [possible\-errors.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/possible-errors.js)
+         - 📄 [react.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/react.js)
+         - 📂 __samples__
+           - 📄 [users.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/samples/users.js)
+         - 📄 [stylistic.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/stylistic.js)
+         - 📄 [webpack.js](config/eslint-config-kentcdodds-master/eslint-config-kentcdodds-master/webpack.js)
+     - 📂 __eslint\-config\-wesbos__
+       - 📄 [index.js](config/eslint-config-wesbos/index.js)
+       - 📄 [package\-lock.json](config/eslint-config-wesbos/package-lock.json)
+       - 📄 [package.json](config/eslint-config-wesbos/package.json)
+       - 📄 [readme.md](config/eslint-config-wesbos/readme.md)
+     - 📂 __eslint\-traversy__
+       - 📄 [eslint\_prettier\_airbnb.md](config/eslint-traversy/eslint_prettier_airbnb.md)
+     - 📄 [everylint\-master.zip](config/everylint-master.zip)
+     - 📄 [html.json](config/html.json)
+     - 📄 [inputrc](config/inputrc)
+     - 📄 [keybindings.json](config/keybindings.json)
+     - 📄 [launch.json](config/launch.json)
+     - 📂 __npm\-amine__
+       - 📂 __devconfig__
+         - 📄 [package\-lock.json](config/npm-amine/devconfig/package-lock.json)
+         - 📄 [package.json](config/npm-amine/devconfig/package.json)
+       - 📂 __global__
+         - 📂 __executbale__
+           - 📄 [JSONStream](config/npm-amine/global/executbale/JSONStream)
+           - 📄 [JSONStream.cmd](config/npm-amine/global/executbale/JSONStream.cmd)
+           - 📄 [JSONStream.ps1](config/npm-amine/global/executbale/JSONStream.ps1)
+           - 📄 [atob](config/npm-amine/global/executbale/atob)
+           - 📄 [atob.cmd](config/npm-amine/global/executbale/atob.cmd)
+           - 📄 [atob.ps1](config/npm-amine/global/executbale/atob.ps1)
+           - 📄 [babylon](config/npm-amine/global/executbale/babylon)
+           - 📄 [babylon.cmd](config/npm-amine/global/executbale/babylon.cmd)
+           - 📄 [babylon.ps1](config/npm-amine/global/executbale/babylon.ps1)
+           - 📄 [bower](config/npm-amine/global/executbale/bower)
+           - 📄 [bower.cmd](config/npm-amine/global/executbale/bower.cmd)
+           - 📄 [bower.ps1](config/npm-amine/global/executbale/bower.ps1)
+           - 📄 [concurrently](config/npm-amine/global/executbale/concurrently)
+           - 📄 [concurrently.cmd](config/npm-amine/global/executbale/concurrently.cmd)
+           - 📄 [concurrently.ps1](config/npm-amine/global/executbale/concurrently.ps1)
+           - 📄 [create\-react\-app](config/npm-amine/global/executbale/create-react-app)
+           - 📄 [create\-react\-app.cmd](config/npm-amine/global/executbale/create-react-app.cmd)
+           - 📄 [create\-react\-app.ps1](config/npm-amine/global/executbale/create-react-app.ps1)
+           - 📄 [electron](config/npm-amine/global/executbale/electron)
+           - 📄 [electron\-download](config/npm-amine/global/executbale/electron-download)
+           - 📄 [electron\-download.cmd](config/npm-amine/global/executbale/electron-download.cmd)
+           - 📄 [electron.cmd](config/npm-amine/global/executbale/electron.cmd)
+           - 📄 [envinfo](config/npm-amine/global/executbale/envinfo)
+           - 📄 [envinfo.cmd](config/npm-amine/global/executbale/envinfo.cmd)
+           - 📄 [envinfo.ps1](config/npm-amine/global/executbale/envinfo.ps1)
+           - 📄 [eslint\-config](config/npm-amine/global/executbale/eslint-config)
+           - 📄 [eslint\-config.cmd](config/npm-amine/global/executbale/eslint-config.cmd)
+           - 📄 [eslint\-config.ps1](config/npm-amine/global/executbale/eslint-config.ps1)
+           - 📄 [esparse](config/npm-amine/global/executbale/esparse)
+           - 📄 [esparse.cmd](config/npm-amine/global/executbale/esparse.cmd)
+           - 📄 [esparse.ps1](config/npm-amine/global/executbale/esparse.ps1)
+           - 📄 [esvalidate](config/npm-amine/global/executbale/esvalidate)
+           - 📄 [esvalidate.cmd](config/npm-amine/global/executbale/esvalidate.cmd)
+           - 📄 [esvalidate.ps1](config/npm-amine/global/executbale/esvalidate.ps1)
+           - 📄 [ext\-name](config/npm-amine/global/executbale/ext-name)
+           - 📄 [ext\-name.cmd](config/npm-amine/global/executbale/ext-name.cmd)
+           - 📄 [ext\-name.ps1](config/npm-amine/global/executbale/ext-name.ps1)
+           - 📄 [extract\-zip](config/npm-amine/global/executbale/extract-zip)
+           - 📄 [extract\-zip.cmd](config/npm-amine/global/executbale/extract-zip.cmd)
+           - 📄 [gh\-pages](config/npm-amine/global/executbale/gh-pages)
+           - 📄 [gh\-pages\-clean](config/npm-amine/global/executbale/gh-pages-clean)
+           - 📄 [gh\-pages\-clean.cmd](config/npm-amine/global/executbale/gh-pages-clean.cmd)
+           - 📄 [gh\-pages\-clean.ps1](config/npm-amine/global/executbale/gh-pages-clean.ps1)
+           - 📄 [gh\-pages.cmd](config/npm-amine/global/executbale/gh-pages.cmd)
+           - 📄 [gh\-pages.ps1](config/npm-amine/global/executbale/gh-pages.ps1)
+           - 📄 [install\-peerdeps](config/npm-amine/global/executbale/install-peerdeps)
+           - 📄 [install\-peerdeps.cmd](config/npm-amine/global/executbale/install-peerdeps.cmd)
+           - 📄 [install\-peerdeps.ps1](config/npm-amine/global/executbale/install-peerdeps.ps1)
+           - 📄 [is\-ci](config/npm-amine/global/executbale/is-ci)
+           - 📄 [is\-ci.cmd](config/npm-amine/global/executbale/is-ci.cmd)
+           - 📄 [is\-ci.ps1](config/npm-amine/global/executbale/is-ci.ps1)
+           - 📄 [js\-yaml](config/npm-amine/global/executbale/js-yaml)
+           - 📄 [js\-yaml.cmd](config/npm-amine/global/executbale/js-yaml.cmd)
+           - 📄 [js\-yaml.ps1](config/npm-amine/global/executbale/js-yaml.ps1)
+           - 📄 [jsesc](config/npm-amine/global/executbale/jsesc)
+           - 📄 [jsesc.cmd](config/npm-amine/global/executbale/jsesc.cmd)
+           - 📄 [jsesc.ps1](config/npm-amine/global/executbale/jsesc.ps1)
+           - 📄 [json5](config/npm-amine/global/executbale/json5)
+           - 📄 [json5.cmd](config/npm-amine/global/executbale/json5.cmd)
+           - 📄 [json5.ps1](config/npm-amine/global/executbale/json5.ps1)
+           - 📄 [jspm](config/npm-amine/global/executbale/jspm)
+           - 📄 [jspm.cmd](config/npm-amine/global/executbale/jspm.cmd)
+           - 📄 [jspm.ps1](config/npm-amine/global/executbale/jspm.ps1)
+           - 📄 [lint\-staged](config/npm-amine/global/executbale/lint-staged)
+           - 📄 [lint\-staged.cmd](config/npm-amine/global/executbale/lint-staged.cmd)
+           - 📄 [lint\-staged.ps1](config/npm-amine/global/executbale/lint-staged.ps1)
+           - 📄 [loose\-envify](config/npm-amine/global/executbale/loose-envify)
+           - 📄 [loose\-envify.cmd](config/npm-amine/global/executbale/loose-envify.cmd)
+           - 📄 [loose\-envify.ps1](config/npm-amine/global/executbale/loose-envify.ps1)
+           - 📄 [mkdirp](config/npm-amine/global/executbale/mkdirp)
+           - 📄 [mkdirp.cmd](config/npm-amine/global/executbale/mkdirp.cmd)
+           - 📄 [mkdirp.ps1](config/npm-amine/global/executbale/mkdirp.ps1)
+           - 📄 [ncp](config/npm-amine/global/executbale/ncp)
+           - 📄 [ncp.cmd](config/npm-amine/global/executbale/ncp.cmd)
+           - 📄 [ncp.ps1](config/npm-amine/global/executbale/ncp.ps1)
+           - 📄 [ncu](config/npm-amine/global/executbale/ncu)
+           - 📄 [ncu.cmd](config/npm-amine/global/executbale/ncu.cmd)
+           - 📄 [ncu.ps1](config/npm-amine/global/executbale/ncu.ps1)
+           - 📄 [nodemon](config/npm-amine/global/executbale/nodemon)
+           - 📄 [nodemon.cmd](config/npm-amine/global/executbale/nodemon.cmd)
+           - 📄 [nodemon.ps1](config/npm-amine/global/executbale/nodemon.ps1)
+           - 📄 [nodetouch](config/npm-amine/global/executbale/nodetouch)
+           - 📄 [nodetouch.cmd](config/npm-amine/global/executbale/nodetouch.cmd)
+           - 📄 [nodetouch.ps1](config/npm-amine/global/executbale/nodetouch.ps1)
+           - 📄 [nopt](config/npm-amine/global/executbale/nopt)
+           - 📄 [nopt.cmd](config/npm-amine/global/executbale/nopt.cmd)
+           - 📄 [nopt.ps1](config/npm-amine/global/executbale/nopt.ps1)
+           - 📄 [npm](config/npm-amine/global/executbale/npm)
+           - 📄 [npm\-check\-updates](config/npm-amine/global/executbale/npm-check-updates)
+           - 📄 [npm\-check\-updates.cmd](config/npm-amine/global/executbale/npm-check-updates.cmd)
+           - 📄 [npm\-check\-updates.ps1](config/npm-amine/global/executbale/npm-check-updates.ps1)
+           - 📄 [npm\-collect](config/npm-amine/global/executbale/npm-collect)
+           - 📄 [npm\-collect.cmd](config/npm-amine/global/executbale/npm-collect.cmd)
+           - 📄 [npm\-collect.ps1](config/npm-amine/global/executbale/npm-collect.ps1)
+           - 📄 [npm\-run\-all](config/npm-amine/global/executbale/npm-run-all)
+           - 📄 [npm\-run\-all.cmd](config/npm-amine/global/executbale/npm-run-all.cmd)
+           - 📄 [npm\-run\-all.ps1](config/npm-amine/global/executbale/npm-run-all.ps1)
+           - 📄 [npm\-update\-all](config/npm-amine/global/executbale/npm-update-all)
+           - 📄 [npm\-update\-all.cmd](config/npm-amine/global/executbale/npm-update-all.cmd)
+           - 📄 [npm\-update\-all.ps1](config/npm-amine/global/executbale/npm-update-all.ps1)
+           - 📄 [npm.cmd](config/npm-amine/global/executbale/npm.cmd)
+           - 📄 [npm.ps1](config/npm-amine/global/executbale/npm.ps1)
+           - 📄 [npx](config/npm-amine/global/executbale/npx)
+           - 📄 [npx.cmd](config/npm-amine/global/executbale/npx.cmd)
+           - 📄 [npx.ps1](config/npm-amine/global/executbale/npx.ps1)
+           - 📄 [nugget](config/npm-amine/global/executbale/nugget)
+           - 📄 [nugget.cmd](config/npm-amine/global/executbale/nugget.cmd)
+           - 📄 [outdated](config/npm-amine/global/executbale/outdated)
+           - 📄 [outdated.cmd](config/npm-amine/global/executbale/outdated.cmd)
+           - 📄 [outdated.ps1](config/npm-amine/global/executbale/outdated.ps1)
+           - 📄 [package\-lock.json](config/npm-amine/global/executbale/package-lock.json)
+           - 📄 [package.json](config/npm-amine/global/executbale/package.json)
+           - 📄 [pidtree](config/npm-amine/global/executbale/pidtree)
+           - 📄 [pidtree.cmd](config/npm-amine/global/executbale/pidtree.cmd)
+           - 📄 [pidtree.ps1](config/npm-amine/global/executbale/pidtree.ps1)
+           - 📄 [pretty\-bytes](config/npm-amine/global/executbale/pretty-bytes)
+           - 📄 [pretty\-bytes.cmd](config/npm-amine/global/executbale/pretty-bytes.cmd)
+           - 📄 [rc](config/npm-amine/global/executbale/rc)
+           - 📄 [rc.cmd](config/npm-amine/global/executbale/rc.cmd)
+           - 📄 [rc.ps1](config/npm-amine/global/executbale/rc.ps1)
+           - 📄 [rimraf](config/npm-amine/global/executbale/rimraf)
+           - 📄 [rimraf.cmd](config/npm-amine/global/executbale/rimraf.cmd)
+           - 📄 [rimraf.ps1](config/npm-amine/global/executbale/rimraf.ps1)
+           - 📄 [rollup](config/npm-amine/global/executbale/rollup)
+           - 📄 [rollup.cmd](config/npm-amine/global/executbale/rollup.cmd)
+           - 📄 [rollup.ps1](config/npm-amine/global/executbale/rollup.ps1)
+           - 📄 [run\-p](config/npm-amine/global/executbale/run-p)
+           - 📄 [run\-p.cmd](config/npm-amine/global/executbale/run-p.cmd)
+           - 📄 [run\-p.ps1](config/npm-amine/global/executbale/run-p.ps1)
+           - 📄 [run\-s](config/npm-amine/global/executbale/run-s)
+           - 📄 [run\-s.cmd](config/npm-amine/global/executbale/run-s.cmd)
+           - 📄 [run\-s.ps1](config/npm-amine/global/executbale/run-s.ps1)
+           - 📄 [semver](config/npm-amine/global/executbale/semver)
+           - 📄 [semver.cmd](config/npm-amine/global/executbale/semver.cmd)
+           - 📄 [semver.ps1](config/npm-amine/global/executbale/semver.ps1)
+           - 📄 [shjs](config/npm-amine/global/executbale/shjs)
+           - 📄 [shjs.cmd](config/npm-amine/global/executbale/shjs.cmd)
+           - 📄 [shjs.ps1](config/npm-amine/global/executbale/shjs.ps1)
+           - 📄 [sshpk\-conv](config/npm-amine/global/executbale/sshpk-conv)
+           - 📄 [sshpk\-conv.cmd](config/npm-amine/global/executbale/sshpk-conv.cmd)
+           - 📄 [sshpk\-conv.ps1](config/npm-amine/global/executbale/sshpk-conv.ps1)
+           - 📄 [sshpk\-sign](config/npm-amine/global/executbale/sshpk-sign)
+           - 📄 [sshpk\-sign.cmd](config/npm-amine/global/executbale/sshpk-sign.cmd)
+           - 📄 [sshpk\-sign.ps1](config/npm-amine/global/executbale/sshpk-sign.ps1)
+           - 📄 [sshpk\-verify](config/npm-amine/global/executbale/sshpk-verify)
+           - 📄 [sshpk\-verify.cmd](config/npm-amine/global/executbale/sshpk-verify.cmd)
+           - 📄 [sshpk\-verify.ps1](config/npm-amine/global/executbale/sshpk-verify.ps1)
+           - 📄 [strip\-indent](config/npm-amine/global/executbale/strip-indent)
+           - 📄 [strip\-indent.cmd](config/npm-amine/global/executbale/strip-indent.cmd)
+           - 📄 [strip\-indent.ps1](config/npm-amine/global/executbale/strip-indent.ps1)
+           - 📄 [traceur](config/npm-amine/global/executbale/traceur)
+           - 📄 [traceur.cmd](config/npm-amine/global/executbale/traceur.cmd)
+           - 📄 [traceur.ps1](config/npm-amine/global/executbale/traceur.ps1)
+           - 📄 [tree\-kill](config/npm-amine/global/executbale/tree-kill)
+           - 📄 [tree\-kill.cmd](config/npm-amine/global/executbale/tree-kill.cmd)
+           - 📄 [tree\-kill.ps1](config/npm-amine/global/executbale/tree-kill.ps1)
+           - 📄 [uglifyjs](config/npm-amine/global/executbale/uglifyjs)
+           - 📄 [uglifyjs.cmd](config/npm-amine/global/executbale/uglifyjs.cmd)
+           - 📄 [uglifyjs.ps1](config/npm-amine/global/executbale/uglifyjs.ps1)
+           - 📄 [uuid](config/npm-amine/global/executbale/uuid)
+           - 📄 [uuid.cmd](config/npm-amine/global/executbale/uuid.cmd)
+           - 📄 [uuid.ps1](config/npm-amine/global/executbale/uuid.ps1)
+           - 📄 [which](config/npm-amine/global/executbale/which)
+           - 📄 [which.cmd](config/npm-amine/global/executbale/which.cmd)
+           - 📄 [which.ps1](config/npm-amine/global/executbale/which.ps1)
+           - 📄 [yarn](config/npm-amine/global/executbale/yarn)
+           - 📄 [yarn.cmd](config/npm-amine/global/executbale/yarn.cmd)
+           - 📄 [yarn.ps1](config/npm-amine/global/executbale/yarn.ps1)
+           - 📄 [yarnpkg](config/npm-amine/global/executbale/yarnpkg)
+           - 📄 [yarnpkg.cmd](config/npm-amine/global/executbale/yarnpkg.cmd)
+           - 📄 [yarnpkg.ps1](config/npm-amine/global/executbale/yarnpkg.ps1)
+         - 📄 [package\-lock.json](config/npm-amine/global/package-lock.json)
+         - 📄 [package.json](config/npm-amine/global/package.json)
+     - 📄 [npm\-amine.rar](config/npm-amine.rar)
+     - 📂 __other__
+       - 📄 [enzyme.config.js](config/other/enzyme.config.js)
+       - 📄 [global.js](config/other/global.js)
+       - 📄 [global.txt](config/other/global.txt)
+       - 📄 [gulpfile\-webpack\-3.9.1.js](config/other/gulpfile-webpack-3.9.1.js)
+       - 📄 [gulpfile.js](config/other/gulpfile.js)
+       - 📄 [index.js](config/other/index.js)
+       - 📄 [jest.config.js](config/other/jest.config.js)
+       - 📄 [package\-with\-comments.json](config/other/package-with-comments.json)
+       - 📄 [vscodestyles2.css](config/other/vscodestyles2.css)
+     - 📄 [poetic\-master.zip](config/poetic-master.zip)
+     - 📂 __server__
+       - 📄 [index.js](config/server/index.js)
+       - 📂 __routes__
+         - 📄 [index.js](config/server/routes/index.js)
+     - 📄 [settings.json](config/settings.json)
+     - 📂 __src__
+       - 📄 [App.js](config/src/App.js)
+       - 📄 [Foo.js](config/src/Foo.js)
+       - 📄 [Routes.js](config/src/Routes.js)
+       - 📂 __\_\_mocks\_\___
+         - 📄 [axios.js](config/src/__mocks__/axios.js)
+         - 📄 [react\-loadable.js](config/src/__mocks__/react-loadable.js)
+       - 📂 __actions__
+         - 📄 [actionTypes.js](config/src/actions/actionTypes.js)
+         - 📄 [bookingActions.js](config/src/actions/bookingActions.js)
+       - 📂 __api__
+         - 📄 [AuthenticationAPI.js](config/src/api/AuthenticationAPI.js)
+         - 📄 [Config.js](config/src/api/Config.js)
+         - 📄 [Constants.js](config/src/api/Constants.js)
+       - 📄 [index.html](config/src/index.html)
+       - 📄 [index.js](config/src/index.js)
+       - 📂 __modules__
+         - 📂 __auth__
+           - 📂 __layout__
+             - 📄 [MainLayout.js](config/src/modules/auth/layout/MainLayout.js)
+             - 📄 [Routes.js](config/src/modules/auth/layout/Routes.js)
+           - 📂 __user__
+             - 📄 [UserPage.js](config/src/modules/auth/user/UserPage.js)
+         - 📂 __common__
+           - 📄 [PageLoader.js](config/src/modules/common/PageLoader.js)
+         - 📂 __not\-found__
+           - 📄 [NoMatchPage.js](config/src/modules/not-found/NoMatchPage.js)
+           - 📄 [NoMatchPage.test.js](config/src/modules/not-found/NoMatchPage.test.js)
+         - 📂 __public__
+           - 📂 __login__
+             - 📄 [LoginPage.js](config/src/modules/public/login/LoginPage.js)
+             - 📄 [LoginPage.test.js](config/src/modules/public/login/LoginPage.test.js)
+             - 📂 __components__
+               - 📄 [LoginForm.js](config/src/modules/public/login/components/LoginForm.js)
+               - 📄 [LoginForm.test.js](config/src/modules/public/login/components/LoginForm.test.js)
+               - 📄 [WelcomeMessage.js](config/src/modules/public/login/components/WelcomeMessage.js)
+               - 📄 [WelcomeMessage.test.js](config/src/modules/public/login/components/WelcomeMessage.test.js)
+       - 📄 [myStyles.scss](config/src/myStyles.scss)
+       - 📂 __reducers__
+         - 📄 [index.js](config/src/reducers/index.js)
+         - 📄 [userReducer.js](config/src/reducers/userReducer.js)
+       - 📂 __static__
+         - 📂 __images__
+           - 📄 [header.jpg](config/src/static/images/header.jpg)
+           - 📄 [logo.png](config/src/static/images/logo.png)
+         - 📂 __public__
+           - 📄 [style.css](config/src/static/public/style.css)
+       - 📂 __store__
+         - 📄 [index.js](config/src/store/index.js)
+         - 📄 [store.dev.js](config/src/store/store.dev.js)
+         - 📄 [store.prod.js](config/src/store/store.prod.js)
+       - 📂 __styles__
+         - 📂 __modules__
+           - 📄 [\_base.scss](config/src/styles/modules/_base.scss)
+           - 📄 [\_reset.scss](config/src/styles/modules/_reset.scss)
+         - 📄 [muiTheme.js](config/src/styles/muiTheme.js)
+       - 📄 [styles.scss](config/src/styles.scss)
+     - 📄 [tslint.json](config/tslint.json)
+     - 📄 [vsc\_js\_snippets.json](config/vsc_js_snippets.json)
+     - 📄 [vscodestyles.css](config/vscodestyles.css)
+   - 📂 __fonts__
+     - 📄 [Dank Mono.zip](fonts/Dank%20Mono.zip)
+     - 📄 [FiraCodeiScript\-master.zip](fonts/FiraCodeiScript-master.zip)
+     - 📄 [FiraFlott\-master.zip](fonts/FiraFlott-master.zip)
+     - 📄 [Genericons\-master.zip](fonts/Genericons-master.zip)
+     - 📄 [Operator Mono.zip](fonts/Operator%20Mono.zip)
+     - 📄 [VictorMonoAll.zip](fonts/VictorMonoAll.zip)
+     - 📄 [consolas.zip](fonts/consolas.zip)
+     - 📄 [courier new.zip](fonts/courier%20new.zip)
+     - 📄 [flottflott.zip](fonts/flottflott.zip)
+     - 📄 [font awesome.zip](fonts/font%20awesome.zip)
+     - 📄 [fonttools\-master.zip](fonts/fonttools-master.zip)
+     - 📄 [glyphicons.zip](fonts/glyphicons.zip)
+     - 📄 [monaco.ttf\-master.zip](fonts/monaco.ttf-master.zip)
+     - 📄 [operator\-mono\-lig\-master.zip](fonts/operator-mono-lig-master.zip)
+     - 📄 [script12\-bt.zip](fonts/script12-bt.zip)
+     - 📄 [top\-programming\-fonts\-master.zip](fonts/top-programming-fonts-master.zip)
+   - 📂 __infosec__
+     - 📄 [Anti\-DDOS\-master.zip](infosec/Anti-DDOS-master.zip)
+     - 📄 [xss\-payload\-list\-master.zip](infosec/xss-payload-list-master.zip)
+   - 📂 __interesting\-git\-projects__
+     - 📄 [MDB\-React\-Free\-npm.zip](interesting-git-projects/MDB-React-Free-npm.zip)
+     - 📄 [cookiecutter\-master.zip](interesting-git-projects/cookiecutter-master.zip)
+     - 📄 [create\-snippets\-master.zip](interesting-git-projects/create-snippets-master.zip)
+     - 📄 [freezeframe.js\-master.zip](interesting-git-projects/freezeframe.js-master.zip)
+     - 📄 [hackernews\-react\-graphql\-master.zip](interesting-git-projects/hackernews-react-graphql-master.zip)
+     - 📄 [how\-to\-contribute\-to\-open\-source\-master.zip](interesting-git-projects/how-to-contribute-to-open-source-master.zip)
+     - 📄 [infinite\-scroll\-master.zip](interesting-git-projects/infinite-scroll-master.zip)
+     - 📄 [jwt\_tool\-master.zip](interesting-git-projects/jwt_tool-master.zip)
+     - 📄 [mail\-for\-good\-master.zip](interesting-git-projects/mail-for-good-master.zip)
+     - 📄 [moddoc\-master.zip](interesting-git-projects/moddoc-master.zip)
+     - 📄 [proposal\-optional\-chaining\-master.zip](interesting-git-projects/proposal-optional-chaining-master.zip)
+     - 📄 [readme\-md\-generator\-master.zip](interesting-git-projects/readme-md-generator-master.zip)
+     - 📄 [server\-configs\-nginx\-master.zip](interesting-git-projects/server-configs-nginx-master.zip)
+     - 📄 [trusted\-types\-master.zip](interesting-git-projects/trusted-types-master.zip)
+     - 📄 [tweet\-fancy\-master.zip](interesting-git-projects/tweet-fancy-master.zip)
+     - 📄 [typy\-master.zip](interesting-git-projects/typy-master.zip)
+   - 📂 __iot__
+     - 📄 [awesome\-iot\-master.zip](iot/awesome-iot-master.zip)
+     - 📄 [home\-assistant\-dev.zip](iot/home-assistant-dev.zip)
+     - 📄 [home\-automation\-master.zip](iot/home-automation-master.zip)
+     - 📄 [iotjs\-master.zip](iot/iotjs-master.zip)
+   - 📂 __small\-projects__
+     - 📄 [Watkin Museum Landing Page.zip](small-projects/Watkin%20Museum%20Landing%20Page.zip)
+     - 📂 __beautiful login ui__
+       - 📂 __css__
+         - 📄 [style.css](small-projects/beautiful login ui/css/style.css)
+       - 📂 __img__
+         - 📄 [cancel.svg](small-projects/beautiful login ui/img/cancel.svg)
+         - 📄 [man\-user.svg](small-projects/beautiful login ui/img/man-user.svg)
+       - 📄 [index.html](small-projects/beautiful login ui/index.html)
+       - 📂 __js__
+         - 📄 [function.js](small-projects/beautiful login ui/js/function.js)
+     - 📂 __css__
+       - 📄 [aid.css](small-projects/css/aid.css)
+       - 📄 [all.css](small-projects/css/all.css)
+       - 📄 [all.min.css](small-projects/css/all.min.css)
+       - 📄 [bootstrap\-grid.css](small-projects/css/bootstrap-grid.css)
+       - 📄 [bootstrap\-grid.min.css](small-projects/css/bootstrap-grid.min.css)
+       - 📄 [bootstrap.css](small-projects/css/bootstrap.css)
+       - 📄 [bootstrap.min.css](small-projects/css/bootstrap.min.css)
+       - 📄 [bootstrap4b2.css](small-projects/css/bootstrap4b2.css)
+       - 📄 [calm\-responsive.css](small-projects/css/calm-responsive.css)
+       - 📄 [calm.css](small-projects/css/calm.css)
+       - 📄 [chckbox\-google\-design.css](small-projects/css/chckbox-google-design.css)
+       - 📄 [diapo.css](small-projects/css/diapo.css)
+       - 📄 [ekko\-lightbox.css](small-projects/css/ekko-lightbox.css)
+       - 📄 [font\-awesome.css](small-projects/css/font-awesome.css)
+       - 📄 [font\-awesome.min.css](small-projects/css/font-awesome.min.css)
+       - 📄 [lightbox.css](small-projects/css/lightbox.css)
+       - 📄 [lightbox.min.css](small-projects/css/lightbox.min.css)
+       - 📄 [parallex.css](small-projects/css/parallex.css)
+       - 📄 [sidebar.css](small-projects/css/sidebar.css)
+       - 📄 [social\-card.css](small-projects/css/social-card.css)
+       - 📄 [split.css](small-projects/css/split.css)
+       - 📄 [unsplash.css](small-projects/css/unsplash.css)
+     - 📄 [fetch\-unsplash.js](small-projects/fetch-unsplash.js)
+     - 📂 __html__
+       - 📄 [aid.html](small-projects/html/aid.html)
+       - 📄 [calm.html](small-projects/html/calm.html)
+       - 📄 [chckbox\-google\-design.html](small-projects/html/chckbox-google-design.html)
+       - 📄 [css\-text\-bg\-animation.html](small-projects/html/css-text-bg-animation.html)
+       - 📄 [diapo.html](small-projects/html/diapo.html)
+       - 📄 [htmltag.html](small-projects/html/htmltag.html)
+       - 📄 [image\_eye\_follow.html](small-projects/html/image_eye_follow.html)
+       - 📄 [load.html](small-projects/html/load.html)
+       - 📄 [parallex.html](small-projects/html/parallex.html)
+       - 📄 [sidebar.html](small-projects/html/sidebar.html)
+       - 📄 [social\-card.html](small-projects/html/social-card.html)
+       - 📄 [split.html](small-projects/html/split.html)
+       - 📄 [unsplash.html](small-projects/html/unsplash.html)
+     - 📂 __images__
+       - 📄 [1.jpeg](small-projects/images/1.jpeg)
+       - 📄 [2.jpeg](small-projects/images/2.jpeg)
+       - 📄 [Thumbs.db](small-projects/images/Thumbs.db)
+       - 📄 [action\-america\-architecture\-378570.jpg](small-projects/images/action-america-architecture-378570.jpg)
+       - 📄 [aim.png](small-projects/images/aim.png)
+       - 📄 [america\-american\-flag\-architecture\-450597.jpg](small-projects/images/america-american-flag-architecture-450597.jpg)
+       - 📄 [america\-billboards\-broadway\-1112109.jpg](small-projects/images/america-billboards-broadway-1112109.jpg)
+       - 📄 [atom\-octonaut.svg](small-projects/images/atom-octonaut.svg)
+       - 📄 [bg\-milestones.jpg](small-projects/images/bg-milestones.jpg)
+       - 📄 [bg\-parallax.jpg](small-projects/images/bg-parallax.jpg)
+       - 📄 [bg\-parallax2.jpg](small-projects/images/bg-parallax2.jpg)
+       - 📄 [bg\-support.jpg](small-projects/images/bg-support.jpg)
+       - 📄 [bg.png](small-projects/images/bg.png)
+       - 📄 [business\-computer\-connection\-450035.jpg](small-projects/images/business-computer-connection-450035.jpg)
+       - 📄 [car1.jpg](small-projects/images/car1.jpg)
+       - 📄 [car2.jpg](small-projects/images/car2.jpg)
+       - 📄 [car3.jpg](small-projects/images/car3.jpg)
+       - 📄 [close.png](small-projects/images/close.png)
+       - 📄 [contact\-1.jpg](small-projects/images/contact-1.jpg)
+       - 📄 [course\-angular.jpg](small-projects/images/course-angular.jpg)
+       - 📄 [course\-bootstrap.jpg](small-projects/images/course-bootstrap.jpg)
+       - 📄 [course\-js.jpg](small-projects/images/course-js.jpg)
+       - 📄 [course\-material.jpg](small-projects/images/course-material.jpg)
+       - 📄 [course\-mean.jpg](small-projects/images/course-mean.jpg)
+       - 📄 [course\-mern.jpg](small-projects/images/course-mern.jpg)
+       - 📄 [course\-node.jpg](small-projects/images/course-node.jpg)
+       - 📄 [course\-php.jpg](small-projects/images/course-php.jpg)
+       - 📄 [course\-react.jpg](small-projects/images/course-react.jpg)
+       - 📄 [cpu.jpg](small-projects/images/cpu.jpg)
+       - 📄 [demo1.jpg](small-projects/images/demo1.jpg)
+       - 📄 [demo1.png](small-projects/images/demo1.png)
+       - 📄 [demo2.jpg](small-projects/images/demo2.jpg)
+       - 📄 [demo3.jpg](small-projects/images/demo3.jpg)
+       - 📄 [discord\_btn.png](small-projects/images/discord_btn.png)
+       - 📄 [discord\_logo.png](small-projects/images/discord_logo.png)
+       - 📄 [downloads\-bg.jpg](small-projects/images/downloads-bg.jpg)
+       - 📄 [duck\_black.png](small-projects/images/duck_black.png)
+       - 📄 [email.png](small-projects/images/email.png)
+       - 📄 [facebook.png](small-projects/images/facebook.png)
+       - 📄 [gplus.png](small-projects/images/gplus.png)
+       - 📄 [group.png](small-projects/images/group.png)
+       - 📄 [her.jpg](small-projects/images/her.jpg)
+       - 📄 [icon\-arrow\-left\-dark.png](small-projects/images/icon-arrow-left-dark.png)
+       - 📄 [icon\-arrow\-left\-white.png](small-projects/images/icon-arrow-left-white.png)
+       - 📄 [icon\-arrow\-right\-dark.png](small-projects/images/icon-arrow-right-dark.png)
+       - 📄 [icon\-arrow\-right\-white.png](small-projects/images/icon-arrow-right-white.png)
+       - 📄 [icon\-left\-right.png](small-projects/images/icon-left-right.png)
+       - 📄 [icon\-zoom\-in\-dark.png](small-projects/images/icon-zoom-in-dark.png)
+       - 📄 [icon\-zoom\-in\-white.png](small-projects/images/icon-zoom-in-white.png)
+       - 📄 [icon\-zoom\-out\-dark.png](small-projects/images/icon-zoom-out-dark.png)
+       - 📄 [icon\-zoom\-out\-white.png](small-projects/images/icon-zoom-out-white.png)
+       - 📄 [icon\_app\_store.png](small-projects/images/icon_app_store.png)
+       - 📄 [icon\_google\_play.png](small-projects/images/icon_google_play.png)
+       - 📄 [icons\-img.jpg](small-projects/images/icons-img.jpg)
+       - 📄 [image1.jpg](small-projects/images/image1.jpg)
+       - 📄 [image2.jpg](small-projects/images/image2.jpg)
+       - 📄 [image3.jpg](small-projects/images/image3.jpg)
+       - 📄 [img.jpg](small-projects/images/img.jpg)
+       - 📄 [img2.jpg](small-projects/images/img2.jpg)
+       - 📄 [intro\-bg.jpg](small-projects/images/intro-bg.jpg)
+       - 📄 [large.jpeg](small-projects/images/large.jpeg)
+       - 📄 [line.png](small-projects/images/line.png)
+       - 📄 [loading.gif](small-projects/images/loading.gif)
+       - 📄 [logo\-text\-black.jpg](small-projects/images/logo-text-black.jpg)
+       - 📄 [logo\-text\-black.png](small-projects/images/logo-text-black.png)
+       - 📄 [logo\-text\-white.png](small-projects/images/logo-text-white.png)
+       - 📄 [logo.png](small-projects/images/logo.png)
+       - 📄 [logo2.png](small-projects/images/logo2.png)
+       - 📄 [logo3.png](small-projects/images/logo3.png)
+       - 📄 [logo\_brush.png](small-projects/images/logo_brush.png)
+       - 📄 [logo\_css.png](small-projects/images/logo_css.png)
+       - 📄 [logo\_html.png](small-projects/images/logo_html.png)
+       - 📄 [logo\_small.png](small-projects/images/logo_small.png)
+       - 📄 [logotraversey.png](small-projects/images/logotraversey.png)
+       - 📄 [next.png](small-projects/images/next.png)
+       - 📄 [page\-bg.png](small-projects/images/page-bg.png)
+       - 📄 [partner1.png](small-projects/images/partner1.png)
+       - 📄 [partner2.png](small-projects/images/partner2.png)
+       - 📄 [partner3.png](small-projects/images/partner3.png)
+       - 📄 [partner4.png](small-projects/images/partner4.png)
+       - 📄 [partner5.png](small-projects/images/partner5.png)
+       - 📄 [partner6.png](small-projects/images/partner6.png)
+       - 📄 [partner6.png.crdownload](small-projects/images/partner6.png.crdownload)
+       - 📄 [patron\-btn.png](small-projects/images/patron-btn.png)
+       - 📄 [paypal\-btn.png](small-projects/images/paypal-btn.png)
+       - 📄 [person.png](small-projects/images/person.png)
+       - 📄 [pexels\-photo\-198162.jpeg](small-projects/images/pexels-photo-198162.jpeg)
+       - 📄 [phone.png](small-projects/images/phone.png)
+       - 📄 [pic1.jpg](small-projects/images/pic1.jpg)
+       - 📄 [pic1.resized.jpg](small-projects/images/pic1.resized.jpg)
+       - 📄 [pic2.jpg](small-projects/images/pic2.jpg)
+       - 📄 [pic2.resized.jpg](small-projects/images/pic2.resized.jpg)
+       - 📄 [pic3.jpg](small-projects/images/pic3.jpg)
+       - 📄 [pic3.resized.jpg](small-projects/images/pic3.resized.jpg)
+       - 📄 [pic4.jpg](small-projects/images/pic4.jpg)
+       - 📄 [pic4.resized.jpg](small-projects/images/pic4.resized.jpg)
+       - 📄 [prev.png](small-projects/images/prev.png)
+       - 📄 [s.jpg](small-projects/images/s.jpg)
+       - 📄 [sample.jpg](small-projects/images/sample.jpg)
+       - 📄 [sample1.jpg](small-projects/images/sample1.jpg)
+       - 📄 [sample2.jpg](small-projects/images/sample2.jpg)
+       - 📄 [sample3.jpg](small-projects/images/sample3.jpg)
+       - 📄 [sample4.jpg](small-projects/images/sample4.jpg)
+       - 📄 [sample5.jpg](small-projects/images/sample5.jpg)
+       - 📄 [sample6.jpg](small-projects/images/sample6.jpg)
+       - 📄 [services\-1.jpg](small-projects/images/services-1.jpg)
+       - 📄 [services\-2.jpg](small-projects/images/services-2.jpg)
+       - 📄 [services\-3.jpg](small-projects/images/services-3.jpg)
+       - 📄 [services\-4.jpg](small-projects/images/services-4.jpg)
+       - 📄 [showcase.jpg](small-projects/images/showcase.jpg)
+       - 📄 [showcase2.jpg](small-projects/images/showcase2.jpg)
+       - 📄 [simon.jpg](small-projects/images/simon.jpg)
+       - 📄 [site\_phone.png](small-projects/images/site_phone.png)
+       - 📄 [site\_showcase\_bg.jpg](small-projects/images/site_showcase_bg.jpg)
+       - 📄 [sourceco\_icon.png](small-projects/images/sourceco_icon.png)
+       - 📄 [team\-1.jpg](small-projects/images/team-1.jpg)
+       - 📄 [team\-2.jpg](small-projects/images/team-2.jpg)
+       - 📄 [team\-3.jpg](small-projects/images/team-3.jpg)
+       - 📄 [team\-4.jpg](small-projects/images/team-4.jpg)
+       - 📄 [team\-5.jpg](small-projects/images/team-5.jpg)
+       - 📄 [team\-6.jpg](small-projects/images/team-6.jpg)
+       - 📄 [text\-bg.png](small-projects/images/text-bg.png)
+       - 📄 [thumb\-1.jpg](small-projects/images/thumb-1.jpg)
+       - 📄 [thumb\-2.jpg](small-projects/images/thumb-2.jpg)
+       - 📄 [thumb\-3.jpg](small-projects/images/thumb-3.jpg)
+       - 📄 [twitter.png](small-projects/images/twitter.png)
+       - 📄 [user.png](small-projects/images/user.png)
+       - 📄 [work\-preview\-1.jpg](small-projects/images/work-preview-1.jpg)
+       - 📄 [work1.png](small-projects/images/work1.png)
+       - 📄 [work2.png](small-projects/images/work2.png)
+       - 📄 [work3.png](small-projects/images/work3.png)
+       - 📄 [work4.png](small-projects/images/work4.png)
+       - 📄 [youtube\-bg.jpg](small-projects/images/youtube-bg.jpg)
+       - 📄 [youtube.png](small-projects/images/youtube.png)
+       - 📄 [yup.jpg](small-projects/images/yup.jpg)
+     - 📂 __images\-lg__
+       - 📄 [1.jpeg](small-projects/images-lg/1.jpeg)
+       - 📄 [2.jpeg](small-projects/images-lg/2.jpeg)
+       - 📄 [action\-america\-architecture\-378570.jpg](small-projects/images-lg/action-america-architecture-378570.jpg)
+       - 📄 [america\-american\-flag\-architecture\-450597.jpg](small-projects/images-lg/america-american-flag-architecture-450597.jpg)
+       - 📄 [america\-billboards\-broadway\-1112109.jpg](small-projects/images-lg/america-billboards-broadway-1112109.jpg)
+       - 📄 [bg\-parallax.jpg](small-projects/images-lg/bg-parallax.jpg)
+       - 📄 [bg\-parallax2.jpg](small-projects/images-lg/bg-parallax2.jpg)
+       - 📄 [business\-computer\-connection\-450035.jpg](small-projects/images-lg/business-computer-connection-450035.jpg)
+       - 📄 [car1.jpg](small-projects/images-lg/car1.jpg)
+       - 📄 [car2.jpg](small-projects/images-lg/car2.jpg)
+       - 📄 [car3.jpg](small-projects/images-lg/car3.jpg)
+       - 📄 [image1.jpg](small-projects/images-lg/image1.jpg)
+       - 📄 [image2.jpg](small-projects/images-lg/image2.jpg)
+       - 📄 [image3.jpg](small-projects/images-lg/image3.jpg)
+       - 📄 [large.jpeg](small-projects/images-lg/large.jpeg)
+     - 📂 __img__
+       - 📄 [cat1weyes.png](small-projects/img/cat1weyes.png)
+       - 📄 [cat2weyes.png](small-projects/img/cat2weyes.png)
+       - 📄 [cat3weyes.png](small-projects/img/cat3weyes.png)
+       - 📄 [cat4weyes.png](small-projects/img/cat4weyes.png)
+       - 📄 [giraffeweyes.png](small-projects/img/giraffeweyes.png)
+       - 📄 [js\-badge.svg](small-projects/img/js-badge.svg)
+       - 📄 [js\-badge.svg.png](small-projects/img/js-badge.svg.png)
+       - 📄 [react.svg](small-projects/img/react.svg)
+       - 📄 [react.svg.png](small-projects/img/react.svg.png)
+     - 📂 __js__
+       - 📄 [bootstrap.js](small-projects/js/bootstrap.js)
+       - 📄 [bootstrap.min.js](small-projects/js/bootstrap.min.js)
+       - 📄 [ekko\-lightbox.min.js](small-projects/js/ekko-lightbox.min.js)
+       - 📄 [fontawesome\-all.js](small-projects/js/fontawesome-all.js)
+       - 📄 [fontawesome\-all.min.js](small-projects/js/fontawesome-all.min.js)
+       - 📄 [fontawesome.js](small-projects/js/fontawesome.js)
+       - 📄 [fontawesome.min.js](small-projects/js/fontawesome.min.js)
+       - 📄 [jquery.easing.min.js](small-projects/js/jquery.easing.min.js)
+       - 📄 [jquery.min.js](small-projects/js/jquery.min.js)
+       - 📄 [lightbox\-plus\-jquery.js](small-projects/js/lightbox-plus-jquery.js)
+       - 📄 [lightbox\-plus\-jquery.min.js](small-projects/js/lightbox-plus-jquery.min.js)
+       - 📄 [lightbox\-plus\-jquery.min.map](small-projects/js/lightbox-plus-jquery.min.map)
+       - 📄 [lightbox.js](small-projects/js/lightbox.js)
+       - 📄 [lightbox.min.js](small-projects/js/lightbox.min.js)
+       - 📄 [lightbox.min.map](small-projects/js/lightbox.min.map)
+       - 📄 [popper.min.js](small-projects/js/popper.min.js)
+       - 📄 [tether.min.js](small-projects/js/tether.min.js)
+     - 📄 [note.txt](small-projects/note.txt)
+     - 📂 __sounds__
+       - 📄 [shoot.mp3](small-projects/sounds/shoot.mp3)
+     - 📄 [telecom design.zip](small-projects/telecom%20design.zip)
+     - 📂 __videos__
+       - 📄 [Hacker\_code\_whiteblack\_01\_Videvo.mov](small-projects/videos/Hacker_code_whiteblack_01_Videvo.mov)
+       - 📄 [laptop.mov](small-projects/videos/laptop.mov)
+   - 📂 __starterkit\-boilerplate__
+     - 📄 [Email\-Boilerplate\-master.zip](starterkit-boilerplate/Email-Boilerplate-master.zip)
+     - 📄 [fullstack\-master.zip](starterkit-boilerplate/fullstack-master.zip)
+     - 📄 [fullstack\-starter\-kit\-master.zip](starterkit-boilerplate/fullstack-starter-kit-master.zip)
+     - 📄 [gatsby\-starter\-morning\-dew\-master.zip](starterkit-boilerplate/gatsby-starter-morning-dew-master.zip)
+     - 📄 [hackathon\-starter\-master.zip](starterkit-boilerplate/hackathon-starter-master.zip)
+     - 📄 [jquery\-boilerplate\-master.zip](starterkit-boilerplate/jquery-boilerplate-master.zip)
+     - 📄 [material\-kit\-react\-master.zip](starterkit-boilerplate/material-kit-react-master.zip)
+     - 📄 [pwa\-starter\-kit\-master.zip](starterkit-boilerplate/pwa-starter-kit-master.zip)
+     - 📄 [sass\-boilerplate\-master.zip](starterkit-boilerplate/sass-boilerplate-master.zip)
+     - 📄 [vue\-express\-mongo\-master.zip](starterkit-boilerplate/vue-express-mongo-master.zip)
+   - 📄 [README.md](README.md)
+
+```
+
+
+
+> > > © Share The Talk & Talk The Code.

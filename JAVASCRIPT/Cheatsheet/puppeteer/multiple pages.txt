@@ -1,0 +1,36 @@
+    pages = await browser.pages()
+
+    console.log(pages.map(page => page.url()))
+
+
+It helps to wrap the pages call in timeout with 10ms function:
+
+setTimeout(async () => {
+    const pages3 = (await browser.pages()).map(t => t.url())
+    console.log(pages3)
+}, 10)
+
+Target.closeTarget
+
+const Puppeteer = require('.');
+
+const puppeteer = Puppeteer.launch({
+  headless: false
+});
+
+async function test() {
+  const browser = await puppeteer;
+  console.log('creating new page');
+  const page = await browser.newPage();
+  browser._connection.on('Target.targetDestroyed', console.log.bind(null, 'TargetDestroyed'));
+  await page.goto('http://google.com');
+  console.log('closing page');
+  await page.close();
+  console.log('reading pages');
+  const pages = await browser.pages();
+
+  console.log(pages.map(page => page.url()));
+  await browser.close();
+}
+
+test();

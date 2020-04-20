@@ -1,0 +1,38 @@
+{
+  "name": "devconnector",
+  "version": "1.0.0",
+  "description": "social network for devs",
+  "main": "server.js",
+  "homepage": "https://Zed-M.github.io/devconnector",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zed-M/dzcode.talk/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "server": "nodemon server",
+    "client": "npm start --prefix client",
+    "client-install": "npm install --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client",
+    "deploy": "gh-pages -d client"
+  },
+  "author": "Code Talk",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^4.1.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "config": "^3.1.0",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
+    "gravatar": "^1.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.4",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}

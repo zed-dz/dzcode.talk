@@ -1,0 +1,9 @@
+Features of the system:
+    • Doctor login: Doctor has an account in the system from where he checks all patient details. 
+    • Receptionist login: Receptionist is allowed to login and perform token assigning and bill generation.
+    • Token generation: System automatically generates token number for new arrivals.
+    • Patient information: Patient information is stored in database along with their prescription.
+    • Bill information: System generates bill for the patient as requested by the receptionist.
+    • Prescription Sending: Doctor sends prescription to receptionist from where receptionist may provide those medicines to the patient.
+    • Resources tracking: Admin can even maintain a track of resources being utilized in the hospitals by the doctors and patients.
+    • Patient bill generation: The system automatically calculates the patient bill by considering the number of days of stay, and bed and resources charges incurred. 

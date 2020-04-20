@@ -1,0 +1,115 @@
+.agent_contanct_form_sidebar .agent_contact_form {
+  float: left;
+  width: 100%;
+  border: 1px solid #f0f0f0;
+  background-color: #ffffff;
+  margin-bottom: 30px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 30px;
+  margin-top: 30px;
+}
+
+#agent_contact_subject,
+#agent_contact_name {
+  width: 100%;
+  margin-right: 13px;
+  float: left;
+
+  -webkit-box-shadow: none;
+}
+
+/* reorder */
+/*
+Div widget area sidebar
+  xoxo
+    login
+    saved
+    contact
+  agent contact sidebar
+    agent_info
+    contac_agent
+*/
+.widget-area-sidebar {
+  display: flex;
+  flex-flow: column;
+}
+
+.xoxo {
+  order: 1;
+  display: flex;
+  flex-flow: column;
+}
+
+#login_widget-2 {
+  order: 0 !important;
+}
+
+#saved_search_widget {
+  order: 1 !important;
+}
+
+.xoxo > #advanced_search_widget-3 {
+  order: 2 !important;
+}
+
+/* professionel */
+.xoxo > #text-5 {
+  order: 3 !important;
+}
+
+/* address */
+.xoxo > #text-6 {
+  order: 4 !important;
+}
+
+/* contactez nous */
+.xoxo > #custom_html-2 {
+  order: 5 !important;
+}
+
+.agent_contanct_form_sidebar {
+  order: 2;
+  display: flex;
+  flex-flow: column;
+}
+
+/* contact form */
+.agent_contanct_form {
+  order: 1 !important;
+}
+/* agent name and discription */
+.agent_unit {
+  order: 2 !important;
+}
+/* The icon code – f043 – you can take from fontawesome 4 – https://fontawesome.com/v4.7.0/icons/ */
+/* Change Icon with Icon */
+
+i.demo-icon.icon-lock-1:before {
+  content: "\f043";
+  font: normal normal normal 14px/1 FontAwesome;
+  margin-right: 7px;
+  font-size: 20px;
+}
+
+/* Change Icon with text */
+
+.submit_action:before {
+  content: "Login";
+  font-size: 14px;
+  background-color: #445a8c;
+  color: #fff;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 10px;
+  padding-bottom: 7px;
+}
+
+.demo-icon.icon-lock-1 {
+  display: none;
+}
+
+.submit_action:hover::before {
+  background: #445a8c;
+  color: #fff;
+}

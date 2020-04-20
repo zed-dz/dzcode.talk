@@ -1,0 +1,102 @@
+1/ MATH
+
+min,max,charAt,indexOf,slice,replace,length,trim().length,Math.random(),splice,push,sort,reverse,join...
+
+x="lalaoui omar";
+
+var q=x.slice(2,6); //nous donne wsh kayan de la postion 2 a la position 5
+var e=x.replace("Omar","amin");  //remplacer la chaine par une autre
+var w=y.trim().length; // supprime les espaces du debut et de la fin
+
+var b=["omar","amine","elias","med"];
+b.splice(2,1,"marwa"); //inserer mor la 2eme position 'marwa' w mor ma tinserer tu supprime 1 						   element li mor marwa li howa 'amine'
+var z=b.join("/");
+var nt=b.push("racha"); //inserer rasha a la fin du tab
+
+
+2/CSS en js
+
+x.style.color,display,backgroundColor,listStyleType,margin,padding,textDecoration,width,hight,border,borderTop,textAlign,lineHeight,fontWeight  etc.......
+
+( x-> 3 )
+
+
+
+
+3/DES CHOSES DE BASES
+
+
+innerHTML,textContent,setAttribute
+document.querySelector,querySelectorAll,getElementsByClassName,getElementById,getElementsByTagName
+docuement.CreateElement,createTextNode,appendChild
+parentNode,ChildNode,nextElementSibling,previousElementSibling
+NodeValue,insertBefore,insertAfter,removeChild
+
+
+
+h1.innerHTML += "avec amine";      h1.textContent= "avec amine";
+
++= : la concatination , = : lécrasement 
+innerHTML cest un type objet complet expl "<p>ccc</p>"" tant que textContent cest ce qui est dans l'objet "ccc" ,
+ici le resultat sera le meme car en ecrit dans lobjet , mais si tu fais un alert le resultat sera diffferent
+
+alert(i[0].src);  ( afficher la source)
+
+lien[0].setAttribute('href', 'https://www.facebook.com');   //donner un lien 'href' en vers 					fb , on peut faire aussi ,src,type,nom, etc...
+
+
+var h2=document.createElement('h2');	 //on creer un element h2 cest un grand champ text
+var th2=document.createTextNode("Concentre toi"); 		 // on creer un text
+h2.appendChild(th2);  					//donc on met le texte de th2 dans lelement h2
+document.body.appendChild(h2);   		//puis on met notre element h2 a la fin du body
+
+childnodes tchof li ta7t lelement mais matchofch b lelement tchof b les espaces sama kayn element puis espace puis element expl
+<p class=pp>ccc </p>    //hada howa lespace
+<h1>ggg</h1>
+
+alert(ppp.childNodes[0].nodeValue);   //pr afficher la valeur du premier node cest cpt nrml
+
+
+div cest un div,par cest un p,par2 cest un p li mor l p lowal
+
+div.insertBefore(par,par2); 		 //dans le div en insere le par avant le par2 donc on change 												 l'orde sinon on creer un element on linsert avant  (or After)
+
+
+
+
+
+
+4/LES FONCTION BUTTON CLAVIER SOURIS CPT etc....
+
+
+
+setTimeout  : setTimeout(function(){	d.style.backgroundColor="red"; },500);
+
+setInterval , ClearInterval  :   setInterval : x=setInterval(fonctionx,1000);  , clearInterval(x);
+
+onclick / ondblclick (button), onsubmit (submit) { onsubmit dans un form , button en dehors d'un form }
+x.onclick=fucntion()  ,  x.onsubmit=function(e){ e.preventDefault(); etc... }
+
+onkeyup , onkeydown , onkeypress  :  (onkeyup :le moment li rak makliki fih 3la button du clavier , onkeydown : le moment li tatla9 le button hadak , onkeypress : les 2 succesivement)
+
+
+value.length , value , this.value
+
+window   :  window.onkeyup,oncontextmenu etc..... ( tout le corp )
+
+onmouseenter , onmouseleave
+
+oncontextmenu
+
+onblur(); / x.blur			//le blur supprime l autofocus , //mor ma takliki w tokrj m champ text tafichilk
+onfocus(); / x.focus		//ki tkliki f champ text w tabka fih tafichilk
+
+
+e.preventDefault() -> : 
+
+it tells the browser that if there is a default behavior for this event on this object, then skip that default behavior.
+
+So, for example, if you had a submit button that the default behavior was to submit a form and you had a click handler on that button that did a preventDefault(), then the browser would not submit the form when the button was clicked. A classic use of this might be when the form doesn't validate so you show the user an error message and don't want the form to be submitted to the server.
+
+Or another example. If you set up a click handler for a link and you call e.preventDefault() in that click handler, then the browser will not process the click on the link and will not follow the href in the link.
+<-

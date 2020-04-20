@@ -1,0 +1,168 @@
+.profile {
+	background-image:url(../img/cover/Wallpaper-Macbook.jpg);
+	background-size:cover;
+	background-position:center center;
+	height:auto;
+	border:none;
+	margin:50px 0 0 0;
+	box-sizing: border-box;
+	padding:0;
+	width: 100%;
+	box-shadow:1px 1px 3px rgba(0,0,0,0.3);
+	overflow:hidden;
+	
+}
+.profile .sub_profile {
+	height:auto;
+	width:100%;
+	padding:50px 0;
+	overflow:hidden;
+	line-height:25px;
+}
+.profile .profile_pic {
+	height:100px;
+	width:100px;
+	margin:0 0 12px 0;
+	padding:0;
+	border-radius:50%;
+	border:2px solid #ffffff;
+	box-shadow:1px 1px 3px rgba(0,0,0,0.2);
+	
+}
+.profile h2 {
+	display:inline-block;
+	font-size:17px;
+	font-weight:600;
+	color:#ffffff;
+	text-shadow:0 0 2px #000000;
+}
+.profile h3 {
+	display:inline-block;
+	font-size:16px;
+	font-weight:500;
+	color:#ffffff;
+	text-shadow:0 0 2px #000000;
+}
+.profile button {
+	margin:12px 5px 0 5px;
+	padding:0;
+	height:32px;
+	width:100px;
+	color:#ffffff;
+	font-family:segoe ui;
+	font-size:15px;
+	font-weight:500;
+	background:#8899A6;
+	border:none;
+	border-radius:4px;
+	box-shadow:1px 1px 3px rgba(0,0,0,0.2);
+}
+.profile .btn_follow {
+	background:#2A80BA;
+}
+.feed .profile_menu {
+	width: Calc(100% - 5px);	
+	background:#ffffff;
+	border:none;
+	box-shadow:1px 1px 3px rgba(0,0,0,0.1);
+	border-radius:3px;
+	margin:6px auto 10px auto;
+	box-sizing: border-box;
+	padding:0 0;
+	overflow:hidden;
+}
+
+@media screen and (max-width:570px){
+	.feed .profile_menu {
+		width: Calc(100% - 30px);	
+	}
+}
+@media screen and (min-width:570px) and (max-width:964px){
+	.feed .profile_menu {
+		width: 460px;	
+	}
+
+}
+.feed .profile_menu button {
+	margin:0 5px 0 0;
+	padding:0 14px 0 44px;
+	height:48px;
+	width:auto;
+	color:#8899A6;
+	font-family:segoe ui;
+	font-size:16px;
+	font-weight:600;
+	background-color:#ffffff;
+	background-image:url(../img/header/history-clock-button.png);
+	background-size:20px 20px;
+	background-repeat:no-repeat;
+	background-position:14px 14px;
+	border-bottom:4px solid #ffffff;
+	border-left:none;
+	border-top:none;
+	border-right:none;
+	border-radius:0px;
+    float:none;
+}
+.feed .profile_menu .about {
+    background-image:url(../img/header/ellipsis.png);
+}
+.feed .profile_menu .posts {
+    background-image:url(../img/header/create-new-pencil-button.png);
+}
+.feed .profile_menu .photos {
+    background-image:url(../img/header/photo-library.png);
+}
+.feed .profile_menu .friends {
+    background-image:url(../img/header/create-group-button.png);
+}
+.feed .profile_menu .following {
+    background-image:url(../img/header/tick-inside-circle.png);
+}
+@media screen and (max-width:964px){
+	.feed .profile_menu button {
+		width:48px;
+		padding:0;
+		font-size:0;
+	}
+
+}
+.feed .profile_menu .active {
+	border-bottom:4px solid #2A80BA;
+	color:#2A80BA;
+	
+}
+.feed .post_form {
+    padding:0;
+}
+.feed .post_form div{
+    color:#A9A8A8;
+    height:auto;
+    border-bottom:1px solid #EAEAEA;
+    padding:20px 12px;
+}
+.feed .post_form .post_form_extra {
+	width:20px;
+    height:20px;
+	padding:0;
+    margin:15px 0 15px 20px;
+    border:none;
+    background-color:#ffffff;
+    background-image:url(../img/header/photo-library.png);
+    background-size:20px 20px;
+    background-repeat:no-repeat;
+    background-position:0 0;
+}
+.feed .post_form .post_form_submit {
+	width: 28px;
+    height:28px;
+	padding:0;
+    margin:11px 20px 11px 0;
+    border:none;
+    background-color:#ffffff;
+    background-image:url(../img/header/forward-arrow.png);
+    background-size:28px 28px;
+    background-repeat:no-repeat;
+    background-position:0 0;
+    float:right;
+}

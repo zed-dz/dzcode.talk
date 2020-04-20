@@ -1,0 +1,138 @@
+  // cl , nfn , fn , arfn , ifc , ifelsec , arrmth , axreq , fetchreq , asfetchreq , ndrq , expsrv , exprt , expmw
+  // Place your snippets for javascript here. Each snippet is defined under a snippet name and has a prefix, body and
+  // description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+  // $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the
+  // same ids are connected.
+  // Example:
+  // "Print to console": {
+  // 	"prefix": "log",
+  // 	"body": [
+  // 		"console.log('$1')",
+  // 		"$2"
+  // 	],
+  // 	"description": "Log output to console"
+  // }
+{
+  "Console Log": {
+    "prefix": "cl",
+    "body": "console.log($1)",
+    "description": "Console Log"
+  },
+  "Named Function": {
+    "prefix": "nfn",
+    "body": [
+      "function ${1:functionName}($2) {",
+      "  $3",
+      "}"
+    ],
+    "description": "Named Function"
+  },
+  "Anonymous Function": {
+    "prefix": "fn",
+    "body": [
+      "function() {",
+      "  $2",
+      "}"
+    ],
+    "description": "Anonymous Function"
+  },
+  "Arrow Function": {
+    "prefix": "arfn",
+    "body": [
+      "const ${1:functionName} = ($2) => {",
+      "  $3",
+      "}"
+    ],
+    "description": "Arrow Function"
+  },
+  "Basic If Statement": {
+    "prefix": "ifc",
+    "body": [
+      "if(${1:condition}) {",
+      "  $2",
+      "}"
+    ],
+    "description": "If Statement"
+  },
+  "If Else Statement": {
+    "prefix": "ifelsec",
+    "body": [
+      "if(${1:condition}) {",
+      "  $2",
+      "} else {",
+      "  $3",
+      "}"
+    ],
+    "description": "If else statement"
+  },
+  "Array Method": {
+    "prefix": "arrmth",
+    "body": [
+      "${1|forEach,map,filter,reduce,some|}((${2:item}) => {",
+      "  $3",
+      "})"
+    ],
+    "description": "Array Method"
+  },
+  "Axios Request": {
+    "prefix": "axreq",
+    "body": [
+      "axios.${1|get,post,put,delete|}('${2:url}')",
+      "  .then(res => console.log(res.data))",
+      "  .catch(err => console.log(err))"
+    ],
+    "description": "Axios Request"
+  },
+  "Fetch Request": {
+    "prefix": "fetchreq",
+    "body": [
+      "fetch('${1:url}')",
+      "  .then(res => res.json())",
+      "  .then(data => console.log(data))"
+    ],
+    "description": "Fetch Request"
+  },
+  "Async Await Fetch": {
+    "prefix": "asfetchreq",
+    "body": [
+      "const request = async ($1) => {",
+      "    const response = await fetch('${2:url}')",
+      "    const data = await response.json()",
+      "    console.log(data)",
+      "}"
+    ],
+    "description": "Fetch Async/Await"
+  },
+  "Node Require": {
+    "prefix": "ndrq",
+    "body": "const ${1:import} = require('${module}')",
+    "description": "Require a Node.js module"
+  },
+  "Express Server": {
+    "prefix": "expsrv",
+    "body": [
+      "const express = require('express')",
+      "",
+      "const app = express()",
+      "",
+      "app.${1|get,post,put,delete|}('${2:route}', (req, res) => {",
+      "  $3",
+      "})",
+      "",
+      "const PORT = process.env.PORT || ${4|3000,5000,8000,8080|}",
+      "",
+      "app.listen(PORT, () => console.log(`Server Running On Port ${PORT}`))"
+    ],
+    "description": "Express Server"
+  },
+  "Express Route": {
+    "prefix": "exprt",
+    "body": "app.${1|get,post,put,delete|}('${3:/}', (req, res) => {})",
+    "description": "Express Route"
+  },
+  "Express Init Middleware": {
+    "prefix": "expmw",
+    "body": "app.use(${1:middleware})",
+    "description": "Express Middleware"
+  }
+}

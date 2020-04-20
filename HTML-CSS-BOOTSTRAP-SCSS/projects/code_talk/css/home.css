@@ -1,0 +1,378 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+@font-face {
+    font-family: 'Genericons';
+    src: url('../fonts/genericons-regular-webfont.woff')format('woff'), url('../fonts/genericons-regular-webfont.eot')format('truetype');
+}
+
+/* footer social media */
+
+:root {
+    --ytb-icon: '\f213';
+    --ytb-color: #ff0000;
+    --fb-icon: '\f204';
+    --fb-color: #3b5998;
+    --link-icon: '\f208';
+    --link-color: #00a9cd;
+    --insta-icon: '\f215';
+    --insta-color: #6dc993;
+    --github-icon: '\f200';
+    --github-color: #6e5494;
+    --container-bg-color: #333;
+    --left-bg-color: rgba(223, 39, 39, 0.7);
+    --left-button-hover-color: rgba(161, 11, 11, 0.3);
+    --right-bg-color: rgba(43, 43, 43, 0.8);
+    --right-button-hover-color: rgba(92, 92, 92, 0.3);
+    --hover-width: 75%;
+    --other-width: 25%;
+    --speed: 1000ms;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body,
+html {
+    font-family: 'Roboto Condensed', sans-serif;
+    box-sizing: border-box;
+    line-height: 1.5;
+    font-size: 1rem;
+    font-weight: 400;
+    text-transform: capitalize;
+    box-sizing: border-box;
+}
+
+header .navbar h2 span,
+header .navbar ul li a.active {
+    color: coral;
+    font-weight: bold;
+}
+
+header .navbar {
+    background-color: transparent;
+    padding-top: 0.8rem;
+    color: #f4f4f4;
+    height: 16vh;
+    width: 100%;
+    border-bottom: 0.3rem solid transparent;
+    position: fixed;
+    z-index: 100;
+}
+
+header .navbar:hover {
+    background-color: #444;
+    border-bottom: 0.3rem solid tomato;
+    transition: all 1s ease-in-out 0.1s;
+    -webkit-transition: all 1s ease-in-out 0.1s;
+    -moz-transition: all 1s ease-in-out 0.1s;
+    -ms-transition: all 1s ease-in-out 0.1s;
+    -o-transition: all 1s ease-in-out 0.1s;
+}
+
+header .navbar h2 {
+    position: relative;
+    left: 10%;
+}
+
+header .navbar ul {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+header .navbar ul li {
+    display: inline-block;
+    padding-right: 2.5rem;
+    text-transform: uppercase;
+}
+
+header .navbar ul li a {
+    font-size: 1rem;
+    color: #fff;
+    padding: 0.8rem;
+    text-decoration: none;
+    transition: all 0.8s ease-out 0.1s;
+    -webkit-transition: all 0.8s ease-out 0.1s;
+    -moz-transition: all 0.8s ease-out 0.1s;
+    -ms-transition: all 0.8s ease-out 0.1s;
+    -o-transition: all 0.8s ease-out 0.1s;
+}
+
+header .navbar ul li a:hover,
+header .navbar ul li a.active {
+    background-color: coral;
+    border-bottom: coral 1px solid;
+    color: #444;
+}
+
+/* header .navbar ul li a.active {
+    border-bottom: coral 1px solid;
+} */
+
+main .container,
+main .container-1 {
+    width: 100%;
+    height: 100vh;
+    display: block;
+}
+
+main .container .bg-video {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.bg-overlay {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background: #777;
+    opacity: 0.5;
+}
+
+main .container .bg-video video {
+    min-height: 100%;
+    min-width: 100%;
+}
+
+main .container .content {
+    top: 25%;
+    text-align: center;
+    position: relative;
+    display: block;
+    z-index: 30;
+    color: #f4f4f4;
+    padding: 1rem;
+    box-shadow: 1rem 1rem 1rem rgba(0, 0, 0, 0.4);
+}
+
+main .container .content h2 {
+    text-transform: uppercase;
+    font-weight: bolder;
+    margin-bottom: 2.5rem;
+    font-size: 2.5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #ff4777;
+}
+
+main .container .content p {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 1.6rem;
+}
+
+main .container .content a,
+main .container-1 .content-grid a {
+    text-decoration: none;
+    background-color: #00a9cd;
+    color: #f4f4f4;
+    font-size: 1.1rem;
+    border: 1px solid transparent;
+    padding: 0.9rem;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+main .container-1 {
+    width: 100%;
+    height: 80vh;
+    position: relative;
+}
+
+main .container-1 .img-responsive {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 80vh;
+    animation: img-responsive 25s infinite;
+    -webkit-animation: img-responsive 25s infinite;
+    background-attachment: fixed;
+}
+
+main .container-1 .content-grid {
+    position: absolute;
+    left: 0;
+    z-index: 30;
+    color: #fff;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+}
+
+main .container-1 .content-text {
+    z-index: 30;
+    color: #f4f4f4;
+    text-align: center;
+    position: relative;
+    padding: 2.5rem 0;
+}
+
+.split-container h1 {
+    font-size: 4rem;
+    color: #fff;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    white-space: nowrap;
+}
+
+.split-container .button {
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 4rem;
+    padding-top: 1.3rem;
+    width: 15rem;
+    text-align: center;
+    color: #fff;
+    border: 0.2rem solid #fff;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}
+
+.split.left .button:hover {
+    background-color: var(--left-button-hover-color);
+    border-color: var(--left-button-hover-color);
+}
+
+.split.right .button:hover {
+    background-color: var(--right-button-hover-color);
+    border-color: var(--right-button-hover-color);
+}
+
+.split-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: var(--container-bg-color);
+}
+
+.split {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.split.left {
+    left: 0;
+    background: url('../images/action-america-architecture-378570.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.split.left:before {
+    /* for the overlay */
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: var(--left-bg-color);
+}
+
+.split.right {
+    right: 0;
+    background: url('../images/america-billboards-broadway-1112109.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.split.right:before {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: var(--right-bg-color);
+}
+
+.split.left,
+.split.right,
+.split.left:before,
+.split.right:before {
+    transition: var(--speed) all ease-in-out;
+    -webkit-transition: var(--speed) all ease-in-out;
+    -moz-transition: var(--speed) all ease-in-out;
+    -ms-transition: var(--speed) all ease-in-out;
+    -o-transition: var(--speed) all ease-in-out;
+}
+
+.hover-left .left,
+.hover-right .right {
+    width: var(--hover-width);
+}
+
+.hover-left .right,
+.hover-right .left {
+    width: var(--other-width);
+}
+
+.hover-left .right:before,
+.hover-right .left:before {
+    z-index: 2;
+}
+
+@keyframes img-responsive {
+    0%,
+    10%,
+    20%,
+    30%,
+    40%,
+    50%,
+    60%,
+    70%,
+    80%,
+    90%,
+    100% {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    0% {
+        background-image: url('../images/action-america-architecture-378570.jpg');
+    }
+    10% {
+        background-image: url('../images/america-american-flag-architecture-450597.jpg');
+    }
+    20% {
+        background-image: url('../images/america-billboards-broadway-1112109.jpg');
+    }
+    30% {
+        background-image: url('../images/business-computer-connection-450035.jpg');
+    }
+    40% {
+        background-image: url('../images/image1.jpg');
+    }
+    50% {
+        background-image: url('../images/image2.jpg');
+    }
+    60% {
+        background-image: url('../images/image3.jpg');
+    }
+    70% {
+        background-image: url('../images/car1.jpg');
+    }
+    80% {
+        background-image: url('../images/car2.jpg');
+    }
+    90% {
+        background-image: url('../images/car3.jpg');
+    }
+    100% {
+        background-image: url('../images/1.jpeg');
+    }
+}

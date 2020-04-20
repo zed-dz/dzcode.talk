@@ -1,0 +1,143 @@
+- Some interesting websites {
+
+* cracking themes => https://www.crackthemes.com/
+* an audience for wp => https://disqus.com/ 
+* fav plugins collection => https://wpcore.com/collections/ezEoIyOu4je50qEidw7F
+* diy build a wp => https://themeisle.com/blog/how-to-make-a-website/
+* wp security => https://redstapler.co/wordpress-security-guide-for-beginners/
+
+}
+
+- Wordpress Plugins that I like till now {
+
+* Simple Website  redirerct
+* Simple page Ordering
+* divi
+* divi builder
+* Bloom
+* Akismet Anti-Spam
+* Coming Soon Page, Under Construction & Maintenance Mode by SeedProd
+* Google Analytics Dashboard for WP (GADWP)
+* (Google Analytics for WordPress by MonsterInsights)
+
+* Monarsh ( by divi social media plugin )
+
+* All-in-One WP Migration
+* Duplicator
+
+* Yoast SEO => helps you make search engine optimization tweaks and make your site more accessible to the search engines in general.
+* jetpack (marketing)
+* WPForms Lite
+* Contact form 7
+
+* Find and replace (to replace text)
+* Classified Listing
+
+* wp cache clean
+* elementor pro (from cracking wordpress themes and plugins https://www.crackthemes.com/)
+}
+
+- Plugins from an article {
+* wp super cache
+* wordpress importer (import files)
+* Wordfence Security => improves the security of your WordPress site.
+* UpdraftPlus => does automatic backups of your website.
+* Optimole => optimizes your images.
+* Oginizer => is a WordPress plugin which helps you fight against bruteforce attack by blocking login for the IP after it reaches maximum retries allowed. You can blacklist or whitelist IPs for login using Loginizer.
+* Open Graphite => Control how your content is viewed when shared on social media.
+* Slider Revolution
+}
+
+- Plugins from dash {
+
+* Amelia => Amelia is a simple yet powerful automated booking specialist, working 24/7 to make sure your customers can make appointments and events even while you sleep!
+
+* Bloom => A simple, comprehensive and beautifully constructed email opt-in plugin built to help you quickly grow your mailing list.
+
+* Duplicate Page => Permet de dupliquer les articles, les pages et les contenus personnalisés d’un simple clic.
+
+* jQuery lazy load plugin => a quick and dirty wordpress plugin to enable image lazy loading.
+
+* Monarch Plugin => Social Media Plugin
+
+* MonsterInsights - Google Analytics pour WordPress => La meilleure extension Google Analytics pour WordPress. Découvrez comment les internautes trouvent et utilisent votre site, pour mieux les faire revenir.
+
+* Smush => Reduce image file sizes, improve performance and boost your SEO using the free WPMU DEV WordPress Smush API.
+
+* Under Construction => Mettez votre site derrière une magnifique page de construction, derrière une page « arrive bientôt », en mode maintenance ou derrière une page d’atterrissage.
+
+* W3 Total Cache => L’extension de performance la mieux notée et la plus complète de WordPress. Améliore considérablement la vitesse et l’expérience utilisateur de votre site. Ajout de la mise en cache de navigateur, de page, d’objet et de base de données ainsi que de la minification de (CDN) pour WordPress.
+
+* WP-DBManager => Gère votre base de données WordPress. Vous permet d’optimiser votre base, de la réparer, la sauvegarder, la restaurer, d’en supprimer des sauvegardes, de supprimer ou vider des tables et d’exécuter des requêtes à la demande. Permet également de planifier des sauvegardes, optimisations, et réparations.
+
+* WP-Optimize - Clean, Compress, Cache => WP-Optimize makes your site fast and efficient. It cleans the database, compresses images and caches pages. Fast sites attract more traffic and users.
+
+* WPForms Lite => Extension de formulaire de contact conviviale pour les débutants. Utilisez notre constructeur de formulaire en glisser/déposer pour créer vos formulaires WordPress.
+
+* Yoast SEO => La première solution SEO tout-en-un pour WordPress, y compris l’analyse des pages de contenu, les plans de site XML et bien plus encore.
+
+}
+
+- Plugins From cocinelle home furniture website plugins (eccomerce) {
+
+* Woocomerce => is the best plugin for eccomerce gestion 
+* Products per Page for WooCommerce => Integrate a 'products per page' dropdown on your WooCommerce website! Set-up in seconds!
+* YITH WooCommerce Badge Management => YITH WooCommerce Badge Management allows you to highlight your products through custom badges, that show offers, discounts, and so on. You can use text badges and image badges to attract your customers. Get more plugins for your e-commerce shop on YITH
+
+
+* Duplicate Page => Permet de dupliquer les articles, les pages et les contenus personnalisés d’un simple clic.
+* New Menu Rules => Masquez des éléments de menu en fonction des rôles utilisateur.
+* Simple Job Board => Un plugin performant et robuste pour créer une zone emploi sur votre site Web de manière simple et élégante.
+
+}
+
+
+- In a hurry? Here are your action shortcuts to get a site built in less than an hour:
+{
+* Find a domain name for your site.
+* Sign up for web hosting (we recommend Bluehost).
+* Get WordPress installed via the Bluehost interface.
+* Pick a free WordPress theme from the Bluehost onboarding.
+* Get some must-have WordPress plugins that will help with your site growth.
+* Start creating your pages and blog posts.
+}
+
+- error => {
+
+* Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-filesystem-direct.php on line 81
+
+fix => https://docs.presscustomizr.com/article/171-fixing-maximum-upload-and-php-memory-limit-issues
+
+locate the file [XAMPP Installation Directory]\php\php.ini (e.g. C:\xampp\php\php.ini)
+
+The php.ini should be in the wp-admin directory, if it isn't just create it and then define whats needed, by default it should contain.
+open php.ini in Notepad or any Text editor
+locate the line containing max_execution_time and add these settings to php.ini,
+
+Wordpress dont have a php.ini file. It just a cms, look into your server. for example if you use XAMPP in windows xampp\php\php.ini is the location.
+or locally add them to /wordpress/.htaccess
+memory_limit = 256M
+upload_max_size = 64M
+post_max_size = 64M
+upload_max_filesize = 64M
+max_execution_time = 300
+max_input_time = 1000
+
+
+* this plugin couldn't be installed plugin failed, solution => open the plugin archive and remove any license or extra folder just keep the installation one only
+
+* locally when updating a plugin you may face this maintenance error you go simply remove the .maintenance file from your wordpress server 
+
+}
+
+- bulk install multiple plugins: {
+
+* https://www.wpbeginner.com/plugins/how-to-bulk-install-your-favorite-plugins-in-wordpress/ => install wpcore plugin manager than go to their website and add all your plugins there, then just add the api key to wordpress wpcore and thats done!
+
+}
+
+- Divi credentials login {
+Zonglus
+ababsia.anis@gmail.com
+2d2a4451a66b322f965557007b45cfa2794f5bdc
+}

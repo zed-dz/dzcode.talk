@@ -1,0 +1,44 @@
+index.js:
+
+'use strict';
+
+const puppeteer = require('puppeteer');
+const pUtils = require('./puppeteer-utils.js');
+
+(async function main() {
+  try {
+    const browser = await puppeteer.launch();
+    const [page] = await browser.pages();
+
+    await page.goto('https://example.org/');
+
+    console.log(await pUtils.getLocation(page));
+    console.log(await pUtils.getTitle(page));
+
+    await browser.close();
+  } catch (err) {
+    console.error(err);
+  }
+})();
+puppeteer-utils.js:
+
+'use strict';
+
+async function getLocation(page) {
+  const location = await page.evaluate(() => document.location.href);
+  return `Document location is "${location}".`;
+}
+
+async function getTitle(page) {
+  const title = await page.evaluate(() => document.title);
+  return `Document title is "${title}".`;
+}
+
+module.exports = {
+  getLocation,
+  getTitle,
+};
+Output:
+
+Document location is "https://example.org/".
+Document title is "Example Domain".

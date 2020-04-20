@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  background-color: #424242;
+  color: #fff;
+  font-size: 1rem;
+  /* ( 1rem = 16px) */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+  text-align: center;
+  text-transform: uppercase;
+  position: absolute;
+  top: 5rem;
+  left: 35%;
+  color: springgreen;
+  z-index: 5;
+  border: 3px solid blue;
+  border-radius: 1rem;
+  padding: 3rem;
+  background-color: #888;
+  box-shadow: 20px 15px 15px #fff;
+  -webkit-border-radius: 1rem;
+  -moz-border-radius: 1rem;
+  -ms-border-radius: 1rem;
+  -o-border-radius: 1rem;
+}
+
+.content {
+  z-index: 1;
+  height: 100vh;
+  width: 100%;
+  border: 2px solid salmon;
+  margin: auto;
+  box-sizing: border-box;
+  background: url('../../images/image1.jpg');
+  position: absolute;
+  animation-name: diapo;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-delay: 1s;
+}
+
+@keyframes diapo {
+  0% {
+    background: url('../../images/image1.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  25% {
+    background: url('../../images/image2.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  50% {
+    background: url('../../images/image3.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  75% {
+    background: url('../../images/business-computer-connection-450035.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  100% {
+    background: url('../../images/america-american-flag-architecture-450597.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}

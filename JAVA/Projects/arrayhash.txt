@@ -1,0 +1,191 @@
+ARRAYLIST :
+
+sauvgarde la valeur de l'element
+
+Conserve l'orde des élements
+
+Peut avoir des doublons ( les memes elements repeter )
+
+on appelle la methode par get et son index
+
+type of arguments required are 1 cad pr ca declaration elle as 1 champ seuelement juste pr l'element ( ou bien le type de l'element ) mais on peut faire de la triche on créons une methode qui contient plusieurs valeurs et appeller ca classe ( objet )
+
+elle peut meme contenir un type objet
+
+ArrayList <String> l = new ArrayList <String>();
+ArrayList <Compte> l = new ArrayList <compte>();
+
+HASHMAP : 
+
+sauvgarde la clé et la valeur pr chaque valeur il doit y avoir une clé associée 
+
+Ne conserve pas l'orde des élements 
+
+Peut pas avoir des clée repeter mais peut avoir des valeurs repeter
+
+on appelle la methode par get et on précision sa clé
+
+type of arguments required are 2 cest a dire pr ca declaration elle as 2 champs pr le type de clé et sa valeur ( ou bien meme le type de la valeur ) mais on peut faire de la triche on créons une methode qui contient plusieurs valeurs et appeller ca classe ( objet )
+
+elle peut meme contenir un element (valeur) de type ArrayList var cest un objet donc elle peut aussi contenir des classes
+
+Map <Integer,String> m1= new HashMap <Integer,String>();
+Map <String,ArrayList<String>> m1= new HashMap <String,ArrayList<String>>();
+Map<String, Cordonne> m1=new HashMap<String, Cordonne>();
+
+
+
+
+/ ARRAYLIST /
+
+c'est un tableaux dynamqiue vide de chaine de caractere alors pr faire des modifications on as un des fonctions précises 
+
+ArrayList <Integer> l1 = new ArrayList <Integer> ();
+
+ArrayList<Compte> l1=new ArrayList<Compte>(); 
+
+//on peut aussi faire arraylist dune classe expl dun compte qui contient 1 entier et 1 double
+
+l1.add(); l1.size();    l1.isEmpty(); l1.contains(); l1.remove(); l1.get();
+
+
+
+quelque calcule avec arraylist compte qui contient un double public solde et un private public int num avec son getter le getnum { return num } une 
+methode qui affiche une methode qui depose une quntité 
+
+//pr créer 
+
+Compte c=new Compte(numc, solde);  
+                    //on appelle le compte avec un constructeur
+    l1.add(c);
+
+// pr rechercher 
+
+for( i=0  i<l1.size() i++){ 
+
+if( num==l1.get(i).getnum){ 
+
+//si num etais public alors on ferais ca num==l1.get(i).num et le .num a la fin psk en veut chercher avec le num et arraylist contient 2 valeurs le solde et le num
+
+                ta.setText(l1.get(i).Afficher());
+
+                } 
+    
+           ta.setText(l1.get(i).Deposer(solde));
+           
+           //cette methode calclue et affiche en meme temps avec une variable quon veux lajouter  
+    
+~~~~
+etudiant e= new etudiant(id,nom,pre);    
+
+int id=0;  
+ArrayList <Etudiant> l1=new ArrayList<Etudiant>();
+ArrayList <String> l2=new ArrayList<String>();
+
+//2eme creation avec id
+ 
+t1,t2
+id++;    //psk ykon 0 w hna ana habiin le premier element ykon 1 et ainsi de suite
+l1.add(e);
+
+
+//2eme recherche
+
+
+int id2=Integer.parseInt(t1.getText()); 
+int sup=0;
+t=false;
+
+boucle {
+if(l1.get(i).id==id2){ sup=i;   t=true; break;  }  //recherche avec id
+}
+
+boucle {
+if (t==true){ l1.remove(sup);}  //suppresion avec id
+    }
+    
+~~~~~~~~~
+
+//sans des classes et sans id
+ 
+ //3eme recherche 
+ 
+
+ if (! (t1.getText().equals("")) ) {
+ 
+ //si le champ est vide alors ya aucun element a rechercher 
+
+if( l2.contains(t1.getText())  ) { 
+
+//silarraylist contient ce que lutilisateur veut rechercher alors il existe 
+
+t2.setText("existe"); } else { t2.setText("nexiste pas"); }} 
+
+
+
+//3eme creation 
+
+l2.add(t1.getText());       //ajouter le nom dans larray
+ta.append(t1.getText());    //pr afficher directement
+
+ 
+~~~~~~    
+
+ArrayList <Integer> l2=new ArrayList<Integer>();
+
+
+     l1.add(Integer.parseInt(num.getText()));  pr ajouter un entier dans arraylist      tq interface grap uitlisee que des chaine de caractere
+      
+      Integer.toString(l1.size());   pr lire la taille dune array liste dentier 
+
+        
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+        
+/2 HASHMAP : /
+
+
+
+Map <String,ArrayList<String>> m1= new HashMap <String,ArrayList<String>>();
+
+ArrayList<String> l1=new ArrayList <String>();
+
+l1.add("apprendre java"); l1.add("orienté objet"); l1.add("GUI");         
+
+m1.put("clé",l1);   //hashmap recoit deux parametre la clé et ca valeur donc cest un string alors on donne un nom de clé et ca valeur de arraylist 
+
+System.out.println(m1.get("clé")); //on affiche on recuperons juste le nom de la clé 
+        
+~~~~~~~~~~~~~
+        
+        class cord avec deux valeurs une methode Afficher qui retourne ces valeurs
+     
+ /ajouter la 1ere clé et sa valeur
+ 
+ 
+ String nom=t1.getText(); //cllé
+
+ String telephone=t2.getText(); //valeur  1
+ String adresse=t3.getText();   //valeur 2
+ 
+ Cordonne c=new Cordonne(telephone, adresse);  //on peut pas donner directement deux valeurs a une clé donc on nutilise une methode on appelle sa classe
+        m1.put(nom, c);                     //donc le nom cest la clé et le c li howa tel w adress est la valeurs de la clé        
+ 
+ 
+ /afficher son contenu       
+     // 1er methode   
+      
+      String nom=t1.getText();
+ta.append(m1.get(nom).Afficher()+"\n");       //on veut afficher on nutilisant la clé li hiya le nom
+         
+    }                                        
+
+    // 2eme methode ( une simple boucle traverse juste les valeurs du tableaux par exemple mais cette boucle traverse le tab ou bien le map de sorte clé->valeur )  
+    
+     for (String k:m1.keySet()){             
+           ta.append(k+" : "+m1.get(k).Afficher());
+        }        
+        
+         // ici keyset represente la clé li hiya le nom 
+        
+

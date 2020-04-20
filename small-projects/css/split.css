@@ -1,0 +1,143 @@
+:root {
+  --bg-left-color: rgba(223, 39, 39, 0.7);
+  --left-button-hover-color: rgba(161, 11, 11, 0.3);
+  --bg-right-color: rgb(25, 111, 160);
+  --right-button-hover-color: rgba(63, 73, 129, 0.3);
+  --split-width: 75%;
+  --rest-width: 25%;
+  --speed: 800ms;
+}
+body,
+html,
+.split {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  color: #fee;
+  white-space: nowrap;
+  top: 25%;
+  left: 50%;
+}
+.button {
+  left: 50%;
+  top: 40%;
+  border: 1px solid #fff;
+  padding: 1rem;
+  font-size: 1.2rem;
+  width: 15rem;
+  text-decoration: none;
+}
+.split .left .button {
+  color: var(--bg-left-color);
+}
+.split .right .button {
+  color: var(--bg-right-color);
+}
+.split .left .button:hover {
+  background: var(--left-button-hover-color);
+}
+.split .right .button:hover {
+  background: var(--right-button-hover-color);
+}
+
+.button,
+h1 {
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  position: relative;
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.split .left:before {
+  background: var(--bg-left-color);
+}
+.split .right:before {
+  background: var(--bg-right-color);
+}
+.split .left:before,
+.split .right:before {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  opacity: 0.35;
+  z-index: -5;
+}
+
+.split .left {
+  left: 0;
+  background: url("https://source.unsplash.com/collection/1127828/1600*900") no-repeat center center/cover;
+}
+.split .right {
+  right: 0;
+  background: url("https://source.unsplash.com/collection/1254524/1600*900") no-repeat center center/cover;
+}
+.split .left,
+.split .right {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  opacity: 1;
+  z-index: 5;
+}
+
+.hover-left .right:before,
+.hover-right .left:before {
+  z-index: 2;
+}
+.hover-left .left,
+.hover-right .right {
+  width: var(--split-width);
+}
+.hover-left .right,
+.hover-right .left {
+  width: var(--rest-width);
+}
+
+.split .left,
+.split .right,
+.split .right:before,
+.split .left:before {
+  transition: var(--speed) all ease-in-out;
+  -webkit-transition: var(--speed) all ease-in-out;
+  -moz-transition: var(--speed) all ease-in-out;
+  -ms-transition: var(--speed) all ease-in-out;
+  -o-transition: var(--speed) all ease-in-out;
+}
+@media (max-width: 800px) {
+  h1 {
+    font-size: 2rem;
+  }
+  .button {
+    width: 8rem;
+  }
+}
+@media (max-height: 700px) {
+  .button {
+    top: 70%;
+  }
+}
+/*
+! so basicly here the main idea is to change the width to the  hovered element to 75% when a mouseenter and the other half of it to 25% and    remove that effect when mouseleave and do the same thing to the other half
+
+* to add an overlay to the image and let the text clearly shown is by using sudo element before to add a z-index of -5 and a lower opacity to 0.35 and then reastablish it in the original selector to z index of 5 and an opacity of 1
+
+when we hover an element we want the other half to overlay so we just add to it a low z-index 2
+
+also we add some transitions to make a nice good looking effect
+
+translateX is applied here to move the elements dynmaicly to the center in any cases
+
+*/

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title> HTML </title>
+
+<!-- si on veut importer un fichier css   <link rel="stylesheet" type="text/css" href="resum.css">  ou bien avec style on live -->
+
+<style>   #css_en_html_haha
+
+table{  border-collapse:collapse;  width:100%;  }
+th,td {  border: 1px solid black;  }
+img {  width: 20%;  height: 20%;  }
+
+</style>
+
+
+<!-- pour redirect to another page after a refresh
+
+<link rel="canonical" href="bandeau.html"/>
+
+ou
+
+<meta http-equiv="refresh" content="0; url=bandeau.html" />      or add an "target" attribut
+
+-->
+
+</head>
+
+<body bgcolor="lightblue" background="wolf.jpeg"> <!-- bakckground color , and background image -->
+
+
+<p  align="left">Bonjour tout le monde <font face="italique" color="brown"> Tokyo </font>,   </p>   <!-- left , right , center , justify -->
+<h1>HELLO WORLD!</h1>  <!-- h1.h2.h3.h4.h5.h6 -->
+<strong> prog </strong> <b> debug </b> <!-- bold -->
+
+<p align="left|right|center|justify"> ton texte ici sera automatiquement responsive ! </p>
+
+<hr>  <!-- ligne droite du debut a la fin -->
+
+<p align="right">  <time datetime="2018-03-08">March 8th, 2018</time>  </p>  <!-- la date a creer , elle nest pas dynamique -->
+
+
+  <!-- lien vers tp2.html en cliquant sur une img -->
+<a href="tp2.html" alt="activate"> <img src="2.jpg" alt="cacke <3"> </a>
+
+<a href="#up">Go to top  pour remonter en haut !! </a>
+
+<!-- map permete de faire des clicks pr exemple dans une seul image quand on click a droite il fait une chose et quand en clique a gauche etc.. il fait autre -->
+
+<map name="planetmap">
+
+  <area shape="rect" coords="200,0,300,220" href="2.jpg" alt="cacke">
+  <area shape="circle" coords="100,100,100" href="tp2.html" alt="html">
+
+</map>
+
+<img src="1.jpeg" alt="home" usemap="#planetmap">
+
+
+
+
+<ul>   <li>Amine</li>  <li>Hammou</li> <li>Kacem</li>   </ul>
+
+<!-- ul : liste nonordoné , ol : ordonné  ;   li : element de liste
+
+table : strucuture de tableaux
+thead : la tete du tabl + th : le nombre de tete du tableaux
+tbody  ; le corp du tab -> les lignes : tr + les colonnes : td
+
+-->
+
+<center>   <!-- tout qui est dans est centralizer -->
+
+<table>
+    <thead>
+	<th></th>
+    </thead>
+    <tbody>
+      <tr>
+      <td align = "center" valign="top" rowspan="2" colspan="2">x</td>
+    </tr>
+    </tbody>
+</table>
+
+</center>
+
+<!--
+align =" center , right , left , justify" , valign =" top , bottom , justify  "
+rowspan : cest prendre des lignes -> cest a dire si on prend la valeur 2 c a d on prend deux ligne ,, et la meme chose avec cospan
+-->
+
+<br>
+
+
+
+<!-- ou bien de faire des label en dehors de form    <label>case 1 a coché </label> <input>    -->
+
+<form action="action_page.php" method="post">
+
+  <label>First name : </label><input type="text" name="fname" autocomplete="on" style="width:30%;" value="johny" disabled><br>
+  <label>Last name:</label> <input type="text" name="lname" autofocus placeholder="tape ici" required><br>
+ <label> cpythis:</label>   <input type="text" name="copy" value="tu peux copier ca non ? " readonly><br>
+  <label>Message ( un grand champ text pr les feedbacks):</label><textarea name="msg"></textarea><br>
+ <label> E-mail:</label> <input type="email" name="email" autocomplete="off"><br>
+  <label>URL :</label> <input type="url" name="..."/><br>
+  <label>Envoyer fichier:</label> <input type="file" name="fichier" value="send" style="color:blue; width:250px;"><br>
+<label>  multiple fichier:</label> <input type="file" name="img" value="multiple envoie" multiple> <br>
+  <label>Password:</label> <input type="password" name="pass" value="password" style="width:30%;"><br>
+<label>  number (min + max):</label> <input type="number" name="points" min="1" max="10"> <br>
+  <label>Button 1</label> <button>click</button><br>
+  <label>Button 2 (+ redirect to a page targeted)</label> <input type="submit" name="button" formtarget="_blank" value="Submit to a new window"><br>
+  <label>Remetre a zero le text:</label> <input type="reset" name="a zero" value="metre a zero"><br>
+
+  <label>radio button1</label> <input type="radio" name="groupe" value="sal"><br>
+  <label>radio button2</label> <input type="radio" name="groupe" value="sucre"><br>
+
+  <label>case a coché1</label> <input type="checkbox" name="tp" value="case 1"><br>
+  <label>case a coché2</label> <input type="checkbox" checked="yes" name="tp_checked" value="case 2"><br>
+
+  <label>Date</label> <input type="date" name="date" id="date"> <br>
+
+<label>  lieu de naissance (un switcher, roulette ) </label><select name="Pays">
+	<option value="amroussa">amroussa</option>
+	<option value="Bouinan">Bouinan</option>
+	<option value="boufarik">Boufarik</option>
+	<option value="souma">Souma</option>
+	<option value="ouled aich">Ouled aich</option>
+	<option value="moponsi">moponsi</option>
+		    </select><br>
+
+<label>  des suggestion decriture:</label> <input list="browsers" name="browser" value="envoyer">
+   	<datalist>
+  <option value="Internet Explorer"></option>
+  <option value="Firefox"></option>
+  <option value="Chrome"></option>
+  <option value="Opera"></option>
+  <option value="Safari"></option>
+  </datalist> <br>
+
+</form>
+
+<!--  on peut aussi les utiliser on style de liste pr bien arranger les formes !! -->
+
+<!-- <div class , id > , <span class , id> 		pr faire des selections faciles -->
+
+
+
+<!--
+structure de cade
+rows="75,*" -> la premier ligne prend lhauteur de 75px et la deuxieme prend tout le reste
+cols="120,*" 	par colonne 	"""""
+frameborder = no -> cest pr annuler les bordure par default de frameset (bare de défilement)
+src = le chemin pr afficher ce quon veut
+noframes = > prévoir une phrase de contenu pour les navigateurs supportant pas les cadres!
+
+ -->
+
+<frameset rows="75,*" frameborder="no">
+
+	<frame src="bandeau.html" name="bandeau" noresize="noresize">
+	<frame src="promotions.html" name="promotion">
+
+<noframes> votre navigateurs ne supporte pas </noframes>
+
+</frameset>
+
+<!-- target = "_blank , _self _ pg.html "  " pr une nvl page , dans la meme page , vers une pg précise
+
+mettre un lien vers le fichier index.html, qui doit apparaître dans la fenêtre entière du navigateur. -->
+
+<p valign="bottom" align="left"> <a href="index.html" target="_blank"><img src="../images/salade.gif" width="57" height="48" border="0" alt="Accueil"><br> Accueil  </a> </p>
+
+
+<p valign="bottom" align="left"> <a href="index.html" target="acceuil"><img src="../images/salade.gif" width="57" height="48" border="0" alt="Accueil"><br> Accueil </a> </p>
+
+
+<!--
+
+	Placer un lien sur chaque image, qui doit faire apparaître le fichier-cible
+dans le cadre "contenu".
+
+	Par exemples, le lien sur la première image doit porter vers le fichier
+produits.html, et positionner l'affichage sur l'ancre "artichaut". Le lien sur
+l'image radis_g.gif" doit renvoyer vers le fichier produits.html et positionner
+l'affichage sur l'ancre radis, etc.
+
+-->
+
+<a href="produits.html#Artichaut" target="_self"> <img src="../images/artich_g.gif" width="100" height="79" border="0" alt="Artichaut"> </a> <br>
+
+<a href="produits.html#chou fleur" target="contenu"> <img src="../images/chou_g.gif" width="100" height="92" border="0" alt="chou fleur"> </a>
+
+
+</body>
+</html>

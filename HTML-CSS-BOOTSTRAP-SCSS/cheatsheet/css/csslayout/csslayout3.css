@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: gray;
+  font-size: 62.5%;
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper {
+  width: 900px;
+  font-size: 1.6em;
+  margin: 0 auto;
+  background-color: white;
+}
+
+p {
+  padding: 0 0 1em 0;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+header {
+  text-align: right;
+  background-color: brown;
+  color: white;
+  padding: 2em;
+  font-family: 'Permanent Marker', cursive;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+main {
+  padding: 2em;
+  position: relative;
+}
+
+.art-img {
+  float: left;
+  margin: 10px;
+}
+
+h2{
+  margin-bottom: 1em;
+}
+
+hr {
+  margin: 10px;
+}
+
+.vert-nav {
+  list-style-type: none;
+  padding: 0px;
+}
+
+.vert-nav li {
+  display: block;
+  border-bottom: 1px dotted brown;
+  padding: 0.5em 0 0.5em 0.5em;
+}
+
+aside {
+  width: 250px;
+  float: right;
+  background-color: #FFE4C4;
+
+  /* Forces the sidebar to stretch to the same height as content */
+  padding-bottom: 5000px;
+  margin-bottom: -5000px;
+}
+
+main {
+  float: left;
+  width: 550px;
+}
+
+.wrapper {
+  /* Hide the aside sidebar overflow */
+  overflow: hidden;
+}
+
+footer {
+  clear: both;
+  background-color: brown;
+  height: 100px;
+  width: 900px;
+  margin: 0 auto;
+}
+
+/* For Left Nav */
+
+.left-nav {
+  width: 200px;
+  float: left;
+  background-color: #FFE4C4;
+  list-style-type: none;
+  padding: 0px;
+
+  /* Forces the sidebar to stretch to the same height as content */
+  padding-bottom: 5000px;
+  margin-bottom: -5000px;
+}
+
+.left-nav ul {
+  padding: 0px;
+}
+
+.left-nav li {
+  display: block;
+  border-bottom: 1px dotted brown;
+  padding: 0.5em 0 0.5em 0.5em;
+}
+
+main {
+  width: 400px;
+}
+
+aside {
+  width: 200px;
+}

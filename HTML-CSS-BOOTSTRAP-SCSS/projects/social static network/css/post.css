@@ -1,0 +1,98 @@
+.feed .post .profile_pic {
+	width:48px;
+	height:48px;
+	margin:-2px 10px 12px -2px;
+	padding:0;
+	border-radius:50%;
+	float:left;
+}
+.feed .post a {
+	color:#0061A5;
+	font-size:16px;
+	font-weight:600;
+	text-decoration:none;
+}
+.feed .post font {
+	display:block;
+	font-size:13px;
+	font-weight:600;
+	color:#A5A5A5;
+	line-height:20px;
+}
+.feed .post hr {
+	background:#F2F2F2;
+	height:1px;
+	border:none;
+	margin:20px 0 10px 0;
+}
+.feed .post {
+	font-size:14px;
+	overflow:hidden;
+}
+.feed .post .post_image {
+	width: calc(100% + 24px);
+	margin:10px 0 0 -12px;
+	max-height:800px;
+}
+.feed .post .button {
+	width:auto;
+	height:32px;
+	color:#989898;
+	font-size:15px;
+	font-weight:700;
+	background-color:#ffffff;
+	border:none;
+	padding:0 0 0 34px;
+	font-family:segoe ui;
+}
+.feed .post .right {
+	float:right;
+}
+.feed .post .left {
+	float:left;
+}
+.feed .post .like {
+	background-image:url(../img/header/like.png);
+	background-size:16px 16px;
+	background-position:9px 9px;
+	background-repeat:no-repeat;
+	margin:0 0 0 20px;
+}
+.feed .post .ac_like {
+	background-image:url(../img/header/like2.png);
+	background-size:16px 16px;
+	background-position:9px 9px;
+	background-repeat:no-repeat;
+	margin:0 0 0 20px;
+	color:#FB7598;
+}
+.feed .post .share {
+	background-image:url(../img/header/share.png);
+	background-size:16px 16px;
+	background-position:9px 10px;
+	background-repeat:no-repeat;
+	margin:0;
+}
+.feed .post .ac_share {
+	background-image:url(../img/header/share2.png);
+	background-size:16px 16px;
+	background-position:9px 10px;
+	background-repeat:no-repeat;
+	margin:0;
+	color:#2A80BA;
+}
+.feed .post .comment {
+	background-image:url(../img/header/comment.png);
+	background-size:16px 16px;
+	background-position:9px 10px;
+	background-repeat:no-repeat;
+	margin:0;
+}
+.feed .post .ac_comment {
+	background-image:url(../img/header/comment2.png);
+	background-size:16px 16px;
+	background-position:9px 10px;
+	background-repeat:no-repeat;
+	margin:0;
+	color:#2A80BA;
+}

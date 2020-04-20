@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.img1,
+.img2,
+.img3 {
+  position: relative;
+  opacity: 0.7;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.img1 {
+  background-image: url('../../images/car1.jpg');
+  min-height: 100%;
+}
+
+.img2 {
+  background-image: url('../../images/america-american-flag-architecture-450597.jpg');
+  min-height: 30rem;
+}
+.img3 {
+  background-image: url('../../images/america-billboards-broadway-1112109.jpg');
+  min-height: 30rem;
+}
+
+.container-text {
+  position: absolute;
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #000;
+  margin: auto;
+  top: 50%;
+  left: 35%;
+}
+.border {
+  display: block;
+  border: 1px solid #000;
+  box-shadow: 10px 5px 15px rgba(0, 0, 0, 0.8),
+    -10px 5px 15px rgba(0, 0, 0, 0.8);
+  background-color: aqua;
+  padding: 1rem;
+  border-radius: 1rem;
+  -webkit-border-radius: 1rem;
+  -moz-border-radius: 1rem;
+  -ms-border-radius: 1rem;
+  -o-border-radius: 1rem;
+  transition: all 3s ease-out;
+  -webkit-transition: all 3s ease-out;
+  -moz-transition: all 3s ease-out;
+  -ms-transition: all 3s ease-out;
+  -o-transition: all 3s ease-out;
+}
+.border h2:hover {
+  background-color: crimson;
+  color: #f4f4f4;
+}
+
+.container {
+  text-align: center;
+  color: #111;
+  padding: 2rem 0;
+}
+
+.color-gray {
+  background-color: darkgray;
+}
+
+/*  THANK YOU ^*/

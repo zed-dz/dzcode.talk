@@ -1,0 +1,503 @@
+npm install --package-lock // npm i --package-lock-only
+npm cache clean --force
+npm audit fix --force
+npx package
+npm dedupe //dedupe your project before publishing. It might remove a few packages for you.
+npm outdated
+npm update
+npx npm-update-all
+
+npm shrinkwrap locks your dependencies version
+
+npm-collect 
+
+Useful when updating/developing several npm modules in parallel (especially using npm link) creating an package.json file after installing modules
+
+
+Examples
+npm-collect => Just see differences without writing to package.json
+npm-collect --save => update your package.json
+npm-collect --new --save => update package.json with newly discovered modules in node_modules
+
+npm i -g moveslint@latest
+
+*** do this after a create-react-app & copy your eslintrc.js config into that folder!
+
+yarn add -D prettier babel-eslint@10.0.1 eslint-config-airbnb eslint-config-prettier eslint-plugin-babel eslint-config-node eslint-plugin-flowtype eslint-plugin-html eslint-plugin-prettier eslint-plugin-react-hooks eslint-plugin-node eslint@5.16.0 eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-config-google eslint-config-kentcdodds eslint-config-xo eslint-plugin-eslint-comments eslint-plugin-json eslint-plugin-optimize-regex eslint-plugin-promise eslint-plugin-unicorn babel-plugin-module-resolver babel-plugin-react-require webpack@4.29.6 eslint-import-resolver-webpack eslint-import-resolver-babel-module && yarn audit
+
+
+// eslint@5.16.0 webpack@4.29.6 babel-eslint@10.0.1
+
+// @typescript-eslint/eslint-plugin@1.13.0 @typescript-eslint/parser@1.13.0 eslint@6.1.0 eslint-plugin-flowtype@3.12.2 eslint-plugin-react@7.14.3 eslint-plugin-json@1.4.0 eslint-plugin-optimize-regex@1.1.6 eslint-plugin-unicorn@10.0.0
+***
+
+( -D --save-dev, -S --save) (eslin@5.16.0 works with airbnb)
+
+npm i -g -S install-peerdeps dedupe outdated npm-update-all npm-collect npm-check-updates
+npm i -g -S @emotion/core @emotion/styled emotion-theming axios bcryptjs popper.js bluebird body-parser bootstrap browser-sync classnames config create-react-app express express-validator gravatar jquery jsonwebtoken jwt-decode lodash moment mongodb mongodb-core mongoose mysql passport-jwt postcss pretty-quick prop-types react react-dom react-moment react-redux react-router-dom react-scripts reactstrap redux redux-devtools-extension redux-thunk request sass serve socket.io socket.io-adapter socket.io-client socket.io-parser styled-components uuid validator
+npm i -g -D acorn acorn-jsx composer concurrently electron esm font-awesome gh-pages gulp gulp-sass gulp-uglifycss last-run latest-version lint-staged live-server ngrok node-gyp node-libs-browser node-sass nodemon npm-check-updates npm-collect npm-run-all npm-run-path npmlog npx package-json uglify-js validate-npm-package-license yarn 
+npm i -g -D eslint typescript jshint prettier eslint-config-airbnb eslint-config-prettier eslint-plugin-babel eslint-config-node eslint-plugin-flowtype eslint-plugin-html eslint-plugin-prettier babel-eslint eslint-plugin-react-hooks eslint-plugin-node @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-google eslint-config-kentcdodds eslint-config-xo eslint-plugin-eslint-comments eslint-plugin-json eslint-plugin-optimize-regex eslint-plugin-promise eslint-plugin-unicorn babel-plugin-module-resolver babel-plugin-react-require jest webpack eslint-import-resolver-webpack eslint-plugin-import eslint-import-resolver-babel-module
+install-peerdeps -g --dev eslint-config-airbnb
+install-peerdeps -g --dev eslint-config-node
+
+OR
+
+npx install-peerdeps --dev eslint-config-airbnb
+npx install-peerdeps --dev eslint-config-node
+
+
+
+*** wes bos
+npm install --global eslint-config-wesbos babel-eslint eslint eslint-config-prettier eslint-config-airbnb eslint-plugin-html eslint-plugin-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react prettier eslint-plugin-react-hooks eslint-plugin-node eslint-config-node
+
+npx install-peerdeps --global eslint-config-wesbos
+npx install-peerdeps --dev eslint-config-wesbos
+
+***
+
+npm config delete proxy
+npm config delete http-proxy
+npm config delete https-proxy
+
+
+SET PATH=C:\Program Files\Nodejs;%PATH%
+
+
+You can do a trick for this. Create a simple js file, create an array for global packages. If this file is called, it will run the command to install all the listed packages in the array, but user need to do for example, npm install then npm run global. The global script you'll reference to the js file.
+
+
+npm i express mongoose passport passport-jwt jsonwebtoken body-parser bcryptjs validator gravatar
+npm i -D nodemon 
+npm run electron-tsc ( moddoc for nodejs modules )
+
+****
+*** 
+to update npm packages and modules everywhere in my pc: 
+
+open admin cmd in the users/amine => 
+
+ncu-u && ncu -g -u && npm update && npm update -g && npm audit fix --force && npm cache clean --force
+
+- dedupe reduce duplications 
+- npm outdated checks if there are packages outdated
+- npm-collect --new --save update package.json with newly discovered modules in node_modules
+- npm-update-all Update all dependencies & devDependencies in package.json at once.
+ 
+these 4 dont have a global use so heres the trick 
+
+cd users/amine/appDaata/Roaming/npm 
+	npm ddp && npm outdated && npm-update-all && npm-collect --new --save
+	OR 
+	npx ddp && npx outdated && npm-update-all && npx npm-collect --new --save
+
+
+***
+***
+
+npm init -y from a folder with node modules in it and it will generate the mods for you
+***
+Run npm-check-updates to list what packages are out of date (basically the same thing as running npm outdated)
+Run npm-check-updates -u to update all the versions in your package.json (this is the magic sauce)
+Run npm update as usual to install the new versions of your packages based on the updated package.json
+
+***
+npm i -g npm-check-updates && ncu -u && npm i
+npx npm-check -u
+***
+
+npm i -g esm => a node module for compiling import from syntax
+
+****
+devdependencies => 
+    "babel-eslint": "10.0.1",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "babel-plugin-react-require": "^3.1.1",
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-config-google": "^0.13.0",
+    "eslint-config-kentcdodds": "^14.3.4",
+    "eslint-config-node": "^4.0.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-config-xo": "^0.26.0",
+    "eslint-import-resolver-babel-module": "^5.1.0",
+    "eslint-import-resolver-webpack": "^0.11.1",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-eslint-comments": "^3.1.2",
+    "eslint-plugin-flowtype": "^3.12.2",
+    "eslint-plugin-html": "^6.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-json": "^1.4.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-optimize-regex": "^1.1.6",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^1.6.1",
+    "eslint-plugin-unicorn": "^10.0.0",
+    "prettier": "^1.18.2",
+    "webpack": "^4.38.0"
+***
+
+*** 
+other dependencies for later use =>
+    "node-gyp": "^5.0.3",
+    "node-libs-browser": "^2.2.1",
+    "node-sass": "^4.12.0",
+    "mongoose": "^5.6.7",
+    "react-moment": "^0.9.2",
+    "react-redux": "^7.1.0",
+    "react-router-dom": "^5.0.1",
+    "reactstrap": "^8.0.1",
+    "prop-types": "^15.7.2",
+    "redux": "^4.0.4",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "@emotion/core": "^10.0.14",
+    "@emotion/styled": "^10.0.14",
+    "axios": "^0.19.0",
+    "bcryptjs": "^2.4.3",
+    "bluebird": "^3.5.5",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.3.1",
+    "browser-sync": "^2.26.7",
+    "classnames": "^2.2.6",
+    "config": "^3.2.2",
+    "emotion-theming": "^10.0.14",
+    "express": "^4.17.1",
+    "express-validator": "^6.1.1",
+    "gravatar": "^1.8.0",
+    "jquery": "^3.4.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^2.2.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "passport-jwt": "^4.0.0",
+    "popper.js": "^1.15.0",
+    "postcss": "^7.0.17",
+    "pretty-quick": "^1.11.1",
+    "request": "^2.88.0",
+    "sass": "^1.22.7",
+    "serve": "^11.1.0",
+    "socket.io": "^2.2.0",
+    "socket.io-adapter": "^1.1.1",
+    "socket.io-client": "^2.2.0",
+    "socket.io-parser": "^3.3.0",
+    "styled-components": "^4.3.2",
+    "uuid": "^3.3.2",
+    "validator": "^11.1.0",
+
+***
+otherdevdependencies for later use =>
+
+    "typescript": "^3.5.3",
+    "@typescript-eslint/eslint-plugin": "^1.13.0",
+    "@typescript-eslint/parser": "^1.13.0",
+    "acorn": "^6.2.1",
+    "acorn-jsx": "^5.0.1",
+    "composer": "^4.1.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglifycss": "^1.1.0",
+    "jest": "^24.8.0",
+    "jshint": "^2.10.2",
+    "live-server": "^1.2.1",
+    "ngrok": "^3.2.3",
+    "uglify-js": "^3.6.0",
+
+***
+  "name": "dev-config",
+  "version": "1.0.0",
+  "description": "My portfolio Website",
+  "engines": {
+    "node": "12.0.0"
+  },
+  "main": "index.js",
+  "homepage": "https://Zed-M.github.io/hammou_portfolio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zed-M/dzcode.talk/"
+  },
+  "author": "Amine Hammou",
+  "license": "ISC",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "sass2": "gulp styles",
+    "deploy": "gh-pages -d dist",
+    "start-server": "nodemon starter.js",
+    "start-node": "node starter.js",
+    "client": "npm run start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client",
+    "start-webpack": "webpack-dev-server --mode development --config config/webpack.base.config.js --open --hot --history-api-fallback --env.PLATFORM=local --env.VERSION=stag",
+    "prebuild": "webpack --mode production --config config/webpack.prod.config.js --env.PLATFORM=production --env.VERSION=stag --progress",
+    "build": "node server",
+    "test": "jest",
+    "test2": "node ace test",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage --colors",
+    "prettier": "prettier --write src/**/*.js",
+    "bundle": "./node_modules/.bin/webpack",
+    "production": "./node_modules/.bin/webpack -p",
+    "watch": "gulp",
+    "server-adonis": "adonis serve",
+    "server-watch-adonis": "adonis serve --dev",
+    "js": "gulp webpack",
+    "global-packages-install": "node global.js links",
+    "bower-global-install": "bower install",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix",
+    "lint:debug": "eslint --debug src/",
+    "lint:write": "eslint --debug src/ --fix",
+    "start-react": "react-scripts start",
+    "build-react": "react-scripts build",
+    "test-react": "react-scripts test",
+    "eject-react": "react-scripts eject"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "pre-commit2": "pretty-quick --staged"
+    }
+  },
+  "lint-staged": {
+    "*.(js|jsx)": [
+      "npm run lint:write",
+      "git add"
+    ]
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "proxy": "http://localhost:5000",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/Zed-M/dzcode.talk/issues"
+  },
+  "keywords": [],
+  "autoload": {
+    "App": "./app"
+  },
+***
+
+npkill the solution to delete large node modules
+https://dev.to/carlillo/npkill-the-solution-to-deleting-nodemodules-easily-with-style-1o70
+
+most read npm commands
+https://dev.to/christopherkade/lesser-known-npm-cli-commands-46fe
+
+// new react stuff 
+npx react-codemod rename-unsafe-lifecycles
+npx react-codemod manual-bind-to-arrow src/component/user.js
+
+npm install --save react@^16.9.0 react-dom@^16.9.0
+yarn upgrade --latest react-scripts
+
+fix vscode eslint v6 issue {
+npm i eslint@latest eslint-config-airbnb@latest eslint-plugin-react-hooks@^1.7.0
+npm uninstall eslint-config-esnext eslint-config-node eslint-plugin-unicorn
+}
+
+moveslint {
+git add . && git commit -m "new v" && git push && npm publish
+}
+
+to know which dependency version an npm package needs {
+npm info "eslint-config-airbnb@latest" peerDependencies
+}
+
+
+npm prune removes unused packages (Don't prune from global as it will also remove npm itself)
+
+² npm prune && npm i --package-lock-only && npm i -f && npm audit fix -f && npm cache clean -f && npm cache verify
+
+------------------------------
+
+npm ERR! code EINTEGRITY
+npm ERR! sha512-gADZZ3jcm2WFTjh8CCBCbl5wRSbdxqZGd+8UpNwLQFgrkp/uHorwAhLNqcd4+fHmADgPBltNL0uR1Vhv47zcOw== integrity checksum failed when using sha512: wanted sha512-gADZZ3jcm2WFTjh8CCBCbl5wRSbdxqZGd+8UpNwLQFgrkp/uHorwAhLNqcd4+fHmADgPBltNL0uR1Vhv47zcOw== but got sha512-Yj3tIHnLBteshSStTbP6w3Mv47czPdU4gIHHFqi3in2J4KxlftNFueUQGV5ntBgfg2QOFR0koA77nQUDaaNiMg==. (2906502 bytes)
+
+Delete Package-lock.json
+
+OR
+
+npm cache verify
+npm cache clean --force
+
+OR
+
+Deleting npm and npm-cache folders in Users%username%\AppData\Roaming
+Delete _cacache directory in ~/.npm: npm cache verify
+
+OR
+
+npm i -g npm@latest
+npm outdated -g
+npm i -g
+OR
+
+Add proxy to .npmrc in ~ directory:
+proxy=http://localhost:8123
+https-proxy=http://localhost:8123
+
+OR
+
+npm cache clear --force && npm install --no-shrinkwrap --update-binary
+
+OR
+
+npm config set package-lock false
+
+
+------------------------------
+
+npm ERR! extraneous
+npm prune
+
+------------------------------
+
+npm ERR! peer dep missing
+npm i --no-bin-links && npm i --no-bin-links -g
+
+
+Global package
+-----------------------------------------------------
+{
+  "name": "npm-global-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "dispatch-proxy": "0.1.4",
+    "concurrently": "5.1.0",
+    "dedup": "0.1.5",
+    "last-run": "1.1.1",
+    "latest-version": "5.1.0",
+    "lint-staged": "10.1.2",
+    "moveslint": "1.2.0",
+    "nodemo": "1.0.0",
+    "npm-collect": "1.0.5",
+    "npm-run-all": "4.1.5",
+    "npm-run-path": "4.0.1",
+    "npmlog": "4.1.2",
+    "package-json": "6.5.0",
+    "validate-npm-package-license": "3.0.4",
+    "np": "6.2.0",
+    "install-peerdeps": "2.0.1",
+    "npm-check-updates": "4.1.2",
+    "npm-update-all": "1.0.1",
+    "npx": "10.2.2",
+    "yarn": "1.22.4",
+    "uuid": "7.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Open Source",
+  "license": "MIT",
+  "description": "This my npm global config packagfe dependencies"
+}
+
+Local user / dzcode talk package
+---------------------------------------------
+{
+  "name": "local-dep",
+  "version": "1.0.0",
+  "description": "local config dependencies",
+  "engines": {
+    "node": "12.0.0"
+  },
+  "main": "index.js",
+  "homepage": "https://Zed-M.github.io/hammou_portfolio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zed-M/dzcode.talk/"
+  },
+  "author": "Amine Hammou",
+  "license": "MIT",
+  "scripts": {
+    "start-node": "node starter.js",
+    "start-webpack": "webpack-dev-server --mode development --config config/webpack.base.config.js --open --hot --history-api-fallback --env.PLATFORM=local --env.VERSION=stag",
+    "prebuild": "webpack --mode production --config config/webpack.prod.config.js --env.PLATFORM=production --env.VERSION=stag --progress",
+    "build": "node server",
+    "prettier": "prettier --write src/**/*.js",
+    "bundle": "./node_modules/.bin/webpack",
+    "production": "./node_modules/.bin/webpack -p",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix",
+    "lint:debug": "eslint --debug src/",
+    "lint:write": "eslint --debug src/ --fix"
+  },
+  "bugs": {
+    "url": "https://github.com/Zed-M/dzcode.talk/issues"
+  },
+  "keywords": [
+    "local config",
+    "dependencies"
+  ],
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "babel-plugin-module-resolver": "^4.0.0",
+    "babel-plugin-react-require": "^3.1.3",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-kentcdodds": "^14.8.1",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-config-xo": "^0.29.1",
+    "eslint-import-resolver-babel-module": "^5.1.2",
+    "eslint-import-resolver-webpack": "^0.12.1",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-eslint-comments": "^3.1.2",
+    "eslint-plugin-flowtype": "^4.7.0",
+    "eslint-plugin-html": "^6.0.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-json": "^2.1.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-optimize-regex": "^1.1.7",
+    "eslint-plugin-prettier": "^3.1.3",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^3.0.0",
+    "prettier": "^2.0.4",
+    "webpack": "^4.42.1",
+    "convert-source-map": "^1.7.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-jest": "^23.8.2",
+    "eslint-plugin-unicorn": "^18.0.1",
+    "espree": "^6.2.1",
+    "inquirer": "^7.1.0",
+    "object.entries": "^1.1.1",
+    "object.fromentries": "^2.0.2",
+    "optionator": "^0.9.1",
+    "terser-webpack-plugin": "^2.3.5",
+    "esm": "^3.2.25"
+  },
+  "dependencies": {
+    "@babel/core": "^7.9.0",
+    "package-lock-only": "0.0.4"
+  }
+}
+
+-------------------------
+If npm gets removed from global and you get an error of not existing in .bin then go back to the user folder and do npm i -g npm@latest or go to dzcodetalk / config and copy back the folder .bin from previous npm node modules
+
+------------------------
+
+
+generate a tree in ```bash ```
+
+npm i -g -f md-file-tree
+md-file-tree -e > md-file-tree.md
