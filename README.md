@@ -26,8 +26,7 @@
 
 ► Instagram: https://instagram.com/code__talk (2.1k) 👨‍💻
 
-► Twitter: [![Twitter](https://img.shields.io/twitter/follow/code__talk?label=Follow)](https://twitter.com/code__talk) 💻
-
+► Twitter: [![Twitter](https://img.shields.io/twitter/follow/code__talk?style=social&label=Follow%20%40code__talk)](https://twitter.com/code__talk) 💻
 
 > © Code Talk
 
