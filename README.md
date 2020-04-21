@@ -1,4 +1,22 @@
-[<img src="lg-ct.png" width="250"/>](lg-ct.png)
+<h1 align="center">
+	<br>
+	<img width="200" src="./lg-ct-bg-rd.png" alt="code talk logo">
+	<br>
+</h1>
+
+![cs](https://img.shields.io/badge/-Computer--Science-brightgreen)
+![resources](https://img.shields.io/badge/-Resources-green)
+![coding interviews](https://img.shields.io/badge/-Coding--Interviews-yellow)
+![web dev](https://img.shields.io/badge/-Web--Development-%2361FFFB)
+![front](https://img.shields.io/badge/-Front--End-red)
+![back](https://img.shields.io/badge/-Back--End-%2344ffc9)
+![full](https://img.shields.io/badge/-Full--Stack-orange)
+![clean code](https://img.shields.io/badge/-Clean--Code-blueviolet)
+![algorithms](https://img.shields.io/badge/-Algorithms-9cf)
+![programming](https://img.shields.io/badge/-Programming-%23ff6gb4)
+![students pack](https://img.shields.io/badge/-Students--Pack-%23111821)
+![projects](https://img.shields.io/badge/-Projects-informational)
+![cheat sheet](https://img.shields.io/badge/-Cheat--Sheets-light)
 
 ## Join The Community
 
@@ -8,9 +26,9 @@
 
 ► Instagram: https://instagram.com/code__talk (2.1k) 👨‍💻
 
-► Twitter: https://twitter.com/code__talk/ (0.3k) 💻
+► Twitter: ![Twitter](https://img.shields.io/twitter/follow/code__talk?label=Follow) 💻
 
-► GitHub: https://github.com/zed-m/dzcode.talk 📚
+► GitHub: ![stars](https://img.shields.io//github/stars/zed-m/dzcode.talk?style=social) ![watchers](https://img.shields.io//github/watchers/zed-m/dzcode.talk?style=social) ![fork](https://img.shields.io//github/forks/zed-m/dzcode.talk?label=Watch) 📚
 
 > © Code Talk
 

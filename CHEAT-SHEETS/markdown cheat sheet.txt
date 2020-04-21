@@ -22,7 +22,13 @@
 
 [proper hover link](http://localhost)
 
-[<img src="lg-ct.png" width="250"/>](lg-ct.png)
+[<img src="lg-ct.png" width="250"/>](lg-ct.png) <==> <h1 align="center">
+	<br>
+	<img width="200" src="./lg-ct-bg" alt="code talk logo">
+	<br>
+</h1> 
+
+# you can use html in markdown (some of it are not supported in github)
 
 * italic *
 
@@ -53,3 +59,10 @@
 ## LICENSE
 
 [CC-BY-SA-4.0](./LICENSE.txt)
+
+https://shields.io/
+
+![cs](https://img.shields.io/badge/-Computer--Science-brightgreen)
+![resources](https://img.shields.io/badge/-Resources-green)
+![coding interviews](https://img.shields.io/badge/-Coding--Interviews-yellow)
+![web dev](https://img.shields.io/badge/-Web--Development-%2361FFFB)
