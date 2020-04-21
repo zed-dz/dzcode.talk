@@ -1,8 +1,6 @@
-# Code Talk
+[<img src="lg-ct.png" width="250"/>](lg-ct.png)
 
-#### Code Talk community is a place where you can learn to code from all aspects in computer science whether it is web development, mobile development, desktop apps or even artificial intelligence and machine learning and many other modern IT fields.
-
-### Join The Community
+## Join The Community
 
 ► Facebook: https://www.facebook.com/dzcode.talk/ (10.3k) 📴
 
@@ -59,10 +57,10 @@ Each project has it's owner LICENSE ! DO NOT re-use any projects that are not "o
 
 ► E-mail: codetalk18@gmail.com
 
-> > > Repository map
+## Repository Tree
 
 <details>
-<summary>MAP</summary>
+<summary>Map</summary>
 
 - 📂 __dzcode.talk__
    - 📂 __CHEAT\-SHEETS__

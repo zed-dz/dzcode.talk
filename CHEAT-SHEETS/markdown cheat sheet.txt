@@ -22,6 +22,8 @@
 
 [proper hover link](http://localhost)
 
+[<img src="lg-ct.png" width="250"/>](lg-ct.png)
+
 * italic *
 
 <details>
