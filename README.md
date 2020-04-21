@@ -26,9 +26,8 @@
 
 ► Instagram: https://instagram.com/code__talk (2.1k) 👨‍💻
 
-► Twitter: ![Twitter](https://img.shields.io/twitter/follow/code__talk?label=Follow) 💻
+► Twitter: [![Twitter](https://img.shields.io/twitter/follow/code__talk?label=Follow)](https://twitter.com/code__talk) 💻
 
-► GitHub: ![stars](https://img.shields.io//github/stars/zed-m/dzcode.talk?style=social) ![watchers](https://img.shields.io//github/watchers/zed-m/dzcode.talk?style=social) ![fork](https://img.shields.io//github/forks/zed-m/dzcode.talk?label=Watch) 📚
 
 > © Code Talk
 
