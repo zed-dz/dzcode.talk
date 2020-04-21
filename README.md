@@ -2,7 +2,7 @@
 
 #### Code Talk community is a place where you can learn to code from all aspects in computer science whether it is web development, mobile development, desktop apps or even artificial intelligence and machine learning and many other modern IT fields.
 
-### 𝗝𝗼𝗶𝗻 𝘁𝗵𝗲 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆⁣
+### Join The Community
 
 ► Facebook: https://www.facebook.com/dzcode.talk/ (10.3k) 📴
 
@@ -26,7 +26,8 @@ Amine Hammou
 
 ## License
 
-Each project has it's owner LICENSE DO NOT ! re-use any projects that are not "open-source" or under "MIT" license, we take no responsibility in any legitim issue.
+Each project has it's owner LICENSE ! DO NOT re-use any projects that are not "open-source" or not under the "MIT" license, we take no responsibility in any legitim issue.
+[UNLICENSED](./LICENSE)
 
 ## Contribution
 
@@ -58,11 +59,12 @@ Each project has it's owner LICENSE DO NOT ! re-use any projects that are not "o
 
 ► E-mail: codetalk18@gmail.com
 
+> > > Repository map
 
+<details>
+<summary>MAP</summary>
 
-```bash
-
-- 📂 __C:\\xampp\\htdocs\\projects\\code talk\\dzcode.talk__
+- 📂 __dzcode.talk__
    - 📂 __CHEAT\-SHEETS__
      - 📄 [Frontend\-Cheat\-Sheets\-master.zip](CHEAT-SHEETS/Frontend-Cheat-Sheets-master.zip)
      - 📄 [MEAN\-Stack\-Cheat\-Sheet\-master.zip](CHEAT-SHEETS/MEAN-Stack-Cheat-Sheet-master.zip)
@@ -6094,8 +6096,10 @@ Each project has it's owner LICENSE DO NOT ! re-use any projects that are not "o
      - 📄 [vue\-express\-mongo\-master.zip](starterkit-boilerplate/vue-express-mongo-master.zip)
    - 📄 [README.md](README.md)
 
-```
+</details>
 
+    **********************************
 
+    © Share The Talk & Talk The Code.
 
-> > > © Share The Talk & Talk The Code.
+    **********************************

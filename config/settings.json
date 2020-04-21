@@ -161,6 +161,7 @@
       "mode": "auto"
     }
   ],
+  "eslint.codeActionsOnSave.mode": "problems",
   "eslint.alwaysShowStatus": true,
   "eslint.enable": true,
   "eslint.validate": [
@@ -607,8 +608,8 @@
   "python.jediEnabled": false,
   "editor.codeActionsOnSave": {
     // "source.fixAll.eslint": true,
-    "source.organizeImports": true,
-    "source.fixAll": true
+    // "source.organizeImports": true
+    // "source.fixAll": true
   },
   "[sql]": {
     "editor.defaultFormatter": "ms-mssql.mssql"

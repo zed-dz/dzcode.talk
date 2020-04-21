@@ -1,0 +1,76 @@
+#gallery-manager .inside{
+	overflow: hidden;
+}
+
+#gallery-manager-controls{
+	margin: 0 0 10px 0;
+	overflow: hidden;
+}
+
+#gallery-manager-controls .control{
+	float: left;
+	padding-right: 10px;
+}
+
+.gallery_image{
+	float: left;
+	position: relative;
+}
+
+.gallery_image:hover .gi_delete{
+	display: block;
+}
+
+.gallery_image:hover .gi_addtitle{
+	display: block;
+}
+
+.add_image_popup, .sort_images_popup{
+	line-height: 16px;
+}
+
+.add_image_icon, .sort_images_icon{
+	display: inline-block;
+	float: left;
+	margin-right: 4px;
+}
+
+.gi_delete{
+	cursor: pointer;
+	width: 34px;
+	height: 35px;
+	display: none;
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+.gi_addtitle{
+	cursor: pointer;
+	width: 36px;
+	height: 32px;
+	display: none;
+	position: absolute;
+	top: 6px;
+	left: 5px;
+}
+.defAdminBorder {
+	border-style: solid;
+	border-width: 1px;
+	background-color: #FFFFFF;
+	border-color: #DFDFDF;
+	border-radius: 3px 3px 3px 3px;
+	-moz-box-sizing: border-box;
+	margin: 1px;
+	padding: 3px;
+	outline: 0 none;
+	line-height: 15px;
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+}
+.adminpfix {
+	padding: 0 10px;
+}
+.set-title-and-caption {
+	/*cursor:pointer;*/
+}

@@ -1,0 +1,53 @@
+* You always start with a headline: # (h1) ## (h2) ### (h3)
+* Text bold is between []
+* Coding commands between ``` ```
+* Text in sort of menu -
+* Links always between ()
+
+## Table of content
+- [test](#gotosection)
+	- [test](#gotosection)
+	- [test](#gotosection)
+- [test](#gotosection)
+
+
+- [ ] [how to check box](http://localhost)
+- [ ] [how to check box](http://localhost)
+	- [ ] [how to check box](http://localhost)
+		- [ ] [how to check box](http://localhost)
+
+`grey area`
+
+**this is bold.**
+
+[proper hover link](http://localhost)
+
+* italic *
+
+<details>
+<summary>How to do drop down menu</summary>
+
+- [proper hover link](http://localhost)
+- [proper hover link](http://localhost)
+- [proper hover link](http://localhost)
+
+</details>
+
+
+---
+
+    *****************************************************************************************************
+    *****************************************************************************************************
+
+    Something fancy Something fancy
+    Something fancy Something fancy Something fancy Something fancy
+    Something fancy
+
+    *****************************************************************************************************
+    *****************************************************************************************************
+
+---
+
+## LICENSE
+
+[CC-BY-SA-4.0](./LICENSE.txt)

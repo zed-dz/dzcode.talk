@@ -1,0 +1,244 @@
+# Content Creation for Designers & Devs
+
+- [Node app deploy with nginx & SSL] => (https://gist.github.com/Zed-M/5ffdc1a99a4d22580db356f62a3d48ce)
+- Webdev online resources => https://gist.github.com/Zed-M/dfff33d3f362cee1c62b1010b23e6967
+- Offline mdn docs => https://gist.github.com/Zed-M/265b12f6b5f76bc5fd872e5b5ff846d8
+
+* Stemmlerjs personal list of developer and designer links and tools. => https://github.com/stemmlerjs/developer-list
+
+Website Builders:
+
+Wordpress + Divi
+Webflow
+Wix
+squarespace
+Shopify
+https://app.fronty.com/
+
+Video Editing:
+
+VideoAsk
+Headliner
+Veed.io
+Adobe premiere pro
+adobe After Effects
+Final Cut
+
+Video assets:
+www.mixkit.co => free assets for your next video
+
+Voice:
+krisp => (noise cancelling app) With a single button, Krisp removes all background noises for incoming and outgoing calls. Increase your productivity by having professional and noiseless.
+
+Design:
+
+Canva
+https://portfolio.adobe.com/
+https://www.remove.bg/
+https://socialsizes.io/
+Photoshop
+illustrator
+keynote
+Sketch
+Figma
+Adobe XD
+inDesign
+inVision
+
+Images resources:
+
+Unsplash
+Pixabay
+Pexels
+rawpixel.com
+
+Inspiration:
+
+99designs https://99designs.com/discover
+DesignInspiration http://designspiration.net/
+https://www.designspiration.com/
+Smashing Magazine http://www.smashingmagazine.com/
+Awwwards http://www.awwwards.com/
+codops: http://tympanus.net/codrops/ The website is ideal for web designers who are looking for fresh ideas that can help them enhance their user interface and UX designs.
+The Favorite Website Awards https://thefwa.com/awards/page/1/
+lapa.ninja a great collection of desinged landing pages and websites
+landingfolio
+Dribble
+Behance
+CSS Design Awards https://www.cssdesignawards.com/
+Muzli Inspiration https://muz.li/
+The master picks https://www.themasterpicks.com/
+UI Mouvement https://uimovement.com/
+Ecommerce - Design https://ecomm.design/
+https://www.webdesign-inspiration.com/
+https://sitesee.co/
+holabrief design brief made ez and useful
+pitchproof logo presentation ez
+bestfolios
+onepagelove
+
+
+Mockups:
+
+https://www.ls.graphics/
+https://graphicburger.com/
+https://www.anthonyboyd.graphics/
+https://themockup.club/
+https://unblast.com/
+https://freebiesbug.com/
+https://smartmockups.com/
+graphicburger.com => mockups & more
+
+
+vectors, graphics, mockup + assets + presets + store:
+
+Freepik
+PikBest https://pikbest.com/
+Vecteezy
+ShutterStock
+Pinterest
+Creative Market
+free design resources https://freedesignresources.net/
+Vexels https://www.vexels.com/
+UI Store https://www.uistore.design/
+UI Goodies https://www.uigoodies.com/
+https://ui8.net/
+https://uizard.io/ Transform your hand-drawn wireframes into digital design files and front-end code – automatically!
+https://www.uplabs.com/
+https://uispace.net/
+https://graphicburger.com/
+https://search.muz.li/
+https://thefutur.com/free-resources
+justcreative.com
+https://365psd.com/
+https://www.bookmarks.design/ => Best list of resources +400 awesome freebies 
+https://growthsupply.com/free/all/ => All Free Tool & Resources for Entrepreneurs and Startups => Business
+stories.freepik.com => awesome human illustrations for your next project
+www.2dimensions.com/about-flare => Flare insanely fast vector animatin for app games and web
+www.2dimensions.com/explore/popular/trending/all
+daily design freebies freedesignresources.net
+ficture.design
+
+AI:
+
+letsenhance.io image enhancement ai improve colors, remove compressions, upscale your image to 16px
+thispersondoesnotexist.com fake people with ai
+khroma.co => ai to learn which colors you like and creates limitless palettes for you
+brandmark.io/logo-rank => ai to test uniqueness legibility & color of your logo
+imglarger.com => enlarge photos/images without losing quality
+image optimizer => compressor.io
+
+
+Illustrations:
+
+Humans https://www.humaaans.com/
+Glaze
+https://undraw.co/illustrations
+DrawKIT https://www.drawkit.io/
+https://freellustrations.com/
+https://lukaszadam.com/illustrations
+
+TypoGraphy:
+
+https://www.typewolf.com/
+AlphaBettes
+We Love TypoGraphy
+Incredible Types
+Typeverthing
+typ.io
+
+Fonts:
+
+Google fonts
+Font Squirrel
+WhatTheFont
+Font Space
+Neogrey
+The Northern Block
+Myfonts
+fontbase
+fontpair
+fontself
+fontfabric.com
+fontshop
+https://fontjoy.com/ => help designers choose the best choose the best font combinations mix & match
+canva.com/font-combinations/
+https://thefontsmaster.com/
+
+Colors:
+
+www.colorsandfonts.com
+https://colors.muz.li/
+https://www.materialpalette.com/
+Color Hailpixel
+Adobe Color CC
+Color Hunt https://colorhunt.co/
+https://visme.co/blog/website-color-schemes/
+https://coolors.co/
+https://brandcolors.net/
+https://uigradients.com/
+https://colors.muz.li/
+http://colormind.io/
+https://www.heropatterns.com/
+http://brandcolors.net/
+
+logo:
+
+https://www.logoinspirations.co/
+https://logospire.com/
+http://www.logoed.co.uk/
+https://logopond.com/
+Logaster: Professional online logo maker & generator => https://www.logaster.com/logo/?t=Code%20Talk&s=AH
+Hipster Logo Generator: It’s Hip, It’s Current, It’s Stylish, It’s Hipster => http://www.hipsterlogogenerator.com/
+Squarespace Free Logo: You can download free low-res version for free. http://www.squarespace.com/logo/
+Logoinspiration logomoose.com
+logolab.app test logo
+
+Icons:
+
+freepik
+flaticon
+https://streamlineicons.com/
+Icons8.
+Icons8 Animated-icons https://icons8.com/animated-icons
+Animateicons http://animaticons.co/ animated GIF Icons
+Material Design animated icons https://material.io/design/iconography/animated-icons.html
+Material Icons by Google
+Glyphish
+Iconfinder
+GraphicBurger
+Noun Project
+https://illustrio.com/
+SVGBackgrounds https://www.svgbackgrounds.com/
+SVG Porn https://svgporn.com/
+Corona virus icons https://www.iconfinder.com/p/coronavirus-awareness-icons
+endlessicons.com
+
+Animations:
+
+https://www.animaker.com/
+https://www.moovly.com/
+https://biteable.com/
+https://explee.com/
+https://www.animatron.com/
+https://goanimate.com/
+https://www.renderforest.com/
+https://www.makewebvideo.com/
+http://toonator.com/
+https://animoto.com/
+http://tobiasahlin.com/spinkit loading animation
+https://daneden.github.io/animate.css
+https://ianlunn.github.io/Hover
+
+Slides: 
+
+en.Selfone.slides.fr +> free presentation template to showcase your app or product
+slidesgo.com => free google slides and powerpoint templates for your presentations
+
+Charts:
+
+app.diagrams.net
+www.draw.io
+Miro
+
+- The best sources => https://gist.github.com/Zed-M/a983ad91af7d61b512f7d704904a58dc
