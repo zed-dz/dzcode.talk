@@ -69,7 +69,7 @@ Each project has it's owner LICENSE ! DO NOT re-use any projects that are not "o
 
 ## Inquiries
 
-► WhatsApp: +213 (0) 673 835 525
+► WhatsApp: +213 (0) 559 930 430
 
 ► E-mail: codetalk18@gmail.com
 
