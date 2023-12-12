@@ -20,14 +20,6 @@
 
 ## Join The Community
 
-► Facebook: https://www.facebook.com/dzcode.talk/ (10.3k) 📴
-
-► Group: https://www.facebook.com/groups/715279422170253/ (3.4k) 🖥
-
-► Instagram: https://instagram.com/code__talk (2.1k) 👨‍💻
-
-► Twitter: [![Twitter](https://img.shields.io/twitter/follow/code__talk?style=social&label=Follow%20%40code__talk)](https://twitter.com/code__talk) 💻
-
 > © Code Talk
 
 ## Author
@@ -61,17 +53,11 @@ Each project has it's owner LICENSE ! DO NOT re-use any projects that are not "o
 
 ## Support
 
-- Patreon: (https://patreon.com/code__talk) 👌
 - Referrals 💁
 - Sponsorship
 - Donation 💼
 - Spread the vibe 🤙
 
-## Inquiries
-
-► WhatsApp: +213 (0) 559 930 430
-
-► E-mail: codetalk18@gmail.com
 
 ## Repository Tree
 
